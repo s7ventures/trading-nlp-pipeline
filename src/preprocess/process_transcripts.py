@@ -70,7 +70,7 @@ def main():
 
     # Set this to True if you want GPT compression
     # Make sure gpt_compress.py is implemented if set to True
-    USE_GPT = False
+    USE_GPT = True
 
     for file_path in transcript_files:
         process_one_file(file_path, use_gpt=USE_GPT)
