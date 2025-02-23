@@ -1,6 +1,11 @@
-fastapi
-uvicorn
-requests
-numpy
-pandas
+google-api-python-client
+youtube_transcript_api
+pytube
+openai
 langchain
+chroma-client
+pandas
+numpy
+spacy
+regex
+requests
