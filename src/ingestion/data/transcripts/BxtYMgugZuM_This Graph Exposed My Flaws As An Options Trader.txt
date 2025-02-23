@@ -1,0 +1,185 @@
+0.20 - is it normal quick question is it normal
+3.24 - for the SPX to be cheaper than its
+7.00 - corresponding Futures what is the SPX
+9.08 - right now SPX is about uh trading Clos
+13.32 - at 70
+14.76 - 5751 so it's about $50 lower than where
+18.20 - &ps are right now it's about $50 lower
+20.80 - SPX okay so is it normal for the SPX to
+23.52 - be cheaper than it's Futures what do you
+24.96 - think normal normal like Abby normal
+28.44 - they're the exact same thing right
+30.80 - yes so the reality here is that it's
+32.68 - going to depend on interest rates it's
+34.20 - more normal in the past than it has been
+36.88 - recently so it's really just a function
+39.36 - of cost to carry that is correct okay
+41.68 - the cost to carry of the synthetic
+43.60 - equivalent of the stock position that
+45.24 - you would have I agree it is just it is
+47.68 - just about cost to carry let's go next
+49.92 - let's go to the first slide it's a
+51.20 - little heavy here but we thought this
+53.04 - might help people because they're the
+54.28 - exact same product the S&P 500 and the
+56.68 - spies and the and the es but why are
+59.40 - they different in price well the S&P 500
+61.60 - is the most popular index watched by
+63.52 - investors all around the world there are
+64.80 - multiple underlying instruments that
+66.48 - track it closely including the SPX the
+69.64 - spy and the es Futures the SPX and the
+72.72 - es Futures are priced very similar the
+75.12 - fundamental difference is that SPX is a
+77.24 - cash index and cannot be traded whereas
+79.00 - the es represents the Futures Contract
+81.48 - which is tradable okay next slide not
+84.16 - sure what little s smps up on the day
+86.48 - NASDAQ actually up on the day NASDAQ
+88.80 - down on the day by two oh it was just up
+91.36 - as of October 8 basically unchanged on
+93.04 - the overall Mark yeah as of October 8th
+94.64 - es is trading at a premium to SPX
+96.44 - roughly 47 points higher this raises the
+98.72 - question is the es always priced higher
+100.60 - than SPX or is this an outlier event so
+103.56 - why not an outlier event let's let's
+105.04 - throw that it's not an outlier okay so
+106.72 - why does this discrepancy exist if they
+108.64 - both track the same basket of stocks and
+111.48 - let's take a look like we said it's
+113.04 - going to be all about cost to carry next
+114.84 - slide please John the difference
+116.36 - represents the cost to carry priced into
+118.64 - the Futures and dividends which includes
+121.20 - dividends on the S&P 500 stocks and the
+123.60 - interest rate cost to finance the
+125.04 - portfolio for the duration of the
+126.20 - Futures Contract the reason we're doing
+127.80 - this segment is just to point out to you
+129.56 - that there is in the SP there the the
+133.12 - dividends in the SPX the Dividends are
+136.72 - no dividend SPX so let's yeah they're
+138.60 - they're already built in but the but the
+140.84 - equivalent stock position the cost to
+143.24 - carry the equivalent stock position is
+145.16 - not in the es uh's buying some at 121
+149.24 - again back to 121 in the es the the cost
+153.24 - to carry and the interest the the the
+156.16 - cost to carry and the Dividends are
+157.88 - built into to the price of the actual
+159.32 - future in the Spy the cost to carry the
+162.36 - stock and the Dividends are neither of
+164.64 - those are built in let's go next slide
+166.32 - so because the es trades close to the
+168.52 - expected forward value at settlement
+170.92 - date the formula is as follows that's
+173.32 - the S formula and um we we laid the
+176.40 - whole thing out the risk free rate the
+177.60 - dividend yield and the time to maturity
+179.36 - let's go next next slide think about it
+180.84 - if it wasn't factored in there would be
+183.04 - an ARB there this is why there is no ARB
+185.08 - there that formula right there is why
+186.60 - there is no ARB in this play whether es
+189.80 - trades at a discount or premium to SPX
+192.04 - depends on the relationship between
+193.92 - interest rates and the dividend yield
+195.48 - just think about it this way if the
+197.24 - interest rate exceeds the dividend yield
+198.88 - the es will likely trade at a premium on
+200.72 - the other side if the dividend yield is
+203.28 - higher than the interest rate then es
+205.96 - will trade at a discount and right now
+208.20 - the interest rate exceeds the dividend
+210.12 - yield so the es trades at a premium for
+213.04 - the last couple of years the dividend
+215.16 - yield which is like I think it's like
+217.16 - 2.6% or something was higher than
+219.88 - interest rates so the es will trade it a
+222.28 - discount but right now the dividend
+224.08 - yield let's say it's the same 2.5% just
+227.24 - I'm just guessing and the dividend yield
+229.08 - is four then it's going to trade you
+231.64 - know then es will likely trade at a
+233.40 - premium let's go next slide which is
+235.08 - where we are today in the past 30 years
+237.08 - there have been four major periods where
+238.48 - the es was priced higher than the SPX
+242.48 - okay for only four periods in 30 years
+244.80 - let's go next slide good when you see
+246.28 - the visual that way these periods
+247.80 - coincide with times when the Federal
+249.64 - Reserve increased interest rates
+252.20 - confirming that fluctuations in interest
+254.64 - rates play an important role in creating
+256.92 - discrepancies between the es and the SPX
+260.80 - so again when you know this this all
+263.44 - happens when when the when the FED
+266.28 - raises rates and the cost to carry is
+268.88 - greater than the dividend yield that's
+270.80 - when you get the that that kind of
+272.84 - inversion M let's go to the next slide
+275.68 - in June of 2022 the Federal Reserve
+277.92 - announced a shocking 75 basis point rate
+280.44 - hike for the first time in almost three
+281.76 - decades which immediately resulted in an
+284.24 - increase in the es to SPX spread we're
+287.36 - just giving you some examples here again
+289.32 - there's nothing there's nothing here
+290.76 - that's tradable just give me the reason
+292.76 - why yeah there's nothing here that's
+295.76 - necessarily tradeable it's just the
+297.20 - reason why buy back more of that spread
+298.84 - you put on buying back more of the
+302.28 - 7577 yeah yeah those were just some
+304.32 - trades we made the other day just to try
+306.12 - to take advantage of to try to take a
+308.60 - little bit of advantage of crude oil
+310.96 - yeah so when I do that what I do then is
+312.76 - I roll down your calls yeah roll down my
+315.24 - calls to keep my other stuff in line
+317.00 - very Dynamic there s enough let's go to
+319.08 - the next slide so here are the
+320.96 - statistics showing the percentage of
+322.72 - times the es is higher than the SPX
+324.56 - these results are consistent with our
+326.20 - previous discussion however since the
+327.60 - FED has started reducing interest rates
+329.76 - is expected to continue doing so we
+331.44 - might observe a tightening of the spread
+333.84 - in the future so the percent of the time
+335.92 - that the es is higher than the SPF and
+337.52 - again this is not something that's
+338.76 - tradable it's just something so you
+340.40 - understand when you look at the numbers
+342.08 - kind of what's going on for the last 30
+344.04 - years 54% of the time since 2008 25% of
+347.20 - the time but since 2022 85% of the time
+351.04 - because we've been in a rate hike
+352.84 - environment for the last three years um
+355.28 - so just to give you you know I mean if
+357.44 - that helps you know put some context
+359.96 - because what happens is people roll the
+361.40 - futures from one month to the next and
+363.12 - they're why am I paying for this or I
+364.68 - used to do this at a discount or why am
+366.16 - I doing this why am I paying for this
+368.32 - now when I used to do it a discount or
+369.48 - why am I doing this at a discount I used
+370.64 - to pay for it that's all it explains it
+372.40 - let's go to next slide so for takeaways
+374.68 - the es and the SPX both represent the
+376.64 - S&P 500 but they can trade at slightly
+378.76 - different prices due to the cost of of
+380.52 - carry in Futures Trading the gap between
+382.48 - these two prices is influenced by the
+384.08 - relationship between interest rates and
+385.68 - dividend yields however this Gap doesn't
+388.12 - necessarily indicate Arbitrage
+390.36 - opportunities as everything has already
+392.08 - been priced in and if you see interest
+393.76 - rates go back to two and a half and
+395.12 - yields are dividend yields are two and a
+396.80 - half then thing is going to trade
+397.76 - exactly the same price exactly

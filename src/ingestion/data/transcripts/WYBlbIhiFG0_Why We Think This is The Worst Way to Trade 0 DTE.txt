@@ -1,0 +1,197 @@
+0.16 - zero dtes we try to give you a variety
+3.76 - of zero DTE stuff every week um usually
+7.00 - those guys are in the SPX pit so we kind
+9.08 - of think it's fun to do it down there
+10.60 - but um let's have a little fun with this
+13.88 - defending zero DTS the what we decided
+17.28 - to look at today was basically stop
+19.40 - orders and um because we get a lot of
+22.80 - questions and I got a lot of emails just
+24.44 - overnight alone on stop orders
+28.40 - so I mean we'll give it a shot well what
+31.96 - let's do it the the simple bottom line
+34.96 - is if you
+37.52 - combine um stop orders with smart
+40.76 - management you can get away a little bit
+43.04 - with some stops if you just think stops
+45.60 - are going to protect you with no
+47.00 - management you're a dead
+49.12 - man dead man walking so you the stop
+52.84 - order it was was originally looked at at
+56.40 - as um you don't have to look at it
+58.88 - anymore like that you have a stop order
+60.64 - so your work is done really and what
+62.40 - you're saying is your work really isn't
+63.76 - done with a stop
+65.32 - order yeah right like like a stop order
+68.68 - is not is is it's not preventive
+71.08 - medicine in other words a stop order can
+74.52 - complement some smart optimization of
+78.04 - early trade management but a stop order
+80.60 - on its own is not going to make you
+83.00 - money all right in the zero days so
+85.96 - using cheap far the money long options
+88.80 - allows even smaller the opportunity to
+90.60 - sell zero DT premium we have not done a
+93.20 - lot of zero DT premium recently because
+96.60 - um to be fair you know the markets
+99.16 - volatility is low we just haven't done
+100.96 - anything we're record highs y um yeah
+104.32 - but when you buy long Wings they're more
+105.76 - about buying power control than risk
+107.24 - mitigation so stop losses which are
+109.72 - standing orders to exit a trade at at a
+112.00 - certain market price or you could do
+114.44 - stop limit as well um if it if it turns
+118.20 - too far against you are a common
+120.68 - if unreliable tool in the management
+122.96 - mechanics stop orders were big you know
+126.24 - many many many moons ago um if you
+130.04 - noticed on tasty I think ta I think Tony
+133.36 - and I have talked about stop orders
+135.36 - maybe one time a year for the last 14
+137.84 - years and never once have we ever
+140.16 - suggested to use one so it is not part
+143.44 - of what we do period
+146.00 - mhh managing losers is sure to decrease
+148.92 - our percentage of winning trades but how
+151.04 - does it affect our net profitability and
+153.84 - what stop loss levels have performed
+155.36 - best for zero DT trades these are the
+157.72 - questions that a lot of people have
+159.44 - let's take a next let's go to next
+162.04 - slide so we did a study when we looked
+166.52 - at 50 Delta straddles or 30 Delta
+168.80 - strangles at each market open we
+171.16 - explored the effect of the stop loss
+172.92 - order ranging from 25 to 200% of the
+176.16 - initial credit so that means if you sell
+179.28 - something for a dollar you're stopping
+181.64 - yourself out at $125 or
+184.16 - $3 right that's what that means yep yep
+187.72 - um for each stop loss level we
+189.80 - considered with or um we considered with
+193.48 - or with managing winners at 25% of the
+196.48 - initial credit that's our that's really
+198.56 - our Target and that's what our research
+200.08 - shows is essentially
+202.84 - optimal all trades were assumed to be
+206.24 - executed at Mid price um now
+210.32 - the wings cost extra money and stop
+212.44 - orders are less than perfect as far as
+215.28 - you know good fills let's put it that
+217.36 - way let's go to next
+220.84 - slide okay so the first one's the
+223.24 - straddles now we don't sell a lot of
+224.76 - straddles but um you're going to see
+226.92 - first of all that that the win
+228.56 - percentage um on straddles is is a
+231.80 - little bit
+235.88 - iffy um they're kind of low that's why
+238.52 - we don't do a lot of straddles
+240.52 - but if you put your stop loss in at 25%
+242.68 - if you put your stop loss in at 50% or
+245.48 - 100% or 200% you're still all at 50 or
+248.24 - less but the scary part is your average
+250.12 - p&l for all those numbers is negative so
+252.84 - the bottom line basically locking in a
+254.48 - basically locking in a loss when you're
+256.20 - using a stop loss order doing exactly
+258.12 - what it's supposed to do it's giving you
+259.68 - a loss you're locking in a loss these
+263.60 - are all locking and losses every stop
+266.44 - order straddle at 25% 50% 100% or 200%
+270.84 - locked in a loss over time let's go next
+273.72 - slide this is two years worth of data
+276.60 - now if you do the
+278.24 - straddle but you do it side by side with
+280.92 - the 25% profit Target your win
+284.20 - percentage goes from 40 to 60 from 40 to
+288.12 - 70 from 50 to 77 and from 50 to almost
+291.44 - 80 all your pnls turn
+294.88 - positive so the answer to this the
+297.64 - answer to the first question is anybody
+300.48 - that trades zero DTE if you're are going
+303.00 - to use the stop order and and this is
+306.32 - like this is essentially this isn't just
+309.44 - some research this is
+311.04 - groundbreaking research if you're going
+313.72 - to do zero DTS and you think you're
+316.08 - going to make money using stop orders at
+318.56 - certain percentage you're you're you're
+320.64 - off you're just you're not there's no
+323.92 - statistical evidence that anything Works
+326.68 - in that case if you want to make money
+329.16 - Trading zero DTS and you want to use a
+332.52 - stop loss at 25% 50% 100% or
+336.72 - 200% over time you have to have a 25%
+340.32 - profit Target and that's the only way it
+342.84 - makes
+346.20 - money okay so so so you're saying I have
+349.28 - to put
+350.08 - in you're not saying both orders
+353.72 - right what where are you are you saying
+357.04 - putting in both orders like putting in
+358.88 - like a bracket order putting in a a
+361.80 - stop you're you're you have a you you're
+364.96 - buying it you're buying it back for it's
+367.48 - not it's not a it's not a one cancels
+369.16 - the other just you have to manage the
+370.96 - trade so if you're going to put a 25%
+372.64 - stop loss in you have to have a 25%
+375.96 - profit Target
+377.60 - first like like no matter what you
+380.16 - basically have to have a 25% profit
+381.88 - Target across the board yeah across the
+383.72 - board no matter what you
+385.12 - do
+386.76 - okay that's your resting order
+390.64 - let's go to next
+392.92 - slide okay so 30 Delta
+395.56 - strangles it's the exact same thing if
+398.40 - you just use a stop loss order the your
+402.04 - win percentage is like the same 33 41 50
+404.92 - 57 and every single p&l is a
+408.84 - loss go to the next slide Beth if you
+412.56 - add the stop loss in there every single
+415.44 - one is a win and your numbers go up from
+418.76 - 30 something to 62 73 80 and
+425.16 - 86 um it does seem to be an there does
+427.84 - seem to be an
+430.04 - optimal stop loss here on on on around
+433.08 - that 50% doesn't it yeah yeah that seems
+435.84 - like when it when it goes It goes well
+437.92 - against you yeah yeah the optimal stop
+440.12 - loss would probably be between 50 and
+442.00 - 100% but the reality is you have to use
+444.40 - the 25% profit Target in order to make
+446.80 - money right right so don't get greedy
+449.96 - just if you put an order in the zeros
+452.16 - put your profit Target at 25% or 20%
+455.08 - Then you can put your mental stop or
+456.88 - your stop in above
+459.08 - that let's go to next slide makes sense
+462.32 - I got it yeah so the takeaways are
+464.96 - employing stop loss orders to defend Zer
+467.12 - TT premium trades without also managing
+469.76 - the winners was a recipe for failure
+473.20 - when coupled with rapidly taking winners
+477.24 - things got more interesting as with
+479.04 - profit targets the zero DT option
+481.64 - positions seem to benefit from tighter
+483.64 - stoploss orders that's what Tony said
+485.96 - around 50 to 100% rather than 200 um and
+491.04 - with closer to at the money trades
+494.12 - especially performing well when they
+495.60 - closed when closed rapidly win or loss
+498.32 - so while exiting losers brought down the
+500.92 - percentage of winners significantly was
+504.12 - also effective at reducing downside
+506.16 - exposure and left enough profits to more
+508.72 - than cover the puring Wings Bear in mind
+511.20 - that when using stoploss orders that
+513.48 - once triggered they will fill out a
+514.88 - market price which may be worse than
+518.40 - where you set them you can set
+520.48 - marketable limits you can set limit
+522.32 - orders too

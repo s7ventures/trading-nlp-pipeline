@@ -1,0 +1,11 @@
+0.08 - I noticed early in the day that the vix
+1.64 - was higher but the vix one day was lower
+3.84 - how can that be one day implied
+6.24 - volatility versus the monthly implied
+9.20 - volatility with the vix is looking out
+10.88 - 30 days and the one day only cares about
+13.44 - here and now the next couple hours they
+15.28 - really are very independent of one
+17.00 - another on many days you'll find the vix
+18.96 - one day significantly lower if nothing's
+21.52 - going on

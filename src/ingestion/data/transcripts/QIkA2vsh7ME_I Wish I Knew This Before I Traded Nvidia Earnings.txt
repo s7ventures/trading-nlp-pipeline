@@ -1,0 +1,172 @@
+0.24 - what's up everybody Welcome to the life
+2.64 - cycle of a trade the series where we
+5.12 - break down the thought process behind
+7.44 - trade entry trade adjustments and
+10.44 - closing order in this video we are going
+13.32 - to cover an iron
+16.24 - [Music]
+19.60 - Condor all right so Nvidia has earnings
+22.24 - coming up after the close today one of
+23.92 - the biggest stocks biggest names in the
+25.96 - market right now it is basically at
+28.04 - highs here at 145 just couple dollars
+31.28 - off the all-time highs here I currently
+33.80 - don't have a position on in it and I
+35.92 - think it's a perfect trade for an
+37.48 - earnings V crush a little bit of
+39.80 - sideways action um it seems like kind of
+43.04 - the speculation is is Big Move in either
+46.52 - direction I'm going to play for kind of
+48.40 - a nothing burger here so I'm actually
+50.76 - going to go to December and get a little
+53.12 - bit less uh binary kind of profit or
+56.40 - loss here going to December versus the
+59.32 - two-day weekly is going to be obviously
+61.64 - a less instant pain or instant gain type
+64.72 - trade um but will give me some more
+67.16 - management options in the future because
+70.08 - it's not going to move as much and
+72.40 - because volatility is super high here
+74.16 - you got a 61% implied volatility in the
+76.96 - back of about mid-50s you can expect to
+80.60 - see 6 to 10 points of V contraction come
+84.20 - out of this trade into the end of the
+86.68 - week so there's still a very sizable V
+89.32 - contraction here um so I'm going to go
+91.96 - to December I'm going to do just about
+93.76 - the 20 Deltas on either side and uh go
+97.32 - $10 wide on an iron Condor a pretty
+99.92 - standard entry point I'm going to do the
+102.56 - the 130 strike on the downside go to the
+105.32 - 120 uh to define the risk I'm going to
+108.24 - the 22 Delta just like that round number
+110.56 - of 130 on the upside let's seean a
+113.88 - little bit short here we'll go to the
+116.32 - 165 and buy the 175 strikes so you'll
+120.08 - see this trades at right around 1/3 the
+121.88 - width of the strikes $325 26 you got
+125.48 - $600 in Risk we can look at the curve
+128.68 - view which will give us an idea of just
+130.84 - how our risk profile will look like here
+133.56 - this is from uh analyzing uh through the
+137.20 - end of the week here we can move this uh
+140.48 - through through the end of the month
+142.04 - here kind of what our profit potential
+143.68 - is this is is without any sort of V
+146.40 - contraction if we move V couple points
+149.04 - you could see our our profit or loss
+151.76 - widens out here as well if we look at at
+155.00 - expiration so this is b a binary look
+157.48 - this is a look of the profit or loss on
+160.80 - December 20th middle of December here uh
+163.68 - we've got a break even point you know
+166.24 - 125 is and 135 is on the up or 165 is on
+170.88 - the upside so big wide range to hit here
+173.68 - if we get an on movement I expect this
+175.96 - trade to come in1 $150 probably would be
+179.52 - my guess if we get somewhere inside the
+182.16 - expected move which is currently through
+184.12 - the end of the week $11 so if you get a
+186.92 - $5 $6 move in either direction I think
+189.08 - this will be a home run an8 to $10 move
+192.48 - you're probably making 50 60 70 cents
+195.32 - anything greater than that is probably a
+197.44 - marked loss or maybe a scratch depending
+199.64 - on how much volatility comes out so um
+203.08 - we're going to go ahead and Route this
+204.28 - order let's see if we can get a little
+205.64 - bit above the uh mid price here and you
+208.32 - can see markets are moving move
+212.20 - in all right so we got filled there on
+215.08 - the iron Condor
+217.16 - 36 we got price improved by a penny
+219.68 - there on the fill which is nice to see
+221.08 - you got love the high frequency trading
+222.88 - there um you're going to want to stick
+224.40 - around though because we are going to be
+226.12 - managing this position for for sure into
+228.64 - earning so stick around and see what
+230.60 - happens with this
+234.16 - position all right so we've got a
+236.24 - closing order for our Nvidia earnings
+238.48 - trade if you remember we were looking at
+240.08 - Nvidia we did an iron condor in the
+242.56 - December monthly expiration and the key
+245.12 - that we were looking at was volatility
+247.16 - right so we were looking to play an
+249.36 - inside move which we very much had an
+251.28 - inside move I think it was about a a a
+253.60 - $12 expected move or so uh when we were
+256.72 - looking at this yesterday um we can
+259.20 - actually pull up the expected move just
+260.96 - to look at the change from these two
+263.76 - options the aam money options we closed
+265.88 - right around here at 45 so these moved
+268.96 - about $7 and they're marked $4 and
+271.80 - change so right around $12 was the
+274.08 - expected move yesterday I'm just doing
+276.12 - that based on the straddle price
+277.80 - yesterday through the end of the week it
+279.60 - was trading at $12 yesterday which means
+282.12 - that that was roughly the expected move
+284.12 - through the end of the week it's now
+285.76 - trading at $4 so if you sold that
+287.44 - stradle definitely made a lot of money
+289.08 - there anyways we were talking about
+291.40 - volatility the big thing that we were
+292.80 - looking at was this monthly implied
+294.40 - volatility moving in line with the back
+296.72 - months so you can see the back months
+298.48 - are now at 47 we got December at 47 when
+301.56 - we place this trade yesterday if we go
+304.12 - to The View Market snapshots volatility
+306.48 - was right around 60% that's the IV index
+309.52 - which is wrapped around 30day implied
+312.00 - volatility it's a Vic style implied
+314.04 - volatility so we had about a 60% implied
+318.08 - volatility that has come in to a 47%
+321.76 - implied volatility so we got 13 or 14
+324.28 - points of V out of this trade after
+327.60 - earnings and the company of a
+330.20 - non-movement in the in the stock so this
+333.56 - position uh was a home run it was
+336.08 - perfect for what happened here we're
+337.88 - going to go ahead and take the money and
+339.12 - run on this trade which uh worked out
+341.60 - perfectly for us so we're looking at a
+344.92 - 217 or 216 debit depending on where we
+347.76 - get filled here which will put us right
+349.28 - wrapped around a $100 profit overnight
+351.40 - it was a nice little trade here let's
+353.08 - try and get 26 make it an even $100
+355.80 - profit here no fill there move this up
+358.12 - to 217 pH let's go 218 markets are
+361.92 - moving we've had some volatility this
+364.24 - morning in terms of price action
+366.20 - volatility Futures have been whipping
+367.88 - around as
+369.08 - well all right so we're out it took us
+371.44 - to a couple pennies up to get out of
+373.48 - that trade at$
+375.24 - 21997 profit overnight on that trade
+378.16 - again we could look at the um uh IV
+381.64 - index we sold 60% implied volatility
+385.76 - bought it back at
+387.48 - 47.5% implied volatility it's exactly
+389.96 - what you play for the underlying price
+392.56 - basically unchanged I know this looks
+394.52 - like a little bit more than it is this
+396.16 - is just about a dollar in price change
+398.80 - when we look at Ivy rank going from 45
+401.60 - Ivy rank pre- earnings down to 25 so
+404.48 - volatility is relatively low there you
+406.44 - can see we started with basically zero
+408.72 - Delta today we had about zero Delta our
+411.32 - Theta decay of course we had $7 and
+413.84 - change in Theta Decay that is uh now the
+417.76 - same $7 or so but has come out
+420.12 - significantly in in the extrinsic value
+422.84 - so great win a really good example of
+425.40 - implied volatility and how much
+426.92 - volatility comes in after an earnings
+429.76 - report

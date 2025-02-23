@@ -1,0 +1,240 @@
+0.04 - when you do zero days um we recently had
+3.24 - a rising star on that was doing a lot of
+6.00 - zero day trades and then he did a bunch
+8.32 - of like weekly options and some monthly
+10.76 - options against the zero days and a lot
+13.72 - of people wrote into us like hundreds of
+15.32 - thousands of people watched the videos
+16.72 - and they wrote into to us about
+19.04 - um uh you know different different
+22.36 - mechanics that he was using and we
+23.72 - decided to do a little piece of research
+25.68 - because we got so many emails on the
+28.04 - wings so it's it's
+30.92 - $120,000 Vic to sell a one lot triangle
+33.92 - in the SPX on a zero day okay just so
+36.20 - give you some context 120 grand for a
+39.04 - one day Zero DTE that you're holding for
+41.76 - trying to make you know a few dollars so
+44.00 - it's not really a um it's not really
+46.48 - efficient use of capital so so people
+49.28 - buy wings and by buying Wings you take
+51.48 - the $120,000 down to a couple thousand
+53.72 - bucks right so buying the wings makes
+56.28 - sense it reduces your um it's just
+60.12 - Capital efficient there's nothing else
+61.24 - to it it's not a risk thing it's a
+63.08 - capital efficiency thing so we've looked
+65.08 - at a bunch of different things like how
+66.32 - far out should would buy the wings um
+69.12 - and should we do the wings in the zero
+70.64 - day where they're just going to where
+72.08 - they're going to rip or should we do the
+73.68 - wings longer dated seven days should we
+75.44 - do the wings 30 days out should we do
+77.76 - the wings at what particular strike you
+79.48 - know just to just to how how wide should
+81.72 - they be just to be the
+83.36 - most um mechanical and optimize the
+86.96 - wings as best we can so that's what this
+90.68 - segment is today long dated wings for
+93.28 - zero DTS how far out should we go to
+96.56 - lose the less the least amount of theta
+99.84 - and to give ourselves kind of to
+101.44 - optimize the trade so so it's not the
+104.44 - most Capital efficient way but it's very
+106.72 - Capital efficient and yet it optimizes
+109.00 - our our premium risk so undefined risk
+111.44 - trades have higher probabilities of
+113.52 - profit and upside potential and similar
+116.12 - toine RIS strategies so placing these
+118.76 - trades in zero DTS however is
+120.52 - Impractical because of the regulatory
+122.28 - buying power requirement minimums for
+125.44 - the spot price and the strikes but
+127.72 - neglect time until expiration because of
+130.48 - this we've been exploring using very
+132.48 - cheap zero DT options to turn our zero
+136.24 - DT strategies into wide iron Condors but
+139.40 - instead of purchasing the wings that are
+141.80 - likely to lose all their value in the
+143.88 - zeros what if we use longer dated
+146.44 - options to form what we call short-term
+149.40 - diagonal or effectively Vic we used to
+152.00 - call this like a strangle swap same
+153.60 - thing right we're we're selling a front
+156.40 - month strangle we're buying a back month
+157.96 - strangle to Define our risk but really
+160.72 - for Capital efficiency selling a front
+162.80 - month strangle buying a back month
+163.88 - strangle you can call it you can call
+165.96 - the um Double D call whatever you want
+168.16 - it doesn't matter it's a strangle swap
+170.28 - let's go to next slide it's all done for
+173.04 - Capital efficiency so we did a 2-year
+175.44 - study using the zero DT SPX options at
+179.12 - the market open we sold 20 30 and 40
+181.64 - Delta strangles and we paired them with
+183.92 - the 30 DTE so going out one month and
+187.08 - instead of going to the expected move
+188.68 - like we've done in the past which showed
+190.08 - to be very effective we went to 510 and
+193.04 - 15 Delta options rather than the
+195.60 - expected move We examined either closing
+198.28 - the strangles if they reached 25% of Max
+200.72 - profit or simply leaving them on to
+202.44 - expiration the wings were sold back just
+204.76 - before the close so we closed everything
+207.24 - out there's no holding the wings here a
+209.32 - lot of people like to hold the wings
+211.52 - just because you know they then they
+213.24 - could put the trade on tomorrow they
+214.20 - don't have to get in and out we computed
+216.12 - The Net Daily performance including the
+217.64 - wings in the guts and the resulting
+219.32 - buying Powers noting that the averages
+221.00 - of the wings um occasionally but but
+224.56 - they were sold for you know less than
+226.76 - cost all the trades were assumed to be
+229.12 - done at Mid price um let's go to the
+232.20 - next slide and we'll see some of the
+234.84 - results so this is our preferred
+238.40 - strangle Vic this is the 20 Delta short
+240.92 - strikes this is kind of where we live
+243.32 - and if you go the key thing here is if
+245.52 - you go your p&l per day with a 25%
+248.56 - profit Target including all the losses
+250.36 - that you carry forward and everything
+251.56 - else what's nice about this is that you
+255.76 - make money using the 15 the 10 and the
+259.60 - five Delta long strikes but without
+262.72 - management meaning you don't take your
+264.92 - profits 25% you lose money no matter
+266.68 - what you
+267.68 - do the average daily p&l is still a
+272.52 - positive number and the average Wing
+275.28 - cost per day we're just putting it up
+276.84 - there about 40 bucks a
+278.60 - day so why is this relevant um it is
+283.24 - because it shows you how important it is
+285.44 - to manage your trades
+287.48 - early it's all about managing your
+289.36 - trades early that's all it is you know
+291.92 - 90% of the time your trades work if you
+293.76 - do this it's all about managing trades
+295.72 - early let's go to next slide
+300.20 - so if you go to the 30 Delta you make
+301.72 - more money because you take more risk
+303.60 - you're you're you would argue here that
+305.48 - your p&l per day losses without
+307.72 - management isn't that much worse and you
+310.04 - make over double the money so this
+312.40 - becomes attractive your wing cost is the
+314.44 - same so this actually becomes not bad at
+317.12 - 30 Deltas so cons absolutely
+320.48 - consideration and if you go to the next
+321.72 - slide Beth it's a 40 Delta and if you go
+324.84 - to the 40 Deltas here you make even more
+326.68 - money and your loss per day isn't that
+328.68 - bad either so the argument here is it
+331.76 - doesn't matter so much if you do the 20
+334.60 - Delta Which is less risk the 30 Delta
+336.84 - which is kind of in the middle and the
+338.40 - 40 Delta which is a little bit more risk
+340.60 - but the reality of all these you get
+342.36 - paid for taking the additional risk your
+345.44 - average daily p&l is a positive number
+348.24 - your wing cost stays the same no matter
+350.24 - what and you can pick your poison but
+352.32 - the whole key here is managing a
+355.12 - 25% that is your entire key that is you
+358.96 - know that's the whole
+362.04 - game anything jump off the screen at
+365.52 - you no no I mean I guess the you I have
+371.36 - a I have a the question would be more on
+373.88 - like data availability so it's a
+375.24 - two-year study and over the last two
+377.00 - years every every 10 it's a twoyear
+379.20 - study using data every 10 minutes zeros
+382.56 - and in the last two years VA has been
+384.64 - relatively constrained yep um so that's
+388.24 - the only it's not even a caveat just
+390.20 - something to just to note that it
+392.16 - informs the last the the
+394.36 - study it has definitely had an impact um
+399.16 - on this study no question about it um
+401.84 - the last two years have been um very
+405.80 - good for zero DTS if you go to the next
+407.64 - slide we'll T tie some of it together so
+410.60 - in the takeaways selling zero DT premium
+413.04 - is just what Vic said especially close
+414.36 - to at the money has been very profitable
+416.84 - over the recent years um if you've taken
+420.52 - profits aggressively and that's because
+422.60 - the market hasn't had a lot of huge
+424.72 - moves selling the naked Zer DT premium
+429.12 - is prohibited for regulatory reasons
+431.36 - however um if you don't buy the wings or
+435.68 - you don't diagonalize it the longer
+437.88 - dated wings were significantly more
+439.48 - expensive than using the zero wings but
+443.08 - much of that expense was recouped when
+445.60 - the position was sold out it only cost
+446.96 - you $40 a day the zeros are much more
+449.08 - expensive than that in total um in total
+453.16 - the costs were similar but the bprs were
+455.76 - higher uh for the diagonals than than
+458.52 - iron
+459.48 - condors and what did they write here
+462.00 - even if um even if it's so much lower
+464.28 - than selling the naked triangles yeah I
+466.04 - mean of course naked strangles are kind
+467.36 - of out of the question um after
+469.32 - exploring a variety of
+471.08 - ways um to control the binding power for
+474.40 - zero DT strangles or zero DT strategies
+477.32 - in general um using very cheap zero DT
+480.76 - options seems to be the most
+482.76 - costeffective way of doing it which is a
+485.76 - market measure we did in the past but if
+487.24 - you wanted to buy the 7 days or 30 days
+491.72 - it's a little bit more expensive it
+493.12 - might give you a little bit more peace
+494.28 - of mind but you can do that as well it
+496.64 - doesn't it doesn't change your
+498.36 - probability of profit at
+500.96 - all let me ask you a question
+504.32 - then knowing seeing that the the 40
+507.52 - Delta is most profitable with the
+509.52 - management would you knowing that you're
+511.92 - preferred is the 20 Delta short strike
+514.28 - would you change your trading to go to
+516.60 - 40 Delta or would you personally stay
+518.68 - with the 20 Delta with the
+521.12 - 25% uh management I I I you know it's
+524.04 - really funny because we Tony and I tend
+526.36 - to use the 25 Delta right between the 20
+528.88 - and 30 it's usually what's ever closest
+531.56 - so like it's easy to sit here and go
+533.12 - we'll use the 20 or the 30 but you have
+535.56 - to kind of see what the premium is when
+537.12 - you get there and if you looked at it
+539.12 - today You' probably go well the 30's got
+541.08 - the most juice relative the 20 is too
+543.20 - cheap so it it really just depends um
+546.68 - we're usually around the TW when we do
+548.24 - it early in the morning we're around the
+549.36 - 25 if we do it the night before we're at
+551.60 - the 20 if we do it a little bit later in
+553.64 - the day we're at the 30 so it really
+554.92 - just
+556.20 - depends we don't do 40s in general but
+560.28 - fig we're we're a little behind here so
+562.24 - I'm gonna we've been playing catchup all
+564.24 - day um we're going to take a short break
+566.96 - Victor sitting in for the bat and Tom
+569.60 - sof he's Victor Jones and tomorrow
+572.08 - you'll have Liz and Jenny it's been a
+573.64 - packed week and Tony will be back on
+576.36 - Monday Scott's up next Vic we'll take a
+578.60 - short break cool

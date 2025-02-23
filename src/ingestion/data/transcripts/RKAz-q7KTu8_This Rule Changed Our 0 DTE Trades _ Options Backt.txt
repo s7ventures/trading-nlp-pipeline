@@ -1,0 +1,204 @@
+0.04 - what we asked the research team to do
+2.32 - was to look at different streaks in Zer
+4.92 - TT trades and I actually put that
+8.24 - question in our research uh then let's
+10.52 - take a look let's go bth let's take a
+11.80 - look nice good for them so the efficient
+14.20 - market hypothesis says that information
+16.92 - from recent Market action should already
+18.60 - be incorporated into current market
+20.96 - prices we believe that despite this we
+25.40 - recently observed that following losing
+28.48 - 45 DT premium position short premium
+31.20 - positions with the long premium position
+33.12 - could improve performance over long
+34.52 - periods just to mess everything up does
+37.72 - this hold up when looking at some of the
+39.44 - most efficient and liquid assets out
+41.60 - there like the zero DT SPX options let's
+45.16 - go to next
+46.52 - slide so we did a study and this time
+49.56 - we're going to 20 months of zero DT
+51.72 - option data We examined the 20 Delta
+54.72 - strangles that short strangles at the
+57.00 - market open with winners Clos at 25% of
+59.24 - the initial price and losers left alone
+61.88 - we examine the results from four
+63.88 - approaches always selling strangles okay
+67.44 - mhm always buying strangles okay okay
+71.60 - following a winning short strangle with
+73.64 - another one but following a losing short
+76.84 - with a long
+78.04 - strangle so we called that you flipping
+80.24 - the cards no no no we're calling that
+82.68 - what worked yesterday oh okay all right
+85.40 - that's fair enough whatever worked
+86.60 - yesterday you do next today okay and
+89.68 - then
+90.44 - the opposite is reversing that just
+91.92 - being contrari okay okay I bet there's
+95.12 - going to be some big swings in this I
+96.44 - haven't seen it let's let's just go
+98.08 - through these one more time so everybody
+99.12 - knows what we're looking at this is fun
+100.76 - oh no no no Beth go back oh Beth you
+103.12 - ruined
+104.96 - everything everything you showed us what
+108.08 - cup the ball was under always selling
+112.92 - when you need them go ahead always
+114.76 - selling strangles always buying
+117.04 - strangles following we're calling this
+119.40 - what we yesterday following short
+121.96 - strangles winning short strangles with
+123.80 - another one or following losing short
+125.96 - strangles with a long strangle so
+127.16 - flipping it over or reversing that and
+130.08 - following winnings with winning short
+132.20 - strangles with a long strangle and win
+135.32 - and losing um and losing long strangles
+139.08 - with a short strangle okay so just the
+141.32 - complete opposite and then all trades it
+144.00 - got out no there no wings on this trade
+145.76 - if you want to do Wings subtract a
+147.12 - little money let's let's next slide and
+150.48 - see where we we ended up okay 20 Delta
+153.84 - short
+155.44 - strangles if all you did was sell
+157.68 - strangles 93% winners and we haven't
+160.64 - done the streaks yet if all the
+163.80 - strangles were bought 66% winners how
+167.80 - could that be the answer is because
+170.36 - remember we're only taking profits of
+171.60 - 25% that's true so you can take a 25%
+174.24 - profit on the short strangle and you can
+175.96 - also make money in the long strangle
+178.20 - potentially later on the day whatever
+179.84 - ever at
+180.68 - 25% so they're doing this
+183.52 - intraday these are zero DTS these are
+185.92 - all zero DTS I no no no but I mean this
+187.52 - flip not flipping the Cards doing
+189.20 - whatever happened yesterday they're
+191.20 - waiting till the day to close and then
+192.44 - doing it right the next day no no
+193.88 - closing at 25% it's not waiting to the
+195.56 - end of the day so whatever if you close
+196.80 - the 25% that you just do got so the next
+198.92 - one is what worked yesterday it's
+200.52 - actually just what worked okay and that
+203.80 - came out at 90% if you did the opposite
+205.60 - it came out at 66% 69% here's the crazy
+208.76 - thing everything got
+211.24 - paid I know but I don't want to put that
+213.48 - message out there that's a that's a
+215.64 - strong that's a strong message you know
+217.16 - what this message is the message is you
+219.00 - got to manage 25% that is the message it
+221.52 - almost doesn't matter what you do if you
+223.08 - manage 25% because short strangles long
+226.40 - strangles flipping over doing whatever
+229.68 - worked yesterday and doing the opposite
+231.60 - of what worked yesterday everything
+233.36 - worked crazy that's we need start
+235.36 - trading more more zero days which I've
+237.00 - told you in the past
+240.52 - okay let's go to the next
+244.32 - slide so here now we get into a little
+247.24 - bit different choosing high probability
+249.68 - trades means mostly seeing winners with
+253.00 - a few losers sprinkled in but how
+255.92 - frequently do we get a winner every day
+258.08 - of the week more importantly how often
+261.44 - do losers follow
+263.96 - losers so next we're going to look at
+266.04 - how frequently our short and long
+268.32 - positions with managed
+270.76 - winners acred one two or
+274.56 - three or more consecutive winning
+278.76 - days and that's kind of a weird way to
+281.48 - look at it but let's have short and long
+283.48 - positions with managed winners occurred
+285.92 - one two three yeah how often do losers
+288.28 - follow Lo how often do losers follow
+291.12 - losers follow
+292.96 - losers and we're doing what worked
+295.16 - yesterday and it's another how often do
+296.88 - winners follow because this is streaks
+299.12 - okay so we're going to look at these and
+300.76 - and crewing them consecutive days let's
+302.68 - go to next slide
+304.16 - be okay so this slide here because it's
+307.20 - the hell am I looking at here okay it's
+308.84 - hard to look at but the top says short
+311.88 - strangles right
+313.64 - Beth yes Tom okay and in the left
+317.72 - hand um because I can't read it from
+320.04 - where I'm sitting says frequency says
+322.08 - frequency and the bottom consecutive
+325.28 - winners okay so the left side says
+328.40 - frequency and the bottom access
+332.96 - says consistent winners maybe
+336.24 - consecutive winners consecutive I
+337.76 - couldn't see it thank you that's pretty
+339.72 - impressive in the short
+342.00 - strangle
+343.68 - um you definitely take more risk oh I
+346.64 - got it it's on my screen now perfect so
+349.84 - cons uh short
+351.48 - strangles the frequency and then the
+353.60 - consecutive winners yeah that's a that's
+355.52 - a very interesting way to look at this
+359.20 - and
+360.16 - you take more risk because you're short
+361.96 - the strangles and so you get this pretty
+365.52 - impressive reward let's go to the next
+368.52 - slide now this one is long
+373.16 - strangles very different but it's still
+377.96 - positive okay and you can see the
+380.56 - frequency and you can see the
+382.24 - consecutive winners basically what this
+384.64 - is saying is that regardless of the
+387.88 - strategy you select if as long as you
+390.36 - manage early because these are all
+392.40 - managed early you're going to be in the
+393.60 - fight you're going to be in the fight
+395.28 - yep exactly yep you're going to be in
+396.96 - the fight at if you go to the next slide
+398.88 - for nearly the past two years let's see
+401.64 - if they come up with the same thing that
+403.12 - we came up with zero DT strangles trade
+405.72 - at the market opening have been
+406.84 - profitable for retail Traders short
+409.36 - strangles were more frequently
+411.56 - profitable with nearly 50% of two we
+415.00 - periods being 10 out of 10 winners let's
+418.52 - go back to slides for a second
+420.92 - Beth these are short strangles and you
+423.92 - can see
+426.08 - frequency let's see where is 50% yeah
+428.72 - you can see that's kind of like right at
+430.52 - the mid access and these are these are
+434.56 - like 10 out of 10 winners you can see
+437.16 - that and so go back to the last slide
+439.64 - seven out of
+441.12 - seven um so for short strangles they're
+444.44 - more frequently profitable with nearly
+446.92 - 50% of the twoe periods being 10 out 10
+448.80 - winners long strangles on the other
+452.04 - hand that's that one perfect go back to
+455.92 - the last slide long strangles on the
+457.68 - other hand rarely went a week without a
+459.76 - loss but had far gentler bad losses as
+463.64 - me measured by siar so whichever side
+466.68 - you took as long as you're willing to
+469.00 - capture profits
+470.56 - rapidly net profits were surprisingly
+473.32 - close that's exactly what that was our
+475.24 - same observation as long as you're
+477.32 - willing to capture profits so it looks
+479.60 - like everything falls apart if you hold
+481.68 - everything too long when genius fails
+484.00 - yes think something going to happen it's
+486.40 - going to reverse it's going to do this
+487.92 - when you try to squeeze everything yes
+491.20 - very good

@@ -1,0 +1,126 @@
+0.08 - we're doing something today called
+1.80 - evaluating Vega what we're going to look
+4.04 - at is theoretical versus realize risk
+5.92 - I'm G tell you where we're going with
+6.76 - this in a second Vega measures the
+9.12 - change in an options value when implied
+10.64 - volatility goes up by 1% so most of our
+14.44 - trades are short Vega meaning that we
+18.04 - want implied vola to go down in order
+19.72 - for us to profit we just sell pre we're
+21.28 - just premium
+22.32 - sellers um a bigger Vega means that we
+25.96 - have more theoretical opportunity from
+27.76 - IV contraction but also more theoretical
+29.72 - risk
+30.72 - from IV expansion so the most common
+33.40 - pure short volatility trade that we use
+35.68 - is is a strangle the Delta of a strangle
+37.60 - determines how much vager risk there is
+39.92 - the larger the Delta the more risk or
+41.64 - opportunity we have from an implied
+43.28 - volatility move bigger the credits more
+45.16 - money we can make it's more of the
+46.24 - credits less money we make but higher
+48.88 - probability of profit is there a Delta
+50.92 - that we can get the most amount of
+52.52 - theoretical opportunity with the least
+54.64 - amount of realized risk in other words
+56.96 - how do we optimize this trade that's a
+58.60 - question um
+60.60 - how would we op is there a Delta where
+63.04 - we can get the most amount of
+64.84 - theoretical opportunity with the least
+67.00 - amount of realized risk 27 and a half
+70.12 - you're going to go to the 27 and a half
+71.32 - Delta I'm going to give you a hint can
+72.72 - you want a hint it's closer to 50 I'm
+74.56 - going to give you a hint go ahead it's a
+76.72 - trick
+78.96 - question ah it's going to be closer to
+81.40 - 50 I'm gonna say 27 and a half is closer
+83.44 - to 50 I don't care about you H it's a
+85.20 - trick question I don't care okay so is
+88.08 - there a Delta where we can get the most
+89.68 - amount amount of theoretical opportunity
+92.04 - with the least amount of real the
+93.36 - options are perfectly priced there's
+94.64 - probably going to be no theoretical
+95.88 - anything
+96.88 - buto so we did a study four uh 2014 to
+101.44 - present 10 years 45 days to expiration
+104.00 - we looked at 16 20 30 and 40 Deltas we
+106.72 - observed the historical volatility of
+108.44 - p&l with manag in 21 days and the
+110.68 - current Vega in the Feb 21st cycle
+113.56 - theoretical risk award forward and then
+115.80 - closest to 45 days so we're just looking
+118.28 - at everything mhm let's go next
+120.96 - Slide the first one so we said with
+124.04 - higher Delta strangles we get higher
+126.28 - theoretical risk opportunity for Vega
+128.72 - but also higher realized risk so wi
+131.68 - Delta maximizes the Vega opportunity
+134.32 - while minimizing the actual risk in Cur
+138.00 - and so we look down below we see at 16
+140.92 - Deltas we have um a smaller Vega there
+144.40 - have smaller volatility risk because the
+145.68 - strikes are wider and we have a smaller
+148.92 - volatility of p&l which means we also
+150.68 - make less money at 20 Deltas goes up a
+152.60 - little at 30 delt goes up a little more
+154.16 - at 40 delt goes up a little bit more and
+156.84 - correspondingly the volatility of the
+158.44 - p&l the risk goes up accordingly they
+160.16 - almost look about three times as much
+162.04 - across the board there I don't think
+163.24 - there's anything you can pull pull
+164.48 - across I mean it be really hard to look
+166.08 - at those numbers and see that there's an
+167.40 - advantage anywhere right okay so what
+170.36 - we're going to do is we're going to go
+171.16 - to the next slide and here we're going
+172.40 - to say no matter how wide our strikes
+175.32 - are the amount of Vega we are short per
+177.68 - unit of historical risk is virtually the
+180.84 - exact same this suggests that historical
+183.76 - realized risk and theoretical risk
+186.32 - opportunity increase proportionately
+188.68 - with Delta what's so interesting about
+190.84 - this is you look at spy you go all the
+192.96 - way back to 2005 the realized risk per
+195.72 - unit of theoretical risk that's Vega
+199.44 - plus volatility of p&l is the same
+202.04 - across the board regardless of what
+204.32 - strike you use what this is suggesting
+206.88 - is what Tony just said a minute ago
+209.12 - which is options are so are priced so
+212.36 - theoretically perfectly and they scale
+214.96 - across symmetrically across all the
+216.92 - different strikes that it doesn't matter
+220.00 - what strike you necessarily use right
+223.00 - now it it might for probability of
+224.84 - profit of course it might for the amount
+226.96 - of risk that you want to take but when
+229.16 - we talk about the theoretical risk
+231.64 - versus the opportunity it's exactly the
+234.20 - same across the board it's a good way of
+235.76 - putting it nicely done 16 20 30 and 40
+239.84 - Deltas are all the same so for takeaways
+242.32 - Vega is a Greek that can be used as a
+244.24 - proxy for theoretical risk reward When
+246.88 - comparing the Vega to the realized risk
+249.32 - we see that the ratio of Vega to realize
+251.32 - risk is the same no matter what strangle
+254.00 - you sell this suggests that theoretical
+256.32 - risk reward and actual risk and the
+259.08 - actual risk incurred are direct directly
+262.36 - proportional what's so interesting about
+264.48 - this is it essentially says you know
+266.76 - what do whatever pop choose whatever
+269.40 - strikes you want based on the pop you
+270.92 - want that's your probability profit how
+272.48 - much you want to manage things like that
+274.12 - but your theoretical risk reward and
+276.92 - your actual risk are direct directly
+280.64 - proportional

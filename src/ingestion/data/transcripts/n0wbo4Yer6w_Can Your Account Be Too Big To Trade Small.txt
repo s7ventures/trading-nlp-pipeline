@@ -1,0 +1,22 @@
+0.12 - I can see how trading small and often
+2.12 - works for a small portfolio but as I
+4.12 - continue to increase the size of my
+5.68 - portfolio the ability to trade small and
+7.92 - often becomes increasingly difficult
+10.16 - because the total number of Trades I
+11.56 - need to get to an appropriate amount of
+13.64 - capital use gets to be a little crazy
+15.64 - how can this issue be managed better
+17.48 - while minimizing variance I trade small
+20.64 - and I trade often and I trade a large
+22.68 - account you learn how to manage your
+25.20 - Capital what that means is you learn
+27.52 - that sometimes it's better to have more
+29.40 - positions on and sometimes it's better
+31.88 - to increase the size of your positions
+33.76 - or use more Capital than you would
+35.64 - normally do on certain positions you
+37.68 - know you do one SPX strangle and you
+41.00 - just used
+42.28 - $120,000 yeah yeah like it is not that
+45.44 - difficult to ramp up your size

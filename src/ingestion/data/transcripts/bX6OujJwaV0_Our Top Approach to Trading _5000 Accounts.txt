@@ -1,0 +1,211 @@
+0.20 - optimizing Wing width and buying power
+3.00 - when aiming to gain exposure to a
+4.84 - particular underlying and limit and the
+6.40 - limiting factor is the buying power
+7.64 - requirement of the trade so expensive
+9.92 - underlyings are tradable with virtually
+11.60 - any account size one of the things that
+13.52 - I always tell people I love about
+15.00 - options in general and one of the
+17.20 - reasons they're so popular now and
+19.16 - they're the fastest growing of all the
+20.56 - financial products is
+23.20 - because in the world of finance things
+25.44 - are expensive now you know like stocks
+27.68 - that used to be you know how tradable
+29.68 - are is Tesla $350 for most people 100
+33.40 - Shar
+34.64 - $35,000 how tradable is you know is is
+39.32 - snow at 100 I'm just looking at my
+40.84 - screen you know and every stock is crazy
+44.12 - expensive now even you know even if you
+46.36 - wanted to buy United Airlines it's
+48.08 - $10,000 to buy 100 shares you know so
+52.64 - one of the things that options have done
+54.12 - is they've made financial
+56.12 - markets in in light of the fact that the
+58.44 - financial markets are significant ific L
+60.40 - higher than they were a couple of years
+62.52 - ago they've made financial markets
+64.84 - accessible to anybody because option
+67.36 - strategies allow you to trade a $200
+69.48 - stock a $500 stock thousand stock with a
+72.16 - couple hundred dollars I'm not they put
+74.52 - they put it in they put it in the reach
+75.72 - of everyone yeah I'm not talking about
+77.44 - buying out of the money calls I'm
+79.24 - talking about you know you can do an at
+80.36 - the money spread there's no $5 spread
+83.44 - that's at the money that you can't do
+84.84 - for $2.50 or 250 bucks right there's
+88.32 - literally not one if you you buy an at
+90.44 - the money spread in any underlying where
+92.72 - you're one strike in the money one
+93.96 - strike out of the money you're going to
+95.40 - be 10 cents around $2.50 risk one to
+98.56 - make one that's it so you can basically
+101.92 - buy any trade any single stock you want
+103.68 - in the world up or down you can buy an
+105.92 - at the money put spread or an at the
+107.08 - money call spread for $2.50 so you risk
+109.64 - $2.50 to make $2.50 with a 50-50 shot
+114.12 - that puts everything in play for
+116.36 - everybody so this study aims to address
+119.16 - the question
+120.40 - how can we optimize buying power
+122.00 - requirements for different types of
+123.20 - neutral strategies with different Wing
+125.64 - widths sounds a little heavy but it's
+127.68 - not let's go next
+131.04 - slide
+133.04 - 2014 to 2024 10 years of research 45
+137.56 - days to expiration manag to 21 days we
+140.24 - compared the average buying power for
+141.80 - multiple underlying um a multiple
+144.36 - underlying price upon entry for the
+145.92 - following
+146.92 - positions 10 16 20 and 30 Delta Les and
+150.24 - iron Condors with 16 Delta short strikes
+152.56 - and long wings of 510 and 13 Deltas so
+156.32 - we're all over the place here let's go
+158.12 - next slide we have every Delta
+161.08 - covered so for shorts strangles the
+163.28 - average buying power um the average
+166.08 - buying power to underlying price Rao
+167.88 - ranged from 19 to 23 meaning that these
+170.52 - strategies would roughly require 11,000
+173.48 - to
+174.52 - 13,500 in buying power if the Spy is
+177.16 - trading for $600 regardless of of what
+181.00 - Delta you chose okay so um just as an
+185.88 - example because we're talking about how
+187.08 - much money so the average buying power
+189.20 - as a result of price you know it just
+192.44 - we're just talking about the Delta vers
+194.60 - the price just so you can put some
+196.32 - context runs so how much does it cost to
+198.36 - do one strangle whether it's 10 Deltas
+200.60 - 16 Deltas 20 Deltas or 30 Deltas it's
+203.20 - between 11,000 and
+204.84 - 13,000 okay just because the price is so
+207.60 - expensive of those underlyings let's go
+209.84 - next
+211.36 - slide so the varing Deltas of these
+214.68 - strategies had a fairly small impact on
+216.24 - the buying power requirements of the
+217.32 - trade meaning the strangles with
+219.08 - expensive underlyings are generally
+220.76 - unsuitable for smaller accounts because
+222.84 - even if you go further out of the money
+223.96 - you still have to put up the same amount
+224.96 - of money within reason so however in
+228.36 - terms of risk with a strangle when you
+230.56 - widen the wings it reduces your buffer
+232.36 - against extreme losses so a higher ratio
+235.64 - indicates a more secure risk profile you
+239.40 - know
+240.64 - that that's it all it's saying is if you
+242.44 - go wider you just got much wider Break
+244.44 - Even losses okay so that's your buying
+247.32 - power divided by your worst loss but if
+250.24 - you go to the next
+252.60 - slide where we're going to look at iron
+254.52 - condors and remember this is 10 years of
+256.76 - data from 2014 to 2024 these are selling
+260.32 - a 16 Delta short and buying the 510 and
+264.28 - 13 Delta wings so comparatively iron
+267.44 - Condors with the same underlying have
+269.40 - sign ific lower buying power
+271.48 - requirements um one time to 22 times
+275.56 - less depending on the long wings so an
+278.00 - iron Condor would require between $600
+281.36 - and 4700 in buying power if the Spy was
+284.40 - trading at the same price 600 bucks to
+287.24 - make it more appropriate for expensive
+289.44 - underlyings and smaller accounts so you
+291.92 - can see here I mean forget about the 136
+294.80 - because that's really narrow but you can
+296.64 - see with the other ones you know it's
+299.24 - again
+300.32 - it's a fraction of what it would cost
+302.44 - for a um for a wide strangle or you know
+308.04 - a a it's a fraction of what it across
+311.00 - for a 16 delt
+312.68 - triangle um anyway so you can kind of
+315.32 - see the average buying power as a
+317.60 - percent uh divided by underlying price
+319.56 - is eight times three times than one time
+321.80 - depending on how wide we make the wing
+323.20 - so it's between 600 and
+326.80 - $4,700 hopefully that makes sense yeah
+330.12 - for sure yeah and the the strangle is 22
+332.40 - times so just to put things into
+336.48 - context
+338.12 - um let's go to the next
+342.72 - slide so the choice of long Delta for an
+345.24 - iron Condor also has a marger much
+346.84 - larger impact on buying power of the
+348.40 - trade compared to the choice of short
+350.88 - Delta for the strangle what we learned
+353.40 - from the first slide was if you choose a
+355.00 - different Delta for the strangle it can
+357.16 - vary a little bit but not much more than
+359.00 - like 10% % but if you choose a different
+362.12 - strike for the iron Condor it could vary
+365.88 - as much as
+368.08 - 500% you know or actually higher than
+370.92 - that even
+373.00 - 600% so this makes it a fairly versatile
+376.44 - strategy the iron Condor offering a high
+379.12 - pop high probabil high pop high buying
+381.76 - power profiles for larger accounts in a
+383.92 - lower pop lower browing profiles lower
+387.32 - buying power reduction profiles for
+388.84 - smaller accounts
+390.72 - the widening of the Wings and iron condr
+392.60 - becomes the strike price distances
+394.72 - offering a larger profit range but
+397.76 - reducing the premium collected and
+399.48 - thereby decreasing the buffer
+402.60 - significantly there's nothing to take
+405.16 - away from this other than risk is very
+408.16 - symmetrical when it comes to options and
+411.80 - sometimes the amount of money you have
+413.92 - will dictate your price
+415.76 - selection sometimes the amount of risk
+417.88 - you want to take will dictate your price
+419.76 - selection but sure especially for for
+423.16 - larger accounts you have a lot more
+424.88 - optionality or flexibility for smaller
+427.64 - accounts sometimes you just have to do
+430.00 - what you are capable of doing based on
+431.52 - the amount of money that you have so
+433.56 - sometimes that's the restrictive part of
+435.24 - smaller accounts you're not
+437.36 - disadvantaged in any way but you just
+439.72 - have limitations as to what you can
+442.64 - do let's go to last slide last one yep
+447.00 - so expensive underlyings are tradable
+449.36 - with with virtually any account size but
+452.08 - the appropriate strategy is going to
+453.32 - depend on the total buying power of a
+454.72 - portfolio you don't want to get much
+456.56 - bigger then you know if it's Define risk
+460.24 - I'm going to say 1 to 3% unless it's a
+463.24 - small account then you know 5 to 7% if
+465.88 - it's undefined risk 3 to 5% a larger
+468.56 - account and um you know five to seven
+473.56 - five to 10% a smaller account just be
+475.88 - careful keep those numbers as low as you
+477.60 - can think as as you can try te as low as
+480.44 - you can strangles with expensive
+483.40 - underlyings are generally unsuitable for
+485.04 - smaller accounts regardless of Delta as
+487.12 - we showed you don't save a lot by
+488.72 - widening the strikes and comparatively
+491.08 - the buying power requirements for iron
+492.32 - Condors are very sensitive to wing withd
+494.92 - and they offer a high pop high buying
+497.12 - power requirement for larger accounts
+499.52 - and a lower pop lower buying power
+501.80 - requirements for smaller accounts

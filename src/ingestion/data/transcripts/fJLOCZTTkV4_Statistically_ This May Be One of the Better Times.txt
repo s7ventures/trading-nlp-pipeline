@@ -1,0 +1,156 @@
+0.08 - profit targets by Delta zero DT options
+3.76 - this is in our zero DT series uh but
+6.28 - given the speed the number of zero DT
+8.00 - trades maintaining high probability
+9.48 - mechanics can be the key for Success we
+12.56 - asked the research team to say how do
+14.48 - you select the right profit Target for
+16.20 - zero DTS because that's the big question
+18.08 - we get how do you select the right
+20.40 - profit Target 18 months worth of data um
+23.28 - we looked at everything from 50 Delta
+26.12 - strangles I'm sorry 50 Delta straddles
+28.84 - sell both the far out of the money 10
+30.64 - Delta strikes this this study has a
+33.44 - gazillion pages of research you can't go
+35.88 - through it all but you're going to um
+37.68 - we'll get to a spot which is really
+39.32 - interesting we considered um
+42.08 - hypothetical traders who would leave
+43.92 - losing positions alone and close winners
+46.28 - until using profit targets from 10 to
+49.08 - 45% of the credit all trades were
+51.96 - assumed to exercise or close at the mid
+54.76 - price go to the next side Beth so the
+57.52 - mid price is a little bit you know it's
+59.52 - probably fair so you got to give up like
+60.84 - a nickel or a dime so we wrote on here
+63.24 - subtract $1 to $15 from the daily p&l
+65.52 - values to account for buying power
+67.48 - controlling the long strikes to get
+69.36 - realistic results depending on how much
+70.92 - Capital you commit to your zero DT
+72.56 - positions so basically what they're
+74.16 - saying is if you have to buy the wings
+75.36 - for Capital reasons subtract $10 to $15
+78.00 - a day anyway we looked at the most do
+81.64 - right I mean we looked at the worst 5%
+84.80 - of all outcomes we looked at the average
+86.28 - time of the day central time to close
+88.64 - the trade and we looked at the percent
+90.08 - of profitable trades all right let's do
+92.52 - it let's do it Beth got a lot of stuff
+94.80 - here there's like 10 slides so I'm not
+96.68 - going to go through everything in detail
+98.32 - but the first one we're going to look at
+99.96 - is straddles now straddles the reason
+102.40 - that's selling the put and call at the
+103.92 - money now here's what's important to
+105.60 - knowe and this is really easy for
+107.60 - anybody to see the average time to exit
+110.80 - we got really granular on this thing the
+114.12 - average time to exit if you sold them on
+116.68 - the opening is 10:06 in the morning you
+120.64 - can't ask for more a more more context
+124.52 - than
+125.40 - this 90% win rate you make 60 bucks and
+130.84 - you average at 10 you have average
+132.76 - getting out by 10:06 and
+135.92 - 87% for the 15% profit Target
+140.20 - $116 getting out at 1037 and the last
+143.68 - one was at 84% $117 getting out at 1108
+148.96 - after 1108 everything starts to go
+150.68 - downhill so the whole answer here is
+153.76 - you've got anywhere from an hour to 2
+156.76 - and 1 half hours that's it if you're
+158.76 - selling
+160.00 - straddles that's it that's all you got
+162.08 - you got an hour to two and a half hours
+164.92 - and you're on your own you're Flying
+166.28 - Blind kind of thing that's the best we
+167.56 - can do for you let's go to the next one
+169.68 - we're going to go to strangles and we
+171.48 - start with strangles and you can see the
+172.96 - same kind of thing this is how granular
+174.60 - we got 93
+177.36 - 93% success rate closing at 9:51 in the
+181.12 - morning an hour and a half after the
+183.68 - opening at the 20% profit Target with an
+188.12 - 89% and the best p&l was at um 1040 so 2
+195.36 - hours after the opening the the the
+197.64 - takeaway here is that you've got
+200.96 - between an hour hour and a half and two
+204.32 - hours that's it life's over for the zero
+208.60 - DTE you want the high probability
+211.04 - success you know and we put the actual
+213.32 - times down here everything starts to
+215.12 - fall apart later on in the day let's go
+217.64 - next we always talked about how you know
+219.28 - if these trades work they work early you
+221.04 - should look to get out of them earlier
+222.48 - too as you can see here when you go
+224.76 - start going down to like the 30 Del
+226.28 - strangles the time to exit starts
+228.28 - getting earlier so this is
+231.28 - 946 you know down from 10:08 to to 1056
+236.00 - to
+236.84 - 9946 and all the other times get earlier
+239.56 - now could you stay a little bit longer
+241.04 - make a little bit more money sure but
+243.00 - the bottom line here is we're getting
+244.44 - out early we're not holding anything the
+246.24 - negative numbers are at the 35 45% 50%
+249.64 - profit targets a lot harder a lot harder
+253.04 - to do it's easy to say this right I mean
+255.48 - when you looking at a loss early in the
+257.64 - day and you know that you know you're
+259.04 - kind of behind the eightball at this
+261.04 - point you're like all right what do I do
+262.44 - I know what I'm supposed to do very hard
+264.36 - to pull the trigger at 25 Delta
+266.36 - strangles the 10% profit Target it
+268.32 - didn't really work out that well but the
+269.44 - other one runes all were okay but you
+271.32 - have to get out early again first hour
+273.20 - and a half and we're going to go down to
+274.72 - the 20 Delta strangles this is kind of
+276.36 - the area we live in these are these are
+279.32 - tough and but you're still to make money
+282.60 - you're holding till about 10:30 so what
+284.60 - are we learning from these slides we're
+286.04 - learning kind of the 2hour window this
+289.20 - is our window it's a two-hour window
+291.52 - yeah now I like doing it when the vix
+294.72 - one day is really high cuz I think that
+296.96 - gives you a lot more Edge Let's go to
+299.00 - the next one and this is the 15 Delta
+301.20 - strangles and you can kind of see the
+302.40 - same thing here there's not much money
+304.32 - to be made you got kind of wait a about
+306.16 - two hours um and the win rate's really
+310.00 - high but the losses you know chew up
+312.72 - into those profits and so you know the
+315.20 - win rate's High the win rates in the 90s
+317.32 - so you guys got the kind of the picture
+318.72 - here the close to the money positions
+320.64 - perform best when closed if the short
+323.00 - options reach 20% of Max profit with
+325.08 - short strikes 35 Delta to 20 Delta 25 to
+328.04 - 30% profit targets are better
+329.36 - performance in general the closer to the
+330.96 - at the moneyy was more important to be
+332.80 - willing to get out rapidly well
+334.32 - performing mechanics tended to exit
+337.20 - winning positions between 10 and 11:00
+339.08 - a.m. Central Time the riskier strikes
+341.20 - benefited from safer management while
+343.32 - higher pop short strikes were better off
+345.84 - being allowed to run slightly longer to
+348.12 - collect a larger portion of a smaller
+350.36 - credit the bottom line here is you got
+352.36 - two hours and depending on the strikes
+354.36 - that you select you should set your
+356.24 - expectations around that you're going to
+357.92 - make less money selling further out of
+359.32 - the money options but you're going to
+361.76 - take less risk to

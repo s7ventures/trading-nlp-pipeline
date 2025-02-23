@@ -1,0 +1,265 @@
+0.00 - so yeah this one's going to speed of
+1.36 - profits so this is really look g delving
+3.72 - into the idea of if we choose different
+6.16 - profit targets how long do we wind up
+8.56 - having to stay into trades and so right
+10.44 - how much are we giving up in terms of
+12.28 - Time Versus money right this is sort of
+14.28 - a constant tradeoff in our in our
+16.08 - approach and are just getting some
+17.12 - numbers around
+19.52 - it I'm looking at it so right our our
+23.84 - general approach to retail option
+25.04 - trading is that we want to sell premium
+26.52 - and then manage winners that's sort of
+27.80 - our our most bread and butter technique
+30.08 - around here um and then this raises the
+32.24 - question about how patient do you want
+33.32 - to be on your winners right where where
+34.68 - do you want to set that line and I think
+36.48 - for a long time you know for for a lot
+38.24 - of years we just seted 50% on every
+40.20 - trade no matter what and and walked away
+41.92 - from it and then we got into zeros like
+44.48 - a little you know almost two years ago
+45.88 - now and we discovered that on zeros 50%
+49.00 - was too high of a profit Target it it
+50.88 - was not nearly as as effective to do a
+52.84 - 50% profit Target there as it was to do
+54.40 - something more like 20
+55.88 - 25% um and so this got me to thinking
+58.60 - sort of we've been taking 50% is sort of
+60.84 - just given for so long maybe we should
+63.28 - see what happens if we mix that up a bit
+65.20 - even in looking at 45d DT trades so
+68.40 - let's let's get into it how long have
+69.88 - short premium trades needs to stay in
+71.40 - positions in order to reach different
+73.36 - profit targets yep cool Do It um and
+77.88 - because I want to do a different a
+79.12 - variety of deltas and a variety of
+80.84 - profit targets we're only doing one
+82.12 - underly today it's all it's all going to
+83.64 - be spy options it's all 45 DT strangles
+86.44 - um we're going to do a a sort of a a
+89.08 - look at a bunch of different distances
+90.60 - from the money and a d of different
+92.68 - profit targets and we're going to look
+93.68 - at sort of at a couple of statistics
+95.24 - about that we're going to look at um how
+97.24 - many of them actually reached their
+98.48 - profit Target and then of those that
+101.12 - reached their profit Target so this is
+102.36 - not looking at all the ones that didn't
+104.12 - just what was the average amount of
+105.40 - profit collected um right uh which is
+108.16 - very close to you know what was the
+109.32 - average you know what was the average uh
+111.12 - credit received times the profit Target
+113.40 - um and then what was the the more
+115.68 - interesting fact for me is the what was
+117.28 - the average number of business days that
+118.64 - you had to stay in the position form
+120.24 - management um okay uh right so if we
+124.32 - were getting out at 21 DTE that's like
+126.64 - you know about 20 business days later um
+130.40 - if we're getting out less than that that
+131.72 - means that we were managing earlier if
+132.76 - we're taking longer than that means we
+133.92 - were sort of staying in past that 21 DT
+136.12 - line um and then lastly I just wanted to
+139.00 - pull out the right there's some number
+140.80 - of Trades that never reach their profit
+142.32 - Target but still wind up being winners
+144.72 - at expiration and I wanted to just see
+146.72 - how frequent that is and how that plays
+148.24 - into how far from the money and what
+149.64 - your profit Target was um so that'll be
+152.12 - the last statistic we look at oh yeah so
+154.80 - we can get into it now let look at some
+159.36 - numbers yeah so when we're trading real
+161.68 - close to the money you know these 40 40
+163.04 - Delta strangles um we see that the 50%
+168.00 - profit Target if you do a 25% profit
+170.72 - Target you manage most trades right 84%
+173.40 - of them Reach it and of those that don't
+177.16 - only there's only a 6% right of those
+179.00 - that don't right 10% are just losers and
+181.32 - then 6% wind up being in that winner but
+184.16 - not but didn't reach 25% profit Target
+187.16 - winner right so that's sort of
+188.28 - explaining how those those work out um
+190.64 - right and the average managed profit
+192.16 - scales exactly like you would expect but
+194.24 - the interesting part lies in the sort of
+195.80 - the number of days where at 50% profit
+198.28 - Target wound up being very similar to
+199.80 - getting out at 21 DTE as far as like
+201.68 - when you actually wound up leaving it
+203.04 - that was around when profit profitable
+205.88 - trades managed to reach that if you were
+207.96 - looking for 75% profit Target you were
+209.52 - staying in significantly longer right
+211.24 - you you were in there for essentially
+212.64 - another like almost two weeks MH right
+215.52 - week and a half and yeah and you're and
+217.56 - your profit didn't go up that
+219.92 - substantially either and in fact right
+222.20 - you're not managing that many of those
+223.32 - trades only 35% of the trades reach 75%
+225.76 - top Target in fact much of the
+227.00 - profitability there came from just the
+228.64 - 39% of Trades that that were somewhere
+231.64 - in the middle that were like 50% or 60%
+234.80 - at expiration yeah yeah so I think that
+237.76 - this this slide to me makes it a very
+239.84 - appealing to you sort of a lower profit
+241.28 - Target when trading close to the money
+242.56 - we we'll see that sort of play out as we
+243.88 - go forward that I I think the the the
+246.56 - main takeway for today is an idea that
+248.16 - you can be a little bit more flexible in
+250.12 - your profit Target with the idea of when
+251.52 - you're trading close to the money take
+252.80 - your profits a little bit faster and if
+253.96 - you're trading further out of the money
+255.68 - you can be a little bit more patient um
+257.72 - so yeah let's let's go forward and see
+258.88 - if how that plays out as we look at the
+260.20 - other
+261.60 - strangles so yeah 30 Deltas right so
+263.88 - here we sort of the the our our you know
+266.36 - core position put them on all the time
+268.32 - kind of Trades um and here we see that
+270.48 - 25% profit Target again has this like is
+273.24 - probably too aggressive right you're
+275.72 - managing almost all of them very and
+277.60 - it's very quickly so if if you're
+278.80 - willing to put on new trades all the
+280.00 - time you can do it but you're really
+281.28 - cutting into your profits a lot and
+282.76 - you're essentially all of the losers are
+285.16 - are are getting are getting all of the
+288.40 - win anything that might be a winner ever
+289.84 - is getting managed right only 5% of
+291.44 - Trades are managing to come out that
+292.96 - that middle space um and here right
+295.28 - here's 50% and I think this sort of fits
+297.04 - with why we wound up with 50% as a
+298.68 - profit Target is cuz we were all using
+300.08 - 20 and 30 Delta strangles as our
+301.48 - Baseline when we came up with those
+302.60 - numbers years ago and here I think it's
+304.60 - it's pretty appe here I think the 50%
+306.24 - profit Target one is sort of the most
+307.40 - appealing row of of this column of this
+309.84 - slide um right you're you're in there
+312.20 - for less than less than you know only a
+314.36 - couple of weeks and you might make good
+315.92 - profits so as we move further out you
+317.96 - see that it becomes more extreme and
+319.76 - those 25% profit targets those really
+321.48 - aggressive managements become sort of I
+324.56 - think too aggressive um and but
+327.84 - conversely the the 75% profit Target
+329.96 - start stops looking so bad right um here
+333.00 - in the 20 Delta strangles it's uping I
+334.80 - still think here I'd prefer the 50% uh
+336.92 - profit Target here but you know the 75%
+339.08 - one also has a reasonable uh stat line
+342.28 - you know if you're selling 20 Delta
+343.28 - strangles you can be sort of in that
+344.72 - range is okay um and then when we move
+346.68 - out to the 16 Delta strangle we'll see
+348.20 - that like 50% profit Target is probably
+350.00 - too low actually for a 16 Delta strangle
+352.72 - um as we go let's let's take a look one
+357.00 - more yeah here we are um right because
+359.64 - cuz here we're winding up with this
+360.52 - thing again where
+362.80 - where oh uh the 26 and 22 days are
+366.04 - flipped that is just a
+368.04 - Tipo
+370.40 - okay yeah um I apologize be 10 22 26
+374.08 - which what you me got it right here you
+376.04 - see that right like looking for 75%
+378.44 - profits out of your 16 Dela strangles
+380.64 - doesn't actually make them take that
+382.88 - much longer if they those that reach 50%
+385.48 - profits very frequently also reach 75%
+388.04 - profit not that much later
+390.08 - um and right that's partially because
+391.44 - the credits are so small right that
+392.76 - there's not that much distance to move
+395.08 - um when when you're when you've got a
+396.28 - good position like that but I think that
+397.64 - this is sort of my my like thing that
+399.48 - someone actually might change about
+400.44 - their mechanics going forwards here
+402.32 - having looked at this piece is that if
+404.12 - you're trading real far out of the money
+405.48 - if you're in that sort of 161 Delta
+407.36 - strangle kind of range if you like those
+408.96 - far out of the money trades which is a
+410.80 - valid thing to like you maybe want to be
+412.84 - a little bit more patient with your
+414.16 - profits um you know let them come in a
+416.16 - little bit further before you take them
+417.80 - off uh you know don't wait till
+420.64 - expiration all the time we know that
+421.84 - really blows up your your about risk and
+423.64 - such but you can be a little bit more
+425.44 - patient wait till they get past 50%
+428.12 - right if it's past the 21 Day line maybe
+429.96 - you want to manage it anyway but if
+431.64 - you're still in the first half of the
+433.24 - trade and you've taken in a good profit
+435.48 - you maybe can stay in it a little bit
+437.24 - longer and see if it it mature you know
+438.96 - ripens a bit more for
+440.52 - you yeah it it makes sense oh sorry and
+444.68 - Jacob you think that's because of small
+446.04 - credit you receive on Entry I mean is
+447.68 - that really yeah I think that's I think
+449.36 - that's the primary thing going on right
+450.92 - it's it's smaller credit and it's the
+452.16 - fact that the position was sort of safer
+453.64 - to begin with by bringing out of the
+455.04 - money so you can be a little bit more
+456.72 - patient with letting it letting it come
+458.56 - in for you um makes sense makes sense
+461.92 - right and of course right this is just a
+464.04 - testing of like some fixed points so it
+466.60 - doesn't say where the like real optimal
+468.36 - profit targets would be right maybe it's
+469.76 - like 63% would be the best performing
+471.92 - one I don't know um but this is to give
+474.28 - people you know at home sort of their
+475.52 - ballpark for how they want to adjust in
+477.20 - a more of a qualitative sense of the
+479.08 - further the money you are be a little
+481.08 - bit more patient your profits if you're
+482.24 - trading real close to the money be real
+484.60 - aggressive take those off quickly put
+486.16 - fresh ones on um seems like the the the
+489.36 - real winning strategy from from this
+491.84 - piece totally agree good job good job
+495.20 - yeah we we can go takeways but I think I
+496.40 - have more us y uh more aggressively
+499.40 - capturing winners more reliably Trad
+501.36 - profitable but lower average profits
+502.80 - very straightforward and and intuitive
+505.60 - um because of their smaller initial
+506.88 - credits for the other money positions
+508.08 - were better able to reach larger
+509.56 - portions of their maximum profit um so
+512.12 - while we often default to 50% profit
+514.00 - targets being willing to lower this
+515.72 - further out of the money and and uh or
+518.36 - close to the money and raise it further
+519.96 - out of the money may give you sort of
+521.48 - more consistent nicer results over long
+523.56 - term so I think that's a nice little you
+526.52 - know just little little everyone can
+528.36 - refine their management mechanics every
+530.20 - week around here

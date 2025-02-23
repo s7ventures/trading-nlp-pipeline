@@ -1,0 +1,190 @@
+0.12 - the probability of compounding losses
+3.16 - and IV correlation on the first slide
+5.72 - here we're just going to show the snps
+7.48 - in green and then we're just showing
+9.20 - some other you know we're giving you TLT
+11.40 - and gold and just showing you kind of
+12.84 - like you know how things are all over
+14.92 - the place no no Rhyme or Reason so
+16.72 - here's where we start to get into kind
+18.12 - of the the the guts of this discussion
+21.76 - today and the purpose of the discussion
+25.84 - is really to show you kind of how
+29.24 - important it is is to stay and how
+31.92 - important it is to stay where you're not
+33.84 - where you don't have all your eggs in
+35.08 - the same basket because things tend to
+39.44 - move together especially in down moves
+43.04 - yep so now we never have down moves so
+46.20 - that confuses everybody because we only
+47.68 - go up but someday we might not just go
+50.32 - up and if that happens that's why this
+52.68 - is good research so on average prices
+55.16 - for for snps gold and bonds have a
+59.20 - fairly low positive correlation or they
+61.68 - have a moderate inverse correlation like
+64.08 - bonds and stocks are moderate inverse
+65.88 - correlation gold and stocks have a
+68.36 - moderate positive correlation none of
+70.56 - those are statistically significant you
+72.88 - know negative .29 or Z
+76.32 - or6 those are not those are aren't
+78.84 - anything that's with price with implied
+81.80 - volatility they're moderately correlated
+84.24 - meaning more so than the more so than
+86.16 - price right because Gold Bond
+90.44 - snps you know they have a higher
+92.40 - correlation than price right and um
+97.40 - because fear is not something you know
+100.28 - fear doesn't really know
+102.56 - so so so so that's the first takeaway
+105.72 - let's go next slide and this is the last
+107.44 - like eight years so the next thing we
+108.96 - look at is the trend becomes even more
+110.48 - prominent during unexpected Market
+112.64 - turbulence such as February of a c
+115.44 - February March of a couple years ago so
+117.60 - we went back and we looked at Price back
+119.92 - in 2020 during the pandemic and the gold
+124.04 - price and the TLT price were still you
+127.20 - know there was virtually no correlation
+129.08 - but the implied volatility was much
+131.28 - higher and so meaning that fear in snps
+134.32 - and fear in bonds and fear in gold was
+136.32 - all close to they were all close to the
+138.24 - same what we're going to do is we're
+139.36 - going to use that information to dive
+140.84 - further into this by looking how it how
+143.92 - how lucky it is or How likely it is for
+146.36 - spy strangles and TLT strangles to incur
+148.44 - large losses
+150.68 - simultaneously what happens when things
+152.88 - get ugly so we looked at bonds and we
+155.32 - looked at S&P and we looked at 13 years
+158.28 - we did the typical 16 Delta strangle 45
+160.96 - days to expiration manag 21 days and we
+163.36 - calculated How likely it was for each
+164.76 - strategy to have a loss more than um
+168.24 - half one half X 1X 2x or 3x of the
+172.76 - initial credit so the initial credit
+174.72 - let's say was $5 one half would be you
+178.04 - know 250 one would be 250 50 I'm sorry
+180.76 - one would be $5 and two would be $10 on
+183.48 - top of the original five yep so so that
+187.52 - means like if we sold something at five
+188.92 - we buy back at $750 $10 or you know 2x
+191.92 - would be
+192.84 - 20 given that the Spy strangle
+197.52 - losses um were more we calculate the
+201.72 - probability that TLT losses would have
+204.24 - would also be more for each of the
+206.52 - losses listed above let's take a look
+208.44 - the probability of a loss worse then so
+211.44 - again this is where it gets kind of
+212.88 - really interesting TLT strangles tend to
+215.96 - reach two to three times losses more
+217.52 - often than spy strangles since their
+219.44 - initial credit tends to be lower however
+222.12 - overall it's fairly rare for spy and
+225.44 - ttlt losses there strangles to incur
+228.68 - losses particularly large ones so for
+231.52 - example spy strangles and TLT strangles
+233.40 - have lost more than 2x the initial
+235.52 - credit 6 and 9% of the time respectively
+238.80 - which is quite small what we showed here
+242.28 - is the probability of a loss worse you
+245.28 - know worse than one half one half the
+249.16 - time one half the credit or one time the
+251.40 - credit is something that is I don't know
+255.32 - fairly manageable sure sure fairly
+258.24 - manageable for sure I mean if you're
+261.24 - winning a high percentage of the time
+263.36 - and losing you know you sell something
+265.52 - for $5 you have to buy it back for $10
+268.24 - it's and it's only10 or 133% of the time
+270.80 - it's not that bad or at least I wouldn't
+272.20 - think it's that bad however the
+275.04 - conditional probability of a loss of a
+277.48 - 2X loss is much higher let's see what
+279.80 - that means given that the Spy strangle
+281.88 - incurred a loss worse than two times
+284.64 - initial loss the Spy strangle also had a
+286.60 - loss worse than 2x nearly 30% of the
+289.88 - time so what they're saying is that that
+293.48 - together H that was not not that good so
+297.04 - not ideal no I wouldn't say that was
+298.84 - ideal Additionally the more severe the
+301.20 - loss of the Spy strangle the more likely
+303.28 - it was for the TLT strangle to have a
+305.88 - similar large loss by
+308.68 - expiration so the probability of a TLT
+312.80 - strangle loss worse than
+315.20 - a worse than the the original loss given
+318.96 - the Spy loss was worse than the original
+321.92 - loss um projection was actually a little
+326.36 - higher than we thought it was almost it
+329.52 - was 27% just under 30% so as an
+334.16 - individual stock it was like 133% but
+337.68 - together was like 27% okay that's that's
+341.04 - kind of high all right let's see where
+343.20 - they're going with this I think they're
+345.52 - I think the takeaway is that that you
+348.96 - need to stay small in order to protect
+351.92 - yourself but let's
+353.72 - see let's go next slide so this trend is
+357.00 - due to the fact that both these
+357.92 - underlyings tend to become more volatile
+360.20 - when the um when Market volatility is
+363.28 - higher as a result simultaneous large
+366.00 - losses are more likely when the market
+368.12 - becomes more
+369.24 - volatile this is why position size
+371.64 - management is so important I think
+373.80 - that's a good point so on the takeaway
+376.40 - slide what what the team is saying is
+378.32 - that implied voles across different
+379.76 - underlyings show stronger positive
+381.88 - correlations than their prices
+383.88 - especially during Market sell-offs
+386.00 - highlighting the limits of
+387.08 - diversification in protecting short
+388.76 - option portfolio from broad volatility
+391.32 - spikes so diversification alone cannot
+393.96 - Shield against market-wide volatility
+396.16 - expansions that affect multiple
+398.16 - positions simultaneously that's why
+400.40 - there's sometimes you just look at your
+401.52 - positions you're like oh crap you know
+404.08 - there's like kind of nothing everything
+405.40 - everything seems to move in tandem
+406.96 - anyway now it might move to a little
+408.68 - lesser degree something might be up 1%
+410.60 - something might only be up a quarter
+411.96 - percent I mean it's very hard to find
+414.24 - yeah that that unicorn of a of a you
+417.48 - know uncorrelated portfolio so in a
+420.56 - study while large losses on spy and TLT
+423.16 - were rare a significant loss in spy
+426.04 - often coincided with a similar loss in
+428.08 - TLT even though they weren't correlated
+430.76 - right particularly though as Market
+432.36 - volatility increased again and here's
+435.12 - the biggest takeaway to this
+436.88 - underscoring the need for careful
+438.76 - position sizing I have heard so many
+441.20 - people tell I've listen to so many
+444.44 - different people that don't understand
+445.72 - how markets work talk about listen as
+448.72 - long as your divers I ified you're fine
+450.92 - as long as you're this or that as long
+452.88 - as you put in a stop order as long as
+454.44 - you do this or that you're fine the
+456.40 - reality is that is not the case the way
+459.60 - to defend yourself keep your positions
+461.56 - small that's it yeah Piggyback in that
+464.16 - confirm and send about crypto and
+465.56 - everything else like that it really does
+466.92 - come down to sizing that's it anytime
+469.16 - I've ever got in trouble it's always
+470.24 - been too big never too small anyway
+472.12 - that's it yep good

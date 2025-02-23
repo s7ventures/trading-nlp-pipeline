@@ -1,0 +1,1582 @@
+0.04 - I'm calling today's session the building
+2.76 - the
+3.76 - portfolio and like I said I've never
+6.40 - done this talk before so it's brand new
+9.00 - so you're goingon to have to bear with
+10.00 - me um but I did write it in fact I wrote
+13.64 - it over the last couple of weeks and
+16.44 - this is the first of
+19.76 - two a little bit of background on me so
+22.92 - I spent 20 years um the first 20 years
+25.52 - of my career out of college as a market
+27.80 - maker on the sibo when I got out of
+30.88 - school I don't even think I knew what
+32.84 - what options were or what trading was
+35.08 - but I figured it out pretty quickly and
+37.48 - um from the early 80s like 1981 all the
+40.48 - way till 1999 2000 I was a market maker
+43.84 - on the floor of the Chicago Board
+45.36 - options exchange I traded primarily in
+49.60 - the S&P 100 which back then was called
+51.48 - the
+52.52 - oex at the time it was the largest S&P
+55.88 - pit now the S&P 500 is obviously but at
+58.40 - the time the S&P 100 was the largest pit
+61.00 - it was about 4 or 500 people in in a
+63.76 - very small area um and I was there from
+67.16 - pretty much from day one so great
+69.64 - experience and and amazing you know kind
+72.60 - of the Last Frontier of of um like I
+75.72 - like to say Last Frontier of Hardcore
+77.20 - capitalism back in the 80s and 90s 1999
+80.92 - towards the end of that.com Boom um I
+83.80 - built a company called thinker swim with
+85.64 - my partner Scott Sheridan um Scott and I
+88.40 - traded together on the floor we had
+89.92 - built a prop trading firm um we decided
+92.36 - to roll the dice and build thinker slim
+94.52 - because we had been down there almost 20
+96.40 - years and um which turned out to be an
+99.00 - amazing
+100.16 - platform we were public company we were
+103.24 - bought out by TD Merit trade in 2009 in
+106.36 - 2011 I started tasty trade um and ta
+111.96 - which was the digital Financial Network
+114.40 - um in which we now call Tasty live and
+117.24 - we started another brokerage firm which
+118.68 - we did call Tasty works but it's now
+120.28 - called tasty trade in 2016 it's now the
+123.08 - largest Boutique um options and
+126.04 - derivatives firm in the world
+128.28 - so and we have a global pretty much a
+130.76 - global presence now so um it's been been
+133.72 - an amazing you know couple of decades
+135.60 - and I've been in this business my entire
+137.12 - career um and that's kind of you know
+139.44 - the only reason I tell you that is
+140.64 - because I think it's important to have
+143.08 - some credibility and it's important to
+145.04 - at least you know have some validation
+147.56 - um I don't I'm not here I don't sell
+149.24 - anything um I really just want people
+152.64 - you know eventually to you know if they
+154.36 - can to use our brokerage but more
+155.88 - important than that um this is a our
+159.08 - model is a Goodwill model we um we
+161.88 - basically tell people everything we know
+164.00 - and the goal is to change the world of
+166.28 - Finance we've done a pretty good job of
+167.64 - so far but uh there's still a lot left
+170.04 - to do and we got to pass the torch down
+171.60 - the road to somebody else and um that's
+173.76 - going to be the fun part
+176.20 - so today is the first part of building a
+179.16 - portfolio
+180.44 - um it's Wednesday it's 11:00 central
+182.44 - time just a couple minutes after and
+184.68 - it's Feb 28th part two which I've
+187.44 - already started to write but I have not
+189.12 - finished yet um that's how new this
+191.88 - content is is called managing the
+194.64 - portfolio and that is going to be the
+196.96 - heavier of the two pieces will be part
+199.08 - two but believe me there's plenty of
+201.20 - stuff here in part one part two will be
+203.40 - a month from now March 27th and again at
+207.08 - 11 o'clock in the morning it's just for
+208.84 - one hour
+210.32 - um I do these two
+213.32 - webinars so that I will set up for the
+216.52 - live events that we'll be doing over the
+218.36 - course of the year um we're like I said
+220.92 - we'll be in eight different cities you
+222.60 - can sign up at
+225.56 - tasty.com events
+228.44 - tasty.com events and you can sign up for
+231.64 - any one of the Live Events everything we
+233.36 - do is free and both of these sessions
+237.72 - today today's session will be available
+239.76 - able to you in about a week at the
+242.60 - tasty.com events at the bottom of the
+244.52 - page just scroll down and you'll be able
+246.44 - to get um to listen to uh a repeat of it
+249.88 - and also to get all the slides from
+251.52 - today's show and for part two the same
+254.12 - thing you'll be able to have all the
+255.24 - slides from that when we do the live
+257.24 - event later this year um throughout the
+259.44 - country you'll be able to also get the
+263.60 - um uh eventually get the slides from
+265.48 - those events and so it'll be really
+267.36 - helpful in in training and for you know
+269.92 - educational reasons we like to call it
+271.24 - edutainment but whatever um and on top
+274.20 - of that later this year we're going to
+275.36 - do a digital version of the event as
+277.80 - well so you can have it in digital
+279.00 - collectible like an nft fashion and
+281.32 - again everything we're doing is free um
+284.36 - that's the nice thing about having
+286.20 - really good partners with the Chicago
+288.56 - Board options exchange and the Chicago
+289.96 - merkal Exchange um we you know we're all
+293.88 - Chicago based so we support each other
+295.76 - and I think it's a great thing that
+297.80 - they've you know both those exchanges
+299.44 - have stepped up because these events are
+302.00 - crazy expensive um now and and you know
+306.20 - and they're helping with the cost so
+307.48 - it's awesome um anyway so a month from
+311.00 - now you can sign up for the part two
+313.44 - again tacy live.com events for
+316.04 - everything okay so now I'm going to get
+318.60 - into heavy stuffs like I said as we like
+320.40 - to say grab a mitt grab your bat grab a
+323.80 - ball get a helmet on because um there is
+326.36 - going to be a lot of content today in
+328.48 - the next couple of next you know 55 or
+331.08 - 60 Minutes the key topics that I'm going
+333.92 - to cover today our product mix starting
+338.00 - out a little easy with stocks options um
+341.44 - Futures and Futures options again the
+344.36 - purpose of this doing it multi-exchange
+346.20 - and by the way this is the first um
+349.16 - multi-exchange
+351.20 - content creation kind of ever this is
+353.68 - the first collaboration of you know
+356.36 - option exchanges and Futures exchanges
+359.28 - um I'm product indifferent meaning I
+361.92 - don't care what you trade um as long as
+365.28 - you build a portfolio that's capital
+367.20 - efficient that's why I didn't want to do
+368.92 - something this year where we just
+370.48 - focused on Futures just focused on
+372.24 - stocks just focus on crypto or just
+374.44 - focused on on options or ETFs I think
+377.64 - it's important in 2024 that you build a
+382.24 - portfolio and you kind of be indifferent
+384.92 - to what the necessarily what the product
+386.68 - is and you're more focused on the
+389.80 - capital efficiency of those products so
+392.08 - number one product mix number two today
+394.84 - will be all about Capital efficiency and
+397.24 - we're going to cover all product classes
+399.84 - and again today is building the
+401.36 - foundation the next session will be
+403.64 - managing the portfolio the third part
+405.80 - today we will talk about um portfolio
+409.00 - allocation allocating that Capital so
+411.48 - first we talk about the efficiency and
+413.56 - next we talk about how to allocate the
+415.32 - capital these are these all these
+418.52 - topics are based on the number of emails
+421.84 - we get 5 to 7,000 customer emails a day
+426.32 - and from those when we sort them out and
+428.04 - we kind of look at you know where the
+429.84 - majority of questions come portfolio
+432.12 - allocation Capital efficiency products
+434.96 - and then lastly we get a lot of
+437.08 - questions about how do you build a
+440.44 - directional case from a professional
+443.20 - side like there's there's obviously the
+445.40 - retail side which has kind of long been
+447.60 - about technical analysis and some forms
+450.16 - of macro and there's obviously a macro
+452.68 - side as well to this industry and to the
+455.00 - world of Finance but there's also a
+457.20 - quantitative side and there's also a
+459.44 - subjective side so today we are going to
+461.84 - cover building a directional case adding
+464.28 - a little you know objectivity
+466.68 - subjectivity whatever you want to call
+468.12 - it um into building a case looking at
+471.48 - potentially at Price looking at
+473.00 - volatility looking at different
+475.12 - quantitative statistical and
+476.84 - probabilistic ways of looking at a
+479.12 - portfol folio and then a month from now
+481.64 - we'll talk about okay we've established
+484.00 - a portfolio now how do we manage that
+486.40 - portfolio and then to take this thing
+488.92 - absolutely full circle like I said we
+491.76 - will be in eight different cities seven
+494.24 - in the US all Super Bowl cities and you
+496.64 - can find all those cities on tasty.com
+499.00 - events and we'll be in all those cities
+501.20 - it's almost a three-hour show we do we
+504.12 - use really cool events event centers um
+507.00 - it will be a not like a fun fun show but
+510.56 - it will be a heavy show so you'll bring
+513.16 - bring your you know thinking cap on
+514.92 - those days but we will have six
+516.92 - different speakers to keep it
+518.12 - interesting and they're all people that
+520.96 - have um that work for us and they're all
+524.40 - people that are on the network so
+525.72 - they're all professional speakers and
+528.40 - they really cover the educational side
+530.44 - of this stuff um it's just exceptional
+532.72 - the work that they do
+535.00 - okay let's go to the next slide and
+538.12 - we'll take you through this so again
+540.16 - thank you everybody for coming on today
+542.04 - if you have any questions I have a whole
+544.84 - group of people I think Anthony Brittney
+546.92 - Christian we have um two or three people
+549.60 - from our trade desk in Chicago we have
+551.36 - Britney on the tasty side if you have
+553.76 - any questions at all because I'm I am
+555.68 - not going to look at the chat during
+557.40 - this talk so I can focus on the talk but
+559.48 - if you have questions at all and you
+560.92 - want to type something into the chat we
+562.92 - have three people on during this webinar
+565.64 - they can answer your questions or they
+567.68 - can point you in the right direction
+569.40 - whatever it is if you want to reach out
+571.84 - to me and I am an email junkie if you
+574.80 - want to reach out to me um you can email
+578.44 - me at Tom
+580.80 - tasty.com and I try to get back to you
+583.04 - you know in the next day Tom tasty.com
+586.64 - if you want to reach out to me I'm an
+588.64 - email junkie okay let's do it so sit
+593.36 - back relax and enjoy I think this is
+595.72 - like I said first time I've done this
+597.16 - talk I just wrote it and um I think it's
+601.32 - a direction that we're going to be going
+602.88 - to in the future with combination of all
+606.32 - different products combination of all
+608.64 - different strategies and a discussion of
+610.64 - actually building a portfolio because
+612.68 - active Traders are fascinated by
+614.16 - building a portfolio so am I so we're
+616.40 - going to start off with product mix
+618.60 - stocks Futures and options and like I
+620.84 - said this will get progressively harder
+623.36 - as we finish up today and as we get into
+626.60 - you know the next
+628.04 - discussion um
+630.72 - so product diversification now you've
+633.92 - heard the term diversification a lot
+636.48 - because everybody talks about oh
+637.72 - diversify this diversify that we are
+639.12 - going to cover it with in a little bit
+641.12 - different way I don't look at
+643.24 - diversification as just being in a
+645.12 - couple of different stocks I look at
+647.16 - diversification a couple different ways
+649.20 - how are we going to utilize the um the
+653.48 - buying power that we have in our account
+655.52 - and how are we going to distribute that
+657.72 - buying power and and what kind of
+660.80 - Leverage are we looking for like if we
+662.72 - were to compare the amount of money
+664.72 - we're using to a notional equivalent if
+667.12 - we were comparing the amount of money
+668.36 - we're using to buying power reduction
+670.84 - the cool thing about trading in 2024 is
+673.72 - that back of the envelope you can
+675.92 - generally use buying power reduction as
+678.36 - a very effective mechanism for managing
+682.00 - Capital versus your net lick and for
+684.12 - managing Capital versus your risk so for
+686.88 - starters here and again this is not
+688.96 - going to look like your typical
+690.44 - portfolio this is this is a portfolio
+693.52 - building a portfolio for active Traders
+696.92 - um so and and this breaks down something
+701.12 - somewhat similar to what our breakdown
+703.56 - is at our brokerage firm so at tasty
+706.88 - trade just to give you an idea so I give
+708.52 - you a little context around this our
+711.36 - business breaks down to about just under
+713.60 - 80% options about 10% Futures about 10%
+717.12 - Futures options small percent cash small
+719.24 - small per in digital assets but that's
+721.56 - kind of the primary you know that's our
+723.68 - primary business model now when I look
+725.36 - at building a portfolio I'm fairly
+727.96 - similar to that about 20% of my active
+731.36 - portfolio is would be considered in
+734.60 - equities underlying stocks why would you
+737.56 - use stocks in an active trading account
+739.80 - when they're not as effective tool for
+741.48 - buying power well one the underlying
+743.80 - might not be liquid enough not to use
+745.48 - stock I mean it might not have liquid
+746.60 - derivatives there could be other reasons
+748.72 - why you know the markets may be tighter
+750.56 - in the stock market there's a couple of
+752.00 - different reasons why You' use stocks
+753.80 - you could be making adjustments to your
+755.28 - positions so lots of different reasons
+757.56 - but stocks about 20% of buying power
+760.48 - Futures and Futures options tend to be
+764.24 - for me around 20% of buying power now
+767.52 - when I say Futures and Futures options
+769.32 - it's because I'm relatively indifferent
+771.60 - to Futures and or Futures options I
+774.36 - would say for the most part a lot of our
+776.80 - positions are Futures options but but we
+779.88 - do do a bunch of like for example pairs
+782.40 - trading which is just which is just one
+785.96 - future two highly correlated Futures one
+788.80 - long and one short or two highly
+790.64 - correlated Futures that offset each
+792.24 - other and you're betting on a either a
+795.24 - contraction or additional Divergence
+798.12 - from where it's currently trading so
+799.76 - Futures and Futures options about 20% of
+803.20 - buying power now remember Futures are
+805.32 - also more leveraged than stocks and
+808.04 - they're more leveraged than op options
+809.60 - so that 20% is a very understated number
+813.32 - options about 50% we say options that's
+816.44 - a combination of ETF options of listed
+819.16 - Equity options and of obviously of index
+822.04 - options and that the combination of
+825.92 - those different option markets changes
+828.48 - or or different option positions changes
+831.00 - based on what's happening in the market
+833.12 - for example right now with the stock
+836.56 - market at record highs the index volume
+839.56 - other than on the zeros the index
+841.36 - volumes dropped down a little bit and
+843.36 - the equity volumes picked up a little
+844.88 - bit for most people with positions
+846.80 - because Equity options have generally
+849.28 - higher volatility right now than the
+851.12 - index option positions but that can
+853.04 - rotate and fluctuate based on how the
+854.72 - markets move and then we always keep a
+857.28 - certain amount of cash now when we talk
+859.28 - about cash we're going to invest
+862.24 - probably a less much less than 90% but
+866.64 - cash maybe in the 10% range these are
+869.76 - kind of these are kind of generalized
+872.40 - allocations but just to give you an idea
+874.80 - of where we start and what our thinking
+876.52 - is we're thinking 20% stocks 20% Futures
+880.48 - and Futures options and 20% listed
+883.84 - option strategies these are not just
+885.64 - long options or just short options these
+887.76 - are strategies some defined risk some
+890.12 - undefined risk and then obviously a cash
+892.52 - position on top of that so the next
+896.12 - thing we think about is well we put all
+898.12 - these positions together together what
+899.92 - does it mean and how do we how do we Mo
+903.92 - how do we watch it how do we monitor it
+905.88 - how do we know we have on okay we can we
+909.08 - understand through buying power exactly
+912.64 - how much Capital we're using so through
+915.00 - buying power we can also learn to
+917.00 - measure risk it's one of the skill sets
+919.20 - you develop as you become an active
+921.32 - Trader and as you get you know deeper
+923.48 - deeper into um kind of what we call kind
+926.56 - of more of like active management but
+929.08 - what's most important is really
+931.08 - understanding what do you have on and so
+933.68 - how do you figure that out well first of
+935.32 - all we we we default everything to what
+938.60 - we call beta weighted Deltas which means
+941.44 - that we essentially take our position
+944.32 - and in order to compare you know an IBM
+947.36 - position to an Nvidia position to a
+950.52 - soybean position to a bond position to
+952.88 - an S&P position we have to convert
+955.44 - everything so we can generally convert
+957.52 - everything into SP y Deltas that's what
+960.64 - we call beta weighted Deltas that's just
+962.92 - essentially taking the beta waiting of
+964.64 - each underlying converting it to spy so
+967.12 - that everything is Apples to Apples that
+969.20 - makes it that simplifies EV that's
+971.24 - generally simplifies everything in 2024
+974.52 - almost every platform has beta weighted
+976.64 - Deltas we first introduced this in 2001
+980.40 - and since then every platform has picked
+982.32 - this up and that's a great thing you
+984.44 - need to have
+985.72 - that understanding how non-correlated
+988.08 - underlyings are defined is important so
+991.44 - we put here as a list on the right hand
+993.16 - side of the page and what you can see
+994.96 - first at the top is es those are the S&P
+997.28 - 500 futures everything is beta weighted
+1001.08 - towards the spy and the Spy is the same
+1003.16 - thing as es we'll talk about the the
+1006.16 - measurements later but for for for
+1008.80 - argument sake over beta weighting if
+1011.64 - you're beta weighted to the Spy you're
+1012.92 - beta weighted to the es and you can see
+1015.20 - right below that is the NASDAQ future
+1017.12 - right below that rty is the Russell
+1019.04 - future and then we start to talk about
+1021.72 - things that are not correlated so bonds
+1024.48 - are not correlated to stocks the first
+1026.64 - three at the top are stocks the next one
+1029.84 - bonds gold crude oil and natural gas
+1032.96 - none of those those are all wrapped
+1035.32 - around zero any correlation below 0.5 is
+1039.12 - essentially what we would call close
+1041.00 - enough to being not correlated wrapped
+1043.00 - around zero has no correlation so that
+1045.60 - what that means is if the stock market
+1047.20 - goes up it doesn't mean bonds are going
+1049.56 - up or down if the stock market goes up
+1051.84 - it doesn't mean gold is going up or down
+1053.96 - if gold goes up or down it doesn't mean
+1055.44 - that crud all is going to do something
+1057.20 - so by doing this essentially what you've
+1059.20 - done and the last one on there which is
+1061.16 - n which is um which is which is the Euro
+1064.88 - 6E which is the euro is another
+1067.20 - underlying that we feel is not
+1069.64 - correlated now why is this important
+1071.92 - because it does two crazy things to a
+1074.92 - portfolio and and we're not talking
+1076.68 - about having just snps NASDAQ also any
+1079.16 - of those things on there's lots of ETF
+1081.36 - equivalents like the ETF equivalent to
+1083.20 - Nasdaq futures are the q's the ETF
+1085.88 - equivalent to rty is iwm the ETF
+1088.84 - equivalent to ZB is TLT the ETF
+1092.28 - equivalent to GC is GLD the ETF
+1095.68 - equivalent to NG is UN and the you know
+1099.40 - you can find different different ones
+1100.84 - for currencies but they're not as
+1102.00 - effective but this one be
+1104.24 - fxe what's important about this from a
+1108.00 - discussion standpoint point for
+1109.20 - portfolio reasons is if you have a
+1112.64 - portfolio that is not correlated you are
+1115.88 - going to have a huge reduction in
+1119.24 - portfolio volatility it actually comes
+1121.12 - out to about 35% so you're going to have
+1124.24 - a 35% across theboard reduction in
+1127.40 - portfolio volatility that's the swings
+1129.36 - that you take so if you're uncomfortable
+1131.48 - with a $100 swing or a ,000 swing or a
+1134.04 - $10,000 swing what B based on the size
+1137.00 - of your portfolio and based on the type
+1138.24 - of positions have on the way to reduce
+1140.40 - that by 35% which is very significant is
+1144.68 - to have a portfolio that's where the
+1146.44 - underlings are not correlated how do you
+1148.60 - do that well you introduce Futures and
+1152.24 - Futures options side by side with stock
+1155.56 - and stock options again this is a
+1157.92 - discussion about product indifference
+1160.28 - we're agnostic to what we trade we're
+1162.44 - just looking for opportunity but not
+1164.72 - only does it reduce portfolio volatility
+1167.12 - it also reduces out outlier risk so an
+1171.28 - outlier risk is the stuff you can't
+1173.08 - control so what happens is do you still
+1175.80 - have outlier risk of course they're
+1177.00 - still but what it does is it reduces
+1179.68 - over 90% of your outlier risk now I know
+1183.08 - that sounds crazy but you're thinking
+1184.28 - how do you reduce 90% of outlier risk
+1186.76 - well by having a portfolio of truly
+1188.84 - non-correlated underlyings what you end
+1190.96 - up doing based on Capital allocation is
+1193.44 - you end up staying smaller and by
+1195.32 - staying smaller you essentially reduce
+1198.08 - about 90 % of your outlier risk so the
+1200.80 - first we're only two slides in and
+1203.08 - already what we've discussed is creating
+1205.04 - a diversified portfolio using lots of
+1207.04 - different underlyings and in the process
+1208.60 - of that reducing the portfolio
+1211.32 - volatility that's your intraday swings
+1213.68 - and your overnight swings and then
+1216.24 - virtually eliminating most of the
+1219.04 - outlier risk because you've reduced the
+1221.08 - size of your positions and you've
+1222.44 - Diversified your
+1224.04 - portfolio now I'm going to keep going at
+1226.20 - a I'm going to pick up the pace a little
+1227.72 - bit here so I just want you to be kind
+1230.00 - of you know uh hang in there with me
+1232.32 - because it's I I I get that this gets a
+1234.28 - little heavy but and if you're new if
+1236.24 - you've been around us have been around
+1238.20 - tasty for a while some of this will be
+1240.00 - hey piece of cake I got this but if
+1241.76 - you're completely new to this and this
+1243.24 - is your first time I know it's a little
+1245.36 - heavy and again you can email me Tom
+1248.36 - tasty.com or you can study this or come
+1251.04 - to one of the Live Events I I strongly
+1253.12 - urge you to sign up for Live Events they
+1255.28 - will all be full they will all be
+1257.88 - basically full and sold out before we do
+1260.08 - them but if you sign up early there's
+1261.88 - tons of room right now okay we just
+1263.60 - listed them correlation so we're going
+1266.28 - to stay on this topic for a second by
+1268.04 - including non-correlated assets into
+1269.80 - your portfolio the total volatility of
+1271.84 - portfolio be will be closer to the
+1274.08 - lowest volatility asset even though
+1276.60 - those assets are equally weighted see
+1279.12 - that's really cool that's that 30%
+1281.28 - reduction so what ends up happening and
+1284.20 - you can kind of see we put the
+1285.72 - volatility reducing numbers and how much
+1288.24 - we basically you know plus or minus what
+1291.24 - happens like when you look at the daily
+1292.92 - volatility of the snps let's just say
+1295.64 - it's plus or minus 1% or plus orus 1.2%
+1299.04 - and a bond portfolio is Plus or minus. 7
+1302.16 - well when you put those together okay
+1304.92 - and you do 50 half and half you drop the
+1308.04 - whole portfolio volatility down to 72
+1310.88 - and that is the beauty of and just think
+1313.68 - that's just two that's just two
+1315.60 - underlyings that's just breaking it
+1317.44 - apart and and most people are like well
+1320.40 - I don't want to have I'll give you some
+1321.64 - examples I don't want to put um Bitcoin
+1324.48 - I don't want to put eth into my
+1326.24 - portfolio I don't want to put digital
+1327.56 - Assets in there I don't want to do this
+1329.00 - that because the volatility is too high
+1330.68 - it is too high in some cases as a
+1333.36 - standalone but it's not too high when
+1336.00 - you diversify your portfolio and that
+1338.32 - way you might on the one hand have
+1340.36 - something with a really low implied
+1341.88 - volatility like the Euro at you know
+1344.24 - seven or 8% volatility and then you'll
+1346.40 - have a 45 to 55% % volatility like
+1349.44 - Bitcoin or you'll have a 45% volatility
+1352.24 - like Nvidia and a you know and a much
+1354.48 - smaller one like a 25% volatility like
+1357.04 - apple once you start doing that or using
+1360.28 - you know one of the ETFs like you might
+1362.48 - use the snps or iwm and then all of a
+1365.20 - sudden you have a low volatility there
+1366.60 - and you combine that with a higher
+1367.76 - volatility something like natural gas
+1370.20 - and all of a sudden you are in a
+1372.48 - portfolio where you've reduced the
+1374.80 - volatility down to the lowest common
+1376.40 - denominator and that's super cool and
+1379.60 - that really helps to to again reduce
+1382.44 - your outlier risk and to reduce your
+1385.28 - intraday
+1386.40 - swings so the next thing we're going to
+1389.20 - talk about we're going to look about
+1391.00 - we're gonna we're going to really focus
+1392.32 - on dissecting the optimal Decay curve so
+1395.80 - I'm a premium seller which means I like
+1398.08 - to sell options more than I like to buy
+1399.84 - options or I like to sell spreads more
+1401.80 - than I like to buy spreads you can do it
+1403.44 - either way I'm not everything is fairly
+1405.68 - priced in the world of options whether
+1407.72 - they're future options
+1409.16 - or whether they're um listed Equity
+1411.88 - options the whole world of options is as
+1414.00 - long as you're trading a liquid product
+1415.64 - everything is priced to Perfection
+1417.20 - there's no Edge there's no Edge there's
+1419.24 - no theoretical Edge in buying or selling
+1421.48 - something there's no theoretical Edge in
+1423.36 - buying or selling a listed option
+1424.92 - there's no theoretical Edge in buying
+1426.24 - selling or Futures option they're all
+1427.92 - priced to Perfection so so what do you
+1431.12 - do you stay in liquid underlyings you
+1433.12 - make sure they're Diversified but you
+1434.88 - live in what we call there's no
+1436.88 - theoretical Edge but we believe there's
+1438.84 - a mechanical there's a me there's you
+1441.04 - can optimize the mechanics so how do you
+1443.56 - optimize the mechanics well you stay in
+1445.72 - the optimal point in the Decay curve so
+1448.68 - I'm going to explain now the advantages
+1450.64 - of for example managing a portfolio
+1453.60 - early which which again we're going to
+1455.24 - get into great detail on the next
+1456.68 - webinar but managing portfolio early
+1459.72 - reduces the volatility and it also
+1461.92 - reduces outlier risk so you're starting
+1464.20 - to get the hang of what we're trying to
+1465.40 - do here which is when we build a
+1467.44 - portfolio we want to reduce the
+1469.52 - volatility of that portfolio because we
+1471.20 - know Hey listen this is an active
+1473.08 - trading portfolio this is not a passive
+1475.88 - set it and forget it this is not hey
+1477.76 - wake up in 20 years and see how we did
+1479.96 - this is an active trading portfolio
+1481.52 - where you get to it you know you're
+1482.80 - you're on it every single day or when as
+1485.44 - much as you can be or multiple times a
+1487.16 - day and again you're reducing outlier
+1489.28 - risk also we can show you that by adding
+1492.96 - duration you know going you know longer
+1495.64 - than let's say 20 days longer than 30
+1497.68 - days longer than 40 days or potentially
+1499.60 - longer than 50 or 60 days you can
+1502.12 - increase optionality and provide more
+1504.40 - time to be right we're usually always
+1506.68 - all right we're all right eventually
+1508.92 - it's just the timing sucks our timing
+1511.20 - isn't that good nobody's timing is that
+1512.84 - good when it comes to markets it's
+1513.84 - really hard so a lot of times buying
+1517.76 - duration being able to extend duration
+1520.48 - does two things it gives you more time
+1522.68 - to be right and it also synthetically
+1525.72 - increases the volatility of the
+1527.24 - underlying so means on a low volatility
+1529.44 - underline you actually create a little
+1531.40 - more premium for yourself also different
+1534.92 - durations allow for different strategic
+1537.48 - opportunities and again provide more
+1540.08 - diversification to the portfolio you can
+1542.08 - diversify by underlying but you can also
+1544.12 - diversify by strategy you can also
+1545.84 - diversify by implied volatility you can
+1548.04 - also diversify by
+1550.32 - duration so what I have here is a slide
+1553.96 - that shows this is this is 45 days to
+1557.08 - expiration um you can see where it says
+1558.96 - 45 DTE that's 45 days to expiration and
+1561.72 - then you can see expiration and what
+1563.40 - we've done here is we've put an average
+1564.96 - running p&l plac 45 days to expiration
+1568.16 - now what most people don't realize when
+1569.84 - I talked about I want you to be at the
+1572.20 - optimal point in the Decay curve the
+1573.96 - optimal point in the Decay curve well
+1576.40 - 75% of the money you're going to make
+1578.36 - when you trade is in that optimal point
+1580.88 - in the Decay curve from the first 24
+1583.40 - days the last 21 days you make one
+1587.52 - quarter of the month
+1589.16 - even though it has the fastest rate of
+1590.92 - decay in the first 24 days with the
+1594.40 - slowest rate of Decay it's actually
+1596.44 - called the optimal point in DEC curve
+1598.04 - because that's where you make the most
+1598.96 - money most people think it's the other
+1600.60 - way around that's what's so fascinating
+1602.60 - about this
+1604.96 - slide and and this Slide the first time
+1607.56 - people see it they're like wow that kind
+1608.92 - of freaks me out but it freaked me out
+1611.16 - because I was doing it wrong for about
+1612.52 - 20 years so how do we
+1615.96 - calculate expected move because what is
+1619.84 - volatility volatility and we base a lot
+1622.32 - of stuff that we do on volatility but
+1624.60 - what is volatility so volatility is
+1627.88 - essentially it's another word for
+1630.32 - expected move it's volatility tells us
+1633.72 - and measures how much is this underlying
+1636.44 - going to move based on the efficient
+1638.76 - markets that are that we're looking at
+1641.00 - essentially it's the cleanest it's the
+1643.92 - cleanest calculation we have as the best
+1647.28 - guesstimate as the best approximation
+1649.80 - for what's about to happen basically
+1651.68 - everything that is known about that
+1653.04 - underlying is built into that expected
+1654.96 - move number so why is knowing the
+1657.52 - expected move so important because if
+1660.88 - you know what the expected move is you
+1662.96 - have context around where to set up your
+1666.32 - short strikes and where to set up your
+1670.08 - um an expectation for getting out of
+1672.84 - that position like let's say you bought
+1674.84 - let's say you bought a stock XYZ and you
+1677.12 - bought it for1
+1679.04 - and you're like where should I sell this
+1680.72 - stock and and you have no idea right
+1683.60 - because how would you know but if you
+1685.28 - know what the expected move is for the
+1686.80 - next 45 days and let's say the expected
+1689.16 - move is $11 now all of a sudden you have
+1691.68 - a reasonable number because 68% of the
+1694.76 - time that is the number that's going to
+1696.52 - be
+1697.32 - hit so all of a sudden now you have a
+1700.48 - you have context around where is an
+1704.00 - where is a good exit Place where's a
+1706.40 - good exit point and the other side to
+1708.52 - that is you also know let's say you want
+1710.40 - to sell let's say you want to buy stock
+1712.00 - and sell a call there or you wanted to
+1714.56 - let's say you wanted to get short a
+1715.96 - naked put in order to get long stock for
+1718.20 - your
+1718.92 - portfolio these are all strategies that
+1721.08 - we're going to cover in the next webinar
+1723.12 - but let's say you want to do that
+1724.64 - knowing the expected move is the most
+1726.76 - important thing you can
+1728.12 - do that's why we fa we focus everything
+1731.52 - on tasty around expected move is the
+1734.92 - Delta of an option an accurate measure
+1737.40 - of expected move and the answer is of
+1739.20 - course it's as close as we can get
+1741.56 - without actually just breaking down the
+1743.96 - math behind it so can you use back of
+1746.48 - the envelope Delta as an approximate
+1748.60 - measure of expected move and the answer
+1750.00 - is sure how do professionals use
+1752.80 - expected move and how do professionals
+1755.28 - use Delta and the answer is they're
+1757.56 - interchangeable they essentially use
+1759.40 - Delta as expected move and expected move
+1760.96 - as
+1761.76 - Delta and and if you think hey you know
+1764.68 - what that's kind of C that's all we ever
+1766.12 - did to figure out you know to figure out
+1769.00 - what are the chances of this trade
+1770.52 - working it was always well what's the
+1772.12 - Delta and that's the beauty of
+1774.48 - understanding expected move it's not
+1775.96 - that complicated this is a this is a
+1779.24 - nuanced knowhow industry meaning there's
+1782.84 - there's the the challenge everybody
+1785.04 - that's on this chat there's you know
+1787.00 - over 700 people on this chat I think
+1788.76 - there's going to be like five or 10
+1790.44 - thousand that listen to it probably
+1791.80 - within a week or so the the the beauty
+1796.08 - of this stuff is that every single
+1797.80 - person person participating today is
+1800.36 - crazy smart but a lot of this stuff has
+1802.88 - to do with Nuance knowhow there's a lot
+1805.56 - of little nuances about Finance in the
+1807.84 - Futures world in the Futures options
+1809.32 - world in the listed Equity world in the
+1812.12 - listed option world in the index ETF
+1814.04 - world that's what I'm trying to get
+1815.20 - across this is what we call optimizing
+1818.32 - the mechanics and optimizing the Nuance
+1821.20 - knowhow that's how professionals use
+1823.08 - expected move it's interchangeable with
+1824.56 - Delta what does that mean that gives you
+1827.48 - a reasonable expectation it gives you
+1829.76 - context it gives you probability of
+1833.76 - profit so on the tasty platform and I
+1836.36 - can't speak for other platforms but we
+1838.24 - have built other platforms um we will
+1841.16 - show expected move and it's right in
+1843.40 - parenthesis so for example this is the
+1845.48 - SPX and for the zeros the ones the twos
+1848.08 - and the five days you can see what the
+1849.96 - expected move is here that's all it
+1852.48 - is it's that crazy simple most platforms
+1856.04 - just listed there's not even anything
+1857.32 - you have to figure out out if you need
+1859.04 - to figure something out I mean generally
+1861.28 - you can use you can use if you have a if
+1863.84 - you have a volatility index that's
+1865.40 - around let's just say 19% the expected
+1868.04 - move is about 1% for that day and it's
+1870.08 - interchangeable among Commodities
+1872.64 - commodity options um Equity options
+1875.60 - everything else completely it's it's all
+1878.84 - interchangeable so I'm going to proceed
+1881.80 - now to Capital efficiency across product
+1885.56 - classes now again you can see I'm going
+1888.64 - fast I have to go fast I built so much
+1891.40 - content to this day I don't even know if
+1892.84 - we're going to get to it by the end of
+1894.32 - the you know by the end of the next 25
+1896.16 - minutes so I I really got to power
+1897.76 - through it but there are three people on
+1900.12 - answering questions um you know nothing
+1903.68 - nothing is off limits and if you have
+1905.60 - any questions later on after this event
+1908.12 - you can email me again at Tom
+1911.36 - tasty.com and that's if you came on late
+1913.92 - and again this event will be available
+1915.60 - to you in one week on
+1918.92 - tasty.com events scroll to the bottom of
+1921.16 - the page and you'll be able to find the
+1922.92 - archives of this event and the next
+1924.64 - we're going to do and all the live
+1926.40 - events that we're doing all over the
+1928.08 - country and in London but please sign up
+1930.84 - early because they get packed okay
+1934.24 - Capital efficiency of all product
+1937.60 - classes hold on one second let me see
+1939.84 - perfect so we are going to compare um
+1945.04 - Apples to Apples here like I talked
+1946.60 - about earlier that's the beauty of beta
+1948.24 - waiting but it's also the beauty of
+1950.64 - buying power reduction now there's here
+1953.76 - here's trading in 2024 is very different
+1956.24 - than it was trading 20 30 40 years ago
+1959.36 - everything is based on available capital
+1962.08 - and buying power reduction and
+1963.56 - everything on today's modern platforms
+1965.72 - modern technology which is amazing is
+1969.00 - all done on the back end so you don't
+1970.48 - have to worry about different regulatory
+1972.00 - bodies you don't have to worry about
+1972.92 - different margining systems you don't
+1974.40 - have to worry about any of that stuff
+1976.00 - what's important to know is that that if
+1978.52 - you have a regular margin account
+1980.00 - everything we're discussing today is a
+1981.28 - regular margin account some people have
+1983.08 - portfolio margin reduce everything by
+1985.60 - thir a third some people have if you if
+1988.72 - you have if you're just trading for
+1990.72 - example um futures or Futures options
+1993.88 - you're going to use about a third less
+1995.64 - Capital but I strongly recommend using
+1998.24 - everything and if you're just trading
+1999.40 - equities or Equity options I strongly
+2001.36 - recommend in in including Futures if
+2003.92 - you're at a brokerage firm that doesn't
+2005.20 - support all this stuff change your firm
+2007.84 - because you should have an opportunity
+2010.16 - like you want to walk into a casino you
+2011.76 - don't want them to tell you you can't
+2013.08 - play blackj or you can't play craps
+2014.92 - that's ridiculous everything is the same
+2016.96 - everything is theoretically perfect and
+2019.56 - you know you should have the advantages
+2022.04 - of the best product choices and the best
+2026.20 - buying power reduction and capital
+2027.60 - efficiency
+2029.24 - so we're going to work on the nuances
+2031.96 - and importance of a capital efficient
+2033.56 - strategy because the best way to reduce
+2037.00 - risk in the world of active trading is
+2039.64 - to reduce your size to manage early and
+2042.88 - to do as many types of diversification
+2045.44 - as possible also I'm going to talk about
+2048.48 - the impact of static and dynamic hedging
+2051.76 - static hedging just so you understand
+2053.88 - the terminology is if I used stock or
+2057.04 - Futures against an option position
+2059.72 - Dynamic hedging is if I used options
+2063.00 - against an option position and how
+2065.32 - Dynamic hedging and static hedging are
+2068.60 - different with respect to adjustments
+2070.68 - and buying power for example if I if I
+2074.64 - have an option position on and I use
+2076.20 - stock it's going to be expensive to use
+2078.24 - stock if I have an option position on
+2080.32 - and I use Futures it's going to be about
+2082.64 - six times I'm going to get six times
+2084.44 - more leverage using Futures than I would
+2087.52 - using stock but stock may be more of a
+2090.44 - perfect hedge than the Futures so you
+2092.60 - have to make that determination do I
+2094.60 - want to use one6 the amount of capital
+2096.72 - or do I want the perfect tedge and then
+2098.92 - when you're adjusting options with
+2100.40 - options you might find hey I can do this
+2103.04 - without putting up any additional
+2104.20 - Capital that's a dynamic hedge so
+2107.12 - there's all those different choices and
+2108.60 - you have to be able to make them but
+2110.64 - make them
+2111.72 - instantaneously the whole key here is
+2113.84 - speed not because you're competing with
+2115.44 - anybody but just because you don't want
+2117.36 - to overthink this stuff you want your
+2119.24 - brain to process this and to know what
+2121.32 - your next move is before like you even
+2123.84 - open up a quote screen you're going to
+2125.44 - know exactly what you want to do my goal
+2127.72 - here is to get you to think like a
+2129.84 - couple of steps ahead so that you know
+2131.84 - what you're going to do to adjust a bad
+2134.12 - position and a good position is easy a
+2136.40 - bad position is hard and so when
+2138.28 - something starts to go against you I
+2139.88 - want you to know the most efficient
+2143.64 - effective most efficient and capital
+2145.92 - effective way to adjust that position
+2148.96 - and to give you the best chance to turn
+2150.92 - it around bring it back to even turn it
+2152.36 - to profitability whatever it is so the
+2154.92 - other last thing we're going to focus on
+2156.40 - here is capital efficiency and the law
+2158.60 - of large numbers you know if you do
+2160.96 - something one time it's it's really it's
+2165.32 - really random what the results are going
+2167.04 - to be so in order for this whole process
+2169.84 - today and everything we're discussing to
+2171.56 - be successful you have got to do this a
+2174.92 - lot meaning we're just playing the game
+2177.36 - of law of large numbers I'm going to
+2178.44 - show you some statistics in a second but
+2180.20 - if you do something once twice or 10
+2182.08 - times you know what it's it's really
+2184.40 - just very random whether it works or not
+2186.64 - if you do something consistent and
+2188.28 - you're mechanical about it law of large
+2190.24 - numbers takes over and whether you want
+2192.12 - it to work you don't want it to work
+2193.24 - it's going to work basically just the
+2195.52 - same way as the the same way as the
+2198.84 - probabilities suggest it will
+2202.12 - so now we start getting into some kind
+2204.68 - of and and I promise you this is not too
+2207.44 - heavy it's just new for some people so
+2209.52 - just bear with me and there'll be plenty
+2211.36 - of time to go over this and again that's
+2213.28 - why we do the live show that's why we
+2215.08 - spend three hours on just part of this
+2218.44 - content the importance of Leverage in a
+2221.40 - in and leverage the importance of
+2223.04 - Leverage and derivatives in a modern
+2224.40 - portfolio is basically to give you the
+2227.96 - ability for an outsized return using
+2230.84 - less Capital now why do I want an
+2232.80 - outsized return using less capital and
+2234.80 - the answer is because if you are going
+2236.32 - to manage your portfolio yourself and
+2239.20 - you are going to put the time and
+2240.52 - resources into active management you
+2243.24 - have got to at least have an opportunity
+2246.68 - to make some multiple of a risk-free
+2249.12 - return if you have if risk-free returns
+2252.32 - right now or let's just say is 5% then
+2256.08 - there's no way you want to manage an
+2257.36 - active portfolio with the objective of
+2259.32 - making seven or eight% you're going to
+2261.52 - manage an active portfolio with the
+2262.80 - objective of making two three four five
+2265.00 - six times what you would make on a
+2266.96 - risk-free on a risk-free portfolio
+2269.48 - that's up to you some people are happy
+2271.28 - with 2x some you're happy with 3x some
+2272.80 - happy with 6X that's on you but from my
+2276.80 - my position here is I want to show you
+2279.68 - that that option or that optionality is
+2282.48 - available to you so what we did on the
+2285.04 - right hand side of the pages we talked
+2286.40 - about theoretical example for a stock
+2288.44 - trading at $100 and just so you can look
+2290.72 - at 100 shares of a stock trading $100 is
+2292.36 - $10,000 in capital required if you just
+2295.28 - did that without margin so you can
+2297.04 - borrow up to 50% but the pop which is
+2299.80 - the probability of profit is 50/50 so
+2303.20 - then you go by a long call which is in
+2306.56 - this case on the same $1 stock and
+2308.72 - you're buying the the 30 days expiration
+2311.08 - the 50 Delta long call it's costing you
+2313.48 - $360 but your pop is only 35% to get
+2316.28 - over your break even but your cap
+2318.00 - reduction is 96% is that a good trade I
+2320.48 - don't know but in the last trade on the
+2323.16 - bottom which is the 30-day expiration
+2325.60 - the 50 Delta short put all of a sudden
+2327.88 - I've taken my probability profit from 35
+2330.08 - to 65 I've actually it's the inverse my
+2332.92 - buying power went up to 2,300 which is
+2335.44 - still 75% less than the stock stock but
+2338.04 - my probability of profit is I'm sorry
+2340.84 - but my cap reduction is
+2342.40 - 77% so my pop is 65% my cap reduction is
+2345.76 - 77% and my buying power which is the
+2348.84 - reduction is only
+2350.16 - $2,300 now again to each their own I
+2354.36 - understand that the long call has has
+2356.60 - limited risk and the short put has
+2358.84 - unlimited risk below you know below
+2362.32 - whatever credit you receive but it's
+2364.20 - still less risk than the 100 shares of
+2365.80 - stock and it has
+2367.88 - and it has a 15% more higher probability
+2371.20 - of profit and it has a 77% Capital
+2374.04 - reduction this is just really basic
+2375.60 - stuff we get
+2377.64 - heavier
+2379.48 - so then we go and we start to talk about
+2382.80 - improving your basis so this is the key
+2385.64 - to active trading to to building an
+2388.84 - active trading portfolio it's all about
+2391.68 - basis reduction what does basis
+2393.48 - reduction mean basis reduction means if
+2396.04 - I have this iPhone here which hopefully
+2397.84 - you can see but if I have an iPhone and
+2400.20 - this iPhone costs $1,000 how do I buy it
+2402.60 - for $
+2403.44 - 800 okay that's what we call basis
+2406.12 - reduction how do I reduce the cost basis
+2408.28 - of that iPhone by a certain amount of
+2410.48 - money so and then you have to talk about
+2413.40 - the trade-off between your probability
+2415.56 - of profit your potentially lower profits
+2419.20 - and how do you deal with that so the
+2420.88 - first thing is we talked about hey
+2423.28 - here's a $100 stock right and it capital
+2426.04 - required for that is $10,000
+2427.92 - the p&l after it rallies to $ 105 is
+2430.92 - $500 you make make Five Points it's $500
+2434.80 - if you bought the longan call for $363
+2437.40 - and we close there you know 30 days from
+2439.36 - now you make $137 so your return on
+2441.88 - capital is 38% compared to 5% on 100
+2444.40 - Shar of stock but on the short put okay
+2448.64 - um using less buying power on a rally
+2451.92 - you're going to make
+2455.24 - $322 which is a 14 % return on Capital
+2459.16 - but you make almost three times or two
+2461.04 - and a half times as much money as you
+2462.88 - make on the long call and almost as much
+2465.28 - money as you make on the stock but your
+2467.92 - return on capital is
+2470.44 - 3x I'm focused not so much on return on
+2473.76 - Capital but I'm focused on on getting
+2477.08 - people to understand how important
+2479.76 - reducing basis is because remember on
+2482.76 - that short put you have a 65%
+2486.20 - probability of profit compared to the
+2488.08 - long stock which has a 50% probability
+2490.72 - of profit and also that 105 number came
+2494.04 - from the expected
+2495.44 - move so that's all about the expected
+2498.20 - move it's really fascinating when you
+2500.44 - start to put all this stuff together in
+2502.48 - your portfolio
+2505.56 - construction so I'm covering here
+2509.68 - improving pop improving your probability
+2513.20 - of profit how do you improve probability
+2515.76 - of profit without adding more capital
+2517.68 - you can roll the position you can
+2519.16 - reenter the position are Delta and pop
+2522.36 - interchangeable well
+2525.16 - sometimes sometimes Delta and pop are
+2528.16 - exactly the same sometimes they're
+2530.00 - generally interchangeable but sometimes
+2531.60 - they're you know they we can we can
+2533.16 - create some different situations and
+2535.68 - learn how to raise your total portfolio
+2539.08 - probability of profit one of the things
+2540.80 - that we want to focus on today's
+2542.40 - discussion is I want people to
+2544.40 - understand that you should not be in a
+2546.24 - portfolio that has a 50/50 probability
+2548.72 - of profit you should be in a portfolio
+2551.08 - where your probability of profit is much
+2553.44 - closer on the whole portfolio between 65
+2557.44 - 67 or 72% I want you to be in that 65 to
+2562.36 - 72% probability of profit
+2565.40 - range so here's a fun little slide I put
+2568.92 - together um for for you guys today you
+2571.92 - can see when your Delta is lower your
+2575.52 - pop is going to be higher meaning if you
+2577.72 - sell a 22 Delta call or a 22 Delta put
+2580.48 - whatever it is or or or an iron Condor
+2582.76 - or a call spread or put spread at the
+2584.68 - lower Delta you're going to have a much
+2586.00 - higher probability of profit but your
+2588.00 - returns are going to be lower so you you
+2590.96 - can anybody can generate a 95 or 98%
+2594.28 - chance of profit on anything but you
+2596.96 - don't necessarily want to do that
+2598.32 - because you want to have a very fair
+2599.88 - tradeoff between your max return as a
+2603.32 - your max return as a percentage of your
+2605.40 - buying power so where is the perfect
+2607.56 - number is it a 22 Delta is a 27 Delta is
+2610.40 - it a 33 Delta you know so that's a
+2612.76 - decision you have to make but the nice
+2614.60 - thing about this slide is it gives you
+2616.00 - some context around how how you make
+2618.76 - that
+2619.72 - decision so again I'm going to keep
+2622.48 - pushing forward here and I know I packed
+2625.28 - a lot into this webinar but I don't like
+2627.52 - you know it's important to me I I never
+2630.52 - want to waste anybody's time I know how
+2632.52 - valuable time is I know how valuable
+2634.60 - resources is so I will never dumb
+2637.40 - anything down and I will push as much
+2639.36 - stuff as I can into a presentation and
+2641.32 - then later on we can dissect it later on
+2643.88 - we'll we'll do it live we will break
+2645.84 - this stuff apart if it takes hours days
+2648.36 - months whatever so total Capital use is
+2651.92 - a percent of account value this is one
+2654.84 - of the I'm going to put two or three
+2656.12 - stars on this page because this is one
+2658.00 - of the most difficult things for
+2659.28 - individual investors how do you
+2662.24 - understand how do you learn sensible
+2664.36 - Capital allocations based on various
+2666.72 - vola levels do you know the number one
+2669.84 - cause of Traders blowing out the number
+2672.08 - one cause of of bad trading number one
+2675.76 - there's nothing else even close to it
+2677.36 - one thing stands out there stands out
+2679.60 - Head and Shoulders above everything else
+2681.64 - it's size it's the wrong Capital
+2684.12 - allocation you can get away with a lot
+2686.60 - of other mistakes you can get away with
+2688.88 - some bad diversification you can get
+2690.64 - away with sometimes not being not having
+2693.04 - enough not being too highly correlated
+2694.96 - you can get away with you know maybe
+2696.64 - using too many of the same strategies
+2698.00 - you can get away with a couple different
+2699.44 - things you can get away with not
+2701.52 - optimizing your mechanics but you can
+2703.40 - never
+2704.48 - Escape um the wrong sizing that is that
+2708.24 - is it once you once you get two big size
+2712.08 - kills it's we like to say when genius
+2714.92 - fails it's always about size so how do
+2718.92 - you use different product strategies and
+2720.20 - correlations to assist and capital
+2721.64 - location and does account size and
+2724.36 - investment objectives play a role and
+2726.08 - you bet they do
+2729.44 - so this is an old slide this is the most
+2732.80 - conservative case we've ever put
+2734.52 - together if the vix is between 10 and 15
+2737.44 - like it is now the total portfolio
+2739.36 - buying power uses as a percent of net
+2741.60 - lick would be very low in the most
+2743.28 - conservative case 25% in the most in in
+2746.68 - the moderate case 35% in the aggressive
+2749.56 - case 45 to 50% and let's just say this
+2752.32 - is between $50 and $100,000 count if
+2754.48 - it's a million doll count it's a little
+2755.64 - lower if it's A1 count it's a little
+2758.00 - higher but this is the most conservative
+2760.76 - case so vixs at 40 plus on on on an
+2764.44 - average size account of let's call it
+2765.88 - 50,000 50% on moderate case 65% on the
+2771.52 - aggressive case 75 to 80% with the vix
+2774.40 - over 40 which only happens five you know
+2777.04 - five times every two or three decades
+2779.68 - but we easily can see vix between 15 and
+2783.16 - 30 for almost 30% of the time and in
+2786.44 - that case we're talking about 32 47 60
+2790.84 - in those ranges okay so that's the
+2793.60 - capital allocation based on where the
+2795.16 - vix is it's a very simple way to do it
+2797.80 - so but let's talk trade size because
+2800.04 - this is what freaks people out most
+2802.60 - people they start out trading too big
+2805.60 - believe me I wish the problem was people
+2807.00 - traded too small first of all on your
+2808.88 - platform always set your default size to
+2811.40 - the smallest possible number for you so
+2813.76 - if your average trade size is 10
+2815.32 - contracts set it to five if your average
+2817.88 - future size is five contracts or two
+2819.68 - contracts set it to one and then adjust
+2822.40 - upwards so percentage allocation on a
+2825.00 - per trade on a per trade and per
+2826.88 - underlying basis so what we're doing now
+2829.28 - is we're talking about trade size versus
+2831.04 - buying power it's always about units the
+2835.08 - fewer units you can be long or short and
+2838.96 - the more you can credit you can create
+2841.20 - for yourself is always best so you
+2843.04 - always default to fewer units not
+2845.64 - necessarily less risk we default to more
+2848.28 - risk fewer units that's our that's our
+2850.84 - kind of the way we look at things so if
+2853.32 - you want to and there's one typo here
+2856.00 - for Define RIS oh I'm sorry for I I take
+2858.76 - it back it's not typo for Define risk
+2861.00 - the position could be as small as3 or
+2864.24 - 0.5 but we would never allocate more
+2866.72 - than 5% to a defined risk trade for an
+2869.36 - undefined risk trade the lowest on a big
+2871.88 - account could be like I don't know a
+2873.96 - little less than 1% and the highest on a
+2876.16 - small account could be about 15% but we
+2879.88 - never like to see it be more than 10 to
+2881.68 - 15% in a single underlying and on
+2884.64 - undefined risk and we never like to see
+2886.28 - it be more than let's call it a half a
+2888.56 - percent to 3% maybe Max on a small count
+2892.60 - 5% of defined risk you have to be very
+2895.96 - careful like you don't want to do you
+2897.68 - know 50 spreads for um let's just say
+2900.84 - 50s verse two contracts for $5 like you
+2905.40 - just don't want those extra units
+2908.12 - so you'd rather take the more risk and
+2910.00 - the fewer units so you have to learn
+2912.56 - that that is one of the challenges
+2914.28 - that's one of the nuances of trading and
+2916.52 - then you also have to learn between
+2918.44 - listed options and Futures options
+2920.48 - because Futures Options under span
+2922.16 - margining give you more leverage and
+2924.28 - much more flexibility and again I'm
+2925.96 - going to use this word for the third
+2927.08 - time more optionality Futures options
+2929.88 - are the most coste effective in the
+2932.40 - world because you don't even have to put
+2934.16 - up full risk but over time the capital
+2937.48 - requirements change on Futures options
+2939.48 - which is something you're not used to on
+2940.84 - listed options either way you have to
+2943.88 - learn to adjust for futures and Futures
+2946.00 - options you're going to be about a third
+2947.28 - less than for listed Equity options but
+2950.12 - these numbers here of the half a percent
+2952.84 - to let's call it 3% for defined risk Max
+2956.20 - case 5 and for undefined risk anywhere
+2958.84 - from 1% to 3 to 7% Max case 15 depending
+2963.16 - on size of the account just keep your
+2965.88 - allocations small keep your contract
+2967.96 - size small increase your risk reduce
+2970.96 - your contract size always think about
+2972.56 - that so in addition to that another take
+2974.76 - away from earlier is manage early keep
+2978.00 - stay small and it flows right into this
+2980.96 - manage early stay small manage manage
+2984.12 - early and keep your Capital allocation
+2987.08 - small keep your contract size small it's
+2990.68 - the most effective way to manage risk
+2993.96 - people use stop orders and think that
+2995.56 - that's managing risk that is essentially
+2998.48 - just as bad as just as bad as allocating
+3002.60 - too much Capital to a trade you are far
+3005.08 - far better off keeping your size small
+3008.60 - and managing risk that
+3014.00 - way so let's talk about using buy Power
+3017.72 - as a measure of risk a lot of people
+3019.52 - will look at um they'll look at risk
+3022.88 - graphs they'll look at kind of worst
+3025.04 - case they'll look at they'll look get
+3027.08 - Deltas um uh one of the really effective
+3030.68 - tools back of the envelope tools for
+3032.64 - managing risk is to use buying power
+3035.24 - reduction if you lose use buying power
+3037.52 - reduction on a trade essentially you
+3039.60 - know we own a brokerage firm and the
+3041.20 - brokerage firm uses buying power
+3042.80 - reduction as an effective tool for
+3044.72 - measuring risk and we have customers
+3046.76 - with you know millions of positions
+3049.12 - on on an individual
+3051.44 - basis back of the envelope if you want
+3053.96 - to compare apples to apples use buying
+3056.16 - power reduction as a very effective tool
+3058.36 - for managing risk it's a cheat sheet way
+3060.48 - of doing it but it works and it's
+3062.68 - actually perfect and it's the same way
+3064.60 - that professionals operate professional
+3067.40 - Traders not Floor
+3068.76 - Traders um and the reason for that is
+3071.00 - because buying power reduction is an
+3073.08 - effective tool for measuring risk and it
+3075.40 - allows you to compare product a to
+3077.52 - product B to product C to product D to
+3079.16 - product e okay having a bunch of
+3081.44 - positions on Is Not a Bad Thing having
+3083.44 - small Diversified positions is really a
+3085.08 - good thing so the short put um short put
+3089.92 - or call buying power is and we just put
+3092.12 - the formula down here I don't have to
+3093.52 - read it off to you but that's how you
+3094.88 - figure it out the way the way the back
+3096.96 - of the envelope way to figure out buying
+3098.64 - power on a short call or short putut is
+3100.56 - just essentially say it's a little less
+3102.28 - than 20% of wherever the strike is
+3105.16 - that's the simplest way to do it so you
+3106.76 - have to figure it out and on the future
+3108.36 - side you can most cases it will be
+3112.04 - anywhere from a quarter of that number
+3114.80 - it's around a quarter of that number
+3116.16 - could be it could be a quarter to um
+3119.04 - let's just say a quarter keep it
+3124.32 - simple
+3126.20 - so then it comes down to okay well I've
+3129.04 - created these positions Tom but what is
+3131.84 - my portfolio probability of profit some
+3135.04 - platforms show it we show it some
+3136.40 - platforms don't whatever but what is the
+3138.52 - portfolio and how reliable is that do I
+3140.44 - have to figure it out manually is it on
+3141.64 - the platform whatever the answer is it's
+3144.12 - pretty damn good but again if it relies
+3147.60 - on law of large numbers your portfolio
+3150.68 - pop has it's it is very dependent on law
+3154.20 - of large numbers meaning that if you do
+3156.36 - something on a very random basis your
+3158.52 - results are going to be very random if
+3160.28 - you do something on a very mechanical
+3162.16 - basis your results are going to come
+3164.92 - very close to whatever your expectations
+3166.88 - are is there an optimal Target for
+3170.00 - probability of profit to aim for on a
+3171.72 - total portfolio and like I told you
+3173.20 - before yes 65 to 72 how percent how many
+3178.16 - occurrences or trades do you need to
+3181.68 - predict your portfolios pop accurately
+3184.56 - for L of large numbers to kick in and
+3186.92 - this is this is an interesting question
+3189.04 - and again this is for today's audience
+3191.20 - only because you are active Traders
+3193.24 - you're listening to me you know on a
+3195.08 - Wednesday midday this is what we do this
+3197.92 - is our own small little crazy world you
+3200.00 - know I get this we're all junkies and so
+3203.08 - the answer is we're trading junkies and
+3206.00 - the answer here is that um I would say
+3209.96 - and I'm going to probably you know I
+3212.80 - don't want to scare the children minimum
+3215.72 - of two trades a day that comes out to
+3218.08 - about five or 600 trades a year I would
+3220.20 - say average is somewhere in the
+3222.48 - neighborhood of a, to 1500 and I would
+3225.08 - say that average could easily be 5 or
+3227.48 - 10,000 if it if you wanted to it
+3229.64 - wouldn't it wouldn't even I wouldn't
+3231.04 - blink an eye at it but at a minimum
+3234.72 - about you know five to six 00 which is
+3236.96 - twoa 250 trading days it's two trades
+3239.32 - it's just adjustments those that's not
+3240.84 - two opening trades that could be one
+3242.84 - closing trade one adjustment you might
+3244.40 - not make an opening trade for three to
+3245.68 - five for five days it's just adjustments
+3248.56 - and but on average it's higher than that
+3250.96 - the average tasty Trader it's about
+3252.48 - 1,200 trades a year that kind of thing
+3255.24 - let's go to the oh sorry next slide and
+3258.84 - here's what's kind of important about
+3260.40 - this you can see here how the numbers
+3263.32 - smooth out towards whatever the
+3264.92 - expectation is if you're only make 10
+3266.92 - trades you know what your win rate looks
+3268.84 - pretty damn good at 70% Your standard
+3270.56 - deviation which is the amount of
+3271.88 - fluctuation looks pretty damn good but
+3274.36 - you know you don't know what that is and
+3276.52 - then but it's still a very random number
+3278.36 - and the p&l per trade wow that's huge so
+3280.40 - it worked out in this case because it's
+3282.08 - random but if you go down to kind of all
+3284.64 - trades which is a true me or a thousand
+3286.12 - trades you'll see that your standard
+3288.36 - deviation goes way down and your win
+3290.80 - rate goes way up and so the more times
+3293.76 - you do something it's not that you get
+3296.04 - better at it it's just you take out that
+3299.08 - those random outliers and everything
+3301.12 - gets flattened around the curve and
+3302.56 - that's what you want in order to be
+3305.04 - successful what do you have to do to be
+3306.84 - a successful Trader you have to learn to
+3309.68 - scale and make things repeatable and in
+3312.88 - order to do that or in order for that to
+3315.12 - happen you have to do things a lot of
+3316.88 - times and that's essentially what we're
+3318.88 - saying here now I'm a few minutes over
+3321.96 - so I apologize I started a couple
+3323.48 - minutes late and again I've never done
+3325.44 - this particular webinar before so I'm
+3327.64 - going to go a few minutes over by about
+3329.36 - five minutes so just bear with me please
+3331.56 - hang in there because this is this is
+3333.60 - good stuff too and again I started a
+3335.80 - couple minutes late I'm try to be on
+3337.60 - time um but this is my first time and I
+3340.72 - packed too much information in this one
+3342.40 - today but nobody ever it's nobody's it's
+3346.52 - it's free and and nobody ever complained
+3348.60 - about getting too much so here we go
+3350.60 - last last part building a directional
+3353.20 - case this is about opportunity because
+3356.84 - there's lots of different ways to look
+3358.20 - at Market
+3359.40 - Direction sometimes we are all
+3361.36 - non-directional and non-directional or
+3363.56 - delta neutral is a directional play so
+3367.04 - so that's I mean as simply as I could
+3369.04 - say it Delta neutrality is considered a
+3371.04 - directional play is price
+3373.48 - capitulation measurable and is it
+3375.60 - accurate well it's not measurable it's
+3377.68 - subjective is it accurate No it's a
+3379.60 - contrarian play but is it something that
+3381.68 - a lot of us use of course we assume
+3384.68 - price capitulation we think Market have
+3386.48 - topped out we assume price capitulation
+3388.80 - we think Mark markets have bottomed out
+3390.52 - is there anything wrong with that of
+3391.52 - course not can volatility predict future
+3395.12 - price and the answer is no all
+3397.92 - volatility can predict is future
+3400.24 - contraction or expansion because
+3401.64 - volatility has mean reverting qualities
+3404.68 - can option pricing skew be used to help
+3407.52 - pick Market Direction This is what tons
+3409.64 - of people ask us if the puts are more
+3411.64 - expensive than the calls are we going
+3413.00 - down if the calls are more expensive
+3414.76 - than the puts are we going up no no it
+3417.20 - cannot be used to pick Market Direction
+3419.32 - pricing skew is
+3422.32 - used really to show you where the market
+3425.28 - perceives the velocity of risk to be it
+3428.72 - has nothing to do with Market direction
+3431.24 - that is a very popular
+3434.08 - misconception so how accurate are those
+3436.52 - beta weighted Deltas that we talked
+3438.52 - about to start this discussion and the
+3440.36 - answer is as good as anything in this
+3443.04 - entire world in other words as good as
+3446.24 - any as good as any measure can be of
+3448.80 - anything this is the largest Marketplace
+3451.56 - it's better than a line on the Super
+3453.44 - Bowl it's better than any bet you're
+3455.84 - ever going to make as far as accuracy
+3458.04 - because there is way more money here do
+3461.16 - liquidity and correlation impact the
+3463.12 - beta weighted accuracy and of course
+3464.84 - they do the more liquid the underlying
+3467.24 - is the more efficient the markets are
+3469.04 - and the better your your numbers are
+3470.72 - going to be does correlation impact it
+3473.04 - of course it does because again if you
+3476.36 - want the most accurate situation you
+3478.28 - want the most liquid underlyings and
+3480.72 - liquidity leads to efficiency leads to
+3483.68 - accuracy is it best to hedge beta
+3486.08 - weighted Deltas with indexes or
+3488.40 - individual stocks or Futures let's be
+3491.08 - fair here could should I use Futures
+3493.08 - should I use an index should I use an
+3494.20 - individual stock that is 100% up to you
+3497.56 - if I'm trading crude oil and I'm trading
+3499.80 - crude oil options I like to use other
+3502.04 - crude oil options to hedge it if I'm
+3504.64 - trading if I'm Trading um Nvidia I like
+3508.36 - to use Nvidia options to hedge my Nvidia
+3510.52 - position if I'm buying or
+3513.16 - selling let's just say as an example I'm
+3515.92 - long the Japanese Yen and I want to
+3518.52 - hedge that position I will sell a
+3520.64 - Japanese Yen call against it if I have a
+3523.96 - big position on of options beta wage the
+3526.32 - spy and and I find myself let's just say
+3529.80 - short 2,000 deltas and I want to reduce
+3532.92 - my Risk by a th000 Deltas I will use S&P
+3537.40 - futures or I will use spies it doesn't
+3539.36 - matter I'm indifferent to those I'll
+3541.20 - sell if I'm long a thousand or I'm sorry
+3543.84 - if I'm short 2,000 Deltas I'll buy two
+3546.32 - S&P futures es futures or I'll buy a
+3549.24 - th000 shares of stock or I'll use let's
+3551.88 - just let's just say I'll use a couple of
+3553.52 - at the money um spy calls or or long spy
+3556.84 - calls or short spy puts so I am
+3559.44 - indifferent to what those Hedges are I
+3561.60 - tend to use Dynamic Hedges I tend to use
+3564.00 - the individual underlying
+3566.88 - but sometimes we use Futures sometimes
+3569.12 - we use indexes and it's really up to the
+3571.72 - individual just know that all those
+3573.68 - choices are available to
+3575.32 - you so again if you're new to all this
+3578.32 - stuff we're talking Delta we're talking
+3579.96 - Theta we're talking all this kind of
+3581.68 - crazy stuff and which is you know I put
+3584.04 - the the definition of delta on the right
+3585.80 - hand side here it's the change in an
+3586.96 - options price given a $1 increase in the
+3589.40 - underlying price and Theta is the
+3590.88 - sensitivity of an options price to
+3592.88 - changes in time speed which I'm sorry
+3595.92 - the the amount of Premium that you're
+3597.16 - collecting gamma is the speed at which
+3599.56 - it happens but in order of importance
+3602.24 - which contributes more to your p&l Delta
+3604.80 - or Theta well I hope it's Theta
+3607.76 - sometimes it could be Delta if you're
+3609.76 - delta neutral it's Theta if you're
+3611.44 - directional it's I'm sorry if your delta
+3613.40 - neutral is Theta if you're directional
+3614.76 - is Delta what are reasonable guidelines
+3617.80 - for portfolio Theta well you've got to
+3620.60 - be careful here because you do not want
+3622.16 - to be too big remember that's when
+3624.00 - genius fails so reason guidelines for
+3626.84 - portfolio Theta are to stay small
+3629.56 - usually my number is 1/10th to 3/10 of a
+3633.96 - percent based on your net lick again
+3637.32 - I'll repeat that what's a reasonable
+3639.08 - guideline for daily Theta one1 to
+3643.80 - 3/10 of your net
+3645.96 - lick is and everything we talk about
+3648.24 - today is based off net lick even buying
+3650.12 - power reduction and is it possible to
+3652.52 - manage Delta risk based on notional
+3655.48 - equivalent
+3656.72 - and the answer is of course it's
+3658.28 - possible it's just not that efficient
+3660.52 - today you're better off managing your
+3662.44 - Delta risk um essentially against your
+3666.04 - net lick or against your Theta numbers
+3668.80 - notional equivalency gets to be a little
+3672.20 - complicated
+3675.16 - and measuring risk through beta
+3677.72 - weighting okay so how oops I'm sorry I
+3681.04 - just did this let me just go through
+3684.28 - this here it is
+3686.68 - um is there such a thing as a product
+3690.16 - expert anymore and the answer is no I
+3693.68 - mean there's there's experts in the
+3695.28 - industry of course that can talk about
+3696.88 - you know different macro things and can
+3699.12 - and can give you second derivative um
+3701.16 - Greeks and and all that kind of stuff
+3703.04 - but there's no such thing as I'm a
+3704.68 - Futures Trader I'm a a stock Trader I'm
+3706.76 - an option Trader you're an everything
+3708.52 - Trader markets are markets this an
+3710.44 - auction Marketplace it's an efficient
+3712.24 - Marketplace okay it's a true Frontier of
+3715.20 - capitalism it's works okay just you you
+3718.44 - have to trust that theoretical pricing
+3720.92 - and efficient markets actually work is
+3723.76 - strategy diversification just as
+3725.76 - important as product diversification and
+3727.20 - the answer is it absolutely is and
+3730.08 - liquidity is as important to product
+3733.16 - indifference is liquidity and product
+3735.56 - indifference are as important to all
+3736.72 - this stuff as anything
+3738.68 - else as far as account type it and
+3742.44 - account size they do play a role you
+3745.24 - have to have a margin account obviously
+3746.64 - it's impossible to do this stuff in a
+3747.84 - cash account can you do this stuff in an
+3749.48 - IRA account yes is it a little harder
+3752.44 - sure can you pay somebody else to do
+3754.36 - this for you the answer is no not really
+3756.84 - and does account size play a role of
+3759.52 - course I mean the larger account you
+3762.04 - have um the the more flexibility you
+3765.44 - have the more different things you can
+3767.16 - trade but it is what it is like
+3769.52 - different people have different amounts
+3770.88 - of money and and we respect that and if
+3772.92 - you're a different point in your life
+3774.44 - you know if I was doing this 30 years
+3776.04 - ago I would be at a different point in
+3777.20 - my life than I am today so of course all
+3779.64 - that stuff plays a role

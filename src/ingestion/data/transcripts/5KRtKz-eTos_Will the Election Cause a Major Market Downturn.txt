@@ -1,0 +1,165 @@
+0.04 - we're going to cover elections today and
+2.64 - we're going to cover the months leading
+3.96 - up to the elections August September
+7.04 - October ready I'm ready okay months
+9.40 - leading up to the election do you think
+10.80 - that there's some kind of trend that we
+12.36 - should know about August September
+14.28 - October you know what I think it's
+16.16 - almost like a buy Russia sh sell yam
+18.04 - kapor sell russes buy yam kapor what
+20.76 - does we have these sayings out there in
+23.08 - the market that I don't think have ever
+25.44 - been really tested tried and true and
+28.68 - you have enough of the so what are you
+30.48 - saying August September October it's
+32.44 - like every other Monday Tuesday
+33.56 - Wednesday Thursday Friday I think it's
+34.68 - going to be random I don't think there's
+36.40 - going to be any kind of trend or
+38.16 - something to follow here maybe there's a
+40.60 - volatility thing but I don't even think
+42.52 - even that's going to have anything to do
+44.00 - with Octobers have been crazy throughout
+45.96 - same as it ever was Octobers have been
+47.88 - crazy throughout history yes it has but
+50.16 - they've been crazy for reasons other
+51.92 - than elections 1987 the crash was in
+54.48 - October no election 1989 the crash the
+57.96 - mini crash was in October no election
+60.24 - there were elections looming but but no
+62.60 - not really in the the point being is
+65.20 - that we rarely see election activity
+69.00 - mooved the market 2008 we were in the
+71.64 - middle of a meltdown so that was an
+73.24 - election thing and then I I would say in
+76.64 - 2016 the market definitely ran up after
+79.44 - the 2016 election but in October it was
+82.56 - a little weak prior to it so let's see
+85.36 - if we can come up with anything that
+86.84 - looks really interesting being an
+88.16 - election year implied volatilities
+89.44 - remain quite average so far with an
+91.16 - overstatement rate of 86% over the last
+93.88 - 12 months all right that sounds here's
+96.48 - the S&P historical volatility here's the
+98.36 - S&P implied volatility you can see the
+100.84 - implied volatility has overstated you
+102.68 - know generally speaking the implied
+103.92 - volatility is overstated but I think
+105.68 - that's what you're looking there is a
+106.88 - pretty normal chart of implied over
+108.64 - historical what should we expect in
+110.12 - terms of price volatility and implied
+111.76 - volatility in the months leading up to a
+113.00 - presidential election how typical was
+114.72 - August and September compared to past
+116.32 - election years and how does the
+118.08 - volatility compare to any other year
+119.96 - we're going to see so we went all the
+121.60 - way back to 2000 we looked at the SPX
+123.52 - and the vix I think the vix started just
+125.52 - after started trading on the vix just
+127.24 - after 2000 so that's about as far back
+129.32 - as we can go we observed the days in
+131.16 - August September October in presidential
+133.28 - election years in 2004 08 12 1620 we
+137.40 - computed everything you wanted
+138.88 - everything you ever wanted to know and
+140.12 - more about historical volatility implied
+142.80 - volatility price change monthly price
+144.72 - variation and then compared to the same
+146.84 - months in non-election years here we get
+148.60 - into the meat are you ready August and
+150.40 - September of election years tended to
+152.24 - exhibit average implied volatility but
+154.88 - low historical volatility this suggests
+156.72 - that the actual price volatility was
+159.16 - significantly muted despite an election
+161.48 - coming up that is your first big
+163.20 - takeaway initially the numbers suggest
+167.60 - that price volatility was muted despite
+169.44 - an election October before elections
+171.84 - were more volatile than August and
+173.44 - September although 2008 I'm sorry was a
+176.44 - large outlier that may have skewed may
+179.24 - have thrown everything off because 2008
+181.08 - if you remember 2008 of October
+182.92 - volatility got ran up to about almost 80
+185.96 - and that messed everybody messed up like
+187.88 - historical numbers forever but you can
+189.76 - see here that um normal normal
+192.08 - electioneers implied average implied
+194.60 - volatility historical implied volatility
+196.40 - are pretty much in line and October is
+199.32 - different again 2008 really messed up
+201.76 - that skew is what it is the actual
+203.64 - average monthly price variation was so
+206.00 - small back then I it's surprising to me
+208.60 - the average price changes for the month
+210.04 - leading up to election seem to suggest
+212.40 - that August was a strong bullish month
+215.00 - and September and October were very
+216.56 - bearish however are the variation is
+218.20 - also very large this means there is no
+220.28 - statistical evidence to any directional
+223.40 - trends that may be observed that's
+225.92 - pretty interesting because when you
+227.16 - think about it August very bullish
+229.64 - September and October very bearish this
+231.68 - is since 2000 again a lot of this is
+233.48 - skewed in 2000 and 2008 but it is what
+236.80 - it is and the monthly price variations
+238.72 - obviously go up interesting stuff for
+240.96 - non-election years August and September
+243.12 - are actually more volatile than election
+244.84 - years that's all you need to know for
+246.72 - non-election years August and September
+248.60 - actually more volatile than election
+249.80 - years a non-election October was less
+251.68 - volatile and was very similar to August
+253.24 - and September even when comparing to
+254.84 - election years the volatility difference
+256.04 - between these months is quite
+257.48 - insignificant and that is really the key
+259.76 - here when you go to the non-election
+260.84 - years it's basically no change I think
+263.68 - this would be more about let's talk
+265.12 - economic meltdowns than election years
+267.04 - yes right okay yeah because I think
+269.00 - that's the big difference the monthly
+270.76 - price variation is larger than the size
+272.72 - of the average meaning there is no
+274.56 - directional Trend in any month this was
+277.12 - a really critical takeaway for us and
+279.56 - again we wanted for a long time we
+281.04 - wanted to do this study we looked at
+282.80 - non-election years since 2000 and you
+284.64 - can see here the average monthly price
+286.76 - change and then the average monthly
+288.92 - price variation I don't think that
+291.08 - there's much in there that suggests
+293.28 - anything different from a some of the
+295.28 - takeaways from this very extensive study
+297.20 - when looking at expectations for implied
+299.36 - in volatility for August and September
+301.32 - the presence of an upcoming election
+303.00 - presented very little difference so a
+305.04 - lot of the talk about the elections
+307.56 - again very little difference very little
+310.08 - difference what did you I should have
+311.56 - asked what did you think from these
+313.24 - results do you change any of your no
+316.00 - business as usual doesn't mean anything
+317.32 - business as usual it's almost like it's
+318.84 - almost like you're trading an earnings
+320.08 - play it's business un usual up until you
+322.28 - know the earnings sure October in
+324.16 - election year was more volatile on
+325.80 - average but not because of the election
+327.36 - itself the capitulation in 2008 Ur
+329.92 - mostly in October and was the main
+331.88 - contributing factor to the higher
+333.20 - average bottom line there is no
+335.16 - significant directional Trends in any
+337.44 - month regardless of an election yeah

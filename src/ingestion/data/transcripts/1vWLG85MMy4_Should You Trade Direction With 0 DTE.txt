@@ -1,0 +1,221 @@
+0.12 - let's do it this is more than off this
+3.48 - is a zero DT piece that our research
+5.76 - team put together that is I really like
+8.96 - it anyway it's they called it to long or
+11.92 - not to long I don't even know what that
+13.12 - means but based on overnight moves in
+16.88 - the SPX the es whatever you want to say
+19.72 - what about directionality for zero DTE
+22.24 - do you think you get paid by being
+25.20 - directional based on an overnight move
+27.00 - so let's say the market was up overnight
+29.48 - last night do you buy them the Mark goes
+31.28 - down overnight do you sell them I mean
+33.56 - what do you do based on what happens in
+35.84 - the overnight markets when the Market
+37.24 - opens the next morning and you're
+39.04 - sitting there going all right how do I
+40.32 - want to trade these zero DTS I don't
+41.76 - want to sell a strangle should I just
+43.40 - sell a naked put you know puts or
+45.08 - Schmutz puts or Schmutz yeah I mean I
+48.68 - don't know how long this study is going
+50.16 - to be with with zero in one day I'm
+52.68 - gonna imagine it's relatively short um
+54.80 - 18 months 18 months yeah and in that
+57.32 - time frame we've gone to all-time highs
+59.76 - yes so I I got to say if we had a down
+62.68 - day and you sold puts for the next day
+65.92 - you had to have done well I think it's
+68.08 - good I think you get paid sure this is
+69.76 - an 18-month study looking at overnight
+72.32 - markets and determining whether you
+73.60 - should sell puts or calls or just taking
+75.24 - a directional shot we're going to give
+76.68 - you all the no I was gonna say like I
+79.00 - don't think the I'm gonna say the numb
+80.28 - is gonna be better for just selling puts
+81.72 - versus puts versus calls but I don't
+83.64 - think it's G to be I don't think it's
+84.76 - going to be as big as you think that
+86.08 - would be my guess the there is no
+88.24 - question over the last 18 months since
+90.40 - we've had zero de options that the
+92.60 - market has done really well in fact for
+95.16 - the last two years the Market's been up
+96.72 - huge and um we're we're basically you
+99.32 - know a day off record highs right um so
+103.40 - it would be really hard at this point
+105.40 - you know to think that that anything you
+107.84 - did in the put selling with with respect
+109.88 - to put selling would be successful sure
+112.32 - let's take a look so it tastes your our
+114.00 - core mechanics rely primarily on delta
+117.32 - neutral strategies and and and to be
+119.20 - fair you know we're pretty directional
+121.84 - so it's not that's not totally true but
+124.16 - when we when we when we talk about we do
+125.84 - research it it's mostly delt Neal but
+128.44 - the zero DT options are different
+131.20 - different enough from longer dated
+132.52 - options that it's worth re-evaluating
+134.00 - are our long-standing practices in an
+136.72 - efficient market deciding to be long
+138.84 - Delta short Delta or neutral Delta is a
+140.88 - personal risk preference and Market
+143.36 - assumptions but what happens if we pick
+146.60 - a side for a de zero DT trades and have
+150.12 - overnight moves been helpful as
+153.08 - signposts have they been helpful in US
+155.40 - picking Direction so we did in this case
+159.28 - like we always do now we use 18 months
+161.80 - of research and we used all the the
+163.60 - basically the tick data every 10 minutes
+165.60 - just so we can control the amount of
+167.24 - data we considered selling zero DTE
+169.72 - options not the day before but at the
+172.00 - market opening using Deltas now 35
+175.44 - Deltas 25 deltas and 15 Deltas options
+179.24 - put sand call not together but puts in
+181.08 - calls all the trades were closed to 25%
+183.52 - of Max profit so this is not holding all
+185.92 - day this is just quickly taking profits
+188.20 - if you can we Contra contrasted the
+190.64 - Performance Based on the size and
+191.88 - direction of the overnight moves did the
+193.72 - X rise or fall overnight was that by
+196.00 - more than a half a percent and did the S
+198.64 - change in absolute value by more than
+200.68 - half a percent and we did everything at
+203.04 - mid-price so you can add a little or
+204.76 - subtract a little which however you want
+206.28 - to look at it so short 16 Delta puts now
+210.28 - this is the one that if you were ever
+212.40 - going to have one that's going to be
+213.80 - probably the most I'm not saying the
+215.76 - best bang for your buck but I'm saying
+217.68 - you're gonna have the highest win
+218.68 - percentage this is going to be it
+220.40 - because Tony and I both said we've been
+221.68 - up for 18 straight months this has been
+224.04 - kind of the layup I mean sure I didn't I
+226.08 - don't do this but this has been a layup
+228.08 - hindsight right I mean in hindsight the
+230.68 - win percentage overall 97% which is
+233.84 - insane if the xpx rose overnight 98% if
+236.80 - the if it fell this is selling puts 96%
+239.76 - % if the SPX Ro it didn't matter what
+241.84 - happened half a point down up whatever
+244.36 - it is you made money if you just sold 16
+247.24 - Delta puts on the opening in the zero
+249.56 - DTS every single day since we since we
+253.16 - had zero DT options except for today
+255.80 - you'd be doing quite well right and the
+258.28 - day is not over but sure you'd be doing
+260.08 - quite quite well let's go next slide so
+262.32 - now we're going to look at the 15 Delta
+265.04 - calls would you have done as well
+267.24 - considering it's been on bull market the
+269.28 - win percentages are really high 92%
+271.72 - overall the win percentage is actually
+273.56 - higher than I thought here and and the
+275.36 - interesting thing here is 100% win
+277.12 - percentage at the S Fe F fell by more
+279.16 - than a half a percent overnight and a
+281.36 - half a percent is nothing I mean let's
+283.24 - put it where it is 25 20 2528 SPO
+286.96 - handles yeah exactly yeah but but here's
+289.88 - the crazy thing Tony overall you lost
+292.16 - money yeah that is crazy overall you
+294.24 - lost $80 a trade if you sold puts you
+296.44 - made a lot of money if you sold calls
+298.72 - you lost money even though at a 92% win
+300.80 - rate and more than more than I had
+303.28 - suspected prior to the to seeing the
+305.28 - stud yeah pretty much selling calls only
+307.12 - worked if the snps had a had a pretty
+311.20 - big down move overnight as you go up
+313.40 - step up a class in Delta here to the 25
+315.56 - Deltas your short puts still worked
+318.56 - really well of course you know
+320.40 - regardless of the market overall 95%
+323.48 - your average daily p&l $118 overall
+326.44 - short puts worked really well the the 15
+328.72 - Delta or the 25 Delta if you go to the
+331.40 - next slide which is the calls it's a
+333.16 - very different story you lost money
+335.20 - pretty much no matter what you did
+336.52 - unless the S&P was down big overnight
+338.52 - the only time to sell calls was when the
+340.60 - S&P was down big overnight because it
+342.04 - didn't it must not have reversed against
+344.36 - you that many times or the volatility
+346.68 - got you know so high that even if it did
+348.64 - reverse it didn't reach that number
+350.92 - again just another way of saying you
+352.32 - know when volatility is high you you you
+354.16 - can almost do you know you can do both
+356.20 - sides and that's only when the S&P by
+358.28 - the way was down more than a half a
+359.96 - percent overnight as measured by we put
+362.32 - SPX here but it's really the the es
+364.52 - Futures is how they do that judge that
+366.48 - the win percentages were still really
+367.96 - high but you overall lost money so
+370.28 - selling zero DTE overall on the call
+373.20 - side whether it's 15 Delta or 25 Delta
+375.88 - did not work unless there was a big down
+377.60 - move overnight selling puts Works no
+379.64 - matter what let's go to the $35 much you
+382.04 - said it from the very beginning on the
+383.40 - 35 Delta I mean the win rate's still
+386.08 - ridiculous and you can see here you even
+388.36 - made more money right you killed it with
+390.24 - 35 Delta puts I mean those are you know
+392.88 - the the bigger the put the more money
+394.36 - you made that's because over the last 18
+396.88 - months instead of being up 53% of the
+399.40 - time the Market's been up closer to you
+401.36 - know over 60% of the time that's why
+403.80 - these numbers are huge if you go to the
+405.80 - calls I'm sure it's not going to be as
+407.52 - pretty and go to the next slide Beth 35
+410.08 - Delta calls and every number is pretty
+412.16 - much a loser unless we were down big yep
+414.80 - y so the the takeaway from this is with
+417.96 - the Zero DS for the last 18 months if
+420.20 - you wanted to get long you did really
+422.04 - well selling puts on the opening didn't
+423.68 - matter what what Delta if you wanted to
+425.76 - get Short Selling calls you did really
+428.28 - poorly period That's the fact Jack
+431.36 - that's the fact unless the S&P was down
+433.52 - big that's only thing let's go to the
+435.48 - next slide Beth so takeaways over the
+437.72 - past 18 months short out of the money
+439.40 - zero DT puts have generally been a
+441.88 - winning trade provided they were managed
+443.56 - aggressively remember these are all
+445.20 - managed at 25% of Max profit so nothing
+448.52 - went to the end of the day so you had a
+450.24 - day like we had one day where we opened
+452.16 - down like 100 points the S&P we closed
+454.16 - up but you had a chance to manage that
+456.36 - at 25% you were out 25% of the profit
+459.44 - yes correct right a large overnight gain
+461.36 - in the was the only negatively
+463.52 - correlated factor for short putut
+465.12 - success short calls on the other hand
+467.00 - were generally successful only after
+468.80 - large overnight losses or large
+470.92 - overnight drops I'm sorry the efficient
+472.84 - market hypothesis says that we shouldn't
+474.76 - put too much faith in looking at past
+477.52 - price moves for making our trading
+480.00 - decisions but if you decide to be
+481.80 - directional with your Z trades
+483.76 - considering overnight s moves or
+486.16 - overnight es moves is a reasonable place
+489.56 - to start the numbers are pretty
+491.96 - remarkable as Spanky would say of the
+494.00 - hour gang remarkable

@@ -1,0 +1,20 @@
+0.16 - when do you use a defined risk strategy
+3.32 - versus an undefined risk strategy
+5.52 - sometimes I'll use undefined risk when I
+7.56 - don't really like trading a certain
+8.96 - underlying that's number one or I think
+11.00 - the markets are too wide that's number
+12.48 - two because if you use Define risk then
+14.44 - it's easier for the counterparty to
+15.64 - spread it off and then number three is
+17.80 - if I feel like it's a very ineffective
+19.96 - use of capital like I'm not going to
+21.88 - want to tie up naked options on A1 th000
+25.12 - stock for example that I really don't
+27.20 - care about I'd rather do that to fine
+28.68 - risk so it has do with capital
+30.56 - efficiency it has to do with liquidity
+33.00 - and it has to do with whether or not you
+34.96 - even want that position sometimes we'll
+36.92 - just do something to find risk cuz we
+38.20 - don't really care

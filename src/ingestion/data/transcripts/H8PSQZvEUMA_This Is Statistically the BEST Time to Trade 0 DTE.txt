@@ -1,0 +1,177 @@
+0.04 - we're calling this open to 90 minutes
+2.60 - minding your zero GTE so we like to do
+5.60 - things early and bat this is early this
+8.32 - is the first 90 minutes of the day let's
+10.28 - see what we got so zero DT markets in
+12.68 - liquid underlyings are some of the
+14.40 - fastest and most exciting arenas for
+17.28 - retail option Traders while longer dated
+19.08 - options can profit even under more
+21.36 - languid approach big word there
+23.72 - experienced Traders know that careful
+25.76 - attention and Rapid management are keys
+27.28 - to success in the zeros how telling is
+30.00 - the initial performance of a zero DTE
+31.60 - trade and what can we do based on
+33.36 - checking in at the
+35.96 - 90minut Mark you think you're bet since
+39.12 - we've shown that after 12:00 trades
+42.44 - usually go arai I'm going to say the
+45.36 - first 90 minutes are telling I don't
+48.12 - know it's a pure guess let's take a look
+50.16 - so we're going to use 18 months worth of
+51.84 - data we've stepped up our game and we're
+54.28 - going to use zero DT strangles at the
+56.08 - market open and we're going to do them
+58.00 - 10 20 and $30 out of the money we
+60.20 - checked the position after 90 minutes
+62.00 - and separated the results between those
+63.36 - were up and those were down investigated
+65.24 - closing or leaving the positions alone
+66.72 - at this point as well as the performance
+68.20 - of a fresh reentered position 90 minutes
+71.24 - into the trading day well I can tell you
+72.76 - right now that reentering after 90
+75.08 - minutes is going to perform way better
+77.80 - than leaving them alone but my gut says
+81.36 - that closing after 90 minutes is the
+83.32 - best thing cuz that's been my experience
+85.64 - close after 90 minutes and get out of D
+87.20 - managing winners is really managing
+88.72 - Winners close out at 90 minutes and get
+90.16 - out of Dodge you have a 90 85 90% win
+92.76 - rate close after 90 minutes get out of
+94.76 - Dodge if you have to stay in reenter but
+97.52 - if you staying in and you don't reenter
+99.24 - you're dead that's my that's just my gut
+101.32 - based on what I've learned so far caveat
+103.56 - naked's short options are extremely
+106.40 - buying power inefficient so almost all
+109.36 - accounts should purchase far to the
+110.92 - money wings that just reduces your
+112.40 - buying power climate which will reduce
+114.12 - your daily p&l by 5 to by 5 to 15 cents
+118.28 - depending on how much buying power
+119.60 - you're willing to commit the Assumption
+121.40 - here is that we didn't buy the wings but
+123.96 - we assume that if you do you're going to
+125.96 - do when we trade them we buy the wings
+127.88 - typically or do some sort of you're
+129.12 - going to do about 10 to 15 cents worse
+131.12 - than our numbers if you buy the wings
+132.92 - from month back month yep so our
+135.04 - reigning zero DT mechanics call for
+136.96 - closing positions at 25% of Max profit
+139.52 - sometimes this happens in the first 90
+141.16 - minutes so we decided to look at where
+143.12 - the three triangles we talked about $30
+145.80 - out of the money $20 out of the money
+147.12 - and $10 on both sides and then we looked
+150.60 - at the average p&l at 25% which is kind
+155.20 - of you know we do win percentage at 90
+158.36 - minutes which is what's new to this the
+161.16 - average p&l at 90 minutes and the wind
+163.52 - percentage at the close and the average
+164.56 - p&l at the close Okay so so this is this
+167.08 - is interesting for starters the average
+169.48 - p&l at 25% let's say we do 20 Delta
+172.84 - strengths that's usually we do the 20s
+174.60 - so the 20 Delta strangles the win
+176.56 - percentage of 94% that's pretty damn
+178.64 - good and and and the p&l 251 that's huge
+182.04 - that's at 90 minutes the average p&l at
+185.16 - 90 minutes then is 263 so the average P
+188.40 - 25% it's 251 and at 90 minutes it's 263
+192.08 - that's about the same the average win
+194.16 - percentage in this case is about 94%
+196.88 - okay that's pretty damn good if we held
+198.24 - these things to the close it drops down
+199.52 - to 71% and the average pen is negative
+202.04 - that's why we don't do that okay that's
+203.60 - why we don't do it at all the two of the
+205.28 - three pnls there are negative if you
+206.52 - hold to the close without recentry let's
+208.32 - go to next slide we looked at overall
+210.52 - winners at 90 minutes and then losers at
+212.92 - 90 minutes okay closing basically and
+215.44 - then let's go that's naked zero day
+217.32 - trade we did had a had a pop of closer
+219.52 - to 80% so i' would say it was even below
+221.76 - the 20 Delta that they have there if I
+223.96 - had to make a guess okay so this is $30
+227.20 - out of the money and the win percentage
+229.44 - at 90 minutes really high okay the
+232.52 - average p&l at 90 minutes really high
+234.64 - the win percentage at close and the
+237.00 - average pel close not bad the win
+239.24 - percentage at close for reentering was
+242.80 - 79% and the win percentage the average
+245.28 - p&l at close for reentering was a
+246.72 - negative number that really surprises me
+249.16 - that that did not work out that's for
+251.00 - winners for losers on the other hand
+253.32 - when you did the 90-minute losers and
+254.92 - you reentered then that turned out to be
+257.40 - a winner so when you had a winner and
+259.44 - you turned out to be a loser when you
+261.36 - had a loser and you recentered it turned
+263.12 - out to be a winner that's really
+264.40 - interesting yep when you had a winner in
+266.40 - your recenter it turned out to be a
+267.80 - loser when you had a loser in your
+269.04 - RECenter turned out to be a winner wild
+271.36 - overall win percentage 68% I guess
+273.88 - that's okay the average pen at 90
+275.52 - minutes is negative if you just combine
+277.52 - everything and yeah I don't think that
+279.96 - the overall just doing it any time made
+282.36 - that much sense let's go to next slide
+284.32 - oh they're just going to go down the
+285.40 - line here so the the the 20 Deltas the
+288.20 - numbers are going to be basically the
+289.88 - same you do 20 Delta out of the money
+291.72 - strangles if you do 10 let's go to T
+293.68 - next I bet it's going to be the same
+295.40 - yeah it's going to be just a little bit
+296.40 - worse because they're they're too close
+298.12 - to at the money they're all turned out
+299.32 - to be loers so you got to be a little
+301.04 - bit away from the at the money strike
+302.84 - little bit away from the at the money
+304.16 - strike it's just that the losers are too
+306.72 - big here let's go to the next slide so I
+309.88 - I think I can already tell you what the
+310.84 - takeaway is going to be the first hour
+312.16 - and a half can be quite telling for
+314.52 - short premium positions when a trade
+316.40 - reaches 25% of Max profit quickly you
+319.32 - can close it immediately wait a few
+320.68 - minutes but don't let it ride to the end
+322.12 - of the day it was also a profitable
+323.92 - strategy to close winners at 90 minutes
+325.52 - even if they were less than 25% of Max
+327.40 - profit while it remains to be seen what
+329.08 - sort of manag will be most beneficial
+330.84 - reentering POS losing positions after 90
+334.04 - minutes appears to be promising even
+335.76 - though holding through expiration was
+338.04 - successful we haven't had a lot of back
+340.36 - and forth action I know this is over you
+342.12 - say 18 months right I mean even over
+344.12 - that time frame we haven't had a lot of
+346.00 - back and forth so reentering if we
+348.24 - continue in the same type of Market that
+350.04 - we've had certainly looks like in today
+352.48 - reentering would have worked on this
+353.92 - trade too yeah so the bottom line here
+357.00 - is that if you reentered losers it
+360.32 - really worked out if you reentered
+363.28 - winners it was far less effective far
+367.60 - less you're better off taking your
+368.88 - profits and walking away wait and
+370.84 - actually you're always better off just
+372.00 - taking your profits and walking away
+373.28 - awesome let's take a quick 90c break
+375.28 - we'll come back with ojoy your friend in
+377.00 - mine Mr Scott Sheron tasty trade World
+380.16 - Headquarters we'll be back in 90 seconds

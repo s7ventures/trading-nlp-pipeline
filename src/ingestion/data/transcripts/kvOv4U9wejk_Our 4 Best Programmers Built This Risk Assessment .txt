@@ -1,0 +1,825 @@
+0.08 - little disclaimer on what it is give us
+2.28 - just your highlevel overview of the tool
+6.04 - that we have in the pl platform it's
+8.48 - like it's a stress test your position so
+10.56 - we want to create something in the
+12.16 - platform where client can look at the
+13.60 - positions and see okay what if some
+15.28 - happens right what if the market goes
+17.52 - down 5% or my stock goes down up 10% or
+20.96 - what happens if apply volatility goes up
+23.16 - you know we want to be able to put those
+24.48 - all things into a tool you can kind of
+26.12 - see okay assess the risk and okay I'm
+28.40 - okay with I'm okay with the risk maybe
+30.20 - I'm not okay with the risk I want to do
+31.56 - some stuff to offset the the losses
+33.88 - right so and what's cool about the what
+37.80 - you showed me yesterday is it's you can
+40.16 - stress test your current filled
+43.08 - positions from your positions tab but
+45.08 - you can also put on kind of hypothetical
+48.08 - what if situations like if if I put on
+50.36 - the siren Condor let's throw this into
+52.52 - the stress test and see how that might
+54.36 - change and adjust my metrics yeah it
+56.80 - takes in all your open positions right
+59.00 - and then if we can Al create where you
+60.88 - do some what if scenarios right and they
+63.04 - also tell you where where the risk will
+64.44 - be at in the risk raise beautiful
+67.56 - beautiful let's jump to the next slide
+70.08 - here so um when you're looking at kind
+73.32 - of the features and we're going to show
+74.52 - this all these are just kind of the ways
+76.28 - that you can adjust all these uh inputs
+79.72 - on the the risk analysis tool um you can
+84.40 - get all of your positions on the risk
+86.88 - analysis tool you can add new positions
+89.24 - there's also like a span margin feature
+91.88 - where you can look at if you're using
+93.52 - Futures you can see that sort of uh
+96.00 - change as well um just a little bit of
+100.24 - about this and you'll be able to see
+101.76 - both upside and downside in those uh
+105.08 - changes so there the risk anal the risk
+107.64 - array is in both sides of the market
+109.72 - what happens if the the market itself
+112.68 - goes up or down a certain percent as
+114.84 - well as the changes in implied
+116.64 - volatility yep and if you want to follow
+118.64 - along while we go through these to get
+120.36 - to this view to analyze this you just go
+123.76 - to your positions tab on the desktop app
+126.36 - click on the cap wreck button in the
+128.44 - upper right corner and from there you
+131.64 - can click on risk analysis uh and follow
+135.88 - along and and kind of mess around with
+137.48 - this as we go through
+139.88 - it good stuff let's jump to the next one
+143.76 - here so you can also change time inputs
+147.60 - right so you have you have price by
+149.92 - volatility time all these things can can
+152.68 - be changed and adjusted you could and
+155.12 - adjusted you could do that for the
+156.60 - portfolio as a whole for new positions
+159.12 - or for specific positions so you can you
+161.64 - can change whatever sort of input
+166.40 - specific to one position that you choose
+169.28 - correct yeah we again we're using an
+171.12 - option pricing model so we're taking
+173.36 - those inputs in current price you know
+175.96 - time to expiration everything else into
+177.48 - the model right and then generating what
+179.44 - the theic gains or loss would be on at
+181.80 - different price points so you can see
+183.88 - you can see exactly what will happen you
+186.04 - know up 6% down 6% you know up 15% down
+190.40 - 15% so you can see what the profit and
+192.60 - losses are going to be like in JB Morgan
+194.12 - you see that if we go down what 15%
+196.68 - right with a stock right I lose six
+198.76 - grand and then but then I make you know
+200.60 - $1600 on the puts right so everything is
+203.04 - getting offsetted as it get aggregated
+205.04 - so you aggate the gains and losses right
+207.24 - to determine on each price point
+208.96 - determine what you're Expos OS is yeah
+211.60 - and from here you can use uh percentage
+214.44 - changes or you could use points so
+217.80 - that's another way that you can kind of
+219.52 - differentiate how you're analyzing the
+221.52 - total portfolio or the positions within
+223.24 - the portfolio uh and when you click that
+225.84 - capar button you can either include
+229.40 - everything in your portfolio or you can
+231.28 - include specific uh positions that you
+233.64 - have with those check marks before you
+236.00 - click over to the risk analysis uh tab
+238.52 - just next to it yeah nice part two is
+240.24 - you can see we have price and IV so you
+241.76 - can update that yourselves refresh it
+244.00 - you can refresh refresh the prices you
+246.32 - can refresh positions if you made a
+248.12 - trade you want to make sure it's into
+249.32 - the risk analysis to you click on
+251.32 - positions to make sure this gets
+253.24 - added yeah so clicking on any of those
+255.40 - buttons in the upper left like price and
+257.28 - IV price positions if you click on those
+259.20 - buttons it just automatically refreshes
+260.96 - it and makees sure that it's using up
+262.92 - to-date information
+265.28 - yep very good jump to the next one here
+269.84 - so um the next slide two so we're
+273.52 - looking at Greeks I believe is our next
+275.76 - one here so um you can also change and
+279.60 - see what changes in your in your Greeks
+282.40 - based on all these situations so your
+284.28 - Delta Theta bega show you how all of
+286.96 - your positions change in those
+289.40 - situations so by hovering over you know
+292.24 - your specific
+294.52 - um uh position step right you you you
+298.16 - call them steps like so like each these
+300.36 - you'll see the 1 2 3 4 and five at the
+302.92 - top it's basically so if you have a 25%
+305.88 - down move is what you're simulating each
+308.80 - step is five 5% down to give you an idea
+311.84 - of like you know along the way what your
+314.88 - risk or reward is on both sides of the
+316.68 - market but it'll show you your changes
+320.44 - in in Greek exposure as well all along
+324.60 - those steps going down yeah we want to
+326.16 - make those stes equal you know equal
+327.60 - distance to each other right and then I
+329.48 - mean you can go in there and if you want
+330.56 - man you can Al also change it too on on
+332.72 - the left- hand side on on the
+334.44 - percentages but yeah and the Greeks part
+336.40 - is we're calculating the Greeks for each
+337.96 - position right based on the current
+339.88 - implied Val right and then you know also
+342.88 - we we also roll up to Apple first uh
+345.60 - aggre greets too so take all the
+347.68 - positions offset offset the Greeks right
+349.96 - and give you aggate for Greeks for each
+351.96 - position too on the headings for
+354.52 - Apple yeah I think especially with uh
+357.52 - portfolio margin accounts it's important
+360.52 - to understand how buying power can
+362.52 - change with moves in the market with
+364.00 - moves in IV and this kind of really
+365.72 - helps you get a good understanding of
+367.44 - how that might change in events that
+369.88 - we're not foreseeing like the Japanese
+372.08 - Yen unwind that that caused a lot of
+374.08 - buying power changes with people that
+376.00 - had bullish positions in the markets uh
+379.16 - this is something that you can kind of
+380.40 - utilize to synthesize a similar move or
+383.92 - uh you know something more dramatic or
+386.00 - less dramatic yeah and a great price too
+388.08 - is like you say the field price too show
+389.76 - them when when we put these inputs into
+391.72 - an option pricing model right here's
+393.52 - what your the price could be for the
+394.84 - calls and puts right so the option
+396.60 - pricing model is calculating you know
+398.24 - theorical prices of your calls and puts
+400.32 - to tell you okay where that if I sell
+401.64 - that put at a dollar you know it goes to
+403.52 - $7 right that that's the difference
+405.40 - that's how you figure out the gains and
+406.40 - losses on the position right so that's
+408.32 - kind of nice you can see everything in
+409.56 - there so we want to make displays that
+411.96 - are transparent right yeah it doesn't
+414.08 - any good if you do a stress test on a on
+415.80 - a Monte Carlo model you know 10,000
+418.00 - simulation what's that gonna do for you
+419.32 - right what you want to do is be able to
+420.88 - see yourself right call out Dr Data his
+423.28 - Monte Carlos well he can come in and
+424.84 - show all 10,000
+427.04 - simulations but the good point here is
+428.92 - that the clients can you know see
+430.12 - everything our models are transparent
+432.20 - and then they can do their own you know
+433.64 - what if scenarios you know to see if
+435.28 - they're comfortable with the risk or not
+437.16 - right yeah and I think uh like going
+439.56 - back to that an example that happened
+441.48 - earlier this year the Japanese done
+442.88 - unwind like uh I'm sure a lot of the
+446.52 - conversations that were had on the
+448.52 - margin desk were like okay I'm short
+450.32 - this put in the E Min futures or I have
+452.16 - this bullish position in the E Min
+453.36 - Futures my buying power has expanded how
+456.08 - can I mitigate this or how can I hedge
+458.20 - this risk and that's where you can
+459.80 - really bring in like okay if I buy this
+461.52 - put two weeks out for further out of the
+463.92 - money how is that going to affect my
+465.96 - position how's that going to affect my
+467.12 - buying power and that's where you can
+468.84 - really uh adjust the Greeks and bring it
+470.88 - in and let's jump to the next slide
+472.64 - because that talks about that
+474.64 - functionality and so you know one of the
+477.00 - things that you can do is you can add in
+478.92 - legs trades up to whatever uh you can up
+482.72 - to four legs because that's the maximum
+485.88 - order routing but um you can add on
+488.88 - simulated trades or trades prior to you
+491.92 - actually getting filled and placing you
+493.60 - know placing them and getting filled on
+495.00 - those trades and see how that will
+497.08 - change or affect the risk parameters in
+499.68 - your portfolio um as you go along so
+503.08 - this is a really cool tool for as Mike
+505.44 - said like if you're looking to hedge
+506.80 - your portfolio I want to hedge um
+510.28 - 10% down move or a 10% down move with a
+513.16 - 20% pop in volatility you can simulate
+516.00 - that via this um you know risk array
+520.40 - yeah I mean to Mike's Point it's great
+521.80 - for you know clients calling in trade
+523.36 - desk they can send them to this tool so
+525.00 - they can look at their risk right
+526.04 - instead you know in terms of they can
+527.60 - see what their losses and gains are and
+529.80 - two is like for if you have like in JB
+531.64 - Morgan if you have if you're have a
+532.88 - hedge that's expiring today right well
+535.16 - now you know to replace that hedge right
+537.12 - so you know to offset the risk right so
+539.08 - it's nice nice about that is you can see
+540.56 - what happens with your hedge oh hedge
+542.36 - expiring today you know am I comfortable
+544.20 - with 10 grand of RIS maybe I'm not you
+545.92 - know down %. so now I can replace that
+548.56 - hedge right and then that kind of shows
+550.76 - you what how that cut reduces your uh
+552.68 - theorical
+555.16 - losses love it love
+557.60 - it let's jump to the next slide
+560.96 - here um so for the price percentage
+564.96 - changes so you can look the the way you
+567.20 - can look at this is that you can have
+569.56 - them based on uh just all of them
+572.72 - together which is uncorrelated right so
+574.72 - that's basically just saying across the
+576.64 - board everything is down 20% right
+579.08 - moveing everything you know the same uh
+580.84 - price move for all symbols for all
+582.68 - symbols beta waiting does it to spy so
+585.76 - explain a little bit what how that how
+589.20 - that functions yeah so I mean obviously
+591.48 - spy everything everything beta weights a
+593.16 - spy you know now we out functional you
+594.92 - can spy you can actually ba we to other
+596.36 - symbols too in this example you know spy
+599.40 - obviously is is how everything is is
+601.52 - looked at right and so if you have a a
+604.12 - beta of two right meaning that you have
+606.32 - a high beta stock right so if the SPX
+608.80 - goes up you know down 10% that stack go
+610.84 - down 20% right so what we're doing by
+613.40 - probing the vaa beta is like a
+614.76 - multiplier for the stress so you're
+617.20 - you're say okay this if if SPX go 10%
+620.00 - you have a two beta your symbol go down
+621.88 - 20% we're going to show those 20% losses
+624.28 - in terms of of the stress test yep so it
+628.16 - and that's a really cool feature because
+629.80 - it takes all of your positions not only
+633.36 - the size but the correlation so like
+635.80 - it'll account for the fact that um you
+639.08 - know gold and silver have a low beta
+642.52 - right if if any beta you know positive
+645.36 - or negative correlation as well to spy
+647.84 - so it doesn't just you know nuke
+649.88 - everything 20% that feature allows you
+652.32 - to take your portfolio as a whole and
+654.84 - puts it you know together under beta
+657.84 - weting that's why we always talk about
+659.28 - dat waiting our positions and using that
+661.84 - as like a risk met metric you'll see
+664.44 - that in the risk array when we when we
+666.40 - demo through and again like we're
+667.56 - talking about transparent you can see
+668.76 - the betas on the left hand side you know
+671.12 - and then if you want to change it you
+672.12 - can always change you can change your
+673.52 - your stress test too like you know like
+674.84 - the betas you can you can change your
+676.80 - price move right to to where you think
+679.08 - it should be you know so which is nice
+681.48 - same with implied vals you can go in
+682.88 - there and change them separately too so
+684.48 - we made it or clients can make their own
+686.36 - changes too it's not just you know what
+688.24 - our we we think everything should be you
+690.24 - know we're making it functionality
+691.80 - scalability so you can do yourself yeah
+694.48 - you can really like edit anything right
+697.72 - and you can get super granular like you
+699.92 - can say this position goes down 20% and
+703.52 - volatility expands 10% and you could say
+705.72 - this one doesn't move like you right if
+707.36 - you have different options on different
+708.64 - series you may take down janv Val you
+710.92 - may take up dval you know I mean
+713.08 - whatever you want to do it you can do
+714.12 - your own little changes on your vow
+716.08 - right to see how that affects the option
+718.24 - pricing model yeah and especially if
+720.36 - you're using the beta we to feature you
+722.68 - can like we've talked about you it's
+724.64 - default to spy but you could change it
+726.20 - to something like the q's like maybe you
+727.80 - think if there's going to be a big move
+729.40 - in the market maybe it's Tech that leads
+731.80 - that or drags the market down you can
+734.08 - change the beta weighted symbol from Spy
+736.00 - to the cu's and see how those figures
+740.64 - change jumping over to the next one here
+742.76 - we're talking about the IV um changes
+746.16 - that you can do give me a little bit of
+747.72 - a explanation between points and
+750.60 - percentage right so we did it we had two
+752.64 - ways of doing it one you can do
+753.88 - percentages so if you move IV 20% it's
+756.72 - going move each individual option IV by
+759.40 - 20% right yeah okay IV shift is just
+762.52 - moving everything that that by the same
+764.80 - imply Val move so let's let's say that
+767.56 - vix rout now is like 15 let's say we
+769.92 - want to do like a 50% uh of the vix
+772.72 - right so let's say seven points s half
+774.28 - points you can go there and go and take
+776.44 - go iy shift and go seven points it'll
+777.88 - move each one individual imply vales
+780.00 - seven points so your imply vales a 30 it
+782.52 - goes to 37 your imply vales of 40 it
+785.20 - goes to 47 so there's different ways
+787.40 - where you want to do in terms of how you
+788.84 - wanted to U program your imply
+791.12 - volatility shocks you know and so that's
+793.08 - where you made it so you have different
+794.76 - ways looking at it and again you can do
+796.72 - that on the as the group as a whole or
+800.84 - each individual option you can even get
+803.20 - goofier and go and change you know
+805.52 - whatever option implied volatility you
+807.84 - want specific option
+809.72 - specific position correct yeah really
+814.84 - cool um jumping to the next one here so
+820.44 - um so this is for points so points you g
+824.72 - you gave us that already so points does
+827.04 - the position as a whole correct so it
+829.16 - moves everything the same so if you have
+830.80 - apple vow or Tesla vow it's can move
+833.28 - everything seven points you move
+834.80 - everything seven
+837.04 - points all right give us our take away
+839.36 - we'll finish up the slides and we're
+840.52 - going to get right into it and we'll
+841.84 - give you your disclaimer so we make
+843.48 - everything all kosher here you know we
+845.32 - try um so the taste trade risk analysis
+848.20 - tool is designed to offer comprehensive
+850.04 - and dynamic insights into your trading
+852.16 - portfolio allows traders to be their
+854.64 - best Risk Managers I like that we we
+856.72 - have great ones here but you should be a
+858.52 - good one as well uh allows you better
+861.24 - understanding of how different scenarios
+864.16 - impact your trading portfolio and
+865.68 - positions and you can make informed
+867.48 - adjustments to your positions to
+869.32 - optimize your risk reward profile give
+871.96 - me my disclaimer and then we're jumping
+873.52 - into the
+875.12 - platform definely fantastic again if you
+878.68 - got questions put them in the YouTube
+880.88 - chat Mikey's going to be throwing those
+882.16 - our way as well um but we want to show
+885.76 - the
+886.76 - platform um and the feature itself we're
+890.04 - going to have you walk through change in
+892.24 - some stuff adjusting some stuff so um we
+895.84 - will do that once we get this platform
+897.80 - up yeah um while we work on that David
+901.40 - asking what's the current Apex 40% down
+903.92 - Market multiplier today is it five or 6%
+906.68 - of a account that lick you know what
+908.08 - he's talking about so about a year and a
+910.16 - half ago they uh do know what he's
+912.40 - talking about I don't know that man
+914.00 - knows everything that's an encyclopedia
+916.32 - with a with a mouth so uh OCC came out
+919.88 - with uh stressing clearing firms so
+921.88 - there is a down 40% number they use for
+925.40 - firms in terms of how much that they put
+927.80 - up Capital right and so then we've hit
+930.40 - since they hit us and we have to Apex
+931.88 - had trickle down the clients where where
+933.72 - we have we have to imply a 40% number to
+935.96 - their portfolio rate and then we get a
+938.08 - function of their net L to exposure so
+940.88 - you know I think six or seven ratio is
+943.28 - kind of where we're at right now
+946.64 - so there you go David you tried to stump
+950.00 - the schami remember that remember that
+952.68 - show it was with um Johnny Carson no
+956.24 - it's uh Burman Chris Burman CH whoop oh
+961.00 - yeah yeah yeah like he used to have a
+962.20 - sport I thought it was a sports show
+964.12 - well you didn't get them but it was a
+965.24 - good question um all right so we're
+968.00 - going to get into it so on the portfolio
+970.24 - page on the platform you'll see in the
+972.72 - upper right hand corner this Capital
+974.36 - requirement button you click on that and
+977.04 - it'll give you your risk arrays here all
+980.60 - the things that you can change you can
+982.16 - pick which positions you want to include
+984.96 - you could have them all here which is
+986.52 - what I had selected you can select
+989.64 - specific positions I just go in here
+991.76 - randomly click a couple it'll show you
+993.48 - only those positions we're going to get
+995.60 - into it here we should have some fun
+997.36 - with it and just use all the positions
+999.12 - but uh might lessen it if we have to so
+1003.68 - when we get in
+1005.00 - here give me a a scenario and show me
+1008.32 - how to put that in here better yet I'm
+1011.84 - going to give you a scenario I want you
+1013.96 - to tell me and walk me through how we do
+1017.52 - that so let's say the market goes down
+1021.20 - or let's do our Price p our price change
+1024.00 - of 10% we're going to say IV goes um
+1028.44 - from a vix of 15 which we're at right
+1030.88 - now let's say
+1032.20 - 25 how would I make those adjustments
+1034.56 - and show me some of the things that I'd
+1035.84 - see so we would go into override right
+1038.56 - okay and click on
+1040.84 - uncorrelated and we're going to make
+1042.40 - that 20% right okay so that now that
+1045.16 - we're going to say everything goes down
+1046.52 - 20 everything goes down 20% everything
+1048.20 - goes down 20 % okay then we go IV shift
+1051.28 - and now if we can do a couple things if
+1052.76 - we want to go you know we can move the
+1055.92 - uh IV shift points is seven points
+1058.48 - relative to the vix relative so 50 if
+1060.76 - you take a 50% move right so goes to uh
+1064.12 - you say 15 to 25 25 so 10 points we can
+1068.04 - we can you know we can move it up 10
+1069.28 - points okay you know and then that will
+1072.00 - move all the imply valves up 10 points
+1073.96 - on each one of these uh symbols or we
+1076.40 - can just do like a 20% move you know
+1078.32 - however however you want to do do it you
+1079.24 - know cuz I mean 15 to to 30 that's a
+1081.80 - that's a big move right so I mean we can
+1083.48 - go up by 50% in case you want to do that
+1085.92 - and take the IV shift and go up 50%
+1087.80 - percentage moves 50% okay so it's a big
+1091.84 - one big that's a big one okay you know
+1094.04 - so just going to take each individual
+1096.04 - imply valow and move it by 50% so if you
+1099.20 - have a uh a 30 imply Val right that goes
+1101.96 - to 45% right so everything gets moved
+1104.76 - and this is looking at so on both and
+1107.24 - each one of these positions you can see
+1109.12 - the the change in the in the profit or
+1111.40 - loss based on each of these moves
+1112.76 - correct what's cool is that it gives you
+1114.28 - both sides of the market obviously on an
+1116.60 - up you know this implied volatility if
+1118.40 - you were thinking that it was going to
+1120.32 - be an up move there's no input to say
+1122.88 - like up 20% or down 20% they give you
+1126.08 - both if you were thinking that this was
+1127.84 - an up move you would probably say that
+1129.72 - volatility wouldn't change here or would
+1132.24 - go down you could adjust this to be down
+1135.36 - 10% and that'll change your risk profile
+1138.00 - you'd be looking on the on the right
+1140.08 - side of this risk analysis so you can
+1142.76 - change both the the array shows you both
+1146.28 - directions of whatever your inputs are
+1149.04 - in terms of the market moving that
+1151.36 - direction um but it also gives you it
+1154.04 - gives you the upside and the downside
+1155.96 - for both those correct and if you want
+1157.52 - to make changes like I receive indexes
+1159.16 - right you know we go up the Val then
+1161.04 - comes down right so you can make some
+1162.88 - changes to that right because you know
+1164.36 - obviously uh in index is you know Mark
+1166.84 - goes down B goes up right you know so
+1169.24 - you can make those own changes too on
+1171.20 - that too but yeah I mean you can go
+1172.76 - around there make your own uh what you
+1175.04 - think a a reasonable one day move is
+1177.12 - right you know so you know it maybe a 5%
+1179.88 - move 7% move right and then what's a
+1182.68 - reasonable uh imply valti he moving on
+1185.40 - one day right you know and then kind of
+1187.44 - put that in there I think one of the
+1188.68 - next things we're goingon to go have on
+1190.04 - there we're going to actually take some
+1191.40 - his historical dates and put into risk
+1193.56 - analysis I I was telling that before
+1195.52 - where we might take a 2020 Co day uh we
+1198.40 - might take the uh 2008 banking crisis so
+1201.68 - we're going to have some historical
+1202.80 - Market events and we're going to put
+1204.56 - down risk analysis to see how your
+1205.92 - position would have done through those
+1207.60 - days so we're taking those price moves
+1209.88 - and those volatility moves so Dr data's
+1212.12 - got the data for me that's so we working
+1215.28 - on that so you'll be able to to be like
+1217.24 - give me a OA crash scenario or covid
+1220.60 - crash scenario just automatically yeah
+1223.60 - and that's really powerful because this
+1225.32 - is a complex tool and it's you like
+1227.32 - we've we've spent minutes 10 minutes
+1229.48 - here learning how to use it we haven't
+1230.92 - even scratched the surface so much and
+1233.36 - that's that's really powerful because a
+1235.28 - lot of people like we obviously don't
+1237.28 - know what's going to happen tomorrow or
+1239.20 - in the couple of days like jpow could go
+1241.92 - on today and say oh our our 25 base
+1245.08 - point cut that everyone's expecting
+1246.48 - we're actually raising rates like
+1248.00 - something could happen Market goes crazy
+1249.92 - but if you have a benchmark like the
+1252.92 - covid crash or financial crisis or
+1255.40 - whatever now you can see okay my
+1257.72 - position is way too big or you know oh I
+1259.76 - could do this to hedge this risk if
+1261.80 - something like this were to happen uh so
+1263.92 - I think that's really powerful and the
+1265.16 - other you can also I know you shown how
+1266.72 - to simulate a trade too yeah on the
+1268.96 - platform we can also do that let's let's
+1271.08 - add that in there too so um I actually I
+1274.12 - was showing too that you can change the
+1276.08 - date of when this situation happens and
+1278.84 - so I just mve this to like early January
+1281.84 - uh just to show that as well and the the
+1284.44 - platform will adjust for positions like
+1286.36 - this Natty gas position I have that's
+1288.08 - expiring in a couple days it's gone so
+1290.64 - it's off it'll simulate all those things
+1293.16 - like it'll take off positions that
+1295.36 - expired or or you know uh it'll account
+1299.20 - for the time change as well all those
+1301.64 - things come into play here um just going
+1304.76 - through those yeah we're just plugging
+1305.68 - those inputs into the option price Model
+1307.32 - and it's how we're getting the theorical
+1308.88 - value the calls and the puts yeah so why
+1311.32 - don't we go
+1313.20 - and let's see you want to put a yeah
+1316.44 - pick one of your positions and throw on
+1317.92 - like a new position
+1319.04 - and then we can we can bring that in you
+1320.96 - don't have to get it filled you can just
+1322.40 - put it on and we can bring it in to
+1323.68 - simulate how that would adjust okay
+1326.04 - let's do um like
+1329.84 - AMD put on a put spread there this
+1333.08 - morning so we'll do the one I did for
+1335.64 - Johnny trades um we go to the cap
+1340.16 - requirement and I'm going to just I'm
+1342.04 - going to just isolate that position just
+1343.80 - so we can see it here so the risk
+1346.04 - analysis this is what I have on right
+1347.64 - here yeah then you have the add the
+1348.80 - trade in the upper right in the upper
+1350.44 - right hand corner it's going to add
+1351.92 - whatever I just put on there as well so
+1354.68 - you don't right you don't have to send
+1355.80 - the trade you don't have don't send
+1357.56 - don't send a exchange you can go in
+1359.32 - there create the trade here in a risk
+1360.92 - analysis and look at it before you want
+1362.16 - to send it and so this is showing that
+1364.60 - short put spread that I just added on um
+1368.60 - into the risk analysis so it gives you
+1371.52 - an idea and just to take that back um
+1374.92 - you could see you know I've got a little
+1376.56 - bit of risk to the downside obviously
+1378.96 - profits to the upside because I have
+1380.40 - some long Delta there if I add on this
+1382.40 - put spread you have to recreate oh I got
+1384.12 - to redo it I'm sorry so if I go to the
+1387.48 - page uh I put this back
+1390.28 - on go to the cap requirement add the
+1393.44 - order legs you see now I have this
+1395.08 - downside risk because I'm adding a put
+1396.64 - spread to an already long Delta position
+1399.20 - it just adds in all the inputs that you
+1402.12 - that you know you're putting in that
+1405.56 - trade yeah you can change all these so I
+1408.20 - want to also isolate too all the things
+1411.52 - that you can change in the input so if
+1414.20 - you hover over any part of this uh
+1417.68 - section it'll allow you to to change the
+1420.92 - price of the underlying so I could make
+1422.44 - my own manual um price change here and
+1425.20 - let's say it goes to
+1426.76 - 97 let change that value you can change
+1429.72 - the implied volatility of each option
+1433.12 - itself you could do it of the whole
+1434.76 - thing of all those options here you can
+1437.68 - see it's changing all those implied
+1439.16 - volatility so all those things
+1441.28 - are at your will to yeah we want to make
+1444.44 - some where you can make your own changes
+1445.76 - right we don't want some that's static
+1447.20 - right to here here the predetermined
+1449.44 - levels right we want you know clients to
+1451.96 - be able to be interactive and be able to
+1453.68 - decide what they want and again you know
+1455.60 - nice to know this like you know if
+1456.88 - clients have any suggestions they want
+1458.04 - to see you know let me know because
+1459.44 - we're always working to enhance our
+1461.76 - models so they see something they like
+1463.36 - to see in Risk analysis you love to see
+1465.40 - you know what they're what they think
+1467.16 - and everything else so
+1468.88 - I want to add so that we can because I
+1471.04 - don't have that many Futures I just have
+1472.52 - a m micro Euro and a Natty gas butterfly
+1475.68 - that's basically going away um so let's
+1478.72 - go in here and just put on a short put
+1481.28 - in es and just see how that you know
+1483.88 - affects my portfolio and we'll go into
+1485.88 - the span margin scenarios as well
+1487.88 - because it's another cool feature here
+1489.48 - so I'm going to go back here I'm G put
+1491.24 - my whole position in there we're going
+1493.40 - to add the short putut so you can see
+1495.28 - it's obviously a huge effect on my
+1497.04 - positions because it's a big position
+1500.08 - relative to everything else you know you
+1501.40 - have a short put in es it's you know
+1504.52 - much bigger position than my little
+1505.84 - Johnny trades that I have on here um
+1508.80 - when we go to the span margin uh
+1511.88 - scenario uh oh can we add the new
+1514.68 - position no it's got it's got to be a
+1516.12 - fill position okay but if you hover over
+1518.36 - it I'll show you something that's pretty
+1519.52 - cool on our span margining okay if you
+1522.72 - hover over the initial requirement it
+1524.80 - we'll break down to where it's coming
+1526.16 - from in terms of the span model so take
+1528.52 - your cursor and just there go we're
+1530.40 - going to we're going to put it I'm going
+1531.36 - to just put on a put spread so we'll do
+1533.80 - the oh yeah we'll do a wide put spread
+1536.92 - here just so we can show this um so
+1540.24 - we'll do this wide put spread out of
+1542.16 - money put spread we'll put this
+1545.60 - on okay so when we go to the positions
+1549.56 - we'll go to the capital requirements
+1551.52 - section so click on report to refresh it
+1555.08 - okay report this will refresh it got my
+1558.44 - auto Refresh on there too oh yeah so
+1562.36 - what can I change so so if you hover if
+1563.96 - you hover if you hover over initial
+1565.28 - requirement M with your cursor you
+1568.04 - should see that so it kind of tells you
+1569.84 - where it's coming from what's so span
+1571.56 - has 16 different scenarios you know and
+1574.28 - so volatility price yeah volatility uh
+1577.28 - volatility unchange up and down and then
+1579.84 - price moves so they basic time too right
+1582.40 - well they take basically they take what
+1583.96 - a one- day move would be let's say for
+1585.92 - ES is 5% right okay so they they take 5%
+1590.04 - uh and they move it uh a third 2/3 3/3
+1593.36 - so they they break it up to you know so
+1595.48 - so full move would be 5% then they break
+1597.20 - up into a third of five% two3 of 5% 5%
+1600.68 - and they apply a I think a 40% imply Val
+1603.44 - shock to it okay you know and then
+1605.16 - scenario 15 and 16 they take the price
+1607.16 - move was 5% they times it by three they
+1610.36 - become 15% and they take a third of
+1612.40 - those of of the of losses as a
+1614.32 - requirement so they so it's it's but we
+1616.52 - can break that uh snar down through our
+1618.68 - risk analysis meaning we have the inputs
+1620.32 - there to put into it to mirror what uh
+1623.56 - spam margin be look we're looking at but
+1625.84 - it's kind of nice you can kind of tell
+1627.32 - like from where where it's coming from
+1629.08 - Scenario 14 you know we know that's
+1631.36 - that's the full 5% move right and so we
+1633.64 - can kind of recreate that to show you
+1635.84 - where the risk is coming from and these
+1637.24 - are the see I want to try and put this
+1639.60 - on as a I'm gonna make this a naked
+1642.20 - position so that because I want to see
+1643.68 - the crazy changes do they account for
+1646.00 - limit up and limit down moves or is is
+1648.24 - that kind of like the same thing yeah I
+1650.28 - mean they they have a circuit breakers
+1651.88 - in place right okay I'm going to make
+1654.20 - this as wide as possible so we we wanted
+1655.96 - to take out the the black model of span
+1658.44 - and be able to put to to be able to put
+1660.52 - on risk analysis so we can kind of show
+1662.84 - like you know what other they're looking
+1664.36 - at it so yeah so just another nod to uh
+1668.52 - Clarity and transparency around like how
+1671.40 - these things are actually being
+1673.00 - calculated right all right I want to
+1675.44 - make this wider so we can see just
+1679.64 - I'm trying to do it with my limited
+1681.44 - capital on this
+1683.24 - account you're going to be putting a
+1685.00 - margin call right away like guys here
+1688.60 - that's true you could you could iners
+1691.40 - you know that's how they did it back in
+1692.84 - the day you get Tony Batista and he
+1695.20 - would uh he'd come to your door with a
+1696.88 - baseball bat that was how they did uh
+1698.56 - margin calls back in the
+1700.36 - day all right so we got I got a I got a
+1704.20 - wide put spread here in es what am I
+1708.32 - seeing and if you and if you scroll down
+1710.12 - if you go to the far right where those
+1711.16 - arrows are it'll kind of tell you where
+1712.96 - it's coming from so scenario 14 or 16
+1716.96 - now scenario 16 I'm yes so that's so
+1720.12 - that's that's taking the price moving
+1721.64 - moving to 300% like I said before it's
+1723.52 - going from taking it say one day mov 5%
+1726.72 - to 15% and then they're cutting a third
+1729.44 - of that as uh those losses as margin so
+1732.72 - that so that's three consecutive 5% yeah
+1735.48 - so 15 yeah 15% in the market as a whole
+1738.16 - it's a whole right so basically saying
+1739.76 - from 300% move means it goes from 5% to
+1742.80 - 15% take those those those losses haut
+1746.32 - highcut those losses that's going to be
+1748.20 - a Marin
+1749.24 - requirement and I think this is really
+1751.04 - important especially for I know there's
+1752.92 - some people that are you know selling
+1754.52 - puts in mini
+1755.88 - Futures uh this will help you understand
+1758.60 - like the true size that you can absorb
+1761.64 - like if you're doing one or two
+1762.76 - contracts but you're but you're way over
+1765.16 - Lev levered from a notional value
+1766.88 - standpoint this will show you how much
+1768.96 - you can truly absorb like if you have a
+1771.60 - a one day two- day move where it's you
+1773.40 - know down 10% 15% and you can't absorb
+1776.28 - that then that's problematic and you
+1777.60 - need to do yeah you go to risk
+1779.76 - analysis's can I do this for Mees well
+1782.92 - let's go let's go to risk analysis real
+1784.24 - quick and then uh so we should be able
+1786.96 - to see that on there on the on the
+1789.12 - capital requirement no just go risk
+1790.44 - analysis and then just put on ES oh you
+1793.60 - just want to do es yeah so take
+1795.12 - everything else off see how close we are
+1799.20 - so we have the 20% down with a 50% pop
+1802.44 - involv yeah so take everything off and
+1803.96 - just just make it a uh 15% move down oh
+1807.20 - I have AMD in there
+1810.52 - too
+1812.80 - 15% okay and then take off the Val shock
+1817.16 - okay so we're going to do this at
+1818.76 - basically no
+1821.12 - V yeah so you know so that's kind of how
+1823.72 - they they look at it in terms we have to
+1825.08 - take off AMD but it's fine yeah they're
+1826.40 - doing 55% but going to cut about a third
+1828.72 - of that for the margin requirement so
+1830.16 - and that's
+1831.52 - that's 50 is here correct correct what
+1836.04 - what's this yellow box I had saw a
+1837.76 - question from so the yellow box is just
+1839.72 - basically it's just telling you where
+1841.44 - the larg largest loss is coming from so
+1843.20 - on the risk Ray we we put the the
+1844.88 - colorcoded just client telling the
+1846.64 - client okay we're it's coming from step
+1848.84 - five right so the client can see where
+1850.64 - the large loss is coming from and it
+1852.28 - does it so like on this AMD position at
+1854.72 - a certain point cuz my position would
+1857.36 - basically be zero it basically tells you
+1860.16 - this position is at its Max correct if
+1862.48 - you have like spread trades or if you're
+1866.08 - you know long calls or long call spreads
+1868.36 - or whatever and the market drops those
+1869.88 - call spreads go to basically zero
+1871.24 - there's no more loss after that correct
+1872.80 - correct so it's kind of nice it's a way
+1874.44 - of us you know we kind of like to make
+1876.12 - the colors more more like a heat map
+1877.68 - kind of look to it you know yeah so you
+1879.84 - know clients can see it and we want to
+1881.32 - make sure they can it's easy to see
+1882.88 - right easy to read right so

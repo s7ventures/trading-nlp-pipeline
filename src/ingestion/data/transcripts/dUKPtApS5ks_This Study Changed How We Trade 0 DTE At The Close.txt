@@ -1,0 +1,284 @@
+0.08 - the last 15 minutes of the S&P 500
+2.48 - performance I've got some interesting
+4.16 - stats on top of all this when we're done
+6.72 - with this segment so we got to move
+8.08 - quickly let's go first Slide John the
+10.56 - zero DT option sellers can benefit from
+13.92 - uh benefit if the stock price stays
+16.04 - within a specific range by the day's
+17.88 - close so we analyze five minute bars
+21.32 - this is based on lots of customer
+23.84 - requests of near 4,000 trading
+27.20 - days for 16 years
+31.36 - and we looked at the final 15 minutes
+33.72 - from 2:45 to basically 3:00 3:01 central
+37.88 - time when when officially the Bell goes
+40.48 - off at 301 the key findings the last
+44.64 - 15minute range 85% of the time stays
+48.48 - within a quarter of a percent 95% of the
+52.92 - time stays within a half a percent and
+57.08 - these are just you know these are kind
+58.80 - of pretty straightforward statistics and
+61.56 - 98.66% of the time stays within 34 of a
+66.68 - percent okay now percent movees big yeah
+70.40 - yeah especially in like the spy and the
+72.00 - SPX so if you go onto the trading
+73.52 - platform you'll see like a one to two
+75.52 - standard deviation move is around 0.7 so
+77.80 - we're just saying that everything
+78.72 - clusters around that and the reason we
+80.72 - use spy instead of SPX in the study is
+82.92 - it's just easier to get spy data for us
+84.84 - than SPX because you're dealing with
+86.08 - smaller numbers so yeah that's the only
+88.04 - thing to point out here you can multiply
+89.68 - it by you can multiply it by 10 if you
+91.84 - want the SPX yeah so this is the F the
+94.40 - first chart is a normal distribution
+96.28 - chart shows the range is currently tight
+99.12 - 85% of the time it's around a quarter of
+103.60 - um a quarter of a percent now just to
+105.04 - put a quarter of a percent in
+106.64 - perspective um a quarter of a percent is
+110.12 - about 15 handles right so just to put
+112.84 - some context it's around 15 Handles in
+114.72 - the snps like this morning the S&P have
+117.40 - moved half a percent that's the whole
+119.36 - overnight that is correct we're talking
+121.80 - about the last 15 minutes it's about 15
+123.80 - handles now the way the markets are
+125.56 - priced like yesterday I sold some calls
+128.64 - that were 10 handles above so like you
+132.00 - don't get a lot of premium for 15
+133.88 - handles away I'm just telling you right
+135.32 - now so it's not like there's a lot of
+137.36 - juice there sure let's go next slide
+139.32 - when you like talk about percentages uh
+141.88 - it can get a little skewed the data but
+144.00 - yeah yeah when you talk about
+145.68 - percentages it sounds like oh I'm gonna
+147.40 - collect a lot of money for this no no no
+150.04 - if you go out to 15 you're going to
+151.76 - collect about 30 cents and about 15
+153.72 - handles away with 15 minutes to go you
+155.72 - know 30 to 40 cents tops if you're going
+158.28 - to go inside of that you're going to get
+159.52 - maybe a buck so each each TW each
+163.16 - quarter of a percent brings you in like
+165.88 - another you know goes like goes like
+167.88 - 3040 cents a dollar and then it goes
+169.96 - like 250 so
+172.52 - so believe me they have this down to a
+175.72 - science for the last 15 minutes of the
+178.56 - Spy um this is interesting so I'm not so
+183.12 - sure that you would have guessed this
+184.64 - Tony because I for sure thought it was
+186.36 - the other way
+187.44 - around agreed 48% of the time 48.3 we go
+192.60 - higher in the last 15 minutes and 50.2
+195.52 - we go lower seems like higher 100% of
+198.00 - the time is what I would have said
+199.40 - doesn't it yeah yeah I mean because I'm
+201.72 - living it it depends on the years that
+203.16 - you use actually before 2020 I think it
+205.24 - was slightly like uh higher uh but now
+208.36 - obviously because of we including 2020
+210.68 - data and 2022 data into here it's uh it
+212.92 - is actually uh closes a lot lower and
+215.44 - the interesting part about here is that
+216.72 - 1.5% of the time it was actually the
+218.84 - same there was no change at all and I
+220.80 - thought that number would be a lot lower
+223.12 - because I thought there was always going
+224.04 - to be change the last 15 minutes in the
+225.64 - market so
+227.08 - yeah I I'm actually in shock that over
+230.24 - the last 16 years the last 15 minutes of
+232.72 - the day has more lower days than higher
+235.32 - days I'm surprised yeah it's very
+237.12 - interesting so 4,000 days of 5 bars
+240.20 - during the last 15 minutes shows that 95
+243.44 - 5% of the time the Spy the last 15
+246.32 - minutes Falls within a half a percent
+248.12 - range now again half percent range is 30
+250.64 - handles so that's big and there's not
+254.40 - much juice in that but that's 95% yeah
+256.88 - for this graph too especially you can
+258.96 - see that the volatility increases so all
+261.16 - of our tasty mechanics hold true even
+263.12 - when you're talking about the last 15
+264.28 - minutes uh of the trading day where the
+266.60 - volatility increases towards the end of
+268.24 - the trade just like in a normal 45 DT
+270.60 - cycle where the volatility increases and
+273.36 - like so you can even think about even
+275.16 - though you would not do it uh too much
+276.68 - over you can even think about managing
+278.80 - just before closing and everything like
+280.32 - that just to exit out of the volatility
+281.88 - so on this slide we we we we basically
+284.88 - take it up a notch so you can see here
+287.68 - let's just see the calculation so what
+289.68 - am I looking at here so this we just
+291.76 - took a day like uh one of the days in
+294.24 - January so yeah January 17 just to uh
+297.20 - explain this point a little bit further
+299.08 - the calcul is uh just math don't get too
+302.68 - scared about it that 0.9975 and
+305.76 - 1.25 number that we're multiplying by is
+308.12 - just the to get the one standard
+309.48 - deviation theoretical move so we're
+311.24 - saying theoretically 85% of the time the
+313.72 - one standard deviation which is plus or
+315.12 - minus 0.25% it should be between 596 or
+318.60 - 599 and we showed that on this specific
+321.00 - day it was 597 which is a minus. 12%
+324.48 - move so on this specific day it happened
+326.28 - and on most of the days it'll happen
+327.64 - like this so if you just pick any random
+329.24 - day this is like an interesting chart
+331.56 - that you can generate if you go through
+333.12 - all the numbers that's really good I
+335.80 - like that and this is that same
+337.84 - information in table form so like your
+340.52 - minimum and your maximum numbers are
+342.80 - this is including all of the all of the
+344.64 - data so obviously Min - 2 and 3% those
+347.44 - two dates were from 2020 when you had
+349.60 - the most uh volatility so uh and then
+352.52 - your standard deviation your curtosis
+354.48 - this is very interesting the curtosis is
+356.84 - 41 and if you if you remember any of our
+359.32 - studies that have talked about cytosis
+361.36 - uh that means that it's uh the number is
+363.28 - greater than three that means that the
+365.36 - taals are going to be really really uh
+367.52 - fat and what that basically means is
+369.44 - you're going to have a lot of outlier
+370.68 - moves obviously in the SPX throughout 16
+372.88 - years of study it has had a lot of
+374.60 - outlier moves so all of our stuff that
+377.28 - we've talked about math stuff comes back
+379.24 - into the study in this table yeah that's
+381.16 - really good I like
+383.08 - it like you were talking about yeah
+385.64 - there's a lot of information here this
+386.88 - is great so 2020 had the highest number
+390.00 - of three standard deviation day outli
+393.08 - three standard deviation outlier moves
+396.00 - and since 2009 the medium count of
+398.60 - outlier moves is five per year God that
+402.20 - sounds like a lot to me yeah so this
+404.32 - graph very important we're not dealing
+406.16 - with percentages on this graph we're
+407.60 - dealing with actual numbers counts
+410.12 - because obviously the amount of times
+411.28 - that you're going to be moving three
+412.56 - standard deviation is very small and
+414.36 - yeah 2020 had the most and un
+416.88 - unfortunately we don't have 2008 data
+418.40 - over here i' imagine that would also
+419.68 - fairly High uh and then yeah the rest of
+421.84 - the years are all grafted out too and
+423.28 - some of the years you don't get any so
+425.72 - well three standard deviation is a lot
+427.20 - but um I'm still surprised five for a
+429.44 - year that seems like crazy okay now I
+431.56 - liveed that too and I would have said it
+432.92 - was less yeah you Tred to take out all
+435.96 - the bad information from your head yeah
+437.64 - you're right you're right yeah you kind
+439.48 - of for I would have said I would have
+441.60 - said a th% it was less I feel like if we
+444.64 - went back to your 2020 broadcast we
+446.44 - would hear you guys talking about it
+448.48 - every single day how it's moving so much
+449.88 - but I'm bad with dates anyway I try to
+451.32 - forget about everything but that's but
+452.96 - that's why 2020 just skews this thing
+454.92 - off well whatever that's that's all so
+457.64 - yeah this is just going by the months
+459.48 - yeah so this is outlier moves they
+461.36 - happen most frequently in March and
+463.16 - least frequently in uh July January and
+465.16 - December so this is just going through
+466.44 - months if you wanted to know that
+468.08 - information this data is also a little
+469.84 - slightly skewed because obviously March
+471.56 - has more trading volume than something
+473.12 - like January months that have more
+474.72 - trading volume will also have more
+476.24 - outlier moves than less but yeah it's
+478.72 - interesting to note that right now uh in
+480.64 - the January and December period uh do we
+483.36 - should not expect too many Aller moves
+484.76 - and then as we're heading into February
+486.04 - and March we should expect more I think
+488.16 - that historically we've had some of the
+489.64 - biggest moves ever in March you know
+492.48 - whether it's 2000 whether it's
+495.12 - 2009 whe you know basically whether it
+497.92 - was 2020 March has been you know March
+501.16 - is the month no doubt about it I don't
+502.84 - think they're going to wait till March
+503.88 - this year Tuesday has the smallest mean
+507.00 - and median percent move for the Spy the
+508.96 - last 15 minutes that's crazy how's that
+511.92 - possible you're learning a lot today s
+514.16 - so this is just going by the days now so
+516.08 - we're just going through all the
+517.12 - different data points Monday and Friday
+519.32 - uh so you would think from the last
+520.64 - slide that Monday and Friday uh are you
+522.56 - know they have the most trading Fridays
+524.48 - the expiration dates uh they would have
+526.60 - the most outlier moves but it's actually
+528.16 - just Tuesday and it's uh the blue and
+530.44 - the green is just highlighting the mean
+531.96 - and the median how much the mean you
+534.04 - know excuse the data and why we tend why
+536.16 - we use median a lot of the times as well
+537.68 - cu the bars between mean and median are
+540.60 - uh they have a lot of difference to them
+542.44 - but yeah just
+543.76 - Tuesday you would never think that I
+546.24 - would never never never in a million
+548.40 - years let's go to next slide and you
+550.32 - tell me this today I missed it now
+551.80 - yesterday oh I
+553.28 - yes yeah you're all by I have to wait a
+555.52 - whole week now we're off by day because
+558.00 - of Monday okay that's right that's right
+560.72 - takeaways tight trading range spy tends
+563.20 - to trade within a smaller range during
+564.60 - the last 15 minutes of the trading day
+566.56 - Tuesday has the smallest Range on
+568.28 - average all right bet Tuesdays we sell
+570.64 - on Tuesdays Tuesday we let them have it
+572.64 - sell that's right give them with both
+574.76 - hands outlier moves are rare and large
+578.32 - so three standard deviation moves are
+580.68 - very rare um upside outliers are more
+584.52 - painful than downside outliers and March
+587.20 - has the most outliers huh and then high
+590.92 - probability range targets betting that
+592.84 - the Spy trades within plus or minus a
+595.56 - half a percent of its 245 price was
+598.24 - successful 95% the time there's not much
+601.56 - juice in that but non-directional
+602.88 - defined risk sellers can thrive in that
+606.56 - time period mhm yeah and just remember
+609.44 - like Tom was mentioning with all this
+610.92 - stuff when you hear like 0.5% 0.72% when
+614.20 - you're talking about something like spy
+615.72 - or even the SPX like a 1% move in the
+618.00 - SPX is 60 bucks right now so you are
+620.24 - dealing with large dollar moves uh even
+622.80 - if the percentages are small over here
+624.32 - so yeah you're not gonna get a lot in
+626.92 - the Spy I mean you're really gonna have
+628.40 - to do you know
+630.00 - SPX because the Spy the problem is you
+632.68 - have too much uh assignment risk if
+635.80 - something moves after hours it's got to
+637.20 - be SPX

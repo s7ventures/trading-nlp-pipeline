@@ -1,0 +1,137 @@
+0.20 - part two understanding premium decay in
+2.68 - part one we showed that the realized
+4.88 - premium Decay curve is very close to the
+6.76 - theoretical one for at the money spy
+10.28 - options since most
+12.80 - Traders except for Dr Jim since most
+16.08 - Traders except for Dr Jim sell out-
+18.00 - of-the money options does the actual
+20.24 - out-of-the money Decay also follow
+23.84 - theoretical that is the
+26.92 - question let's go next
+28.96 - slide it's kind of a really good piece
+31.04 - it's long though unlike at the money
+33.12 - options the theoretical Decay for out of
+34.80 - the money options starts to decrease
+36.36 - approaching expiration date so let's
+38.96 - take a look at this historical data
+41.52 - basically what we're going to show over
+42.76 - the next bunch of
+45.12 - slides is
+47.16 - that there's a reason one of the reasons
+50.20 - I didn't I and I'm not throwing Dr Jim
+52.52 - on of the bus one of the reasons I
+53.68 - didn't like the piece that he just did
+55.28 - is we have mechanics and in our
+57.64 - mechanics we focus on mansion out of the
+60.44 - money options at 21 days or 50% we focus
+64.64 - on managing at the money options um at
+68.88 - let's just say 25% because because they
+71.56 - Decay because the Decay rate is slower
+73.68 - and you take more
+75.36 - risk the reason I don't like selling in
+78.24 - the- money options is because it messes
+80.16 - up our
+81.24 - mechanics that's fair because you have
+82.92 - to use out ofth the- money mechanics and
+84.64 - it doesn't make any
+85.92 - sense let's go to the next slide
+90.32 - um typical tasty study 45 days to
+93.80 - expiration 10 years of data 16 Delta
+97.08 - puts recorded the non-movement Curren is
+100.16 - stock price less than a half a percent
+103.04 - away from the original stock price order
+105.48 - entry and let's take a look go to the
+107.68 - next Slide
+108.96 - John so just like the theoretical curve
+112.36 - the out of- the money Theta tapers off
+115.00 - approaching expiration this is due to
+117.20 - the low probability of an option being
+119.04 - in the money
+120.60 - um at expiration the out of- the money
+124.12 - the the out of- the money Theta tapers
+127.88 - off that means when an option gets cheap
+129.64 - it just kind of sits there sure because
+131.72 - nobody wants to sell it's not worth
+133.00 - selling yes put that way the risk reward
+135.04 - the risk reward does is isn't there
+136.52 - let's go next do move in either
+137.68 - direction for or against right
+140.44 - yeah how does pure premium Decay look
+143.16 - for variety of Deltas so we'll look at
+147.04 - Theta Decay for 510 16 30 and 50 Delta
+150.64 - wide puts Delta puts if we hold the
+152.92 - Delta constant on a percentage basis the
+155.88 - further out- of-the money options Decay
+157.72 - faster than the at the money options and
+159.68 - then they taper so you can see here the
+162.20 - further out of the money options Decay
+164.48 - the fastest the at the money options
+166.60 - Decay you know the the at the money
+169.24 - options Decay much slower that's why if
+172.08 - you did this with in the money options
+173.52 - it would be incredibly confusing right I
+176.04 - mean you know it would look like it's
+177.96 - inverted you can see here the speed of
+180.00 - the add of money options versus the 50
+181.52 - Delta option the reason that we show you
+184.16 - this graph is because now you understand
+187.84 - why well I mean you're beginning to
+190.80 - understand why we manag the 50 Delta
+193.84 - differently than we managed the the 510
+196.72 - 6 510 16 20 Delta even the 30 Delta
+201.28 - let's go to next slide look how much
+202.88 - longer it takes to get there that's why
+205.64 - over the past 10 years even though
+207.96 - further further out of- the money
+209.48 - options tend to reach 50% of their Max
+211.36 - profit more quickly we need to consider
+213.72 - the differences in premium between out
+215.44 - of the money and at the money puts so
+219.24 - when you look at the at the money put
+221.20 - has $750 in premium when you look at the
+223.40 - out of the money put like the 16 Delta
+225.20 - is
+225.96 - $23 so the average money you make per
+228.24 - trade is significantly less and the
+230.84 - return on your investment is
+232.68 - significantly less however when you
+235.76 - manage a 21 days um the same trend as
+240.08 - exiting trads with profits are exceed
+242.00 - 50% it's it's it looks very similar so
+244.88 - like you had the 750 213 and then you
+248.12 - have the 134 61 it's almost the same
+250.44 - instead of 150 it's 133 instead of 75
+253.40 - it's 67 so on a nominal basis the at the
+257.16 - money options collect much more premium
+258.92 - per day yeah of course you're taking a
+260.92 - lot more risk this is just the this is
+264.28 - the symmetrical nature of trading
+266.96 - options you take more risk you make more
+269.52 - money
+270.56 - Mone which is a perfect math model which
+272.92 - is the way it should be a lot of time in
+275.68 - other models or other places you're
+277.32 - taking more risk you're not getting
+279.40 - compensated with the reward if you were
+281.32 - right that's exactly right that's why we
+283.56 - like this
+285.80 - um let's go to next slide so by
+290.12 - controlling for Del Delta we can
+292.96 - quantify the direct contribution of
+294.68 - theta to a trade's p&l return on
+296.88 - investment and premium to collect
+300.16 - out of the money options reach their 50%
+302.92 - winner Target much quicker than at the
+304.96 - money options which is why we manage
+307.68 - strangles early 21 DTS or 50% and
+311.60 - straddles at 25% of their Max profit
+316.32 - that's why people that sell in the money
+318.44 - options you get a little confused
+319.92 - because you think you should be managing
+321.96 - much earlier but you're really trading
+323.36 - the premium right not the actual you're
+326.80 - trading all these numbers are based on
+329.12 - extra
+330.24 - right not intrinsic right okay just to
+333.36 - be clear

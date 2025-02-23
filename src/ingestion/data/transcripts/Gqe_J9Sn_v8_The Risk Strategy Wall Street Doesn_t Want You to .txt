@@ -1,0 +1,288 @@
+0.08 - risk parody portfolio allocation um this
+3.64 - we're going back to well I put a lot
+5.16 - more way to spoil the party risk I know
+7.92 - right R all right I'll go on the
+9.72 - internet we got Julia and Jacob back to
+11.76 - back today way way to spoil the whole
+14.36 - holiday hey I think this is a fun one I
+17.00 - put a lot more pictures in this one
+18.88 - compared to the one from last week yeah
+20.92 - we got pictures this time uh and it's
+23.12 - also this is a back of the envelope
+24.76 - calculation which I think is kind of fun
+26.48 - this is more for an equities portfolio
+28.24 - it's a little bit more nuanced uh when
+29.72 - you want apply something like this to
+31.12 - options uh because you want to keep in
+32.68 - mind obviously position size and you
+34.32 - would want to me measure risk in a
+36.04 - different way so this is kind of the
+38.04 - classic one for an equities portfolio
+39.64 - but I still think the concept's really
+40.96 - interesting so I wanted to talk about it
+43.68 - yeah okay let's do let's do it okay so
+47.24 - um last week we Dove down this whole
+49.24 - rabbit hole in a modern portfolio Theory
+51.96 - as an approach to diversifying a
+53.16 - portfolio this was the kind of
+54.28 - continuation of that uh whole portfolio
+56.88 - diversification portfolio allocation
+58.92 - sort of series that we're talking
+60.00 - talking about and today I wanted to talk
+62.24 - about this method which can be used to
+64.76 - um determine portfolio weights based on
+66.60 - the allocation of risk rather than the
+68.60 - allocation of capital which I think is a
+70.40 - very interesting
+72.00 - concept make sense okie dokie sure easy
+75.64 - peasy right like nothing okay A little
+78.00 - bit of background okay so portfolio
+80.08 - allocation strategy they typically focus
+81.92 - on allocations of capital um that are
+84.20 - most likely to achieve a certain level
+85.84 - of risk a certain level of reward a
+87.80 - certain level of diversification so for
+89.92 - for this kind of example let's just talk
+91.88 - moderate growth equities portfolio 6040
+94.48 - this is going to be kind of hybrid 60%
+96.36 - stocks and 40% bonds and metals so to
+98.64 - keep it simple our portfolio is going to
+100.28 - have spy QQQ Apple TLT and gold 20%
+103.32 - allocated to each right
+107.36 - yeah yeah moderate growth equities
+110.24 - portfolio Okay so when we take these
+112.84 - five elements with equal Capital
+114.56 - allocations to each our capital
+116.44 - allocations on this chart are
+117.72 - represented in red and you can see
+119.04 - they're all even
+120.52 - right um when you look at the risk
+123.24 - contributions not exactly the same thing
+124.96 - as volatility risk contributions a
+126.68 - different calculation but when you look
+128.20 - at the risk contributions of each of
+130.12 - those components from 2015 to 2022 in
+132.88 - white you can actually see that spy QQQ
+135.76 - and apple have much greater risk
+137.68 - contributions um compared to TLT and GLD
+140.56 - which is what you would expect right
+141.68 - they're much lower volatility assets so
+143.12 - if you're allocating kind of 20% of your
+144.72 - Capital to each you would kind of expect
+146.48 - that Apple would you know as a more
+147.84 - volatile asset contribute a lot more
+149.92 - risk to this portfolio the total
+151.88 - portfolio volatility is 13.7% the the
+154.80 - risk contribution of apple is about 5%
+157.24 - so a lot of that's coming from Apple and
+158.60 - then you got um good amount coming from
+160.20 - NASDAQ good amount coming from Spy and
+161.60 - then very little coming from TLT and
+163.16 - gold which is again expect like right
+167.16 - right yes sure right okay so the idea of
+169.96 - a risk parody portfolio is that we kind
+172.92 - of want all of these components to sort
+175.36 - of contribute equal amounts of risk to
+177.44 - the portfolio overall and to figure out
+179.56 - what weights we would need in order to
+182.04 - achieve that and it really focuses on
+183.88 - this idea of allocating risk rather than
+185.68 - allocating capital and so this is a risk
+188.40 - parity portfolio um an example of that
+191.12 - and you can see those white bars those
+192.52 - risk contributions are a lot more even
+194.60 - this you know risk parody portfolio has
+196.84 - you know a volatility of about 10% with
+199.16 - about 2% coming from each and you can
+201.52 - see there's a much greater emphasis on
+203.24 - TLT and GLD when you do this risk parity
+206.12 - approach and then much less allocated to
+207.92 - Apple and the NASDAQ and spy right
+211.72 - yes yes yes kind of makes sense yeah so
+215.92 - the actual process of calculating the
+218.40 - weights for a risk parody portfolio is
+220.44 - actually a pretty intense numerical
+222.64 - optimization problem that I'm going to
+224.56 - dive into more on bad Trader because we
+225.88 - got more time there but there's a nice
+227.64 - like naive back of the envelope
+229.40 - calculation um that I wanted to kind of
+231.68 - cover it doesn't get as close to the
+235.08 - true risk parody as I'd like but it gets
+237.28 - you a little bit closer than the sort of
+239.04 - original idea of just equal weight
+241.56 - Capital allocation
+244.24 - yeah okay so we're going to show some
+246.92 - math but it's actually not as bad as it
+248.48 - looks we'll go through a numerical
+249.92 - example in a second um but when we look
+252.40 - at naive risk parity allocation it's
+254.32 - sometimes called inverse volatility
+255.68 - waiting we the goal really is to give a
+258.20 - higher waiting to lower volatility
+260.00 - assets and vice versa so the risk
+261.64 - contribution is a little bit more even
+263.48 - it's a little roughly the same across
+265.48 - assets although I'll show the actual
+267.12 - results in a second it doesn't get as
+268.48 - close as actual risk parity but it's you
+270.28 - know for a back of the envelope
+271.36 - calculation not that bad this is the
+273.32 - equation I'll show again a numerical
+275.12 - breakdown in a second but basically to
+277.32 - determine the weight for each asset we
+279.40 - want we want to take one over the
+280.92 - volatility of the asset divided by the
+283.00 - sum over one over the volatility of all
+285.08 - the Assets in the portfolio that we're
+286.32 - looking at um for n Assets in our
+288.52 - portfolio is what this equation is kind
+290.32 - of looking at does that make
+293.24 - sense yeah that's how exactly how we we
+296.60 - that's the back of the envelope I mean I
+298.08 - don't know the formula but that's the
+299.20 - back of the envelope approach we use
+300.52 - right now sure yeah it's probably the
+301.84 - back of the envelope thing that you do
+302.92 - in your head although I will say um for
+305.44 - options to be a little bit different CU
+307.04 - here I'll show the example we don't we
+308.84 - don't we don't do it with options I mean
+310.80 - we do it with the underlying right so
+313.92 - yeah so this I think has interesting
+315.44 - applications and options but again this
+317.04 - process is more for an equities
+318.32 - portfolio because the way that you
+319.36 - measure risk is obviously different with
+321.12 - options and this kind of assumes a fully
+323.48 - allocated portfolio whereas we want to
+325.20 - control our position sizes um when it
+327.24 - comes to options so there's more Nuance
+328.84 - there uh but the equi scenario is a
+330.80 - little bit more interesting and um so
+333.76 - here for example we got our let's let's
+335.88 - go back you know at our example
+337.40 - portfolio spy QQQ Apple TLT and gold
+340.16 - 2015 to 2022 we have all of our daily
+342.60 - returns right during that period so
+344.92 - first things first we're going to
+345.80 - calculate our standard deviation of
+347.52 - daily returns of that asset for so for
+349.28 - spyes about 1.14% makes sense daily
+352.00 - returns volatility about 1.14%
+353.88 - historically QQ is 1.40 Apple 1.83 Etc
+358.24 - um you can also use IV here in place of
+360.40 - historical volatility which is actually
+362.00 - kind of cool so if you don't want to
+363.16 - calculate it yourself you can just pull
+364.40 - it from a platform and then plug it into
+366.40 - that formula that I showed but first
+368.08 - things first we got to measure risk so
+370.28 - for equities we would use um kind of
+372.52 - returns standard deviation right make
+374.44 - sense
+375.60 - yeah and then once we have that we would
+378.40 - just kind of plug those weights into
+379.88 - that equation so for spy for example you
+382.40 - would take one over the volatility for
+384.08 - Spy 1 over 1.14 and then divide it by
+387.52 - one o like the sum of one over all of
+389.80 - the volatilities in portfolio so 1 over
+392.04 - 1.14 plus 1 over 1.40 for the q's plus 1
+396.24 - over 1.83 and so on and then you would
+399.36 - get about 20% as your risk parity
+401.96 - portfolio approximation waiting for spy
+405.80 - yes
+408.64 - okay you can use annualized volatility
+411.08 - you can use daily volatility it kind of
+412.56 - doesn't matter as long as all the
+413.64 - volatilities are time scaled the same
+415.40 - way so like IV is annualized as long as
+417.32 - you use IV for all the assets um or as
+420.00 - long as you use daily returns volatility
+422.28 - as long as they're all the same um that
+424.12 - can kind of work and why can't we just
+425.64 - use notional times the volatility you
+428.52 - can that that works too yeah okay but if
+431.28 - you wanted to apply that to equities we
+433.56 - want to be inclusive around here perhaps
+435.56 - for all the different types of Traders
+436.96 - this is the equity's approach but like
+438.32 - you said it's actually very similar to
+439.64 - some of the other types of you know
+441.24 - strategies that options figes us it's
+442.80 - just with different metric so if we now
+445.32 - take this and we repeat this for all the
+447.04 - different assets in the portfolio it
+448.96 - gets us closer to risk parody why don't
+451.64 - we do this again this back test from
+453.28 - 2015 to 2022 now those white bars those
+455.84 - risk contributions are a little bit
+457.32 - closer to being even um and we can see
+460.16 - that our weights as we would expect give
+461.76 - much higher waiting to TLT and GLD with
+464.00 - about 25% allocated to each and then
+466.52 - closer to 12% allocated to Apple Apple
+470.00 - Apple 20% allocated to spy and so on and
+472.96 - then yeah those are more even risk
+475.20 - contributions uh but it's not as close
+478.24 - as even as the actual RIS parity can
+480.56 - actually get you um but that being said
+482.36 - um it is closer and for a back of the
+484.04 - envelope calculation I think it's a
+485.64 - pretty it's a pretty simple thing to do
+487.60 - and it's pretty easy to understand um
+490.24 - and it does get you a little bit closer
+491.72 - but again true risk parity which like
+493.96 - you probably wouldn't Implement yourself
+495.28 - there's online tools that can be used to
+497.72 - kind of do this calculation um but the
+500.64 - back of the envelope way I think the
+502.20 - process is
+503.92 - interesting well it clearly looks a lot
+506.28 - better than the equal weight yeah yeah
+509.32 - right a little bit better um but that
+511.76 - being said I think one of the drawbacks
+513.24 - of doing this is that it really doesn't
+515.32 - take like your expected returns goals
+517.48 - into account we're really just trying to
+519.04 - sort of yeah equalize sort of risk
+521.12 - contributions to a portfolio and with
+524.04 - the goal of maybe having a higher sharp
+525.56 - ratio of having more stable returns over
+527.72 - time um but depending on your goals as
+530.36 - an investor um expected returns are
+532.52 - obviously something you'd want to keep
+533.76 - in mind so I wouldn't I would I don't
+535.28 - use any of these diversification or
+537.12 - weight techniques in a vacuum um you
+539.92 - usually want to use it with a bunch of
+541.12 - other stuff especially yeah for options
+543.04 - like the way you measure risk is very
+544.60 - different right so this isn't quite one
+546.12 - to
+547.32 - one got it true okay easy peasy
+551.80 - interesting good it's a fun one right
+554.16 - it's a fun we're going back to form a
+555.92 - little bit um yeah and a lot more
+557.72 - pictures this time but just to conclude
+559.92 - risk parity portfolio allocation focuses
+561.84 - on the allocation of risk rather than
+563.32 - the allocation of capital with the goal
+565.12 - of having each asset contribute roughly
+566.76 - the same amount of risk to the portfolio
+568.80 - overall and while true risk parity is a
+571.04 - pretty complex optimization problem
+573.28 - there's a naive approach that can
+574.60 - approximate these weights with the back
+575.92 - of the envelope calculation that places
+578.08 - more emphasis on Lower volatility assets
+579.96 - and vice versa and next week on bad
+581.56 - Trader because again we have that's a
+583.04 - live stream so we can just go into these
+585.52 - crazy Dives we're going to go we're
+586.96 - going to go into more of the methodology
+588.88 - behind true risk parity and talk about
+590.76 - our co-variance matrices and such um but
+593.60 - this one was a bit of a a lighter
+595.64 - version of that so I thought

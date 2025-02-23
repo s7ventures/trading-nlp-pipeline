@@ -1,0 +1,153 @@
+0.20 - what's up everybody Welcome to the life
+2.60 - cycle of a trade the series where we
+5.08 - break down the thought process behind
+7.44 - trade entry trade adjustments and
+10.44 - closing order in this video we are going
+13.28 - to cover an iron
+16.21 - [Music]
+19.48 - fly I'm looking at a trade that I don't
+22.00 - do a ton of and it's because it's a very
+24.92 - slow moving trade but you really need to
+26.64 - be uh High volatility underlying for
+29.32 - this sort of trade trade I'm looking at
+31.32 - paler and I'm thinking maybe an iron fly
+34.48 - sets up nicely here so if you look at
+36.36 - paler it's a stock that has absolutely
+39.52 - exploded to the upside it's very much a
+42.48 - um has had a lot of social Buzz to it to
+45.96 - say the least uh I'm looking at this
+48.12 - implied volatility of almost 70% implied
+51.60 - volatility when you get into the
+52.64 - earnings expiration which is out in
+54.52 - February you got in the 80 handle
+56.64 - implied volatility so very high implied
+58.92 - volatility stock has come down a tiny
+61.40 - bit and and the biggest issue here for
+64.24 - this stock is that it's got a little bit
+66.96 - higher margin requirement because of how
+69.40 - high that volatility is if you were to
+70.96 - do a strangle here naked it would use
+73.44 - about 2500 bucks in buying power which
+75.60 - is too big of a position for my account
+78.08 - so for me I'm going to look to do an
+80.48 - iron fly which is a straddle right at
+83.52 - the money the 70 strike stradle you can
+85.56 - see a big credit of $10 and change but
+87.96 - uses a lot of buying power and then
+90.28 - we're going to buy the wings just to cap
+92.72 - the amount of buying power that we're
+94.08 - using here we're going to want to reduce
+96.16 - this down to you know somewhere around
+99.00 - $1,000 maybe a little bit less than
+101.00 - $1,000 here so I'm going to go here
+103.84 - I'mma buy 15. wide wings so we're going
+107.12 - to look at the 55
+108.96 - strike for the long option on the on the
+111.88 - put side and we're going to go to the 85
+114.28 - on the call side you'll see this sets up
+116.84 - with a pop that's 42% and that's because
+119.56 - your buying those wings your your risk
+121.88 - profile is within the expected move here
+124.08 - so it's a a lower probability trade but
+126.96 - you're playing into what is a 60 IV Rank
+129.48 - and almost a 70% implied volatility so
+131.84 - you have a lot of volatility baked in to
+134.28 - this position to give you some context
+136.56 - if this tra if this underlying were to
+139.04 - see a five or 10 point drop in
+142.12 - volatility this spread would certainly
+145.08 - certainly be profitable assuming that
+147.24 - the stock stays somewhere around this um
+150.28 - this Mark here somewhere inside the
+152.24 - expected move which you would expect if
+154.48 - if you get a volatility contraction so
+157.60 - we're going to Route this at an
+159.08 - $852 credit we'll see if we get filled
+161.44 - here for this kind of 5050 High Vol play
+165.00 - that we're looking for in
+167.08 - paler we'll do it at here those markets
+169.80 - are moving so I'm gonna move this to 845
+172.16 - see if we get p filled a penny
+174.88 - above mid price we actually got price
+177.44 - improved to 856 on this iron fly so
+181.04 - we're looking for a move between 60 and
+183.64 - 80 over the next 37 days for this to be
+186.92 - profitable we'll see if that happens but
+188.60 - stick around CU we're going to do some
+189.96 - Management on this
+193.84 - TR we've had some two-sided action the
+196.64 - stock has gone uh from you know the 70
+200.40 - handle up to 85 we're back to 75 here so
+203.60 - we've gone $5 in the money on the call
+206.32 - side of course no problem with
+208.68 - assignment here lots of extrinsic value
+211.12 - in a stock like this a high volatility
+213.04 - stock moving stock a stock that moves a
+215.72 - lot dayto day so no issues there we do
+219.08 - have 15 days to go till expiration which
+221.44 - is getting down to the last part of the
+223.56 - expiration you can see we've got about
+225.72 - $3 of extrinsic value on this position
+228.64 - the way we can look at that is just by
+230.12 - taking the put strike which is let's
+232.16 - call it about a$ 130ish and then the in
+234.68 - the money call strike is actually going
+236.28 - to have the same amount of extrinsic
+237.92 - value as that out of the money put so
+239.96 - $2.50 or 60 is what I have left to make
+243.64 - on this position if the stock stays
+245.88 - right where it is and the stock has
+247.96 - actually rallied significantly uh in the
+250.84 - last hour or so when I was looking at
+252.60 - this position you could see we move from
+254.48 - 73 to 75 I'm looking at my p&l values
+257.32 - and we're looking at about $120 profit
+260.44 - at the early part of the session this
+262.12 - morning uh but that has since eroded a
+265.20 - little bit but still doesn't take away
+266.80 - from the message here um so anyway with
+269.72 - 15 days to go till expiration the
+272.40 - decision now is to either close the
+274.16 - position or roll into either the same
+277.28 - position in the in the further out
+278.88 - expiration or a new position you could
+280.44 - go to do multiple different things here
+282.96 - for me I think it's just a close take
+285.04 - some money and run on this position uh
+287.24 - it's one that when we got up to 85 which
+289.40 - was basically the high of the Year 8480
+292.32 - this was a losing position now we've had
+294.44 - a little bit of a pullback we're making
+296.24 - some money on the position I think it's
+298.04 - time to just take the profits and move
+300.12 - on to another position so to close out
+302.36 - of this position one of the things that
+303.80 - I I make sure I look at is to make sure
+306.16 - there's a bid and an ask on the long
+309.00 - options if there isn't you want to just
+311.08 - remove those options from the closing
+312.88 - order because they have no value but
+314.92 - there is value in these about eight or
+317.12 - nine cents on the downside so if we can
+319.96 - get H filled here for a little bit less
+322.24 - than the mid price let's see if we can
+323.68 - get 85 C profit here which would be
+326.72 - 761 fill price on this
+331.32 - no fill there go up to
+334.40 - 65 no fill there and you'll see that
+337.24 - within the money options your there we
+339.56 - go we got filled as we were talking but
+341.16 - in the money options you'll see your bid
+342.84 - ass spread be much wider than the out of
+346.12 - out of the money options and thus you
+347.88 - know it makes it hard to fill um you
+350.60 - might have to adjust the price a little
+352.00 - bit above or below the mid price
+353.68 - depending on if you're buying or selling
+355.24 - so anyway we routed that closing order
+357.80 - 765 debit Nets us out an $881 profit but
+361.60 - really the key here was that we had a
+363.08 - little bit of a sideways move here or at
+365.04 - least ended up as a sideways move uh
+367.40 - throughout the duration of the trade
+371.58 - [Music]

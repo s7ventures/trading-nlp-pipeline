@@ -1,0 +1,136 @@
+0.12 - mastering pop when to choose high
+3.28 - probability trades pop is probability
+6.00 - profit by the way following our recent
+7.68 - study on probability of reaching 50%
+9.76 - profit before 21dt where we explain that
+12.56 - pop probability profit represents the
+15.16 - chance of making at least one penny on a
+16.84 - trade we received a follow-up question a
+19.32 - bunch of follow-up questions from
+20.52 - viewers when to choose high probability
+22.84 - trades and should we start by trading
+25.48 - high probability strategies to address
+27.52 - this we conducted another study focusing
+29.36 - on high probability option strategy
+31.16 - strangles and examined the risk reward
+34.84 - tradeoff okay that's cool let's see
+37.40 - where we're going with this so we did a
+38.96 - study from 2006 to 2024 18 years
+41.92 - strangles of 21 days in the all the spy
+44.48 - compared the risk reward trade-off at
+46.16 - different Deltas sold extremely high
+48.48 - probability strangles and compared the
+49.92 - success to potential losses that's the
+52.12 - key here we discussed the pros and cons
+54.16 - of starting out with a high probability
+55.96 - trade strangles are considered high
+58.04 - probability trades whereby the Trader
+60.56 - has bet on the market not reaching some
+62.96 - Far Away bounds so we choose how far
+65.52 - away the bounds are through different
+67.36 - Deltas pretty straightforward right now
+69.32 - just all the stuff we talk about every
+70.84 - day and here's when we start getting
+72.08 - into kind of some of the sweet spot now
+74.60 - Tony and I are in that kind of when we
+76.64 - talk about neutral strangles with we're
+78.80 - usually in that Delta of about 20 10's a
+81.52 - little too cheap 40's too high 30's
+84.24 - possible if we like to go directional on
+85.76 - one side but for the most part we're
+88.80 - kind of stuck in that around that 20
+91.68 - area we're not suggesting we didn't
+93.28 - Circle any of these say one's better
+94.80 - than the other we just wanted to Circle
+96.88 - something to say if you sell a put in a
+99.04 - call with 20 Deltas each your
+100.52 - theoretical probability is 60 but your
+102.84 - actual is 71 when we look at this from a
+105.60 - risk reward side it seems to us that for
+109.44 - the money that we make it just seems to
+111.44 - be the sweet spot for the risk that
+113.52 - we're taking and we like that plus 70%
+116.68 - probability of profit so that's increas
+120.04 - what kind of really turns us on right
+121.72 - yeah increasing the Delta decreases the
+123.64 - pop it's always you take more risk you
+125.80 - make more money if you take more risk
+127.52 - you make more money but you're going to
+128.96 - lower your chances of making more money
+131.00 - and so what happens when we push the
+133.44 - Delta to an extreme and increase the pop
+136.12 - as much as possible you know so so that
+138.60 - go as far as we can out of the money
+140.72 - what if we went to to like a five Delta
+144.00 - or a two Delta we can get to a 95 92% or
+147.52 - a 97% and the PD the median p&l drops
+151.20 - down again now none of these not
+153.92 - suggesting any of these are any better
+155.60 - or any worse but you have to optimize it
+158.16 - some you have to pick a sweet spot by
+159.96 - decreasing the Delta by a large amount
+161.88 - does indeed create a high probability
+163.36 - trade however the p&l reduces by a large
+165.52 - amount as well so the question is
+167.88 - where's The Sweet Spot like Jim just
+169.48 - talked about The Sweet Spot in the Decay
+171.00 - curve where's The Sweet Spot in Delta is
+173.32 - it two Deltas is it worth taking all
+175.04 - that risk for 20 bucks is it worth it
+176.92 - for $37 or do you like that $94 better
+180.08 - or do you like that $135 better I mean
+182.52 - these are all really tough questions
+184.60 - none of this is easy so let's go to next
+186.92 - slide so it's important to note that if
+188.96 - the market experiences a sudden move in
+190.64 - the wrong direction the losses could be
+192.24 - great and wipe out the credit you
+193.72 - received through the small increments
+195.68 - and high probability trades as such high
+198.00 - probability trades might be worth it
+200.00 - when we're just starting out to learn
+202.20 - the mechanics and the platform however
+204.16 - one should learn to incorporate lower
+206.24 - pop trades into your trading to collect
+208.84 - more credit all what we're really saying
+210.64 - here is find a spot that works and don't
+214.00 - go to either extreme so in other words
+216.76 - don't go to a two Delta or five Delta
+219.28 - cuz you're going to find that that gets
+221.00 - frustrating don't go to a 30 40 or 50
+224.40 - all the time because you're going to
+225.84 - find that that gets frustrating the
+227.88 - lower Deltas get frustrating because
+230.72 - because when you lose you you you know
+233.32 - you lose more than you can make when you
+235.48 - the higher Deltas get frustrating
+236.84 - because your pop so low so find The
+239.20 - Sweet Spot now what we found over the
+241.36 - years is that 16 to 22 16 to 25 is our
+245.28 - sweet spot so wrapped around 20 22 18
+249.12 - 2022 that's our sweet spot and that's
+251.72 - how we've optimized everything in the
+253.36 - Decay curve and in The Sweet Spot you
+255.48 - can figure it out on your own but but
+257.88 - like nothing is mispriced but that's
+259.56 - what we've come to that's what we've
+261.20 - come to settle after all this time let's
+263.92 - go next slide so the takeaways your Pop
+266.00 - level will depend on your risk tolerance
+268.68 - as higher pop trades you usually come
+270.16 - with lower credit higher pop may be good
+272.20 - when you're just starting out to learn
+273.60 - the mechanics it's a great way to learn
+275.72 - because if you don't if you're learning
+277.36 - through winning it's great and you win
+279.56 - way more than you lose however one
+281.40 - should learn to accept a slightly lower
+283.28 - pop for higher credit one should become
+285.24 - more confident because you want to get a
+287.72 - bigger return on Capital you know if
+289.44 - you're going to achieve some ex some
+291.88 - return that you expect over risk-free
+294.04 - rates you're going to have to take a
+295.24 - little more risk to get there it's all
+296.88 - about risk and reward you're 100%
+298.48 - correct so not

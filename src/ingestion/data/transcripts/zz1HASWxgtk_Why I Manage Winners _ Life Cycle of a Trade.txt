@@ -1,0 +1,465 @@
+0.24 - what's up everyone and welcome to the
+2.32 - life cycle of a trade we're going to
+4.60 - take a look at three trades an iron
+7.16 - Condor a short put spread and a call
+10.48 - diagonal
+12.30 - [Music]
+18.64 - spread what's up everyone today is a big
+22.08 - day in the market so you've got Invidia
+24.28 - earnings after the close today e Min is
+26.44 - right now uh down nine points we're we
+30.04 - bounced all the way back we're basically
+31.76 - at at highs here just to sco off the
+34.16 - all-time highs here for today rather
+37.12 - than going into envidia directly which I
+38.92 - already have a position on I'm going to
+40.52 - go into
+41.68 - SMH SMH is the semiconductor ETF uh it
+46.96 - is a has a 22% waiting of Nvidia within
+50.56 - the ETF so a very big portion of this
+53.40 - ETF is going to be exposed to Nvidia
+56.68 - earnings after the close today along
+58.44 - with uh some of the you know the other
+61.04 - uh semiconductor stocks within the
+63.44 - basket so you will have some exposure
+66.20 - you will have some height and volatility
+67.72 - here you can see IV rank is 69 it's
+70.84 - pretty liquid it's not the most liquid
+72.84 - underlying you can see it's 20 to 30
+74.96 - cents wide which isn't bad for a $200
+77.92 - stock but it's not exactly great um but
+82.00 - it is it is liquid enough to trade and I
+84.00 - want to get a little bit of that
+85.20 - exposure to some of the height and
+86.88 - volatility into Nvidia earnings so we're
+89.36 - going to just do it an iron Condor here
+91.00 - try and sell some premium out of the
+92.80 - money try and capture some of that um we
+95.68 - usually look for around a 20 Delta on
+97.72 - the short options just to give you an
+99.24 - idea of where that is so we'll call it
+101.24 - the 220 on the put side on the call side
+105.16 - we'll say the
+106.68 - 275 uh in terms of how much risk we we
+109.88 - typically allocate I usually do 10 maybe
+112.92 - 15 points wide in terms of the spreads
+115.56 - on either side that totally depends on
+117.88 - your own risk tolerance um for me I'm
+120.68 - going to go $10 wide and just see what
+122.52 - this trades at it should trade somewhere
+124.44 - around onethird the width of the
+126.96 - strikes here we go it trades at about
+130.28 - $3.25 or so here which is roughly
+133.20 - onethird the width of the strikes you
+134.52 - can see it's a $6 or
+137.36 - $667 total risk 660 some odd dollar
+141.92 - buying power you've got a
+144.04 - 57% probability of success when you
+146.36 - collect 1/3 the width of the strikes it
+148.40 - usually sets you up with a 60 % 50 to
+150.92 - 60% probability of success when you
+152.96 - collect somewhere around that uh just to
+155.20 - give you an idea of where our risk would
+156.68 - be so 220 and 275 are our short strikes
+160.20 - so it' be roughly down here and 275
+163.52 - would be basically at the highs on the
+165.44 - upside so just a delta neutral trade
+168.00 - here trying to play into that high
+169.84 - implied volatility that we're seeing in
+171.40 - the space along with that binary event
+173.72 - that we have after the close here so I'm
+176.04 - going to put this in at 330 right at the
+177.80 - mid price see if we get filled uh um we
+180.40 - could always cancel and replace that
+182.48 - there we go 330 filled on our SMH iron
+189.04 - Condor next trade that we're going to
+190.88 - look at is this SMH position so we've
+193.48 - had a nice V contraction we've had a
+195.64 - little bit of a bounce which is what we
+197.08 - needed here uh and this position has
+199.16 - gone from $3 in uh $33.30 credit down to
+203.52 - a mark of about A180 so about $150
+206.96 - profit we'll see if we can get filled on
+208.88 - that position
+210.88 - when I'm looking to get out of some of
+212.32 - these positions one of the key things
+213.92 - that I look for is the long options so
+216.32 - when you're looking at your options if
+218.40 - the long option has no bid meaning it's
+220.52 - worthless like if we were looking on the
+222.24 - upside and we had a long option that was
+224.40 - at you know 330 or 335 that's a penny at
+228.52 - 7 cents offer those options are going to
+231.32 - be very hard to fill because they're
+232.80 - nearly worthless so we don't have this
+235.12 - problem here because all of these
+236.56 - options have value you can see there's a
+238.92 - little bit wider of Mark here so uh that
+241.48 - might mean that this Mark that we have
+243.84 - currently we might have to adjust the
+245.92 - price up or we probably will have to
+247.64 - adjust the price up but all these
+249.48 - options have value so not worried about
+251.72 - getting out of this position all
+254.64 - together so we'll try and get filled
+256.48 - right here at the mid price free up some
+258.20 - Capital another uh another key of
+260.60 - managing positions so there we go we got
+262.92 - out 183 $147 on that one so that was a
+266.64 - nice little trade
+271.07 - [Music]
+276.36 - all right so as you can see we are very
+278.48 - light on positions here so looking to
+281.76 - put on a a couple trades today I mean
+283.92 - one of the things that has really stuck
+285.24 - out to me is this move in oil all sorts
+287.56 - of geopolitical stuff going on you had
+289.44 - OPEC talking about pulling back um
+293.44 - production and and all sorts of stuff
+295.80 - happening in the oil markets oil has
+298.28 - dropped from the mid 7s or high 70s all
+301.28 - the way down to you know the 60 handle
+304.08 - which we haven't really seen for most of
+307.60 - 2024 oil Futures themselves are very
+310.52 - very big contract it's it's a thousand
+313.76 - uh uh the multiplier is a th000 so for
+316.96 - every point if you were long or short
+319.80 - the oil Futures it's $1,000 so it's a
+322.72 - very very big contract and you can
+324.88 - actually see the leverage that you get
+327.36 - here is very very significant it only
+329.04 - uses 10 10 grand or n Grand here to be
+331.80 - long or short the Futures now in this
+333.80 - account I certainly cannot do that
+336.12 - because that is uh too way too big of a
+338.76 - position but I can trade the options so
+341.32 - the options actually trade in the same
+344.44 - notional as these the uh the Futures
+348.32 - right so a a $100 $1 option is really
+354.40 - ,000 in terms of value in terms of
+357.00 - credit that you're selling a spread then
+359.80 - if you were to do a onepoint wide spread
+362.64 - is going to be notionally equivalent to
+364.84 - $1,000 it's a it's $1,000 per point it's
+368.32 - a one point wide spread so when you're
+371.04 - looking at this spread a credit of 18
+374.64 - cents is $10 per point or $10 per tick I
+378.64 - should say so at $10 per tick at an 18
+382.28 - Cent or so credit is going to equal
+386.28 - $180 in terms of actual value
+390.08 - you can see here uh for this spread and
+392.52 - I just pulled this spread up it's around
+393.96 - a 20 Delta I'm actually going to move it
+396.04 - a little bit closer to get a little bit
+397.96 - higher credit but just for an example
+400.24 - when you look at this
+401.76 - spread Max loss is going to be $800 of
+404.72 - course that's the the rest of the risk
+406.84 - if you're selling this at near 20 cents
+409.08 - it's going to be 80 cents of risk which
+410.96 - is $800 $20 in credit the one
+413.84 - interesting thing with Futures is that
+415.76 - you'll see that your buying power effect
+417.48 - is actually going to be lesser than the
+419.28 - m loss to start for that position and
+422.24 - this is because of span margin so span
+424.28 - margin allows extra relief on uh and is
+428.28 - specific to Futures contracts in that it
+431.28 - calculates a risk uh based on a number
+434.96 - of factors from days till expiration it
+437.80 - incorporates volatility it incorporates
+440.28 - how close to at the money you are so
+442.72 - this will certainly change we can even
+444.56 - just pull up just to give you an idea of
+446.52 - like a closer at the money spread is
+448.96 - going to use about $200 more in buying
+451.04 - power just because it's closer at the
+452.56 - money has a a higher Delta um you know
+456.40 - the time aspect is the same because
+458.24 - we're looking at the same expiration but
+459.92 - just to give you an idea of the the risk
+462.72 - here and the potential for changes in
+464.76 - the buying power it won't exceed that
+467.72 - Max risk though so when you trade a
+469.68 - spread in a Futures Contract you will
+472.00 - not go above your max risk parameters
+476.12 - there in terms of your max loss so for a
+478.64 - spread I'm going to take a little bit
+480.60 - extra risk here go around the 30 Delta I
+483.36 - want to collect around onethird the
+484.84 - width of the strikes this is a little
+486.12 - bit less here at $2 or at uh uh 25 cents
+489.96 - or 26 Cents depending on where I get
+491.84 - filled here I want to get around that
+493.44 - onethird the width of the strikes
+494.68 - because it puts us at that 60 to 80%
+497.56 - probability of success depending on what
+499.36 - your credit is so we're going to see if
+501.44 - we get filled here at 26 Cents and work
+504.32 - the order from there uh It's a 65 strike
+507.44 - for the short 64 for the long we're
+510.52 - going 43 days out in time into the
+514.84 - October 17th expiration so we'll do this
+517.88 - at 26 Cents see if we get filled
+521.60 - here no fill there of course we can
+525.12 - cancel and replace that we'll go to 25
+528.04 - see if we get
+530.04 - filled we are in 25 cent credit which is
+533.60 - a
+535.32 - $250 uh credit on the spread it's got a
+538.72 - width of $1 so our risk will be 750
+542.28 - bucks uh just playing for a little bit
+544.84 - of a bounce in
+550.88 - oil all right so we are having a
+553.24 - fantastic morning in the Johnny Trader
+556.08 - portfolio today we've got e mini S&P 500
+559.04 - futures up 90 points you've got the
+560.80 - NASDAQ up
+562.72 - 475 the Dow's up significantly the
+565.32 - Russell's up significantly oil's up it's
+568.00 - been a great day for our trading uh we
+570.68 - did just have the uh rate cut decision
+573.84 - that happened yesterday lots of
+575.32 - volatility priced into that event Market
+577.64 - has responded significantly to the
+579.56 - upside here got a bunch of positions
+581.52 - that we need to close out and these
+582.88 - positions they haven't needed really any
+585.20 - management to them um they've worked out
+587.80 - since the beginning and and you know
+589.88 - it's just time to start managing
+591.76 - positions when you are are managing a
+595.52 - portfolio you want to get long into
+598.20 - lower prices and sort into higher prices
+601.28 - and as you get in this case a market
+604.72 - rally and a lot of things start working
+606.48 - in your favor with short premium you
+608.96 - only have a certain amount of profit
+610.64 - that you can make on your positions you
+612.08 - have capped profit potential and as you
+614.32 - get closer to expiration and as profits
+616.92 - are on the table you can only make so
+619.04 - much more so at a certain point you have
+621.72 - diminishing margins of return so when we
+624.44 - have these sort of moves in the market
+625.92 - and we have a bunch of things work in
+627.76 - our favor instead of trying trying to
+629.56 - get every last p penny out of the
+631.76 - positions we tend to manage winners and
+634.44 - that's a key to what we do in our
+636.16 - trading uh portfolio So today we're
+638.52 - going to manage winners we're going to
+640.04 - take off some Delta exposure we're going
+641.64 - to take off some risk into what has been
+643.96 - a fantastic uh morning here and couple
+646.80 - weeks so first position that we're
+648.64 - looking at is actually a Futures
+650.96 - position that we put on in oil so oil
+654.88 - Futures it's been just a a couple weeks
+658.24 - here I mean we kind of painted the
+660.12 - bottom here when we're looking at it it
+661.68 - was at about
+663.88 - 70ish I'm sorry about 66 68 is so we've
+668.12 - had about a $2 rally in the oil Futures
+670.72 - it's been exactly what we needed here uh
+673.40 - this put spread it's out of the money we
+675.72 - got some we had some long Delta the
+677.64 - stock has gone up we're going to take
+679.44 - that long Delta off again this is
+682.44 - getting short Delta so to speak in that
+684.92 - we are taking long Delta off into an up
+688.68 - move in the oil Futures it's exactly
+690.80 - what you want to do you want to you want
+692.44 - to take off long Delta as you you know
+695.64 - get that move higher so we're going to
+697.84 - try and get out of this for a 13 C debit
+700.72 - which is actually uh would be a $130
+704.00 - debit because the multiplier here is uh
+707.60 - is 10 on the oil Futures here so a $13 a
+711.52 - 13 cent debit is really
+713.92 - $130 in value this will net us out about
+717.16 - $120 profit depending on where we get
+719.28 - get filled here let's put it to 14 and
+721.20 - see if we can just get filled here get
+723.68 - this one off the
+726.60 - table we'll try 15
+730.68 - cents there we go so we got out for an
+733.12 - even $100 profit nice little trade in
+735.68 - the oil Futures uh we've had a couple of
+738.04 - those recently so nice little trade
+743.47 - [Music]
+747.48 - there all right so so looking at one of
+751.04 - the biggest stocks in the world uh
+753.16 - Nvidia here uh we've had some two-sided
+756.16 - action in the markets NASDAQ is uh is
+759.08 - down 40 here you got the E minis up to
+762.04 - volatility Futures I should say getting
+764.44 - up to 19 it's near the high uh here over
+768.84 - the last two sessions we got into the
+770.60 - 20ish handle definitely been some
+772.84 - volatility in the markets here so Nvidia
+776.40 - has had all sorts of bad PR over the
+779.96 - last couple sessions after earnings so
+782.48 - you had earnings it kind of opened
+784.24 - inside the expected move you had some
+786.16 - weakness in the market and the week you
+788.36 - had some weakness on Tuesday you had
+790.04 - this whole subpoena thing come out
+792.20 - Nvidia has fallen all the way back down
+793.88 - to
+794.80 - 106 I think it's time to take a little
+797.08 - bit of long Delta here into this move um
+800.88 - so one of the trades that I like to do
+802.28 - to get a little bit of Delta is a
+804.80 - diagonal spread and usually if I'm doing
+807.56 - a a longer duration trade trade I'll go
+809.96 - somewhere for the 30 to 40 day for the
+812.36 - short option on the on the long option
+815.76 - going somewhere around the 70-day
+817.96 - expiration if you want to do this
+819.40 - shorter term you certainly could do an
+821.28 - October September spread but I'm looking
+824.24 - to take this a little bit more duration
+826.72 - and kind of play into um uh giving
+829.60 - myself a little bit more time to be
+831.24 - right so if I'm going to November here I
+834.24 - typically Buy around a 40 Delta option
+836.76 - so we'll call this the 115 strike which
+840.28 - it was trading at at the start of
+842.88 - yesterday so it's had a big big move to
+845.28 - the downside so the 40 Delta is going to
+848.28 - be our our long uh Delta also our
+852.84 - positive gamma position in the October
+855.68 - expiration I'm going to sell around a 20
+857.84 - Delta against it so somewhere around the
+860.72 - 120 125 is Mark something like that to
+865.08 - add a positive Decay component and also
+868.80 - to reduce the cost of the trade I want
+870.96 - to get these costs down to5 6 $700 which
+874.48 - is what my risk tolerance is normally in
+877.44 - this portfolio so I'm looking at because
+880.72 - I got a little bit extra Delta on this
+882.52 - 115 I'm going to sell this
+885.36 - 125 it sets it up for a
+888.04 - $463 debit uh when you look at this on
+891.44 - the analysis mode the curve you can see
+894.40 - that you have um a pretty sizable
+897.20 - potential profit if we do get back back
+899.28 - to you know that 115 to 125 Mark we can
+903.20 - even use the analysis mode to kind of
+905.28 - simulate time and you'll see how this
+907.92 - risk profile changes as time passes even
+911.72 - if you go all the way to the November
+913.56 - expiration U I'm sorry the October
+916.08 - expiration uh that'll basically simulate
+919.56 - all of the premium coming out of this
+922.20 - option because it would be expired here
+924.00 - on October 18th uh $2 and so of
+927.44 - extrinsic value is what I would capture
+929.28 - from that if we did get a rally uh this
+932.20 - would all be intrinsic value the
+934.16 - extrinsic value in the short option
+935.76 - would Decay you'd get the best of both
+937.48 - worlds of course you give up some of the
+939.64 - profit potential if you explode higher
+942.12 - but I'm not worried about giving up the
+944.08 - tail with uh in exchange for getting
+947.16 - some positive Decay on my side which is
+949.32 - what I'm doing with that short option so
+952.20 - we're going to try and get filled here
+954.96 - $479 is what we'll route it at the mid
+957.36 - price or just a penny above the mid
+959.12 - price here and see if we get filled
+962.56 - here there we go we got filled so we got
+965.08 - filled on this called diagonal spread
+967.40 - we're long the 115 in November short the
+969.96 - 125 in October expiration leans about 20
+973.52 - Deltas
+974.72 - longish here into uh what has been a
+978.28 - very very steep drop in Nvidia so we'll
+981.44 - see if we can get a bid in Nvidia over
+983.44 - the next couple weeks manage this for
+985.64 - $100 to $200 profit here
+992.20 - the next one we're going to look at is a
+994.52 - big profit a quick profit that we had in
+997.08 - Nvidia we bought the dip in Nvidia this
+999.40 - was trading on the fourth is when we got
+1001.76 - into this position you can see we we got
+1003.68 - in right around the lows of 10 105 is on
+1007.28 - that position we can actually look at
+1008.60 - the market snapshots give you a re a
+1010.84 - exact number about 106 70ish
+1014.76 - 75ish so the stock has with the of the
+1019.28 - market moved significantly higher and
+1021.72 - it's time to go for this position this
+1023.48 - call diagonal spread we were long the
+1025.80 - November call the 115 strike call we
+1028.92 - were short the 125 call and just to give
+1033.16 - an idea of of you know just the value of
+1036.20 - this call so it's only been about two
+1038.76 - weeks and this
+1040.20 - option we originally sold it at
+1042.88 - $240 into what has been a very very big
+1046.76 - rally in Nvidia from 106 to almost
+1050.48 - 120 uh over the span of two weeks this
+1054.16 - short call only cost us about
+1057.60 - $160 based on where it's marked now so
+1060.76 - we get the question all the time of like
+1062.32 - why not just buy the call or why not
+1063.84 - just buy the put and play the other you
+1065.76 - know play for that directional move had
+1068.08 - we not gone up $15 or $14 in two weeks
+1072.72 - this option would have hedged us some it
+1074.92 - would have hedged us a dollar $2
+1077.32 - depending on where the stock went went
+1079.16 - if it went lower it would have hedged us
+1081.04 - to the downside we would have saved $200
+1083.60 - in value instead of losing that $200 in
+1085.80 - value here into a rally it's a what we
+1088.68 - would call a high class problem we
+1091.36 - played the upside we had a lot of long
+1093.68 - Delta we had positive gamma on our
+1096.04 - position it was exactly what we needed
+1098.68 - for this position um and so it's a high
+1102.44 - class problem in that instead of making
+1105.12 - $300 on the position or $400 on the
+1108.04 - position I'm only making you know or I'm
+1110.72 - sorry instead of making $500 I'm only
+1113.16 - making $300 on this position you know
+1116.60 - 75% uh return on Capital huge huge win
+1119.76 - so you know in hindsight of course did
+1123.00 - this impede some of my profit potential
+1126.76 - yes if we had gone down it would have
+1129.04 - been a blessing it would have saved me
+1130.88 - $200 so you know you don't you can't
+1133.40 - play for the unknown of the future we
+1135.92 - just trade what what is is there we were
+1138.12 - buying the we were hedging that that dip
+1141.12 - buying with a short premium position in
+1143.72 - the shorter duration it's exactly what
+1145.84 - we wanted to happen here got the bounce
+1148.24 - time to go here take a big big win and
+1151.00 - Patch yourself on the back we're going
+1152.76 - to try and get uh 395 credit here put us
+1155.92 - at a 300 and change
+1159.56 - profit no fill
+1162.76 - there put this down two
+1165.76 - pennies and there we go $795 we actually
+1170.00 - got price improved $316 profit on that
+1173.08 - one so we just took off $2,000 in buying
+1177.08 - power or more uh we booked some winners
+1180.20 - of5 or $600 a really nice day and week
+1184.80 - couple weeks for us in the Johnny Trader
+1186.60 - portfolio so just taking off some
+1188.60 - winners managing some winners uh
+1191.04 - managing our Capital usage getting rid
+1194.08 - of of risk and uh freeing up some
+1196.60 - Capital to hopefully get into new
+1198.72 - opportuni sometimes next week so uh hope
+1201.32 - you got in some of those uh good little
+1203.08 - trades and uh we'll see if this can
+1205.20 - continue if you want to catch these
+1206.40 - trades live tune in to Johnny trades
+1208.88 - every Wednesday at 9:40 a.m. on tasty
+1211.52 - live peace
+1217.45 - [Music]

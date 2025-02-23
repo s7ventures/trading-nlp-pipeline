@@ -1,0 +1,184 @@
+0.16 - measuring the odds of L this is our
+2.96 - Market measure sponsored by seub
+4.40 - measuring the odds of large daily moves
+7.44 - in high volatility
+9.60 - stocks huh measuring the odds of large
+13.04 - daily moves in high volatility stocks
+14.60 - let's go to the sponsored by the CV
+16.92 - let's go to the first slide in this
+18.20 - segment we delve into the Dynamics of
+20.28 - Major Market
+21.68 - shifts in an effort to uncover patterns
+24.56 - in their
+26.80 - occurrence specifically we aim to answer
+29.08 - two critical questions
+30.84 - all right Pat here are your questions
+32.36 - ready How likely are significant Market
+34.52 - moves um to happen within a defined time
+38.32 - frame and how could we quantify the
+40.80 - major ETFs and and liquid single Stocks
+44.88 - by analyzing past events of similar
+46.64 - magnitude we can assess the probability
+48.20 - of such shifts taking place again I
+51.84 - think they happen often not too often
+55.00 - Major Market moves obviously more so in
+58.36 - stocks than ETFs obviously individual
+61.04 - stocks sure individual stocks yeah it's
+62.40 - harder to move 500 stocks or outside
+65.12 - than it is for one stock sure How likely
+67.24 - are they going to happen because you
+68.52 - know why you know why we're answering
+69.84 - this qu you know why we're po because we
+71.44 - don't want it to happen we play the
+72.92 - don't line exactly exactly the reason we
+76.36 - asked this question is because this is
+78.96 - not good for
+81.00 - business um so let's go next
+86.16 - slide so we used two ETFs to spy of the
+89.24 - qes and we used used two stocks Tesla
+91.56 - and Nvidia the reason we chose Tesla
+94.04 - Nvidia is because those are the two most
+96.40 - liquid option um of optionable stocks
+99.88 - those are the two most liquid of the
+101.96 - ETFs spy and the q's are the two most
+104.32 - liquid of optionable
+107.08 - ETFs we did
+109.04 - 2015 to present 10 years we calculated
+112.72 - the probabilities of having a certain
+114.60 - number of 1% 3% 5% 7%
+120.36 - and
+121.40 - 10% daily moves in a 5day trading
+126.40 - window okay you got that y 1357 and 10
+130.56 - in five days
+132.80 - okay next slide please I can't guess I
+135.48 - mean no no no on the foremost
+138.72 - actively the foremost the foremost
+141.60 - active option trading
+143.28 - Vehicles okay so the first one we start
+145.84 - with spy the likelihood of experiencing
+150.48 - from four to 5 days a 7 or 10% movement
+154.76 - within a single week has been zero for
+158.24 - the last 10 years in the
+161.20 - Spy however the probability of
+164.88 - encountering at least one movement of 1%
+169.16 - or more in a week is relatively High
+172.48 - Additionally the Spy has an average
+174.68 - daily movement of 1.11%
+181.64 - so so I mean if you're going to have
+183.44 - it's going to happen almost every day if
+185.08 - you're going to say that right well
+186.80 - let's take a look we have the numbers
+189.00 - right in front of you right there mhm
+191.32 - and a 1% move and this is just um
+195.76 - happening you can see the numbers
+197.44 - happening once 25% twice 8% three you
+201.52 - know just across the board that's so
+202.96 - what are you worried about it's really
+205.08 - what it's saying here what are you
+205.84 - worried about ex exactly I mean you you
+209.24 - but don't jump right to the punch line
+211.16 - have a little fun with this so the
+213.12 - chance of having a 10% move I mean you
+214.96 - can see it's or a 7% move um we're in
+218.08 - the zero handle
+220.12 - and um well 135 we put all the numbers
+224.00 - in front of you the chances of big moves
+227.08 - are relatively small mhm but when they
+229.68 - happen they're very very painful yep
+233.56 - relatively small very very
+236.24 - painful um let's go next slide
+242.24 - similar to the Spy the qes have also
+244.72 - shown a 0% likelihood of experiencing a
+247.64 - 57 or 10% move in a single week looking
+251.60 - at the past 10 years the q's have an
+253.56 - average daily movement of
+255.24 - 1.37 compared to 1.11 for
+258.80 - spy and you can see the numbers across
+261.12 - the board here they look very similar MH
+263.84 - hard to hard would be difficult
+266.92 - to differentiate between the q's and the
+271.60 - spies um but the numbers look kind of
+274.36 - pretty basic pretty much across the
+276.48 - board the same my take away from this
+278.36 - would be the same thing if you know like
+281.84 - understand a 10 nobody looks for a 10%
+283.64 - move of course I mean nobody plays for
+285.80 - it in the
+286.68 - snps you know a a 10% move in the snps
+290.32 - would be 6,000 points
+294.12 - MH that's a lot it's a lot yeah yeah so
+297.96 - you're not going to see that a 1% move
+299.72 - 60 points we'd be we'd be closed oh we'd
+302.56 - be closed we'd be shut down Mark circuit
+304.68 - breakers yep let's go to next
+308.96 - slide over a longer time frame like 10
+311.80 - years ETFs tend to remain stable with
+315.24 - the daily moves typically staying
+316.72 - between 1 and
+319.08 - 2% in contrast individual stocks like
+321.88 - Tesla and Nvidia exhibit higher
+323.64 - volatility making significant price
+325.80 - swings more frequent so now we'll take a
+328.28 - look let's go next slide Beth
+332.72 - so as a highly liquid and volatile
+334.80 - individual stock Tesla we expect to get
+337.08 - more daily movement with the average
+339.24 - daily move around
+340.84 - 4% so the Spy 1.1 The Q's
+345.60 - 1.37 and Tesla 4% that's why it's so
+350.00 - actively traded because people love
+354.12 - trading something that moves around
+356.16 - that's why they all have higher implied
+357.44 - volatility too monthly implied
+358.92 - volatility than you you're going to see
+360.08 - in a individual stock then you're going
+361.80 - to see in an ETF the probability of
+363.68 - experiencing five 7% and 10% movements
+367.72 - with a single week still been zero so
+371.52 - far but at least one movement of 1% or
+374.68 - more per week is relatively High yeah of
+376.76 - course um and when you start to look at
+380.72 - the numbers here um uh it's they're very
+385.52 - different when you start talking about
+387.24 - stocks that move 4% a day but the prices
+390.44 - also reflect that so when you look at
+392.28 - the amount of money that you make or
+394.84 - have the potential to make that's why
+396.72 - Tony said this morning his best
+398.16 - performing stock that's yours Tesla yeah
+400.16 - because you can make more money in
+402.44 - there or Nvidia or whatever else it is
+406.12 - let's go to take a look at the next
+407.60 - slide which should be very similar in
+410.04 - Nvidia Nvidia has also shown a 0%
+412.76 - likelihood of experiencing a a five 7%
+415.92 - or 10% movement within a single week and
+418.36 - over the past 10 years it's experienced
+420.36 - an average daily movement of
+422.16 - 3.5% just under what Tesla
+425.16 - has and we played out all the numbers
+428.00 - for you here so you can
+431.64 - see it's very interesting yes it is just
+435.12 - you know that that you know you get paid
+438.84 - three over three times trading inidia
+441.96 - over what over what you wouldn't Des
+443.44 - spise because that's how much more um
+446.48 - risk you're taking you get paid four
+448.08 - times in Tesla over the despise because
+450.48 - that's how much more risk you're
+452.92 - taking um let's go to the next
+458.08 - slide so there is very little
+460.20 - probability of having a bunch of large
+461.72 - moves back to back according to our
+464.12 - study over the past 10 years individual
+466.16 - stocks have exhibited more than three
+468.48 - times the frequency of large daily
+470.08 - movements compared to spy I'm sorry
+472.60 - compared to
+473.56 - ETFs and since early 2025 we've seen
+476.56 - more large Market movements compared to
+478.32 - 24 offering profit opportunities to
+480.84 - increase liquidity but also posing risks
+482.60 - like loss distress margin cause slippage
+484.92 - and strong and requiring strong risk
+486.88 - management this is all super interesting

@@ -1,0 +1,318 @@
+0.04 - today I wanted to talk about stock price
+1.76 - simulations let's do it let's go girl
+4.44 - yeah you want to get into it hell yeah
+6.00 - okay so last week which Tom so rudely
+9.08 - missed we talk about some historical uh
+11.76 - popular metrics um and the pros and cons
+14.00 - of each we talked about historical
+15.24 - volatility beta and siar and today I
+17.24 - wanted to look more about
+18.08 - forward-looking risk metrics
+19.76 - specifically ones from simulated stock
+21.44 - prices um and kind of wanted to talk
+23.36 - about the actual process of simulating a
+25.60 - stock price because it's actually kind
+28.04 - of cool and we use it all time and I
+30.56 - think understanding where it comes from
+31.84 - helps us understand the pitfalls a
+33.28 - little bit more kind of neat let's go I
+36.48 - want to see this hell yeah okay so um
+39.72 - this was kind of an outline of some of
+41.24 - the stuff that uh was part of this big
+43.00 - risk um I don't know what you want to
+44.84 - call it like Workshop that we kind of
+46.08 - did and this is the simulated uh data
+49.04 - part of it and of course that comes from
+50.76 - of course that comes from geometric
+52.12 - brownan Mo motion we all great things
+54.24 - start do we remember our geometric
+56.12 - brownan motion of course love a little
+58.60 - geometric brownan motion we love a
+60.72 - little geometric browny motion um we
+62.88 - talk about this I think like a decent
+65.12 - amount which is kind of cool you're
+66.16 - going to sound super cool at parties now
+67.72 - talking about your geometric brownan
+69.20 - motion um assuming constant drift and
+71.72 - volatility um there's some assumptions
+74.20 - that come when we assert that this is
+76.20 - what a stock price follows such as that
+78.16 - stock prices are a continuous process
+80.00 - they have normally distributed log
+81.28 - returns they have constant drif in
+82.32 - volatility and I'll get to it in a
+84.72 - second but wanted to point out the cool
+86.48 - graphic because what we have here that
+88.72 - first little chart on the left we have
+89.96 - have a particle actually undergoing
+91.72 - Brownian motion in a fluid and what you
+94.04 - actually look like is the horizontal
+96.28 - displacement of that particle over time
+98.16 - well you actually see something that
+99.24 - kind of looks like a stock price Isn't
+100.48 - that cool cool beans so we got our
+102.60 - particle undergoing geometric Browning
+104.24 - motion but we you know this assert that
+106.36 - a stock price has certain
+107.44 - characteristics have constant drift and
+109.16 - volatility and okay we're going to show
+111.04 - some math but it has dynamics that can
+114.00 - be described by the following stochastic
+116.12 - differential equation this is basically
+118.32 - I'm not going to get into the math of
+119.44 - where this comes from but if we kind of
+121.60 - Wiggle our stock price a little bit what
+123.64 - is the expected result and this is
+126.16 - what's mathematically consistent with
+127.68 - that um so we have this kind of change
+129.96 - in stock price is equal to a couple
+132.04 - different um aspects of the stock so you
+134.20 - have your expected returns your standard
+136.12 - deviation of returns the current
+137.88 - location of the stock price as well as
+140.04 - this change in geometric Brown and
+141.40 - motion the actual like equation doesn't
+144.64 - quite matter as much what's more
+145.96 - interesting is what approximation we can
+148.12 - use to solve this equation
+150.64 - um there's a discrete time approximation
+152.80 - for that given below and I'll give a
+154.88 - translation of what that this means in
+156.88 - in a minute but what I wanted to get
+159.12 - away from this slide is that we can
+160.96 - actually according to this model
+162.68 - actually model changes in stock price
+164.40 - projected stock prices using two
+166.40 - components component one is called a
+168.48 - deterministic component this is just
+170.08 - made of the expected returns of the
+171.68 - stock the standard deviation of returns
+173.20 - of the stock it's called a deterministic
+175.00 - component which means it's actually
+176.52 - predictable right it's not random and
+178.76 - then we simulate Market Randomness with
+181.08 - this stochastic component and I'll get
+182.88 - into that in a second but what we can
+184.68 - kind of infer from this is that stock
+186.68 - prices change with something that's
+188.32 - predictable like it's not you know
+189.76 - totally crazy it's not completely random
+191.80 - but we add this little market Randomness
+193.48 - to it um which I think is kind of cool
+195.44 - is that kind of make sense so far I mean
+197.00 - the formulas are too hard but everything
+198.72 - else makes sense all that we need to
+201.08 - like take away from this I think is that
+202.80 - if we want to model stock prices there's
+204.32 - a predictable part and then there's a
+205.80 - random part that's at least how this
+207.24 - model kind of uh kind of puts that
+209.60 - together does that kind of make sense
+210.80 - yeah that makes sense it's like you know
+212.56 - a stock price can only change so much
+214.08 - from its previous stock price day to day
+216.04 - this is kind of saying that that when we
+217.56 - look at that change it's not like
+218.80 - completely random there's like a
+220.16 - deterministic component a predictable
+221.80 - component and then an unpredictable
+223.92 - wiggle I guess what you can call it can
+226.40 - of make sense yeah sure and we're saying
+229.96 - in this that this random component the
+232.12 - stochastic component is driven by a
+234.28 - standard normal random variable ZT which
+236.36 - you guys already know because that's
+237.84 - just a normal distribution with me of
+240.08 - zero and variance of one so effectively
+242.76 - what the stochastic component is doing
+244.56 - to simulate Randomness is in this
+246.92 - calculation we're taking this stuff from
+248.92 - you know calculated from the historical
+250.56 - performance of the stock and then we're
+252.32 - just kind of randomly you know grabbing
+254.56 - a value from a distribution and that's
+256.56 - how we simulate our Market Randomness as
+258.40 - a stock price evolves in
+261.08 - time that kind of make sense sure yeah
+264.52 - that's kind of how we we also back into
+267.00 - expected
+268.52 - move um well I mean it it's all kind of
+271.40 - driven from the same sort of assumption
+273.60 - which is like this normal distribution
+275.12 - assumption right so we're saying that
+277.04 - like if a stock price is randomly
+278.52 - evolving in time it's not like you know
+280.12 - completely random there's a
+281.08 - deterministic part of it but if we want
+282.76 - to simulate Randomness I'll actually
+284.24 - show a numeric example in a minute which
+286.16 - might give some intuition but in order
+288.08 - to kind of simulate this random process
+289.72 - we're literally just pulling random
+291.44 - values from a specific type of
+293.12 - distribution that's consistent with the
+294.68 - black schs form formalism this geometric
+297.12 - brandan motion kind of yeah
+300.68 - got it sure right well so the
+302.88 - translation of that is that each time
+305.40 - you know a stock price evolves like I
+307.24 - said there's this kind of deterministic
+309.60 - component that's calculated from the
+311.72 - expected daily returns of the stock um
+314.24 - the standard deviation of returns of the
+315.76 - stock and then this sort of yeah random
+317.64 - component which is driven by this uh you
+320.68 - know or that's pulled rather from this
+322.56 - distribution that's again consistent
+324.12 - with the black shs formalism that's what
+326.16 - I'm kind of trying to show here yeah
+328.76 - yeah that we understand yeah okay let's
+331.08 - look at a numerical example because we
+333.12 - we like numbers around here so if we
+334.72 - have a stock it's trading at $100
+336.88 - annualized expected return of 5%
+338.96 - standard annualized uh volatility of 20%
+341.60 - we can understand that right yes okay so
+344.40 - if we want to simulate this right snot's
+346.68 - going to be $100 that's where it's
+347.92 - starting from mu right and is going to
+350.24 - be that expected returns it's going to
+351.84 - be five or0 5% that Sigma term is going
+355.04 - to be 0.2 and then if we try to simulate
+358.08 - daily stock price movements um again
+360.80 - this is kind of coming from the
+361.64 - formalism what we need to know is that
+363.04 - delta T term in this equation is 1 over
+365.16 - 252 it's uh how we're just going to you
+367.44 - know time step each day basically again
+370.04 - just we're just taking these values and
+371.40 - plugging them into this equation kind of
+373.00 - make sense so far so far so far right
+376.68 - the numerics hopefully make it a bit
+378.32 - easier um so we're going to take all
+380.68 - those values we're going to plug it into
+382.28 - this formula and then for each um each
+386.00 - time step we're going to pull from this
+387.92 - random distribution that's going to be
+389.76 - represented here with ZT so each time
+392.00 - we're going to pull from this Rand we're
+393.16 - just going to plug it into the equation
+394.84 - and that's actually going to evolve
+396.92 - randomly in the simulation the stock
+399.24 - price in time
+402.04 - yeah yeah so what are you saying here
+407.32 - the um what I can't read what the move
+410.92 - so those are the prices so these are the
+414.04 - values that we're plugging into that
+415.56 - equation I got that and each yeah and
+418.04 - the prices on the end are the are the
+420.52 - expected move the prices are the actual
+423.80 - movements of the stock price if we want
+425.48 - to calculate like an expected move cone
+428.32 - like if we evolve this over time then we
+430.88 - can actually simulate over time the you
+433.12 - know the the simulated stock price and
+436.64 - then from this simulation we can
+438.92 - calculate certain statistics kind of
+441.56 - make sense yeah kind of I mean kind of
+446.56 - yeah kind of well this well hopefully a
+449.68 - little bit I'm kind of it's um there's
+452.04 - some stuff in here but it's the the
+454.24 - backend process of some of these
+455.68 - statistics because well so if we do this
+457.88 - once if we simulate this over a year now
+459.92 - we have one year's worth of data right
+462.44 - and then we can repeat this a couple of
+464.40 - different times now we have a Monte
+466.36 - Carlo right this is how we do a Monte
+468.20 - Carlo we repeat this a couple of
+469.84 - different times we project stock prices
+471.36 - over a year and now we have a
+473.80 - distribution of different possible
+475.96 - outcomes and we can measure those
+477.60 - statistics we can look at things like
+479.12 - pop for example we can look at things
+480.80 - like sear for example we can look at
+483.04 - other historical risk measures using
+485.28 - this you know spread of possible
+487.80 - outcomes you can do this with portfolios
+490.32 - you can do this with simulations of
+491.64 - individual stocks you can do this with
+493.48 - you can plug options in here you can
+495.04 - plug a bunch of different lugs in here
+496.36 - and then look at different distributions
+498.24 - it's actually kind of
+500.24 - cool I
+503.48 - think yes uh
+507.92 - cool very cool
+510.00 - it's a good way to get to the Monte
+511.60 - Carlo simulation for sure well we gota
+514.60 - we gota to do a Monte Carlo we got to
+516.60 - know how to get there and I think the
+519.16 - well the real reason the real reason I
+521.56 - think the most useful reason about
+523.36 - understanding how this is done is then
+525.64 - understanding what the limitations are
+528.24 - um because like right we assumed this
+531.04 - all came from the black schs model and
+532.64 - if you remember those assumptions we
+533.88 - assumed that stock prices are continuous
+536.20 - um which like you know with the earnings
+537.88 - when you have these really big disc
+539.52 - continuous jumps we know okay so there
+541.20 - might be a limitation there if we use
+543.04 - simulations to then you know use that
+545.64 - for a stock that might be having
+546.88 - earnings that are coming up right um
+548.64 - they have normally distributed log
+550.00 - returns so if for you know like heavily
+551.60 - skewed distributions we might run into
+553.52 - problems they have constant drift and
+554.92 - volatility we know that volatility
+556.64 - changes all the time um so that kind of
+559.52 - means that you know we want to take some
+561.08 - of these simulation results like pop
+562.76 - like C or that kind of stuff with a
+564.08 - grain of salt um but what this also
+566.68 - tells us is that we can maybe account
+568.16 - for some of these other factors with
+569.48 - more complex price models because a lot
+571.20 - of these limitations are fundamentally
+572.72 - rooted in how we simulate a stock price
+575.44 - that was nice and
+577.72 - light it was a it was a fun little fun
+580.40 - little stock price simulation think
+582.80 - that's kind of cool it was I wasn't I
+584.48 - didn't think that's where you're going
+585.48 - with simulation but that's good I didn't
+587.36 - know that's how well that's how you do
+588.80 - with Monte Carlo I know maybe I should
+590.92 - start with the punchline next time how
+592.52 - about that now I know now I know how you
+595.08 - get to a Monte Carlo got it it's one of
+597.32 - many ways to do a Monte Carlo um it's a
+599.68 - pretty cool um way to do it um like I
+601.80 - said we do a lot of platforms this is
+603.48 - how you know like if you don't have
+604.72 - historical data to use for your you know
+606.64 - option back testing that kind of stuff
+609.32 - um then simulations are actually a
+610.88 - pretty cool way to actually look at
+612.48 - different outcomes probabilistically
+614.00 - over time and um this is something that
+616.72 - you can actually do with a spreadsheet
+618.32 - maybe we'll talk about that next week
+619.84 - actually that was one of the first uh
+621.56 - like one of the segments we did a couple
+623.04 - weeks back was showing a spreadsheet
+624.60 - that kind of did all these simulations
+626.40 - which is a really good example like in a
+628.56 - in a you know Google sheet this is a
+630.12 - very good example of a tool that can
+631.44 - technically do something that isn't at
+632.92 - all built for it but um if you
+635.52 - understand the process if you have this
+636.92 - model for Randomness if you have like a
+638.96 - model for stock price and MX then you
+640.60 - can actually kind of do it yourself as
+642.08 - well which is kind of cool

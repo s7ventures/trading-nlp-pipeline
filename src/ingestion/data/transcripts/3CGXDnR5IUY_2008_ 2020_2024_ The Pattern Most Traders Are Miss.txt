@@ -1,0 +1,162 @@
+0.20 - is this the end of BPR breaking losses
+4.76 - what does that mean BPR breaking losses
+6.60 - let's take a look before 2020 there was
+9.36 - never there was never a loss on an early
+12.08 - managed 16 Delta strangle in the Spy
+14.56 - that exceeded the initial buying power
+16.20 - requirement including
+18.24 - 2008 H that's pretty interesting the
+21.08 - worst case as a percent of initial
+23.32 - buying power reduction before 2020 of a
+25.96 - trade happened in 2009 with the trade's
+28.48 - loss of 21 days to expiration closing at
+30.64 - 56% of the initial buying power
+32.80 - reduction spy in 2020 we experienced the
+35.80 - first loss that breached the buying
+37.08 - power reduction before the 21-day DT
+39.44 - Mark that was 1.1 times 110% of the
+43.08 - initial buying power that shows you how
+46.28 - good how strong that number is for
+50.20 - really being able to predict kind of
+52.64 - like you know maximum risk okay yep in
+56.92 - 2024 markets across all assets have had
+60.00 - some big swings and this is trans
+63.68 - translated into some sharp losses any
+65.28 - single but has this translated sharp
+67.08 - losses on any single trade similar to
+70.24 - 2009 or 2020 we're talking about risk
+74.00 - right now is buying is the BPR really
+77.48 - the Beall end all for what your losses
+80.68 - can be that's the real question here
+83.88 - let's go to the next
+85.08 - slide so we looked at the spies The Q's
+88.04 - TLT and gold that's PS NASDAQ bonds and
+91.76 - gold we looked at these since the
+93.84 - beginning of the year beginning of this
+96.24 - year we observed the worst losses I mean
+99.32 - we're basically 11 months in we observed
+102.08 - the worst losses for short 16 Delta
+106.04 - strangles we computed the magnitude of
+108.32 - each product's Works loss relative to
+110.00 - the buying power on this trade just for
+111.64 - the last year so this is like looking
+113.68 - back at kind of something similar to
+115.16 - what we do for you know uh buying power
+118.24 - reduction that kind of I'm I'm sorry
+119.92 - similar what we do for context of like
+122.04 - ivr going back 12 you know 50 52 weeks
+126.44 - but let's take a look so go to next
+129.08 - Slide
+130.24 - John so despite 2024 being a tough year
+134.04 - to trade for many reasons and you know
+135.84 - what to be fair every year is tough yes
+138.84 - every year has its hurdles there's no
+140.68 - such thing as this was that even it
+142.04 - doesn't have hurdles volatility just
+143.68 - collapses or it stays too low sure yeah
+146.44 - I don't like that line because there's
+148.24 - never been an easy year since I've been
+150.80 - in this business since
+153.40 - 1983 for me you know what the easiest
+156.48 - year of my entire career was I don't
+159.44 - know
+160.92 - 1985 why because I didn't have like for
+164.96 - some reason that entire year I didn't
+167.96 - just hit on all cylinders I just hit on
+169.20 - all cylinders I don't even think I had a
+170.40 - losing week that year in 1985 and I made
+173.08 - a crazy amount I was so you peaked at 85
+175.44 - is basically what you're saying I I got
+177.04 - it 28 years old and I peaked 40 years
+179.68 - ago ago listen most people peak in high
+182.64 - school you you know if you got to look
+184.60 - at you know one floor the ceiling peed
+186.68 - in 85 you peaked in 85 I peak in 87 not
+190.72 - too not too long after you 87 was a good
+192.80 - year too yeah yeah okay I think I peaked
+194.76 - an 85 though I could have peaked in 87
+196.64 - one of the
+197.60 - two uh that's not bad because you're
+200.76 - right I mean most people in high school
+204.20 - yeah yeah yeah some people don't even
+205.48 - get to peek in high school despite 2024
+208.56 - being a tough year for many reason
+210.40 - the BPR of a naked short premium trade
+212.44 - seemed to carry sizable buffer beyond
+215.32 - the worst losses for each asset tested
+217.40 - this year we have seen the worst losses
+219.96 - between 9 and 24% I would have thought
+222.52 - August 5th would have been bigger so$ 16
+225.56 - Del to strangle the worst loss in 2024
+227.40 - as a percent of buying power spy 9% Q's
+230.76 - 24% TLT yeah those numbers seem they
+233.76 - seem low to me year-to dat performance
+236.80 - yeah you know what I would have thought
+238.08 - wouldn't you think August 5th would have
+239.32 - been bigger than that yeah but I've been
+242.56 - wrong before I know I you don't have to
+246.08 - say it that way many times but I would
+248.52 - have thought August 5th would have been
+250.20 - bigger throughout 2024 the implied
+252.28 - volatility across all asset classes
+254.20 - consistently ranged between 15 and 25%
+256.36 - on average as a result the break evens
+258.48 - for nearly all short premium positions
+260.04 - have been quite broad with it which is a
+262.60 - significant factor in presenting extreme
+264.52 - losses I will say that we did have in
+268.48 - 2024 we had this one crazy move on the
+271.84 - morning of August 5th where we exploded
+275.20 - to about 45 legit 40 you know 45ish in
+279.24 - implied volatility by the next day we
+280.80 - were back down in the in the low 30s you
+283.76 - know low 30s but we did have one
+286.04 - explosion it was a Friday Monday which
+289.36 - completely reversed by Tuesday um which
+292.84 - is crazy
+294.80 - but which is another reason why it's so
+298.12 - difficult even if you buy protection
+300.72 - against that kind of move because
+302.48 - there's no way you could have got
+306.16 - out there's no way you could have got
+308.00 - out on when do you lift your hedge again
+309.92 - right I mean that's because because how
+311.12 - you going to lift your hedge what if
+312.32 - they go down the next day right you
+313.72 - don't know sure but it's easy to cherry
+315.84 - pick yeah so in 2024 so far the worst
+319.40 - loss of a short premium is percent of
+320.88 - buying power moderate with the worst
+323.24 - Market being the q's which total 24% of
+326.36 - the trade's initial buying power when
+328.44 - implied that's because we came back into
+330.36 - play when implied volatility is high
+332.88 - it's rare to see a loss exceed the
+334.64 - buying power since break evens a very
+336.16 - wide start I agree but John can you do
+338.24 - me a favor can you go back to this slide
+341.00 - too I just want to see did they wait
+343.24 - till right there okay so this is the
+346.52 - reason that August 5th I couldn't figure
+348.20 - out why August 5th didn't show up here
+350.04 - here's the reason because we observed
+352.68 - the worst losses for 45 days managed at
+356.76 - 21 days so they didn't have to
+360.64 - cover the August 5th the bacle on August
+364.52 - 5th 6 7th rightly so because don't don't
+367.24 - email me because I I I was like there
+369.92 - had to be a way worse loss on August 5th
+373.68 - but assuming that you did it just by the
+376.80 - sold a 45 days managed a 21 days so that
+380.56 - part is a little bit misleading just to
+382.80 - put it out there because there was a
+384.76 - moment of panic on that you know
+388.56 - August second and 5ifth
+391.12 - mhm yeah third was Saturday fourth was
+393.92 - yeah yeah so third and fourth were the
+396.12 - weekend so the 2 and the 5ifth and so
+398.76 - there was a moment of panic when the
+400.20 - numbers were much higher than that but
+402.32 - then if you waited till 21 days when you
+404.04 - actually make the adjustment there was
+405.36 - it was nothing at all okay that's fair

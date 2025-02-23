@@ -1,0 +1,152 @@
+0.12 - presidential terms and Market volatility
+2.56 - let's take a look at where the team went
+3.84 - with this our last election piece we
+6.40 - looked at 2016 to 2020 and 2020 to 2024
+11.20 - we looked at spy short strangles because
+14.32 - we're looking for stuff to do today we
+16.12 - looked at the success rate the premium
+17.68 - collected everything else we compared
+19.08 - the results across the last two
+21.12 - presidential terms the four years of
+23.32 - trump and the four years of Biden we use
+25.20 - the implied volatility rank to gauge
+26.80 - option prices it
+28.96 - reports expensive options near a 35%
+32.00 - reading when IV is near its highest
+34.04 - level of the year in this study we aim
+36.08 - to explore how varying volatility levels
+37.96 - have influenced market conditions across
+40.84 - past presidential terms
+43.92 - interesting this table shows the
+45.96 - frequency of each volatility level now
+49.00 - again we're looking at uh one year 23 to
+52.52 - 24 then 2016 to 2020 and 20 to 24 so I'm
+56.64 - covering all the bases here and the
+58.96 - amount of the percentage of time that
+60.68 - vix was in you know different ranges in
+63.68 - the Trump Administration the first one
+65.12 - it was weird we got down to a seven we
+67.28 - got down 7% of the time that vix was
+69.04 - under 10 never happened under Biden
+72.00 - never happened the last year of course
+74.28 - um and the funny thing is that when you
+77.96 - look at the rest of the numbers they're
+80.40 - not they're not that crazy volatility
+83.20 - has been a little bit higher since the
+85.40 - pandemic um you know a lot of people
+87.52 - think that under Trump we had these
+89.64 - crazy czy volatile times and all this
+91.20 - other stuff but the reality is we didn't
+93.60 - really no was business as usual just
+95.44 - like every other president right most of
+97.20 - the time 63% of the time volatility was
+100.52 - in the crapper you know it only rallied
+102.20 - a couple times under Trump 2020 we did
+104.64 - have the pandemic built into there so
+106.96 - when you look at 2023 to 2024 87% of the
+110.92 - time we did nothing was kind of a very
+113.56 - weird slow you know slow time and then
+116.36 - in 2020 to 2024 you know the whole
+118.56 - picture it kind of broadened out things
+120.36 - a little bit more and um you can see
+122.80 - over the last eight years we have not
+124.72 - had you know 1% of the time or sorry
+128.16 - 1.8% of the time total in the last eight
+131.80 - years the volatility has been over 40
+133.72 - and only 133% of the time it's been over
+135.44 - 30 you know this is where we live most
+137.64 - of the time in recent years implied
+140.24 - volatility of the S&P 500 has ranged
+142.24 - between 10 and 30 that's very fair this
+144.92 - period has been marked by relatively low
+146.96 - volatility which suggests that selling
+148.44 - options when the ivy rank is low may not
+150.72 - be ideal waiting for High V rank over 30
+153.76 - to initiate trades Also may not be
+155.92 - practical as we've observed IV can
+157.80 - decline remain low for extended periods
+159.80 - given this should we consider a more
+161.56 - aggressive approach so this shows the
+163.72 - results across different ivr
+165.20 - environments for four years from 16 to
+167.84 - 20 and we focus on the 0 to 30 range as
+170.28 - it appeared more frequently in recent
+171.84 - years and it serves as a useful
+173.68 - comparison so the success rates don't
+177.00 - really change that much between 10 and
+179.92 - 20 20 and 30 the average p&l obviously
+184.28 - surprises me because I think that it it
+187.16 - it should have been better and the
+188.92 - return on investment is between 10 and
+191.76 - 20 just because we stayed there most of
+193.16 - the time I think that's the real reason
+195.04 - but none of these numbers like that the
+196.88 - success rate's good the numbers don't
+198.76 - jump off the screen at me as anything
+200.80 - much let's look at a different time
+202.52 - period so we look at 20 to 24 um this is
+206.72 - a lot more interesting because we
+209.12 - actually had SL higher volatility as you
+210.96 - remember the success rate's a little
+213.04 - higher the average p&l is dramatically
+215.84 - higher the um the return on investment
+219.72 - is dramatically higher the premium is
+221.92 - much higher and the buying power
+223.68 - required is also higher these numbers
+225.48 - are a lot more interesting and the
+227.40 - takeaway from this is that we had much
+230.56 - higher volatility post pandemic I don't
+233.28 - think it mattered that it was Trump or
+234.96 - Biden I think it mattered that it was
+237.00 - post pandemic and there was just there
+238.88 - was it took follow through for a couple
+241.08 - of years but you can see I agree I wish
+243.16 - you could point to I wish you could
+244.28 - point to Administration and say that
+245.68 - there was V to one or the other but
+246.80 - there really wasn't no I think this was
+248.52 - more of a meme stock thing and then a
+250.60 - and then a pandemic thing than anything
+252.60 - else so I think I guess the kind of some
+255.88 - of the takeaways here is it's hard to
+257.36 - predict based on a certain candidate how
+259.64 - high volatility is going to be like
+261.40 - because I don't I just don't think it's
+262.52 - that easy and again and it's hard to
+264.84 - predict what kind of you know unknown
+266.96 - events are going to happen but higher
+268.48 - volatility def definitely leads to
+270.36 - better returns in comparing the two
+272.60 - different terms we observe the following
+275.48 - impacts the average profit and loss
+277.48 - increased by more than three times on
+278.96 - average in the second term the premium
+281.76 - collected was up two times the return
+284.00 - investment rose up to three and a half
+285.52 - times and the buying power only
+287.48 - increased by 1.5 times so just making
+290.64 - the argument not making the argument
+292.72 - that trading is better under a
+294.88 - democratic Administration making the
+296.52 - argument that trading is better under
+298.60 - higher volatility and trying to say that
+300.52 - it really has nothing to do with who is
+302.40 - the president has to do with you know
+304.16 - what happens and where's the volatility
+306.00 - so some of the takeaways when we look at
+307.92 - these two presidential terms the last
+309.48 - two presidential terms High ivr presents
+312.92 - ideal opportunity for selling options
+315.16 - however reaching those extreme levels is
+316.88 - very rare recognizing that volatility
+319.64 - often clusters at lower levels we should
+322.16 - consider being more proactive sometimes
+324.72 - okay not always but sometimes during the
+327.20 - last two presidential CHS we generally
+328.72 - saw low volatility lels by adopting a
+331.24 - more aggressive approach and managing
+332.56 - positions early we're able to increase
+333.96 - profits and collect more premiums and
+336.48 - that was kind of that was an a across
+338.16 - theboard message that's that's generally
+339.96 - the case when volatility is low

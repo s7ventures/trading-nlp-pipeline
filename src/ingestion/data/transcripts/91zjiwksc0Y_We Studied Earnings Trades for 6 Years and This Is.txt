@@ -1,0 +1,220 @@
+0.08 - we decided to do a four four-part series
+2.08 - on earnings every Monday this is part
+4.72 - two regarding around earnings and we're
+7.32 - we're spreading it off in case it's like
+9.24 - an IRA account or in case you have
+10.76 - limited capital or making it into an
+12.28 - iron Condor so obviously if you do an
+14.28 - iron Condor you're going to have a
+15.40 - results that are slightly slightly less
+18.24 - than if you did a strangle because
+19.56 - strangle more risk more reward um
+21.76 - strangle more risk higher probability of
+23.84 - success so if we spread everything off
+26.16 - it's going to be a little bit less risk
+27.88 - so the the odds go down a little bit but
+30.24 - still I think there's a positive return
+32.96 - so let's take a look let's do it and
+34.88 - like I said get your helmet on for this
+36.36 - one during earnings announcements
+37.56 - Traders employee strategies like
+38.96 - undefined risk strangles and defin risk
+41.68 - like iron Condors to leverage in to
+44.20 - leverage increased volatility each
+46.12 - strategy presents a different risk
+47.96 - reward profile and so let's take a look
+50.96 - the efficient market hypothesis says
+53.64 - that asset prices reflect all available
+55.72 - information including earnings data thus
+57.88 - a key question how do earnings and an MS
+60.84 - influence a portfolios risk reward
+63.76 - Dynamics across various strategies
+65.80 - defined and undefined how can Traders
+68.32 - optimize these strategies in an
+70.92 - efficient market let's take a look six
+73.48 - years same as we did last time Apple
+75.96 - Netflix Amazon and Tesla 16 Delta
+79.32 - strangle and a 16 Delta strangle and a
+83.04 - 1016 Delta iron Condor so means in both
+85.84 - we sold the same option we just bought a
+88.00 - 10 Delta in the iron Condor we calcul
+89.92 - calulated the average p&l the premium
+91.52 - the buying power the return on Capital
+93.08 - compared the results let's see what we
+95.04 - got and there's a lot of stuff here I
+96.92 - promise you this was the deploying the
+99.32 - strangle um without anything else if you
+102.92 - remember this is from last week this is
+105.16 - just in six years looking at four
+108.04 - different stocks how does this 16 Delta
+110.76 - strangle work works pretty good you know
+113.00 - 70 78% chance of success how does it
+116.56 - work with the ratio of average p over
+118.52 - buying power not bad
+120.52 - 02028 how about premium collected how
+122.84 - about return on investment and the
+124.48 - return on investment it's again this is
+127.44 - over a six-year period um for each each
+131.36 - individual you know each individual
+133.08 - trade it's okay um Tesla was actually a
+136.28 - loser the other ones were small winners
+138.68 - across the board earnings trades
+140.40 - remember have the smallest amount of
+141.92 - edge so just keep that in mind let's go
+144.20 - to next slide so now what we're going to
+145.88 - do is we're going to take a look and
+147.20 - we're going to look at just solely at
+148.92 - earnings using a strangle not not
+151.68 - defined risk but using undefined risk we
+154.68 - went this is stuff we did last week too
+156.92 - we just looked at a strangle and the win
+158.48 - rates all stayed High the ratio stayed
+161.24 - High the premium collector was decent
+163.04 - and the return on investment worked in
+166.04 - apple but didn't work in Netflix Amazon
+167.80 - and Tesla and those numbers were net
+169.92 - negative numbers if you just did the
+171.36 - strangle just on earnings so the results
+173.56 - are very mixed burnings even with even
+176.24 - with a 72 or 73% probability of profit
+179.40 - the result are mixed let's go to next
+181.24 - slide so for a strangle the return on
+184.16 - investment is potentially high but
+187.24 - that's when you're timing is optimal but
+189.08 - the risk of large moves um the non-
+192.00 - earnings periods were steady but a
+194.28 - little bit lower than you know than than
+196.88 - the earnings periods with less dramatic
+199.08 - price action so here we summarized
+201.92 - everything for you in the other columns
+203.92 - but let's go to the next slide so here
+205.60 - we go to an iron Condor and this is
+207.20 - taking a little bit of risk off the
+209.08 - table but we need to see how these came
+212.24 - out um in in all these different periods
+216.04 - for these particular stocks now remember
+218.40 - this is a six-year this was a six-year
+221.84 - like very strong bull market and these
+224.20 - are very strong NASDAQ stocks Apple
+227.40 - Netflix Amazon and Tesla the win rates
+229.72 - were fine the ratio of p&l over buying
+232.80 - power that's not so good that number
+234.72 - came out negative the premium collected
+236.56 - was obviously positive and the return on
+238.88 - investment in these cases was negative
+241.24 - now again we were in a very strong bull
+244.64 - market and you did not get paid even
+247.32 - with a high win rate the losses wiped it
+249.72 - out let's go to next slide so here we
+251.92 - present the results solely on earnings
+254.96 - data which is a little different than
+256.60 - all the data combined now the earnings
+258.68 - data the return on investments actually
+260.80 - were except for Apple so for Netflix
+263.16 - Amazon and Tesla it's actually a little
+264.52 - bit worse for Apple it's positive the
+267.44 - the the win rate dropped a lot the
+270.24 - ratio of average p&l um over buying
+273.28 - power this time it turned positive which
+276.12 - before it was negative much that's due
+277.88 - to Apple but also Tesla and Amazon were
+279.84 - positive and the premium collected was
+281.56 - all obviously positive um and the return
+284.04 - on investment that's the scary thing it
+286.84 - was good in apple but it was negative in
+288.52 - the other ones so this is a very mixed
+292.28 - bag of tricks when I say I don't love
+294.44 - earnings trades bat there's a reason for
+296.64 - me when I say that and I think you're
+298.24 - looking at the reason like oh we just
+300.32 - got filled at bonds got filled buying
+302.16 - bonds at four I don't love that um but
+305.48 - Netflix Amazon and Tesla over the last 8
+307.76 - years had a negative return for earnings
+310.00 - and that's why it's tough to play those
+311.56 - for earnings trades and apple it's tough
+314.08 - I totally agree I've been very selective
+316.16 - trading earnings if if at all uh when
+319.08 - they come out I've been doing well with
+320.64 - post earnings trades uh but earnings
+322.88 - Trad themselves un let volatility is
+324.36 - extremely high and it's very liquid I
+326.60 - try to avoid it well looks like Netflix
+328.72 - sold off a little bit post earnings
+330.28 - today after being up initially oh oh the
+333.52 - other stock I was trying to think of
+334.52 - this morning was Taiwan semiconductor
+336.00 - they had earnings and they they out
+337.64 - kicked their coverage too yes so the
+339.68 - earnings have not been that great this
+341.48 - cycle at all let's go to the next slide
+343.64 - so here's where we summarize the iron
+345.88 - Condor and I'm not going to read through
+347.16 - all of this but their return on
+348.88 - investment is potentially High minus 9%
+352.36 - to plus 9% if the timing is optional but
+355.88 - there's the risk of large moves of
+357.20 - course and in non-earning periods it's a
+359.92 - little steadier but again a little bit
+362.08 - lower with um very with less dramatic
+365.16 - price action let's go to next slide so
+367.76 - and these are very subjective too a
+369.88 - strangle can outperform an iron Condor
+371.44 - around earnings due to its greater
+372.64 - benefit from implied volatility crush
+375.00 - and a wider profit range however
+377.12 - strangle carries more risk the stock
+379.12 - moves significantly while iron Condor
+381.20 - has defined risk it's a balance between
+383.72 - higher potential profit and greater
+385.40 - protection you know um these numbers are
+389.68 - are rough and when we broke it down on
+391.76 - the top on the biggest five stocks like
+393.80 - here you can see this has been a
+395.76 - challenge in the last eight years with
+398.72 - tech stocks specifically Netflix um we
+401.84 - picked the really tough ones you know
+403.96 - Netflix and Google um Apple's been good
+407.56 - as it gets a little more mature it gets
+408.92 - a little easier so Apple's been good but
+411.24 - net Netflix and and Amazon those are
+414.80 - tough they've been tough um avoid large
+418.60 - moves by focusing on stocks where you
+420.28 - don't expect massive shifts High implied
+422.72 - volatility often signals potential
+424.72 - volatility so check historical earnings
+427.08 - reactions you know this stuff's all very
+429.72 - much common sense but the key here is
+431.96 - key position size is small to manage the
+434.32 - prizes that can they can move the market
+437.24 - unpredictably during earnings yeah I
+440.20 - just be careful I mean you know
+442.20 - sometimes earnings are very attractive
+444.36 - somebody wrote me this morning and said
+445.84 - hey I'm just going to buy a bunch of
+447.44 - Premium before the earnings and I'll
+448.84 - sell it I mean to buy it two weeks
+450.44 - before and sell it out a week you know a
+451.92 - week or three days ority expands keeps
+454.88 - up with as it expands and I'm like
+456.56 - they're like how does that sounds a
+457.68 - strategy I'm like well it works
+458.92 - sometimes it doesn't work other times
+460.32 - it's about a 50/50 crapshoot earnings
+462.24 - are very much a crapshoot very much I
+464.88 - think that I think they're almost a
+466.00 - directional play if anything at all yeah
+469.12 - uh for for them yeah no I totally agree
+471.48 - um and you know we have triy to avoid in
+473.96 - earnings um stocks that aren't going to
+475.96 - have large moves by maybe you know
+477.84 - avoiding Pharmaceuticals avoid something
+479.92 - that doesn't have you know tight liquid
+481.96 - markets doing something with defined
+483.68 - risk if markets are a little bit wider
+485.76 - so you know there are ways to mitigate
+488.16 - the risk without avoiding them altoe but
+490.68 - for me earnings earnings are just an
+492.68 - event that passes in a day and you know
+494.44 - business is usual the next day that's
+495.92 - the way I like to look at

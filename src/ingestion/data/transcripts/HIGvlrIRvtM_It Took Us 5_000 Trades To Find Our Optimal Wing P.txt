@@ -1,0 +1,175 @@
+0.16 - how wide should iron Condors be how wide
+2.92 - Tony
+3.76 - Batista about this wide not this wide
+7.80 - got fit in between
+9.40 - there um so how watch Iron Iron our iron
+14.96 - Condors be and the answer we're going to
+17.20 - find out let's do it iron Condors are
+20.00 - one of the most popular strategies for
+21.20 - new Traders and smaller count sizes
+24.04 - however one question many people have is
+25.72 - how wide should they be because the
+27.56 - regular iron Condors you know the risk
+28.96 - rewards are tough but we got to make
+31.68 - something happen here so how do you make
+34.28 - something happen with iron condos well
+35.52 - in today's segment we're going to
+36.36 - explore the optimal width for different
+39.60 - underlyings and by adjusting the wiek
+41.88 - span of iron Condors Traders can
+44.56 - optimize their risk reward balance and
+46.24 - improve profitability smaller Wings
+48.72 - might not receive enough credit while
+49.96 - larger Wings may be too expensive to
+52.04 - trade with a lower return on Capital we
+53.96 - looked at five underlyings of different
+56.24 - prices $100 stock $200 stock 300 400 a
+59.04 - $500 stock
+60.52 - all with similar IVs okay so we do the
+64.72 - q's Microsoft Visa which we don't look
+67.88 - at very often
+69.84 - iwm and xbi and again we did this
+73.00 - because we wanted to cover each price
+74.56 - range okay
+76.72 - MH we calculated the average p&l the
+80.52 - return on Capital used for different
+82.12 - wings and then all the trades were done
+84.16 - at 45 days to expiration and um 16 Delta
+88.64 - short strikes manag at 21 DT over 1,000
+92.72 - trials were recorded for 12 years of
+96.60 - study 2013 to 2025 all right yep we're
+102.20 - going we're going the whole Gauntlet
+103.64 - with you how wide should it be so for a
+106.04 - $500 underlying like the q's the $5 Wide
+109.44 - Wings did not have a positive return on
+112.44 - Capital while every other wi did it's
+116.08 - pretty interesting because pry I would I
+118.76 - would have thought it would even have to
+119.56 - be wider than that on a $500 underline I
+122.20 - would say you know the the 2030 $50 wide
+126.24 - iron Condor would have been where you
+127.48 - wouldd have to go this is really telling
+131.24 - and you know why because there's no way
+134.48 - I would have got any of these numbers
+136.40 - right agreed I know I wouldn't I mean
+139.36 - the $5 doll wide wi that's crazy to me
+142.68 - which one of these is optimal I I don't
+144.48 - know the answer I really don't but what
+147.32 - I do know is no more $5 Wide Wings in
+150.32 - the qes yeah that's true well that's
+152.04 - right because when you talk about you
+153.20 - know
+154.00 - $500 uh stocks you're looking at the
+156.48 - cu's $500 right I mean I know it's an
+158.44 - ETF would
+159.68 - you yeah yeah all right so for a $400
+164.44 - wide a $400 underlying such as Microsoft
+169.00 - the majority of the return on capitals
+171.44 - were positive the best return on Capital
+173.72 - was the $25 wings so again even in a
+177.12 - $400 stock like Microsoft the $5 wide
+179.88 - Wings we're not profitable and you look
+182.00 - at this thing you're like well I you
+184.16 - just can't go narrow in these iron
+185.44 - condors and we've been saying this for a
+187.36 - long time I don't know if we've come to
+188.80 - the $ five conclusion like this but
+191.00 - we've been saying this for a long time
+192.32 - tight iron condors and that's the
+194.36 - quandry in a smaller account you know
+196.20 - you you have to have a tight iron Condor
+198.36 - it kind of opens you up to um well A
+202.28 - Hard Road to profitability so here's a
+204.92 - $300 underline and again the $5 Wide
+207.92 - Wings no bueno mhm 10 15 20 all worked
+213.68 - $5 no but the $20 Wings which has been
+217.64 - the case across the board this seemed to
+220.08 - be the best um The Proven winner across
+223.72 - the board yeah it even it even goes to
+225.40 - the zero days from our research that 20
+228.24 - even $30 wide iron Condor playing these
+231.72 - zero day options uh that seems to be the
+234.32 - best bang for your buck also from our
+236.04 - research at least yeah let's go um let's
+239.96 - go to the $200 and in the $200 stock the
+242.68 - $5 Wide Wings which is iwm it didn't
+244.96 - work either right and the the $15 wide
+248.68 - wings were the best but basically 15 20
+253.16 - um which this is a huge it's kind of an
+256.36 - indictment on like everything that
+259.16 - everybody talks about and teaches with
+260.68 - iron Condors you kind of got to get wide
+262.72 - otherwise you can't do them yep yep and
+265.92 - you gotta get listen you gotta get a
+267.16 - wide stance in football you gotta get a
+268.84 - wider stance in baseball you need
+270.48 - stability s off you got to go wider
+273.36 - that's why you're two little pin legs
+275.32 - you like to go naked because you don't
+276.96 - have that wide stance you can't uh you
+279.28 - can't grip the ground got him I'm so
+281.80 - happy you explain that to me you're
+285.24 - welcome um NASDAQ up 11 Big Boy let's go
+289.56 - to the next
+292.52 - slide in the $100 stock the $5 Wide
+296.84 - Wings didn't work either so there's no
+299.72 - $5 Wide Wings
+302.32 - anymore yeah yeah this is5 that's it $5
+307.20 - gone so those people who do our uh our
+310.00 - uh rins and stuff like that don't be
+312.16 - calling no $5 iron Condors I don't want
+314.20 - to hear it
+315.16 - anymore don't be calling in in this case
+317.52 - the lower priced the $10 wide wing was
+319.80 - the best but still yep yep so some of
+324.04 - the takeaways here um and this is kind
+327.44 - of super interesting so the results from
+331.24 - the study show that in order to achieve
+333.88 - a larger return on used capital and
+336.68 - average p&l for higher price underlying
+338.40 - you need to widen your strikes the
+340.28 - amount by which the average penl goes up
+342.80 - per $5 change in width decreases after
+345.48 - the wing width sweet spot is hit for
+348.20 - that underline however if the underly is
+350.68 - low priced may be difficult to be
+352.92 - consistent using the wider Wing Iron
+354.88 - Condors due to the buying power and less
+356.72 - return on Capital so for smaller
+358.48 - accounts stick to the narrow wings like
+360.04 - $10
+361.48 - wide for a general guideline iron
+364.76 - Condors iron Condor Wings should be
+367.68 - between 10 and 30 increasing in $5
+371.04 - increments for every $100 increase in
+373.28 - price that's pretty good that is that is
+376.24 - pretty good however you may adjust those
+380.00 - for your own risk reward strategies as
+381.84 - long as the potential return on Capital
+383.32 - and pnl remain in check so basically
+386.36 - what the research team did because we've
+387.76 - never done this before is they've
+389.96 - essentially said okay so for every $100
+394.36 - in price raise so $100 stock go $10 wide
+399.60 - $200 stock go 15 a $300 stock go 20 a
+403.64 - $400 stock Go 25 and a $500 stock go 30
+407.44 - yeah I got it makes sense and we we we
+409.68 - we've discussed similar plays like that
+413.00 - you know expanding more like um no we
+414.92 - never made it that mechanical no we me
+416.48 - $300 stocks $30 wide we didn't do it
+418.72 - quite as well quite a good job $2 stock
+420.88 - $20 wide $400 stock $40 wide kind of
+423.36 - making stocks out of um Iron Condor is
+425.96 - out of play for smaller stocks on the
+427.60 - larger stocks I like the way they've
+429.52 - done here by going up by $5 incr uh
+432.16 - increments it works out nicely even the
+433.92 - S&P is up 20 NASDAQ up 13 Russell up 24
+438.00 - the Dow up 260 volatility in by 54 cents
+442.68 - um side I got an email here that square
+445.08 - is now
+446.48 - XYZ uh already so we can't say hey you
+449.76 - trade stock XYZ anymore because now
+452.32 - there is a stock XYZ do you believe it
+455.60 - kind of interesting that they did that

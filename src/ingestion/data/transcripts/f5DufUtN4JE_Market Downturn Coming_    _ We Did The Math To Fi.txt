@@ -1,0 +1,163 @@
+0.16 - the probability of a turnaround for
+1.52 - different instruments I think you're
+2.96 - going to like this one I don't think the
+4.76 - results are going to surprise you Mr
+6.64 - Batista but I think you're going to like
+8.68 - this strangles are prone to very large
+11.60 - p&l swings throughout their duration but
+13.48 - How likely is it for a strangle p&l to
+15.84 - flip after incurring a certain amount of
+17.88 - loss so let's just determine the
+20.04 - probability of a turnaround after
+21.84 - reaching a loss threshold for 45 days to
+24.40 - expiration 16 Delta spy strangles the
+26.92 - probability of a turnaround is defined
+28.28 - as the probability that a strangle p&l
+29.68 - become positive prior to 21 DTE after
+32.88 - incurring a loss of x% of the initial
+35.52 - credit so you get the premise here right
+37.68 - yes you put a strangle on you're down
+39.96 - something go goes bad what are the
+42.40 - chances that it comes back got it I
+44.84 - don't know the answer I'm goingon to say
+46.84 - I mean it's hard to I they'll quantify
+49.64 - what percent it depends on the amount of
+51.52 - the loss obviously if you have a huge
+53.72 - loss you're probably not going to come
+55.00 - back if you have a small loss you
+56.84 - probably are going to come back that's
+58.04 - what I'm guessing but let's take a look
+60.00 - first a note an example of what we mean
+61.84 - by a loss what we mean after a loss of
+64.32 - 10% of the initial credit the
+66.28 - probability of a turnaround is roughly
+69.28 - 79% this does not mean these trades will
+71.52 - necessarily be profitable 79% of the
+73.40 - time because the p&l sign make flip
+76.36 - again you know before after 21 dtes but
+79.64 - if you're only down 10% it's about 80%
+82.12 - chance going to come back and at some
+83.32 - point be positive that's good to know
+85.40 - let's go and 10% just means if you sell
+88.28 - something at $5 you're down 50 sense
+90.32 - right that's it sure it's not that big
+92.64 - right let's go let's go next slide so we
+94.44 - looked at a bunch of different stocks we
+96.04 - looked at six different underlyings
+97.64 - spies Q's gold Amazon Apple and Google
+100.80 - 14 years worth of research this is a
+102.48 - massive study 16 Delta strangles 45 days
+104.96 - to expiration looked at prior to 21 DTE
+107.96 - for each instrument we we determined the
+110.76 - probability that a strangle has a p&l
+113.64 - less than 50% initial credit has a p&l
+117.04 - turnaround after incurring the loss
+119.28 - let's go to the next slide when I say
+121.08 - less than I meant a p&l of down 50% of
+123.60 - the initial credit so if you sold
+125.24 - something for five bucks you're down 250
+127.64 - okay that's that's more of a real loss
+129.80 - when a strangle has a small negative p&l
+132.12 - between 10 and 20% initial credit the
+133.96 - probability of flipping and becoming
+136.28 - positive prior to the 21 days is very
+139.28 - high upwards of 69% let's call it 70% so
+143.72 - it is very reasonable that if you sell
+145.44 - something for let's just say you sell
+147.20 - something for $4 just as an examp
+149.92 - example because that's probably more
+151.08 - closer to an average sale $4 you sell a
+153.52 - $4 strangle your chances of being down
+155.96 - 40 to 80 cents and then coming back to
+158.76 - profitability is almost 70% so chill
+160.96 - lacks let's go next slide sure yeah it's
+163.36 - fine let's go next slide as the strangle
+165.36 - loss becomes larger the probability of a
+168.00 - turnaround decreases I think that makes
+170.56 - sense to everybody a p&l turnaround
+172.52 - becomes unlikely with a probability
+175.32 - under 50% if the contract loss exceeds
+179.32 - roughly 50% of the initial credit so
+181.60 - this now gets all of a sudden very
+183.32 - interesting so you start out with a
+186.12 - small loss the chance of coming back are
+188.32 - very good you get a big loss you sell
+190.40 - something for $4 you're down $2 so now
+192.84 - it's trading for $6 right the chances of
+195.16 - coming back is less than 50% no no bueno
+198.36 - yeah well you gotta do something still
+200.24 - Yeah well yeah of course but just
+202.88 - pointing it out your Chan of coming back
+204.40 - are less than 50% let's go to next slide
+206.92 - so with the 16 Delta strangle 45 days
+209.36 - tax prior to 21 days the probability of
+212.64 - having a loss larger than 50% in the Spy
+216.60 - it's 24% the qes it's 30 Google 32 gold
+220.44 - 34 Amazon 34 and apple 38 that's just
+224.00 - the last 14 years worth of research so
+226.52 - that gives you some context on top of
+228.28 - yesterday's context which we talked
+229.72 - about dollars at risk which is super
+231.24 - interesting today um this gives you some
+234.76 - context about hey if I sold a 16 Delta
+237.16 - strangle you know what is the
+238.88 - probability of having a loss bigger than
+240.24 - 50% of whatever I sold and the answer is
+242.60 - it's wrapped around a third one third of
+244.40 - the time in the Spight it's one quarter
+246.24 - of the time strangles with volatile
+248.04 - underlines go ahead what so that doesn't
+250.08 - change anything in my thinking like you
+251.92 - know no I'm not I'm not I don't think it
+253.80 - will right quantify with my risk is
+256.16 - going to be yeah you know strangles with
+258.60 - more volatile underlines tend to have
+259.96 - greater profit potential but they also
+261.44 - tend to have more volatile strangle pnls
+263.68 - and they're more likely to have a
+264.80 - negative p&l um swing larger than 50%
+267.60 - initial credit so the Spy is about 25%
+271.04 - and the other ones are about let's call
+272.48 - it a third okay let's go to the next
+273.88 - slide so in this one here we looked at
+276.36 - the probability of a turnaround after a
+278.80 - loss larger than 50% and in the spa you
+281.60 - get about a 50% chance of a turnaround
+283.92 - cuse and Google 47 the other ones all in
+286.44 - the 40s so it's not impossible at all
+289.52 - you're going to get four out of 10 times
+291.16 - these things are going to turn around so
+292.72 - you sell something for $4 it goes to $6
+295.04 - four out of six times it's gonna four
+296.56 - out of 10 times it's going to turn
+297.60 - around and that's if you do nothing
+299.24 - right this is if you do nothing this is
+301.60 - if you do absolutely nothing it'd be
+303.16 - interesting to see what it would be like
+305.08 - if you you know you roll down and you
+306.84 - reduce your Delta by 50% what it would
+309.32 - be I have to imagine um that it Vol well
+312.92 - I guess it'll be volatility related too
+315.00 - it would be nice to see maybe we can
+316.08 - have a piggyback on this one maybe the
+317.80 - research team could do something with
+318.92 - that too yeah so I yeah I thought those
+320.96 - numbers were good really interesting you
+322.80 - know it's less than sorry less than 50%
+326.04 - so takeaways a 16 Delta strangle with a
+328.28 - small negative p&l has a high chance
+330.40 - almost 70% in the case of the Spy of
+332.32 - turning around however if the loss
+334.00 - exceeds 50% of the initial credit the
+336.56 - recovery chances Dro to below 50
+338.48 - strangles on more volatile underlyings
+340.16 - offer greater profit potential but are
+341.80 - prone to higher less recoverable
+344.04 - negative penal swings warranting
+346.44 - conservative loss tolerances I don't
+349.72 - think you can adjust your loss tolerance
+352.52 - as easy as you can adjust your as easy
+355.44 - as you can be more aggressive with your
+356.72 - adjustments yeah your Delta tolerance
+358.56 - that's where you should be looking at
+359.92 - right yeah y exactly agree

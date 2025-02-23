@@ -1,0 +1,191 @@
+0.04 - welcome to option trades today I'm Tony
+2.20 - the Baptist and I have a trade idea for
+3.84 - you today what's the date it's October
+7.00 - 22nd 2024 and I'm right here in the
+10.40 - Batcave right here in downtown Chicago
+14.04 - but first as I always do let's take a
+15.76 - quick look at what's going on the market
+17.52 - even the S&P is down 15 handles meaning
+20.08 - 15 points
+21.92 - $15.75 they're about mid-range for the
+24.44 - day as you can see here from the high
+25.96 - low basically unchanged down around a
+28.20 - quar perc Nasdaq doing the same uh
+31.48 - Russell also doing the same maybe a
+33.36 - little weaker or the weakest of the
+34.68 - group that's kind of been the way things
+36.48 - have been going the last couple of days
+38.32 - as you can see here the Russell selling
+39.80 - off a little bit as the rest of the
+41.56 - market have been catching a little bit
+42.80 - of a bid over the last couple of days
+44.68 - the Dow down 80 volatility up 33 cents
+48.24 - that's up almost 2% on a relatively
+50.84 - small move to the downside volatility
+53.12 - staying bid a little bit here going into
+56.08 - the middle of the week bonds traded uh
+58.44 - down to 11802 to uh even with interest
+61.60 - rates being cut bonds keep going down
+63.68 - remember bonds usually have an inverse
+65.96 - relationship rates go uh lower bonds go
+69.48 - higher but not this case right now I am
+71.64 - looking at the 30-year but you could see
+73.28 - here the 10year
+75.24 - fzn doing exactly the same thing but
+77.76 - I've got a little bit of a different uh
+80.04 - conversation or talk to have today um
+83.48 - I've got a lot of emails about you know
+85.92 - cost of capital and do you ever look at
+87.68 - buying power um to take a look at at
+90.12 - that so I'm going to do two things here
+91.84 - well first let's go to the uh High
+94.28 - option volume list and I'll put in the
+97.00 - two stocks that I want to look at just
+98.52 - to save a little bit of time Goldman
+100.80 - Sachs is one I'm going to go by symbols
+102.84 - here and just put it in alphabetical
+105.20 - order for you here uh Goldman Sachs
+107.80 - let's take a look at it just on on paper
+110.44 - here uh from the high option volume List
+113.28 - $519 stock relatively high price stock
+117.00 - uh $500 stock is going to use a lot of
+119.12 - buying power so that's going to be a
+120.56 - knock against it it's up around $1.74
+123.24 - today it's had a relatively uh average
+126.24 - size move about $5 today the ivx 5day
+130.24 - change very important number for me I
+131.76 - like to see that number green it's
+133.68 - slightly red over the last 5 days this
+136.24 - is volatility over the last 5 days The
+138.56 - Ivy rank of 37 is good and no earnings
+142.64 - looming now I'm going to compare the
+144.56 - same strategy in this $500 stock with JP
+149.20 - Morgan
+150.64 - JP Morgan I have right down here at the
+153.00 - bottom of the screen uh half the amount
+155.68 - of uh buying power would be needed uh
+158.88 - because a $224 stock versus a $500 stock
+162.20 - up today also just like Goldman Sachs
+164.84 - relatively average size move around $2
+168.20 - it's down the same amount of ivx 5day
+171.28 - change just under half a percentage
+173.68 - point and its IV rank is actually
+176.40 - slightly higher at 38 versus gold sacks
+180.56 - which we had up here is 37 and change
+183.40 - but I think we can all say that for
+185.92 - friends and we're all friends here the
+187.84 - ivy rank is exactly the same the ivx
+190.40 - 5day change is exactly the same the
+192.64 - relative move for the day is about the
+194.68 - same and the price is two times as much
+198.64 - just rounding here JP Morgan versus
+202.12 - Goldman Sachs they're both in the same
+203.68 - type of Industry let's look at the
+206.12 - buying power relationship between two
+209.32 - similar type trades I'll stay in JP
+211.60 - Morgan I'm going to go to December
+214.24 - earnings aren't until January you'll
+216.60 - notice here that I have the volume
+218.16 - volume's good not great uh although the
+221.04 - markets are quite tight this is just the
+223.88 - uh volume for the day let's look at the
+225.56 - open interest here uh open interest
+228.24 - thousands of contracts on either side so
+230.24 - this checks all the box as a tight
+233.08 - liquid Market meaning the bid ask
+235.40 - between the strikes relatively tight and
+237.40 - liquid plenty of of volume volum here to
+241.20 - Warrant a trade not the volume that you
+242.92 - need volume but you want to be a you
+244.64 - don't want to be the only one playing in
+245.72 - the sandbox so what am I going to look
+247.00 - at JP Morgan let's just look at around a
+249.92 - 20ish Delta strangle on both sides I'm
+253.64 - going to go to the
+255.24 - 210 on the puts I'm going to go to the
+257.72 - 240s on the calls basically delta
+260.88 - neutral 55 uh Deltas here a pop of
+265.12 - 65% the Theta decay $970
+269.88 - without volatility moving one way or the
+271.64 - other uh your max profit obviously what
+274.16 - you're selling it for
+276.68 - $494 uh your max loss they say is
+279.16 - unlimited I Define it by the amount of
+281.52 - buying power that you have here so
+283.04 - you're getting paid around or your max
+285.12 - profit can be around
+286.72 - $495 depending on where you get filled
+289.28 - uh on the $3,000 or $3,100 in buying
+292.64 - power $
+294.28 - 65% pop on the overall trade I like to
+297.72 - have trades that are over 65% 5 or more
+300.80 - around that uh standard deviation or
+304.56 - that dotted line that we're looking at
+306.88 - here uh on the uh tasty trade platform
+312.12 - okay that's JP Morgan put those numbers
+314.40 - in your head or write them down so you
+316.00 - have them here uh going to be a little
+317.76 - test after this not really but you know
+320.04 - there's going to be a little bit of a
+321.32 - test let's look at Goldman Sachs now
+324.68 - Goldman Sachs a much higher price stock
+326.96 - we're going to go to December it has
+328.52 - earnings to in January uh look at the
+331.84 - open interest not quite as strong uh
+335.08 - open interest as we had in JP Morgan so
+338.08 - maybe a tad uh the needle moving to
+341.04 - maybe a JP Morgan trade right here let's
+343.40 - go to the 20ish Delta I'll go to the 480
+348.40 - puts that's a 20ish Delta uh plenty of
+351.28 - volume in in that line decent markets
+354.04 - for a $500 uh stock and I'll go to the
+358.16 - 560 calls which is around a 20ish Delta
+362.12 - here and let's take a look at the
+364.12 - numbers on top 67 pop versus a 65% pop a
+368.20 - Theta Decay 25 uh much higher than what
+372.60 - you had in JP Morgan but obviously
+374.96 - because a higher price stock um Delta
+377.48 - basically delta neutral just like the JP
+379.68 - Morgan
+381.24 - $1,255 That's the mid price that's what
+383.44 - you would be uh selling this for and the
+386.04 - buying power effect is
+388.04 - $6,500 versus $3,100 so the buying power
+391.36 - effect is twice as great as what we had
+396.36 - in JP Morgan but the credit we received
+400.20 - is more than twice as much that we had
+404.16 - in uh JP Morgan remember JP Morgan the
+407.48 - it was closer to 4 $494
+410.56 - $490 here you've got $1250
+414.76 - $1,255 um remember it was twice as much
+417.44 - it be $10 so on a relative basis all
+421.00 - things being the same your probably
+423.68 - profit being the same uh your buying
+426.40 - power being twice as much or a little
+428.72 - bit more than twice as much but yet you
+430.84 - get compensated by the extra um credit
+435.40 - that you received that makes Goldman
+438.04 - Sachs my choice or my trade for today so
+441.96 - I'm going to look to sell the strangle
+444.16 - uh you'll be able to see it on a follow
+445.64 - page in just a moment I'm going to sell
+447.56 - the 480 560 I'm going to try to collect
+450.76 - around
+451.64 - $12.55 which would be the mid price on
+454.32 - this trade you will see it on the follow
+456.52 - page um if you have the tasty trade
+458.72 - platform and that's when I tell you
+460.48 - right now please open Move transfer
+463.12 - bring your account to tasty trade they
+465.36 - give you some great perks and those
+466.72 - perks is cash by bringing your account
+468.88 - even if you're just transferring one or
+470.36 - you're opening up a new one check all
+472.04 - the fine print go to TD trade.com help
+475.36 - us keep the lights on here and more
+477.00 - importantly help us keep all this great
+479.08 - content myself and Tom Liz Jenny the
+482.08 - whole crew uh depend on you to bring
+484.80 - your account to tasty trade so we can
+486.40 - keep this free and keep the lights on
+492.53 - [Music]

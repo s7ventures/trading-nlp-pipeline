@@ -1,0 +1,102 @@
+0.08 - implied volatility and strike distance
+2.16 - so we've discussed that selling options
+3.84 - when IB is higher can lead to better
+5.32 - performance we know this we're going to
+7.28 - take a look backwards you know we're
+9.20 - going to look at the frequency and level
+10.68 - of implied volatility by examining the
+12.28 - distribution of the vix over the past 20
+15.28 - years because we know as a premium
+17.88 - seller we collect richer premiums when
+19.76 - implied volatility is elevated so if we
+23.04 - categorize trades based on vix into four
+25.96 - groups with an equal number of
+27.64 - occurrences the vix levels would be
+29.08 - divided as follows this is equal number
+31.36 - of occurrences less than 13 13 to 16 16
+34.48 - to 22 and then greater than 22 all right
+37.08 - next we want to examine how the
+38.44 - volatility expansion or contraction
+41.16 - impacts strike price colle selection and
+43.72 - as a result performance so we tested 16
+46.80 - Delta strangles with 45 days to go and
+49.28 - managed all the positions at 21dt and
+51.68 - here's what we learned as the vix
+53.28 - increases the distances between the
+55.40 - strikes and the underlying price for the
+56.80 - same Delta options expand rapidly when
+58.64 - the vix is above 22 which was the high
+60.44 - end of this range the distances for both
+62.84 - the put in the call side more than
+64.60 - double compared to when the vix is 13
+67.12 - also the credit received as a percentage
+69.60 - of the stock price increases
+71.48 - significantly pushing the strikes even
+73.60 - further so what what happens here um and
+78.24 - again you you can see the credit as a
+80.16 - percenter price you know when the vix is
+82.60 - high now right now the vix is let's call
+84.92 - it 20ish just under 20 sure just under
+89.40 - 20 be in that 16 to 22 range which is 7%
+93.96 - away on the call side and I'm sorry 7
+97.92 - away on the put side and six away on the
+99.44 - call or five away on the call side
+100.88 - that's still pretty good yeah sure sure
+102.88 - okay and the credit received is a big
+104.48 - number right now this is where you want
+105.92 - to be this is kind of like the sweet
+107.72 - spot in this 16 to 22 maybe over 22 is
+110.72 - even a little sweeter but you don't want
+112.32 - like over 35 or 40 gets really tough in
+115.12 - terms of performance uncertainty higher
+117.20 - uncertainty and higher volatility and
+119.12 - high markets particularly when the vix
+121.48 - is between 12 I'm I'm sorry between 16
+123.96 - and 22 it results in slightly lower win
+126.96 - rates however all the win rates are
+128.72 - great for premium sellers clearly wider
+131.72 - strikes in high IV environments lead to
+133.52 - much better performance in terms of RLC
+135.56 - so what happens here is you can see that
+137.44 - we get down to that 16 to 22 which is
+139.28 - second from the bottom the win rate 76%
+142.12 - which seems like okay that's not great
+144.16 - because there's more more of those
+145.88 - stocks are in play but the average
+147.72 - return on capital is quite High and the
+149.44 - credit percent of price remains high so
+152.56 - you get so you get paid for the extra
+154.24 - risk you get paid for the yeah the win
+156.64 - rate drops a little bit but but the
+158.40 - return on Capital goes up and the credit
+160.28 - as a percent of the price goes up it's
+161.84 - just a lot more stuff to do a lot a lot
+164.44 - more adjustments to be made just a lot
+166.40 - easier to manage the portfolio so a
+168.84 - bunch of different takeaways First
+170.60 - Option premium is significantly higher
+172.16 - in markets with elevated IV leading to
+174.40 - wider distances between the strikes and
+176.04 - the underlying price that's good because
+177.88 - you don't want to get in a situation
+179.60 - where where the strike selection is too
+182.36 - close or the strike selection is too
+184.20 - near where the stock is trading makes it
+186.00 - really hard and the benefits uh premium
+189.00 - Sellers as the realized success rate and
+192.76 - return on Capital are greatly improved
+194.72 - even though the theoretical pop Remains
+197.00 - the Same at the time of order entry
+199.44 - pretty nice I mean good refresher on
+201.48 - really basically what you're looking at
+202.88 - here is when you have higher implied
+204.60 - volatility once again you know everybody
+206.96 - will say you know you should think about
+208.60 - shying away
+210.36 - um from that because you have more risk
+212.08 - but really that risk is rewarded by a
+214.36 - return on Capital and still a high win
+217.64 - rate is that yeah in the tasty world we
+220.00 - we kind of go counter to everything else
+221.80 - and the higher the implied volatility
+223.56 - the better the environment for trading

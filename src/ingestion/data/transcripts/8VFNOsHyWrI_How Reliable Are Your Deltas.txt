@@ -1,0 +1,195 @@
+0.08 - the
+0.88 - reliability of beta weighted
+4.40 - Deltas we get a lot of emails um over
+8.16 - the course of whatever it is like it
+11.12 - could be a month a couple months there
+13.52 - were people asking you know like because
+16.40 - tasty defaults everything to Beta
+18.52 - weighted Deltas on the top of the page
+20.80 - how reliable is that number if it says
+22.48 - I'm short am I short it says I'm long am
+24.84 - I long how reliable is that number do
+27.24 - you want to take a guess percentage wise
+29.40 - how reliable that number
+33.20 - is I have lots of different positions on
+36.24 - so so I'm a good test 72% of the
+40.92 - time no it's better than that is it no
+46.72 - I'm I'm happy it's overperformed how
+49.08 - reliable not enough like numbers no how
+51.48 - reliable do you think the number is on
+53.36 - just if you were say like is it 90%
+55.12 - reliable is it 95 is it 85 80 75
+61.28 - 103 you're a little off on that but as
+64.68 - far as reliability goes it's about 85%
+67.80 - it's about 90% reliable we're going to
+70.92 - show you that today how reliable is it
+73.44 - well 90% is pretty damn good if you
+75.20 - could take all the different positions
+76.60 - you have on and some are highly some are
+80.36 - very highly correlated some are not that
+82.24 - highly correlated some have weird beta
+84.44 - weightings some are Futures some are
+86.28 - Commodities everything you throw it
+87.80 - together it's still about 90% % accurate
+90.60 - that's pretty damn good so beta by
+93.24 - definition is a fundamental tool for
+95.16 - managing systemic risk in a portfolio by
+98.16 - comparing all the underlyings to a
+99.72 - benchmark such as spy we only use spy
+103.20 - this is the Apples to
+105.04 - Apples um of the trading business nobody
+109.36 - else ever did this for retail customers
+112.12 - we came up with this 25 years ago it was
+114.76 - really a TP thing we were messing around
+117.28 - with a bunch of different tools T TP
+120.00 - came up with the idea of beta waiting a
+121.68 - portfolio for retail investors we
+123.96 - started it we've um kept it you can get
+126.84 - this at thinkers slum now you can get
+128.32 - this obviously a tasty and maybe there's
+131.00 - like maybe another firm I I'm not sure
+132.60 - if interactive brokers has it but we
+134.48 - changed the whole industry with respect
+136.12 - to active Traders using beta weed
+138.36 - portfolios there are two equivalent
+140.60 - definitions for beta of an
+143.24 - underlying
+144.84 - um and we get into a lot of the formulas
+149.24 - here because we have some physicists and
+151.80 - some math professors and other things
+154.24 - and people want to see you know the
+156.16 - actual um formulas that we're using to
+159.28 - create um uh to basically create the
+163.56 - definitions that we use on the platform
+166.72 - but what what we wrote here is more
+169.76 - intuitively this is thought of as how
+173.08 - much to expect ABC stock to move given a
+176.80 - $1 move in the underline that's our beta
+180.16 - waiting and how
+182.40 - reliable is this expectation or how
+185.84 - reliably does this expectation play out
+188.48 - in reality so we use 15 years worth of
+192.36 - data which is plenty spies iwm TLT Q's
+196.56 - Amazon Google and Tesla for each day in
+199.40 - the past 10 years we computed the betas
+203.32 - the
+204.08 - beta beta weighted Deltas based on the
+206.96 - previous 5 years of returns the same
+209.00 - methodology as the platforms I'm sorry
+211.04 - these are just beta values we contrasted
+214.44 - that's just the relationship between the
+216.12 - underlying and the snps we contrasted
+218.88 - the realized daily moves against those
+220.48 - predicted by Beta and the Spy moves via
+223.08 - the correlation the average absolute
+225.60 - eror as a percent of the daily move and
+227.92 - its root mean era similar metric but
+230.92 - which penalizes large errors more for
+233.96 - context we reported on the correlation
+235.80 - between each underlying and the Spy over
+237.64 - the whole of the data set
+240.48 - again I don't I'm not sure anybody's
+242.12 - ever done anything like this before but
+244.92 - welcome to Tasty this is actually fairly
+247.32 - ground breaking in the sense that I
+249.84 - haven't seen this study before anywhere
+252.84 - so the correlation with spy if used iwm
+255.60 - is 88 and no surprise there if you use
+258.08 - Q's .93 no surprise there this is over
+261.68 - 15 years TLT it would obviously be the
+264.56 - inverse so it's a
+266.80 - .32 those all make sense the correl
+270.08 - between predicted and realized moves is
+273.32 - actually almost what just what you
+275.60 - thought um you know it's it's pretty
+278.60 - damn close to the to the to the actual
+281.64 - correlation with the Spy no surprise
+283.96 - there because the numbers work the math
+286.72 - just works but here's where we get down
+288.76 - to kind of let's talk about the average
+291.60 - error it's a percent of the average move
+294.56 - so in iwm it's 7.7 in TLT 12.2 and the
+299.20 - q's
+300.24 - 4.2 so when you think about these these
+302.48 - errors are relatively
+305.48 - small I mean TLT little bit more but
+308.80 - mostly all of our stuff is in stock
+310.52 - indices and stock indices it's closer to
+312.72 - 5% which means that the beta way dels is
+315.16 - like 95% accurate when you look at the
+317.08 - big outlier moves which is the root mean
+319.72 - Square era they're a little bit higher
+322.24 - in iwm and qes but it still basically
+325.24 - averages under 10% about 8% so for the
+328.84 - outliers so this is really interesting
+331.16 - in this sense that the average
+334.56 - ERA is pretty low now if we go to
+338.16 - different equities go to the next Slide
+339.68 - John so Amazon Google and Tesla are
+342.04 - equities they only have
+343.72 - a
+345.72 - 6.69 and 044 correlation to the snps so
+350.16 - their correlation is much lower when you
+352.32 - have a lower correlation you're
+353.44 - obviously going to have
+355.12 - higher uh higher error count because
+359.12 - because that that's just the way marks
+360.60 - work if there's a lower correlation then
+362.72 - then everything is going to be a little
+364.68 - less IM balance the correlation between
+366.88 - the predicted and the real moves spot on
+369.76 - freaking spot on Amazing the average
+372.28 - error here is a little higher than the
+374.00 - indexes of the last slide Amazon 84
+376.88 - google2 I mean 12.3 and Tesla 9.3 and
+381.52 - then the outlier moves even a little bit
+383.60 - greater as well but still pretty well
+386.00 - under
+387.08 - 10% which means that the number that we
+389.84 - show on the platform you know as far as
+392.36 - our beta weighted um as far as our beta
+395.92 - weighted deltas and our Greeks are
+398.00 - pretty damn
+399.36 - good very nice agree I mean like in my
+402.24 - account I'm taking you know 70 or 80
+404.52 - different positions beta weting them to
+406.60 - the Spy and coming up with something
+407.92 - that has uh an error less than 10% I
+412.04 - feel pretty good about that I don't
+414.52 - think I could come up with better let me
+415.84 - put it to you that
+417.04 - way no um that's really interesting
+420.64 - that's really really interesting really
+422.72 - well done beta weighted Deltas give us
+425.32 - an apples to app's way to look at the
+426.88 - total systemic risk across our portfolio
+429.40 - how much do we expect to gain or lose
+431.08 - from a $1 move in the market but the
+433.12 - value of that expectation is closely
+434.68 - matched with the strength of each
+435.84 - underlying Market correlation so less
+438.48 - correlated more wiggle room for error
+441.68 - typically realized price changes were
+444.76 - within 10% of the values predicted by
+447.88 - Beta although Q stayed much closer and
+451.00 - the lower correlations underlyings had
+452.76 - noticeably higher root mean Square
+455.48 - errors which meaning they most likely
+457.24 - kept they're close to the beta um
+460.48 - weighted Delta predictions when they
+462.76 - varied they varied big and low
+465.64 - correlation underlyings are the key for
+467.00 - increase in the number of occurrences
+468.60 - but be careful because their beta
+470.68 - weighted Deltas are small it doesn't
+473.04 - mean that their prices are stable just
+475.32 - that their moves are hard to predict
+476.96 - there's a lot of good stuff yeah a
+479.68 - pretty good little tidbit there too so
+481.48 - really good at predicting the the
+483.68 - typical move that the stock is going to
+485.92 - have but no way of predicting the
+487.80 - outlier move and that's why they call it
+489.16 - an outlier move right I mean that's
+490.36 - really what they're saying yeah don't
+491.44 - don't sleep on this study this is good

@@ -1,0 +1,233 @@
+0.12 - navigating Capital allocation and buying
+2.96 - power reduction let's take a look and
+5.16 - see where the boys are going with this
+7.48 - so the past two Mondays actually you
+9.64 - know yeah it's it's it seems like you
+12.32 - know August 5th was a Monday and then
+14.40 - you know the Deep seek was a Monday and
+16.56 - this past Monday was down 100 you know
+18.28 - it's crazy the past two Mondays they've
+20.60 - seen
+22.00 - significant uh rise in the vix after
+24.44 - major weekend news this has caused some
+27.08 - Traders some overall portfolio buying
+30.32 - power buying power reduction to balloon
+33.28 - causing them to allocate more Capital
+34.92 - than than they initially started with
+37.04 - let's take a look and see how that
+38.76 - happens because we should point this out
+42.20 - if you have Futures positions on the
+44.48 - volatility can adjust based on time and
+46.76 - based on I mean the the the capital can
+49.52 - adjust based on time and based on
+53.16 - volatility and Futures and Futures
+54.92 - options but in listed options the
+57.84 - requirements are static so if the
+60.32 - requirements are static then why would
+62.96 - it require more money and the answer is
+65.32 - just because of the draw down in p&l you
+68.68 - know it just it just sucks up the
+70.08 - available cash this is due to BPR
+72.80 - expansion Define risk strategies usually
+75.12 - don't change buying power reduction
+77.00 - during the trade as the max loss is
+78.80 - already defined at order entry however
+81.20 - undefined risk strategies have the
+83.00 - possibility for buying power reduction
+85.12 - to greatly change throughout the trade
+88.00 - this is why different account sizes are
+89.52 - only able able to trade undefined risk
+91.80 - with certain stocks as we show in the
+93.52 - next slide let's go to let's
+95.88 - go so here's something that we kind of
+100.08 - put out here just to help people a
+101.48 - little bit which is underlying asset
+103.96 - selection for diverse account sizes so
+106.88 - 10,000 100,000 a million dollars just
+109.36 - showing like you know what you could
+112.04 - potentially um different stocks that you
+114.08 - could look at based on account size that
+116.20 - might fit into those um to those those
+120.40 - percentage breakdowns that I gave before
+122.96 - you know like between you know 1 and 3%
+125.96 - a half a percent and 2% defined risk
+128.76 - between three and five or 3 and 7%
+131.64 - undefined risk you know obviously one of
+134.56 - the advantages larger accounts have is
+136.72 - you can do more stuff I I want to be
+139.40 - really clear about this the reason
+142.12 - though Rich it's very rare because of
+145.96 - one big down move for us to change the
+148.96 - requirements on an individual stock like
+152.76 - requirements we have for um for SLV or
+157.04 - the requirements we have you know for
+159.40 - apple or the requirements we have for
+161.00 - spy those requirements don't change
+164.68 - those are really static it would take a
+167.40 - lot for us to change it would be a big
+169.56 - move in the market for us to change spy
+172.00 - requirements or Q requirements or you
+174.52 - know or Target requirements but what
+177.00 - does happen is that because of a big
+180.92 - move you could have a mark to Market or
+183.52 - a paper loss that could drain some of
+186.00 - the excess Capital which then puts you
+188.88 - which could put you into a situation
+190.76 - where you've got to free up some cash to
+192.16 - hold positions let's go next
+195.28 - slide now Tom you let Julia read a slide
+198.48 - yesterday so do do I get the same uh you
+200.92 - could you could take it from here
+202.08 - pleasure you could take it from here so
+204.96 - buying power reduction formula here's
+207.48 - the all important uh formula for naked
+210.28 - option strategies so the ones with
+212.64 - undefined risk the underlying price
+215.48 - plays the most important role in
+217.76 - calculating the BPR followed by out the
+220.92 - money value Then followed by the option
+224.04 - premium and it's what I didn't realize
+226.52 - at the time was it's 20% of the
+228.48 - underlying price times 100 uh minus the
+232.64 - outof the money value and plus the
+236.40 - option premium with the out of money
+238.36 - value based on the strikes distance from
+241.60 - the stock price and we've got some great
+243.84 - examples on the the next
+247.40 - screen keep
+249.20 - going so here we go if if you are
+251.88 - selling the 16 Delta out of the money
+255.20 - obviously um spider uh 45 days to expiry
+259.92 - and those are naked short puts 20% of
+263.56 - the spider price that's going to give
+266.12 - you a BPR of
+268.72 - 12,020 then you take off the outof the
+272.04 - money value because it's 16 Delta we're
+273.96 - so far away so you get a benefit of
+277.84 - 3,764 but then you add back on the
+280.32 - option premium 335 that gives you a
+283.16 - total of
+286.44 - 8591 and as you can see as the Delta
+289.88 - increases so you're when you're at the
+292.16 - money you don't get any of the out of
+295.44 - the money benefit so then your your BPR
+298.64 - reduction goes up to
+301.84 - 13,110 uh slightly higher again if you
+304.48 - are trading the the 75 in the money
+309.04 - Delta so the distance between an out of
+312.00 - the money and at the money strike price
+313.88 - plays a huge role in why the BPR for an
+316.96 - outof the money strategy is much
+319.84 - less let's look at the strangle if it's
+322.60 - a 16 Delta strangle how do we work out
+324.64 - the BPR well you take the it's equal to
+328.72 - the highest BP from the naked put or
+331.92 - call side so whichever one's the highest
+335.12 - that's what your BPR is going to
+337.52 - be yeah that's good um keep going keep
+342.52 - going so some Traders are curious why
+345.44 - the BPR for their naked positions such
+347.52 - as short puts short calls and strangles
+350.40 - can suddenly change often increasing as
+353.32 - it did to me a week past monday even
+356.76 - when the underlying price stays the same
+359.80 - aside from stock price movements the
+361.72 - next big reason for BPR fluctuations is
+364.52 - an increase in implied volatility a
+367.76 - quick spike in IV can boost the option
+370.84 - premium which in turn raises that
+375.92 - BPR exactly keep
+380.28 - going so now here's here's the stock
+383.60 - that actually caught me because my
+384.84 - biggest BPR and capital requirement out
+387.80 - of my whole portfolio is of course in
+389.72 - Nidia uh this Nvidia example
+391.88 - demonstrates how stock movement and
+393.48 - changes in the IV affect daily BPR
+397.56 - fluctuations let's look at the one
+399.52 - standard deviation strangle for February
+403.32 - in
+404.28 - Nvidia and you can see what happened
+406.84 - here over those two Monday periods and
+409.64 - this is great work from the guys because
+411.20 - it's actually real
+412.56 - numbers you saw that shock the stock
+415.28 - price move from 143 down to 118 on the
+419.04 - Deep SE news and the IV jumped from 48
+423.48 - to
+424.72 - 72 this saw a surge in that
+428.52 - BPR from
+432.12 - 1,977 an increase of
+435.04 - 119% to
+436.96 - 4476 and this is what caught me off
+440.20 - guard uh then you can see it drops back
+443.08 - down after the market rallied so nicely
+445.56 - on the
+446.96 - Tuesday but then with a secondary shock
+449.60 - on um Mr uh Mr Trump's tariffs then we
+454.80 - saw uh an increase once more to actually
+458.76 - higher V the implied VA went up to
+462.28 - 74 and uh a BPR of
+465.48 - 4,597 I'm I'm really surprised by those
+467.92 - numbers those seem so much larger than I
+469.96 - thought they would be yeah that's that's
+472.60 - what really caught me out yeah that
+474.12 - seems crazy to me that I didn't realize
+476.28 - they were that big let's go next slide
+478.00 - Beth
+481.16 - therefore it is crucial to allocate
+483.84 - Capital wisely into options positions
+487.12 - typically we should keep our total
+489.16 - committed trading Capital around
+491.48 - 25% when IV is low because of course you
+495.00 - want that room for a big um a big surge
+498.72 - in in implied volatility remember
+500.68 - January
+501.92 - 2018 that was V mageddon and we when we
+506.32 - saw V increase by um by more than 80%
+510.24 - uh so so yeah keeping it around 25% then
+513.92 - is uh the most efficient safest idea
+517.68 - then when IV is elevated Traders have
+519.72 - the opportunity to take larger positions
+521.76 - to capture higher premium however any
+525.20 - Capital allocation exceeding 50% and
+528.28 - this is where I get a smack on the wrist
+531.32 - uh 50% should be carefully monitored as
+534.28 - this number can quickly expand if the
+537.48 - market moves against the portfolio yeah
+539.96 - I just want to say one thing here
+541.24 - because we're running late these numbers
+543.40 - are the most conservative case we have a
+545.84 - moderate case which is about 33% higher
+549.08 - we have a uh aggressive case which is 50
+553.28 - to 60% higher so so just these are this
+557.56 - is the most conservative case because I
+559.12 - don't want to confuse people and very
+560.76 - few of us use the most conservative case
+562.84 - most of us are in the moderate to more
+564.28 - aggressive case let's go to the next
+566.12 - slide Beth and we got to wrap it up yeah
+568.44 - I'm right 785 % just now Tom do you want
+570.76 - to take the takeaways buying power
+572.68 - reduction can fluctuate significantly in
+574.92 - undefined risk strategies due to stock
+576.60 - price and implied volatility changes
+578.72 - unlike theine risk strategies where the
+580.32 - BPR is stable this can lead to over
+584.00 - Capital allocation in your portfolio
+585.68 - with adverse Market moves the key always
+589.44 - stay small stay small and I like the
+592.76 - moderate to aggressive case but you stay
+594.52 - small BPR is mainly determined by
+597.24 - underlying price out of the money strike
+598.88 - distance and option premium with a
+601.12 - strangle BPR based on higher the higher
+605.40 - BPR of the naked call or the put
+607.48 - whichever one's higher and allocate
+610.60 - Capital wisely maintaining around 25% in
+613.76 - low IV and monitoring positions over 50%
+617.16 - in high I most conservative case to
+619.96 - manage potential and Rapid um buying
+623.16 - power
+624.72 - expansion um and listen again keep size
+628.16 - small you'll be fine

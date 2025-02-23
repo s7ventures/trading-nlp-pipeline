@@ -1,0 +1,146 @@
+0.12 - I know all right let's do it these are
+2.68 - um this is a market measure that uh our
+5.20 - research team put together for today
+7.04 - really just talking about shorten the
+8.88 - vix and profiting from implied
+11.60 - volatility after this is over we'll tell
+13.08 - you about some of the upcoming events
+14.80 - that we have on the calendar but
+17.00 - shorting the vix ready for this shorting
+19.64 - the vix I'm ready for this volatility is
+21.52 - one of the more prominent examples of a
+23.08 - me of a mean reverting nature that we
+25.44 - have the ability to trade that's fair I
+27.36 - would say that volatility pairs trades
+30.00 - there's some divergences in different
+31.88 - indices and things like that but I would
+33.68 - say volatility and volatility itself and
+36.24 - pairs Treads are probably the two that
+38.16 - we have the most kind of evidence of
+40.00 - mean reversion on let's go to next slide
+42.04 - knowing this it should be easy money
+44.56 - easy money Mr Batista I love that one
+47.12 - buy an inventory volatility below the
+49.68 - mean and only sell it when it spikes if
+52.16 - it is mean reverting why can't you just
+54.08 - buy it every time it dips okay give it
+56.40 - to me then you're just going to hold it
+57.96 - and when it goes up you're going to sell
+59.28 - it sell it when it goes back down again
+60.76 - you're going to buy it looks easy from
+62.28 - the chart here scoop of chocolate scoop
+64.28 - of vanilla let's go to the next slide
+66.28 - however there's always an however oh we
+68.48 - run into a couple of problems we can't
+70.52 - buy the vix and the vix Futures have a
+72.24 - natural Decay and if there is no runup
+74.36 - in volatility by expiration they just
+76.44 - lose money right when they say you can't
+78.00 - buy vix they're talking about vix uh
+79.72 - stock right I mean you could do vix
+81.32 - options if you wanted to but that
+82.72 - already prices in uh all the vix that's
+85.92 - right so the long Vick strategies using
+87.76 - options can often run into the same
+89.28 - problem if the timing is off which is
+91.04 - usually due to volatility clustering
+93.28 - near low levels what that means is when
+95.12 - volatility goes when volatility goes
+97.40 - down it kind of sits around forever then
+99.72 - it costs a lot of money to carry a vix
+101.56 - position otherwise everybody would
+103.04 - Geniuses Whoever thought of these
+104.76 - product structure because you know we
+106.76 - clearly didn't when they were first when
+108.40 - they first came out with this stuff
+109.72 - let's go next slide relative to our high
+112.00 - probability profitable strategies such
+113.76 - as shorts strangles the vix is a very
+116.52 - tough trade so we looked at this 2014 to
+120.24 - present managed the 21 DTE we looked at
+122.76 - long call spreads um and these are long
+126.60 - implied volatility strategies so we
+128.36 - looked at long call spreads and we
+129.96 - looked at Short puts and the long call
+132.16 - spreads for 10 years the win rate's 50%
+136.00 - right down the middle the short putut
+137.68 - the win ratees obviously going to be a
+139.08 - little higher 78% the average pnl 20 and
+141.64 - 80 bucks the max loss is significantly
+144.36 - greater than than amount that you make
+146.72 - and the buying power used a lot um let's
+150.48 - see if we can the average p on the short
+152.40 - put looks okay the average p on the
+154.28 - short on the long call spread H maybe
+156.80 - it's okay let's take a look relative
+158.64 - amount of buying power it's using so can
+161.36 - we do the exact opposite of this long
+164.08 - volatility strategy has selling call
+166.00 - spreads on volatility spikes been
+167.72 - profitable take a look cuz all this kind
+169.44 - of stuff is neat so we're going to sell
+171.80 - a spike in volatility by selling a call
+174.80 - spread let's look at the next slide well
+177.40 - the short Vic strategies have been much
+179.48 - more consistent in their success and
+181.36 - produced positive p&l on average so a
+185.04 - short at the money call spread on a
+187.04 - spike um 78% with a 94% p&l and a short
+193.36 - 30 Delta call spread 86% that's selling
+196.56 - the 30 Delta call 86% with 54 with $58
+200.24 - so what's interesting here is that
+203.88 - um selling vix essentially selling vix
+207.92 - Deltas which is shorting the vix which
+210.00 - is the title of this has worked much
+212.04 - better than buying the vix and most
+214.36 - people buy the vix as a hedge right but
+216.36 - shorting the vix is worth works much
+218.24 - better let's go to the next slide kind
+219.96 - of the opposite of our thinking too a
+221.56 - little bit here I mean I wouldn't I mean
+223.04 - I'm short volatility in the strategies
+226.00 - that I play but I never go to the vix
+227.88 - and look to short vix yeah I don't sell
+230.92 - I don't sell a lot of um I never have
+233.76 - that position on synthetically right
+235.84 - yeah we don't sell a lot of vix Deltas
+239.24 - normally we probably should do more
+241.64 - based on this study I think we should do
+243.92 - more we just don't do it enough and and
+245.68 - we probably do it in other things and we
+247.76 - probably should use the vix more implied
+249.56 - volatility is one of the more prominent
+250.80 - examples of mean reverting of a mean
+252.40 - reverting Market that we trade but it's
+254.16 - tough to buy given the complex term
+256.56 - structure it is incredibly difficult and
+259.20 - Incredibly expensive to buy vix so maybe
+261.60 - it makes more sense to short it that was
+263.76 - the whole point of this thing and short
+265.76 - it into defined risk risk way so short
+268.28 - Vic strategies to perform in
+269.88 - consistently profitable manner but we
+271.72 - don't sell Naked calls to this market so
+273.64 - we've done only toine risk trades it's
+276.48 - actually been profitable and we don't do
+278.44 - enough of that so we did this to kind of
+280.24 - tell ourselves to hey we just need to
+283.52 - consider um expanding our strategies
+286.04 - into to short vix call spreads on
+288.28 - rallies because we have not done enough
+289.84 - of those um you disappointed with your
+292.12 - performance yeah yeah I'm kind of
+293.96 - disappointed my performance in the vix I
+295.76 - I mean to be fair I don't think we've
+297.72 - made a lot of money in the vix over the
+299.04 - last couple of years years I think it's
+300.44 - been very small and we can probably we
+303.56 - probably should have done better yeah we
+305.36 - used to do a lot of uh by Vick's Futures
+307.72 - sell VI calls but that's very Capital
+310.12 - intensive too you don't really Capital
+311.48 - intensive really hard to manage I'd
+313.36 - rather sell call spreads the problem
+315.12 - with call spreads the mies are so damn
+316.88 - cheap you have to do the at the money
+319.00 - yeah

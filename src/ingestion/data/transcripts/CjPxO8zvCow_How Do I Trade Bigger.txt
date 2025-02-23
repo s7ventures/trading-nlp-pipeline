@@ -1,0 +1,23 @@
+0.04 - so I've been trading a smaller account
+1.80 - but I'm about to come into some money
+3.60 - how would you suggest I scale up slowly
+6.40 - would be my easiest way if you're doing
+8.00 - Define risk trades that are $3 to5 wide
+10.80 - maybe you might want to go to5 to $10
+13.72 - wide more of a synthetic strangle maybe
+16.36 - even $10 to $20 wide on an iron Condor
+19.44 - or one side by selling naked puts or
+21.44 - naked calls when you're trading a
+22.72 - smaller account and you're ramping up to
+24.28 - a larger account the most important
+25.96 - thing to do at first is to prove concept
+28.44 - the way you prove concept is I mean
+30.20 - essentially you start small you start
+32.20 - your scaling up process small like Tony
+34.04 - said by widening the strikes rather than
+35.88 - adding more contracts you add more risk
+37.72 - and then you prove that you can handle
+39.40 - the additional risk and then you
+40.96 - continue to scale up by widen the
+42.88 - strikes and then eventually you add more
+44.52 - contracts

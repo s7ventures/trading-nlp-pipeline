@@ -1,0 +1,176 @@
+0.04 - reliability and diversification
+1.88 - reliability and diversification let's
+3.96 - take a look and see where the research
+5.32 - team went on this one today it's a
+6.96 - pretty heavy piece SO trading is about
+9.28 - accepting R trading is about accepting
+11.92 - risk in exchange for probable profits
+15.08 - that's okay that's a that's a little bit
+16.96 - of a stretch sometimes y perhaps the
+19.00 - most long-term successful approach is to
+21.12 - diversify using a mixture of assets so
+23.48 - these risks offset each other I mean
+25.32 - that's one way you can diversify is is
+28.08 - underlying another way you can diversify
+29.68 - is different strategies another way you
+31.44 - get different durations other ways
+33.40 - there's a few other things but let's for
+35.56 - now focus on just underlines according
+38.28 - to probability the risk as literally
+40.60 - measured by standard deviation should
+42.64 - Reduce by a factor of the square root of
+44.44 - the number of independent trades cross
+46.60 - underlying correlations can eat into
+48.80 - those theoretical advantages so in
+50.92 - practice how does trading using a
+53.32 - mixture of underlyings compar to
+56.04 - sticking to a
+57.76 - favorite why do I think this is not not
+60.08 - going to be easy um we used 15 years
+63.60 - worth of data we used three different
+64.96 - underlyings the spy iwm and q's we
+67.40 - considered trading 45 days to expiration
+69.64 - 16 Delta strangles same as we always do
+72.20 - but here's the thing we looked at seven
+74.68 - different Traders right paying attention
+77.80 - I'm trying to seven different Traders
+80.08 - three traded one particular underlying
+83.88 - three used a buying power reduction even
+87.56 - mixture of two underlyings and and and
+91.36 - then they would let's see so for the
+94.60 - purposes of the study we imagine
+97.00 - fractional contracts were available
+98.48 - that's to make it all even and then um
+101.92 - sorry three who used a mixture of an
+105.56 - even mixture of two
+107.40 - underlyings and then one we used a
+111.60 - buying power mixture of the three let me
+115.48 - see this for a second one used a buying
+116.96 - power even mixture of the three the
+118.60 - other one used a buying power even
+120.16 - mixture of two underlyings okay okay
+123.00 - then we just fra we just fractionalized
+124.76 - It We examined the buying power results
+126.92 - as a percentage of the buying power
+128.72 - voted and then we repeated the analysis
+130.88 - using 20 30 20 and 30 Delta strangles as
+135.36 - well as 50 Delta
+138.08 - straddles I'm gonna take the one with
+140.28 - three doing the best so there were three
+144.40 - traders who used one particular a those
+146.48 - are guys they're going to be the losers
+148.00 - right I think so there are three traders
+151.32 - who
+152.40 - used an even mixture of two
+155.92 - underlines okay and then there's one
+158.52 - Trader who used all three even got that
+164.08 - okay kinda kind of John he's kind of got
+168.04 - that we're ready for the let's get into
+169.88 - the you got
+171.24 - it come on this stuff's Child's Play for
+173.68 - me right I write this stuff in my sleep
+176.44 - um no this all these are hard so first
+179.92 - one we're look at is we're going to do
+180.96 - the 16 Delta strangle for all of the
+184.60 - above um so we have the spy iwm and q's
+190.08 - that's that's using that's that's three
+193.92 - Traders picking one underline right
+196.36 - that's what that is then there's the spy
+198.40 - and iwm the spy and q's and this iwm and
+201.60 - q's that's the other three Traders using
+203.96 - two of the three right okay and then
+206.36 - there's the third Trader using all three
+209.00 - evenly distri uted and those win
+211.44 - percentages they're not because we've
+213.32 - been in a bull market for the last 15
+214.96 - years those are pretty good mhm the
+217.84 - average p&l as a percent of buying power
+220.76 - okay I at this point you're not going to
+224.12 - get anything out of this study if you
+227.60 - look at it just on paper other than the
+229.96 - third line down which is the standard
+232.48 - deviation which is your p&l divided by
+235.48 - the buying power used and what you'll
+237.48 - see here is those who use all three had
+241.68 - the
+242.52 - lowest um amount of risk that's what
+245.64 - that column is sure those who used all
+248.08 - three also were very at a very low carar
+253.16 - but again not the lowest so we're going
+256.96 - to go to the to the next one because
+258.68 - these are going to be all very similar
+259.88 - we don't have to spend a lot of time on
+260.88 - this you guys can go back to it later on
+262.88 - in the 20 Delta it starts to become a
+264.72 - little bit clear and in the 20 Delta
+267.24 - which is a bigger strangle you start to
+269.24 - see that that when you use all three you
+272.12 - had the lowest standard deviation of
+275.28 - risk and you had a very high win
+279.68 - percentage right okay we go to the next
+282.60 - slide and you also have very low searn
+285.80 - we're go to the 30 Delta triangle when
+287.36 - you see this here you're like okay now
+290.24 - this starts to make sense because
+291.48 - everybody else's numbers get kind of
+293.12 - high but the all three stays low the
+296.00 - Diversified portfolios are way better
+299.48 - than than the individual portfolios and
+302.64 - they have a way lower sear but again the
+305.16 - numbers aren't that crazy on all these
+307.88 - not that that far off John next slide
+311.16 - please so the next one's going to be the
+313.24 - straddles when you look at the straddles
+315.20 - which is kind of the a little bit
+316.88 - towards that maybe the heaviest amount
+318.56 - of risk you can see that um the standard
+322.36 - deviation which is how much risk are you
+325.04 - taking because this is really the only
+326.64 - way we can we can break this whole thing
+328.80 - down when you talk about risk the lowest
+332.44 - amount of risk is when you Diversified
+334.16 - into all three the amount of money you
+335.88 - made is kind of the same what you would
+337.00 - have thought from the very beginning and
+338.04 - that's why you asked which is what you
+339.32 - would have thought from the very
+340.40 - beginning we have six different
+341.80 - portfolios up here which are not as
+344.36 - Diversified as all three spies iwm Q's
+348.00 - they all did okay iwm and spies spy and
+352.36 - q's and iwm and q's all of them did okay
+356.08 - but the standard deviation was the
+358.80 - lowest when you used even distribution
+360.96 - of all
+362.64 - three it's pretty good pretty good
+364.92 - because it's it's just a validation I'm
+366.88 - surprised it wasn't
+369.20 - more
+371.00 - wider you know what I mean mean a bigger
+373.76 - difference yeah bigger difference
+374.68 - between the two yep surprised maybe if
+377.64 - you if you compare it to using any one
+380.00 - of the individuals it's pretty big when
+381.60 - you compare it to the other two it's
+382.72 - kind of not that big MH meaning the the
+385.08 - other three the the the mixture of the
+388.00 - two it's just marginally better
+389.92 - Diversified Traders had significantly
+391.72 - lower month-to-month variation in their
+394.28 - pnls as well as more mild bad months as
+398.20 - represented by sear for example the per
+401.96 - buying power reduction risk involved in
+403.56 - trading a mixture of three straddles was
+405.36 - slightly lower than using a single 30
+407.56 - Delta strangle so of course in the end
+409.80 - whichever underlying wound up being the
+412.08 - most profitable and iwm in this case
+414.32 - exclusively was the most overall
+416.60 - profitable approach but we don't know
+419.08 - which one that'll be beforehand of
+420.96 - course sure so unless you have a strong
+423.48 - assumption based on underlying using a
+425.12 - diversified array of Trades will help
+428.32 - you see more consistent results and more
+432.68 - and more mild losers help you see
+435.56 - clearly saof

@@ -1,0 +1,279 @@
+0.44 - welcome to option trades today I'm Tony
+2.64 - the Baptist and I have a trade idea for
+4.28 - you today December 17th
+7.24 - 2024 man where has the year gone only a
+10.32 - couple of weeks before the first of the
+12.08 - year but Hey listen before we take a
+15.12 - look at that trade let's take a quick
+16.76 - look at what the Market's doing Emin S&P
+19.32 - is down $25 and change and you can see
+22.36 - we've been going sideways as of late
+24.84 - volatility up ticking ever so slightly
+26.96 - by about 18 cents but you can see here
+29.04 - volatility kind of creeping up into
+31.04 - tomorrow's fed announcement number on
+33.84 - interest rates and really bonds have
+36.00 - been where all the action is and I
+37.96 - should say one thing since bonds are
+39.96 - where all the action is TLT um has a
+43.84 - dividend uh tomorrow so it goes X
+46.32 - dividend tomorrow so you have to do
+48.28 - something with your uh options today uh
+52.08 - if you have in the money deeper in the
+54.32 - money options you'll notice because
+56.36 - there's such a low monthly implied
+58.40 - volatility in TL l t and let's just say
+61.20 - the dividends is around 40 if you have
+64.24 - any options that are around the 87
+67.16 - strike or below um those are probably in
+70.44 - Jeopardy of having dividend risk now if
+73.64 - you don't know what dividend risk is I'm
+75.28 - not going to go through that here today
+77.20 - but please you can go in our archives
+78.96 - just search dividend risk and a bunch of
+81.72 - uh um archived uh um uh archive videos
+86.60 - will come up and you'll be able to watch
+88.52 - that and you'll know 15 minutes and
+90.16 - it'll save your world but just to give
+92.32 - you a quick little market maker hack
+94.52 - here if the dividend is 40s you go to
+97.68 - the corresponding put you go for the
+100.24 - corresponding call to the put and you
+102.20 - look for any put that's 40 cents or
+104.40 - below the first put that's below 47
+107.32 - cents uh s sorry that's below 40 cents
+109.84 - would be the 87 strike so every call
+113.00 - option 87 and Below probably has
+115.44 - dividend risk you can look at the open
+117.20 - interest to see if I'm right on this um
+119.44 - you'll notice so the open interest uh is
+121.36 - around 3,000 on the 87s 1,000 177,000 on
+125.44 - the 85s tomorrow that open interest
+128.24 - should be close to zero if those options
+131.16 - were exercised you can do the same thing
+133.84 - uh if you want to look at like the de
+135.88 - options with three days to go um you'll
+138.96 - notice here that all of these options
+142.08 - pretty much from the '90s and Below
+144.48 - maybe the 89 and a halfs and Below
+146.76 - should have exercise risk and you'll
+148.68 - notice that these options will have an
+150.40 - open interest of close to zero there's
+152.76 - always a few stragglers but it'll be
+154.52 - close to zero you can test my knowledge
+157.36 - on my hack on what um the TLT dividend
+161.76 - is going to be like but please let's get
+163.64 - back to our regularly scheduled program
+165.44 - where we're taking a look at the market
+167.08 - and we're finding ourself um a little
+169.80 - trade here what am I going to look to do
+171.56 - I like to go to the high option volume
+173.56 - list I like to to put the IV rank uh
+176.84 - from highest to lowest I like to not put
+179.68 - on on a trade that has earnings looming
+183.20 - uh one stock that has hit my radar is
+186.32 - NVIDIA Nvidia you'll notice has an ivy
+188.72 - rank of 29 on the surface not as high as
+191.72 - you would expect but you can see here
+194.00 - that it's actually been uh creeping up
+196.28 - into what seems to be its normal is
+199.20 - range but the stock has really had a
+201.72 - nice 10% move down um on that volatility
+206.20 - contraction and now expansion so I'm
+209.56 - looking to put on a trade in Nvidia but
+211.36 - let's go over it here um you know what
+213.56 - it' be easier if I just click on the uh
+215.92 - earnings get rid of those so I have
+218.00 - Nvidia up here it should be gray when I
+219.76 - come up to um the Nvidia
+223.12 - stock and there it is NVIDIA 129 just
+228.04 - under down about $3 down another $3
+231.64 - another two and a qu% two and a half%
+234.72 - you can see it's off of its lows closer
+237.12 - to its highs for the day so it kind of
+239.40 - missed a little bit from the lows but
+241.20 - the ivx 5day change up
+243.68 - 7.5% that's a big move and the IV rank
+246.36 - 30 pretty good in this relatively low
+250.04 - just off of its lows uh implied
+252.72 - volatility uh rank or ivx so we've got
+256.64 - expanding volatility over the last 5
+258.80 - days that means the options are higher
+260.52 - priced than they were five days ago
+262.08 - everything being relative and you have a
+263.80 - relatively High IV rank in the stock I
+266.48 - have a leftover free broken wing butter
+269.96 - FY from the last time that I put on a
+272.16 - trade in Nvidia let's see if we can do
+274.60 - something similar today with this ratio
+276.44 - spread I did a call ratio spread the
+278.00 - last time I'm going to do a put ratio
+279.60 - spread this time going back to what's
+281.64 - been working for me in stocks that get
+283.92 - beaten up with high implied volatilities
+286.12 - that have been Market leaders buying the
+288.08 - dip in here has worked this seems like a
+290.28 - big dip in Nvidia for me I'm going to
+293.20 - skew my trade to have a little bit more
+295.36 - Delta because I'm a little bit more
+297.96 - bullish on the trade then I am just
+300.28 - putting on a delta neutral type 1X two
+303.56 - ratio spread let me show you how I'm
+304.96 - going to do that I'm going to go to
+306.40 - closer to the 30th uh Delta option I'm
+310.08 - going to buy one of the
+311.84 - 121s we usually like to go four five six
+315.68 - $5 is really my my number but I'm going
+318.92 - to go a little bit closer I'm going to
+320.56 - go to the 118s and I'm going to sell two
+323.96 - of those I'm buying one of the 121s and
+327.84 - selling two of the 118
+330.28 - now that's a relatively tight um ratio
+333.84 - spread that's going to give me a little
+335.72 - bit more Delta on the trade usually my
+338.00 - Deltas on these trades are closer to 10
+341.24 - 8 9 10 my Delta is going to be a little
+344.00 - bit higher on here still 17 relatively
+347.00 - small on each contract but because of
+349.36 - that I'm going to get a higher uh credit
+351.64 - on the trade I actually got
+354.52 - a186 uh for this trade when the stock
+357.48 - wasn't much lower than it is right now
+360.12 - let me check it out where it was we can
+362.08 - go to the follow page and you can see
+364.24 - this trade on the follow page before you
+367.16 - even see um this this video I did this
+370.88 - at 10:07 this morning the stock was uh
+374.92 - 12870 now the stock is one uh 129 so
+379.60 - it's up a little bit my pop was 80% I
+382.24 - got a credit I was correct of a186 so
+385.32 - you can see those in real time um on the
+388.08 - tasty trade platform when you open Move
+390.80 - transfer your account or just aat
+393.20 - transfer your account to tasty trade so
+395.28 - let me go through the trade here I
+396.68 - normally like to go a little bit wider
+399.28 - The Wider you go for me the better off
+401.20 - it is um your your your um area where
+406.00 - you'll make money it'll be close to that
+407.48 - one standard deviation range but your
+409.76 - credit will be less so I wanted to
+411.24 - collect the higher credit on the stock
+413.24 - I've got a 79% Pop I like a pop that's
+415.84 - over 65% my Theta on this trade is
+418.84 - almost $8
+420.96 - 7.76 that's
+422.92 - $776 for my
+425.52 - $3,800 um in uh buying power reduction
+429.24 - that I have on this trade uh my Delta is
+432.32 - 17 long shares so you got to be uh
+435.92 - slightly bullish or omnidirectional on
+438.36 - this trade stocks already down 10% I'm
+440.84 - looking to you know catch a falling
+442.44 - knife is that what they say your break
+444.44 - even or your your your uh worry area is
+449.00 - right where this screen line is just
+450.64 - under 114 let's just call it 1145 how do
+453.60 - I get to that well your long one of the
+456.12 - 118 puts your short one of the 118 sorry
+460.32 - long one of the 121 puts your short one
+462.76 - of the 118 puts I know it says two here
+464.96 - give me a minute that spread would be
+466.68 - worth $3 plus the almost $2 that you
+469.96 - received in credit the three plus the
+471.96 - almost $2 you received in credit makes
+473.92 - five that makes your break even $5 below
+477.36 - or just under $5 below cuz we only
+480.20 - collected a186 and that's where your
+482.20 - green line is what's your max profit on
+484.20 - this trade cuz it says $486 well if you
+486.92 - get A1 86 credit and the stock is all
+489.44 - over its place and the market doesn't
+490.88 - look that great today so maybe the stock
+493.36 - will sell off a little bit more but if
+495.04 - you got
+495.84 - a186 uh Credit in this trade and the
+498.20 - stock and you held the position all the
+500.16 - way to expiration which is 31 days away
+502.48 - for me that's unreasonable but let's
+504.04 - just go through the math this spread one
+506.32 - by two since these 18 puts would be
+508.24 - worth zero the 121 puts will be worth $3
+511.24 - you collected a $186 you can make a
+513.52 - possible $486 $486 in trade what am I
+516.96 - really looking to do I'm really looking
+518.24 - to make a buck on this trade I'd like to
+519.52 - make a buck tomorrow a nice three four
+521.80 - five rally uh in Nvidia and those 17
+525.04 - Deltas uh will translate into about 50
+527.68 - 60 Cent profit we go lower they'll
+529.92 - translate into a uh smaller loss
+532.60 - probably 20 or $30 loss so there is a
+534.60 - little bit of Delta on this trade that I
+536.28 - normally make but the pop is still good
+538.96 - at 8 80% or more now you people trading
+541.60 - in an IRA account this buying power
+543.68 - reduction is going to be closer to 11 or
+545.88 - $12,000 you want to put on this trade
+547.92 - you don't have 11 or $12,000 in your IRA
+550.52 - account well you're going to have to do
+552.24 - a little bit of uh a little bit of a
+554.36 - creative Finance here you're going to
+556.36 - actually have to go out and borrow a
+558.20 - little bit of your own money by buying
+560.60 - one of these out of the- money puts it
+562.48 - doesn't matter which one you buy it
+564.36 - really depends on how much credit you
+566.32 - want to receive and how much you want to
+568.08 - reduce your buying power so for $20 over
+571.04 - the next 31 days if you were to buy the
+573.28 - 88 puts that's about 50 cents a day call
+576.08 - it7 cents a Day 70 cents that's what
+579.56 - that's what you're changing this whole
+580.80 - trade by
+582.08 - $70 uh on this whole trade right 70
+585.28 - cents uh you're able to excuse me 20
+588.92 - cents that's 70 cents a day that's how
+591.44 - much it's costing you to change your
+594.00 - $11,000 to $2500 in change that means
+597.72 - you could take that seven or eight or
+599.40 - $6,000 depending on what option you pick
+602.52 - and do something else with it maybe put
+604.68 - on another trade that has another 80%
+606.96 - pot maybe take that money and put it
+609.00 - into a a interest bearing uh stock like
+612.36 - bil or esgv or anything else that you
+615.48 - want to do it it maybe you just want to
+616.56 - keep in cash waiting for another
+618.72 - opportunity that's how you make your IRA
+622.08 - account act like a margin account and
+625.84 - leverage your own money by simply buying
+629.64 - an out- of the money put to change this
+631.08 - into a very wide one by two by one but
+634.52 - really it's just taking that $20 that
+637.00 - you're using and taking back seven or
+639.76 - $8,000 of your own buying power I think
+642.08 - that's pretty p uh pretty powerful what
+644.56 - would my normal type trade if I was just
+647.00 - kind of delta neutral on on this I would
+650.28 - look to do a $5 wide spread on here with
+654.44 - closer to an 85% pop and a Delta under
+658.12 - 10 you'll notice credit is much less
+660.44 - here at $70 so I wouldn't look to use
+664.52 - that amount of buying power to make just
+666.60 - a trade with $70 on the trade so my
+668.60 - trade is the
+670.28 - 121 put 118 put one by two I did it for
+675.32 - a186 on this trade you can see the stock
+677.56 - is rallying here and as for told it
+679.72 - looks like we've moved about $20 or so
+681.72 - all right ladies and gentlemen I already
+683.28 - asked you one time but please I'm going
+684.60 - to ask you one more time don't make me
+685.88 - beg before the end of the year please
+688.16 - move transfer break your account to
+690.12 - tasty trade the number one brokerage
+692.12 - firm in the whole galaxy so that we can
+694.32 - keep tasty live free to you and all of
+697.12 - this content and hey help us keep the
+699.52 - lights on here

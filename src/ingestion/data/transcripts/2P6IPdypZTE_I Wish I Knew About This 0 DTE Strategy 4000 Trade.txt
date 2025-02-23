@@ -1,0 +1,203 @@
+0.08 - wide wings for the zero DT iron Condors
+3.68 - let's take a look and see where Jacob
+6.12 - and the team is going with this one
+7.92 - because the size of the SPX and the time
+10.52 - um and the fact that time is not
+12.28 - factored into the F minimums which again
+15.12 - that's really interesting because you
+17.36 - know that benefits customers it does not
+20.76 - benefit broker firms just to be clear we
+23.76 - do not like the fact that um on
+28.32 - SPX that there's no we don't get the
+31.16 - benefit of duration so it's kind of a um
+34.44 - a little bit weird
+36.24 - but naked Z DT short positions are
+39.00 - untradeable for most accounts the reason
+40.64 - for that is a on lot shorts triangle is
+43.32 - like 120 Grand where the index is
+45.40 - currently trading so in order to reduce
+48.12 - the 120 Grand down to some very
+50.56 - reasonable number like 3 four 5 6 7 8
+53.68 - Grand whatever it is you got to buy the
+56.08 - wings so last week We examined how using
+58.72 - lowc cost part of the money long options
+61.28 - lets you play Zero DT
+63.88 - trades If instead we began the day
+66.60 - knowing roughly how much buying power
+68.56 - willing to commit how much would we end
+71.48 - up spending on
+72.84 - wings here's the question before I show
+75.36 - you the study
+76.84 - B if I told you that the cut off for a
+81.40 - synthetic strangle versus an iron Condor
+84.44 - if I tell how many points do you think
+85.76 - that's going to be in the
+87.76 - SPX I mean we've done a lot of research
+90.80 - know how many points you think 30 20 you
+92.68 - would think 30 I would say 30 sure you
+94.68 - would think 30 yeah but after today's
+96.84 - research we're going to show you it's
+97.92 - really around
+98.96 - 50 okay it's really around 50 points so
+102.00 - anything inside of 50 points so if
+103.48 - you're doing spy it's inside of five if
+106.84 - you're doing Q's it's inside of Five
+108.56 - Points if you're doing iwm it's inside
+110.92 - of Five Points if you're doing SPX it's
+113.04 - 50 so 50 and under is like an iron
+115.84 - Condor and over 50 60 to 90 is like a
+120.96 - synthetic strangle sure okay that's what
+123.44 - we're going to show you today let's go
+125.12 - next Slide the put side's going to have
+126.40 - you're going to be shorter on the call
+127.72 - side or tighter on the call side than
+129.84 - the put side no this is just going the
+131.60 - equidistant I I know but but an equal
+134.84 - call is going to be much cheaper than
+136.24 - that equal distance you're gonna get
+137.52 - more money for the puts um let's go next
+139.68 - slide remember in zero days it's not
+141.76 - quite the same but so two years of data
+144.88 - 20 30 40 Delta strangles um a variety of
+148.80 - fixed these are fixed not Delta these
+150.96 - are fixed strikes 30 to 100 wide examine
+156.12 - the total cost of the Wings and just
+159.56 - assume that um that if we're up 25%
+163.32 - we're closing if not we're letting go
+165.52 - okay let's go next
+167.80 - slide oh actually this is not profits
+169.96 - it's just buying power take that back so
+173.32 - we go we like the 20 Delta short strike
+176.88 - that's kind of our that's our wheelhouse
+179.52 - that's where this first study looks at
+182.04 - so if you do $40 wings cost you a buck
+184.88 - you do $50 wings cost you 67 you want to
+188.12 - go wider than that goes all the way down
+190.32 - to 24 cents these are on the Zero days
+194.24 - okay the average buying power though
+196.92 - flips the other way 3,400 to 8,300 right
+200.80 - you get that so the wider The Wider the
+204.28 - wings um the cheaper the amount of money
+206.48 - you have to put up but to buy the wings
+209.28 - but the more money you have to put up to
+210.48 - make the trade how often does it offer
+213.16 - real protection I mean generally
+215.56 - speaking we're talking it's nil yeah if
+219.04 - you look if you look at this you're
+220.80 - getting the same
+223.48 - $650 no matter whether you go to $40
+226.88 - wide or $90 wide yeah and right I mean
+229.80 - because that's the average average daily
+231.44 - buying power is about $6
+234.32 - $650 different than the you just take
+236.56 - the middle strike 60 bucks wide just for
+238.60 - just for argument sake y it it protects
+241.00 - you two 2/10 of 2/10 of 1% two basis
+245.36 - points that's it and um no 20 Bas I'm
+249.96 - sorry 20 basis points but the average
+252.52 - buying power 5300 and the average cost
+255.32 - 50 cents that's just that's the middle
+258.04 - middle tier none of these are better
+260.32 - than the other ones like if you do the
+263.28 - most expensive or you do the cheapest it
+265.72 - doesn't mean anything it's just it's all
+268.00 - preference like we're not saying that
+270.00 - any one of these is better than anything
+271.24 - else we're just showing you the numbers
+273.48 - if you only have $3,400 hours to use you
+276.28 - got to buy the $40 wings or $30 Wings
+280.80 - cuz then you know put up way less money
+282.84 - if you have plenty extra Capital if 10
+285.20 - grand extra or n grand extra buy the $90
+288.08 - wings and only put up 24 cents mhm it's
+291.60 - never going to help you anyway right so
+293.48 - that's the whole point never never 2/10
+296.12 - 2/10 you know one one time out of 100 it
+300.28 - it's not really for protection it's
+302.68 - really just
+304.84 - to um to see how much money how much
+307.56 - less money you have to put up so if you
+309.32 - don't buy the wings it's 120,000 if you
+312.16 - buy the wings it's 3,400 to 8,000 it's
+315.48 - all thing that's your whole trade let's
+318.00 - go next
+318.96 - slide if you do the 30 Delta strike just
+321.92 - to show you the numbers are all the same
+324.80 - I mean you're going to pay more that's
+326.72 - the whole difference for the wings
+328.96 - you're going to pay a little a bit more
+330.40 - and and you're going to put up a little
+331.60 - less money and it might help you a
+333.44 - little bit more the only time it really
+335.56 - helps is if you're going to get to the
+336.68 - next one Beth go to the next slide
+338.56 - because these are all these numbers are
+339.68 - all the same here's where 133% of the
+343.28 - time it could come into play but you pay
+345.52 - a lot more here when you're doing the 40
+347.24 - Delta strangle now here's the problem
+349.28 - with the 40 Delta strangle I don't do it
+351.56 - Tony doesn't do it we don't even really
+353.80 - do 30 Deltas we really only do 20s but
+356.28 - some people like the bigger numbers sure
+358.40 - and the bigger premium and you put up
+360.40 - less money here 2500
+362.48 - bucks but we just want to show you this
+365.52 - is you pick your number like so next
+369.08 - time somebody tells you oh you should
+370.60 - only do $30 wide $40 wide $50 Wide Wings
+374.20 - the answer here is it doesn't matter
+376.04 - what you do do $90 if you want to put up
+379.20 - more money do $40 if you want to put up
+382.24 - less money like they're all
+385.44 - theoretically none is better than the
+387.72 - other it's just it's a symetrical it's
+390.84 - just a symmetrical
+392.40 - layout yeah I mean yeah I mean it comes
+394.72 - down to risk versus reward and really
+396.80 - more importantly than that you need the
+398.16 - stock to cooperate you need the strategy
+400.00 - to work because the stock cooperates and
+401.76 - I've always said that since the dawn of
+403.40 - time you always need the stock to
+405.28 - cooperate no matter what the strategy is
+407.12 - that you're applying and here's what
+408.16 - they're saying here too zero days you
+411.32 - know you really are looking to make a
+412.64 - synthetic short option here it really
+415.32 - comes down to account size now when you
+417.20 - look at this yep that's really what it
+418.96 - comes down to let's go next
+421.28 - slide so we go through the takeaways
+423.64 - here this is kind of interesting and
+425.60 - again not a really complicated segment
+427.92 - today but just showing you that pick
+430.68 - whatever strike you want don't get too
+432.32 - tight because you're not really doing
+434.60 - yourself any benefit paying the extra
+436.68 - money although naked zero DT premium is
+440.44 - buying power reduction
+443.00 - prohibitive we can use wide iron Condors
+445.20 - to help us Place trades that behave like
+446.88 - strangles 809 $80 or $90 wi is
+449.84 - essentially strangle Behavior but you
+451.88 - give up 30 cents per trade narrower than
+454.52 - 50 can be viewed in Earnest as an iron
+456.88 - Condor and the wings are much more about
+459.00 - protection from large Moves In general
+462.16 - for the same buying power commitment
+463.64 - you'll spend less on the wings when your
+465.08 - short strikes are further out of money
+467.72 - and so in practice the conclusion here
+470.16 - is you can adjust Wing selection every
+472.60 - day balancing how much pine power you're
+474.68 - willing to commit plays a role in how
+477.12 - much p&l you're willing to sacrifice
+479.84 - I like it nice nice nice study really
+482.00 - telling you uh it's a game is it really
+485.44 - place your bets I mean is it really it's
+487.56 - just a game you know like you want to
+489.72 - take you you want to put up less Capital
+493.20 - you sacrifice a little p&l you want to
+495.64 - put up more Capital you make more money
+498.00 - it's the same game we always play

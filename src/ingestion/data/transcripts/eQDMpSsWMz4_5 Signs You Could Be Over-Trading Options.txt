@@ -1,0 +1,1058 @@
+0.04 - all right so we're looking at my
+1.40 - draftking strangle we'll go to the first
+3.68 - slide here um this is just a look at the
+5.96 - follow page so if you type in in the
+8.28 - upper leand corner of the follow page
+10.00 - there's a little symbol search bar you
+11.64 - can type in the symbol you click on my
+13.72 - little icon in the bottom you can pull
+15.68 - up all my DraftKings trades or at least
+17.72 - the last 30 is I think what we go back
+20.20 - in any specific underlying so you can
+22.48 - see all the adjustments here you can see
+24.24 - like the price of the underlying the The
+26.44 - Ivy rank um you know the action here
+29.64 - which close or roll or if I'm you know
+32.72 - buying the guts selling the wings which
+34.28 - I did a couple times you can see all the
+35.72 - credits debits doesn't really matter I
+38.00 - don't want to focus too much on on the
+40.52 - on the the profits and losses at each
+44.00 - time it's really just the mechanics of
+45.68 - that trade holding that position and
+47.68 - having a position in that underlying for
+50.24 - the entire calendar year it wasn't the
+52.08 - same exact strikes we move strikes I
+55.12 - scalped out of puts I scalped out of
+57.04 - calls you know I traded the underlying
+60.12 - through the whole year one contract with
+63.12 - a very similar position throughout but
+65.16 - it wasn't the exact same position every
+67.04 - time it wasn't like I I kept those same
+69.12 - strikes and we'll see that here on the
+71.68 - next slide if we'll jump to slide two
+74.16 - here this is the order chain so this is
+75.96 - just on the platform if you have a tasty
+78.28 - trade
+79.40 - account uh tracks all the rolling and uh
+83.36 - rolling and adjustments that you make on
+85.84 - a position that are in the same
+87.72 - transaction so it's really Nifty tool it
+90.32 - adds up all your credits and debits to
+92.64 - give you a net uh average trade price so
+96.40 - that'll tell you you know how if you've
+98.48 - collected a dollar over multiple roles
+101.56 - you know what your basis is so to speak
+104.00 - on your position whether it be the same
+105.88 - strikes or a new position uh and then
+108.52 - ultimately adds all that together so you
+110.52 - can get a running total of your profit
+112.68 - and loss so traditionally there's two
+115.92 - buckets of p&l there's realized and
+118.64 - unrealized and really when you close a
+120.76 - position which a rolling position is
+123.12 - part of a closing order you you're
+124.88 - closing one position opening a new
+126.96 - position opening a uh you know in a
+130.20 - different expiration or the same
+131.88 - expiration doesn't matter but they're
+133.88 - two buckets so this basically combines
+135.88 - your your realized p&l which is closed
+139.72 - options with your unrealized p&l which
+142.60 - is your o your open option position puts
+145.68 - them together uh and totals them for you
+148.60 - so you can keep a running track of your
+150.84 - position so it was a great trade I mean
+153.60 - on five or six or $700 in buying power
+156.12 - to make nine or
+158.28 - $922 is great but that's not really the
+161.40 - the basis of this segment the basis of
+163.84 - the segment was showing how you can take
+165.72 - a position continue to roll it you know
+168.04 - whether the stock goes up down sideways
+170.00 - it doesn't matter you can keep
+171.44 - collecting extrinsic value over time and
+173.96 - that allows you to be you know to be in
+176.36 - this situation of a nice profitable
+178.56 - trade so you can check check those out
+180.92 - uh your leisure will archive those of
+183.16 - course uh with the tasty live on the
+186.00 - tasty live.com site so getting over to
+188.88 - the third slide here so one of the
+191.64 - things I wanted to highlight because we
+193.96 - always get the question of like which
+196.20 - strike are you going to roll to or why
+198.48 - did you pick that strike over this
+201.04 - strike or how many Deltas are you are
+203.28 - you trying to to get we always talk
+206.00 - about reducing overall Delta exposure by
+209.16 - 25 to 50% when you think about this from
+212.48 - a one
+213.72 - contract trade which I had for
+217.72 - DraftKings the max I could get in terms
+220.16 - of Delta exposure would be 100 if one of
+222.40 - the options went deep in the money was
+224.96 - basically all intrinsic value the max is
+228.48 - 100 and you can see on each one of these
+231.00 - adjustments on the top is the price of
+233.56 - DraftKings at the time of each
+235.56 - adjustment on the bottom is the net
+238.12 - Delta change of each adjustment so if
+241.24 - I'm rolling up a put it would show a
+243.60 - long Delta and it would net out that
+245.76 - that difference so if I'm buying a five
+247.52 - Delta put and selling a 20 Delta put it
+249.72 - would show us 15 Deltas in the that
+252.12 - adjustment um and so the point is here
+255.48 - that basically all of the adjustments
+258.08 - that I did throughout this trade are
+259.84 - somewhere between zero and 25 Delta
+262.88 - adjustments right 5 10 15 20 Deltas most
+267.12 - of those adjustments throughout the
+268.80 - trade and that's because I'm always
+271.00 - looking to reduce my overall Delta by 25
+273.72 - to 50% on a one contract trade I can
+276.52 - only get to 100 the max Delta
+279.64 - realistically unless there's some sort
+281.28 - of tail event to either side is probably
+283.92 - netting 70 or 80 Deltas in either
+287.08 - direction and so rolling to pick up 20
+290.20 - Deltas long Deltas 20 short Deltas it
+292.52 - doesn't matter um because I'm doing this
+294.64 - dynamically with the price of the stock
+296.92 - but picking up 20 Deltas is that at 25
+300.48 - to 50% reduction in My overall Delta so
+304.24 - you can see that in all of the
+305.72 - transactions here they're basically all
+307.96 - like that now the ones that are sort of
+310.48 - outliers on this I've highlighted in the
+312.88 - blue there on the top with the blue
+315.48 - circle there you can see these big moves
+319.00 - in the underlying right so we went from
+321.40 - in DraftKings in like the middle of June
+324.80 - uh from 37 and a half all the way up to
+328.80 - 45 okay that's a 20% or 25% move in the
+334.04 - stock in the matter of two weeks three
+337.04 - weeks at that point you have to pick up
+340.16 - a you know you have to make that
+341.44 - decision whether you want to reduce your
+343.44 - Delta exposure by more or lean
+346.04 - directional I took the the adjustment of
+348.68 - Leaning a or of reducing the Delta a
+351.56 - little bit more there rolling up and
+353.68 - picking up 30 Deltas on my transaction
+356.36 - same thing so we went from 45 and then a
+359.12 - month in and change later we're trading
+361.44 - at 32 so we went 3 37 to 45 to 32 so
+367.80 - it's a 25% increase to a 30% drop in the
+371.96 - stock price and those adjustments you
+374.52 - have to make that decision of like
+376.48 - whether you want to
+377.80 - lean heavy directional and in terms of
+380.52 - this position maybe 70 or 80 long Deltas
+383.40 - or do you want to reduce that Delta and
+385.60 - for me on this position most of the time
+388.40 - I was trying to keep a little bit a
+391.00 - little bit of delta in each way but
+393.48 - reduce it with each of these
+396.40 - roles yeah and there's always the
+399.56 - question of like how you know if you had
+402.56 - done nothing etc etc but that's the you
+405.44 - you can't know where the stock is going
+406.96 - to end up so you have to make these
+408.40 - adjustments especially in a year-long
+409.88 - trade where your number one goal is to
+412.60 - just add extrinsic value to the position
+415.20 - reduce intrinsic value exposure and You
+418.28 - by when you do that you're reducing your
+420.40 - Delta exposure as well so focusing on
+423.32 - just compiling as much extrinsic value
+425.16 - as possible taking where the stock price
+427.44 - is out of the equation as much as you
+429.08 - can you end up with at the end of the
+431.80 - year a really wide Break Even range
+434.16 - which will be uh shown in a couple
+436.40 - slides here when we show you the visual
+438.12 - yeah and I'm glad you mentioned the like
+440.36 - you know why didn't you just do nothing
+441.96 - because the that it's the hardest thing
+444.56 - to do is that an option for you yes like
+447.48 - you can make that decision you know what
+449.76 - the stock has gone up significantly I
+452.24 - want to lean a little bit short or the
+453.72 - stock has gone down significantly I want
+455.80 - to lean a little bit long that's totally
+457.96 - fine for this position you know you
+460.68 - don't know what's going to happen into
+462.48 - the future and it goes to exactly what
+464.12 - you said my goal is to collect premium I
+466.56 - wasn't going to lean super directional
+469.16 - in either in either uh in either spot
+471.84 - when the stock moves so um it's hard to
+474.96 - look back in hindsight and say oh well
+477.48 - you know do nothing and it would been
+479.80 - better you know when you keep when you
+481.92 - take into account the you know emotional
+485.84 - part of the game you know stock is down
+488.00 - significantly you're losing money you
+490.28 - got to do something to reduce the the
+492.56 - you know that loss so it's you know you
+495.92 - got to just kind of make the decision
+498.68 - and as long as your size is in check
+502.80 - even if it's the quote unquote bad
+505.48 - decision or the worst time to do that
+508.04 - you can hold that position long enough
+510.32 - to you know to manage it through time
+513.08 - and collect more extrinsic value so um
+517.48 - let's jump back to the slides here and
+519.16 - just go through the rest of the and all
+522.28 - these metrics that you see all these
+523.64 - visuals are from the order chains so if
+525.92 - you rightclick on the order in the order
+528.52 - chains on the tasty trade platform you
+530.52 - can pull up the market snapshots which
+532.48 - is where these are pulling from you can
+534.84 - have them on your own trades is totally
+536.68 - accessible for you as well um so so
+539.52 - getting over to slide four here this
+541.20 - just again a closer look at the Delta we
+543.60 - talked through that every adjustment I'm
+546.36 - picking up between 10 and 30 Deltas or
+549.60 - 40 Deltas trying to reduce my overall
+552.52 - Delta exposure for the position by 25 to
+555.64 - 50% is a perfect example of that
+558.76 - throughout the
+560.04 - year jumping over to slide five we look
+562.92 - at ivr so again you know this trade we
+566.56 - had the idea of holding it the entire
+568.80 - time so you know we didn't I could have
+571.92 - closed the position through at multiple
+574.88 - times while volatility was super low and
+577.48 - just waited for volatility to to either
+580.24 - get higher or move that Capital into
+582.52 - something else we chose to keep this on
+584.68 - for the year just to kind of keep this
+586.64 - as a uh a year-long trade and just to
+589.48 - show everything but uh you could see
+591.72 - here all the adjustments that I did
+594.28 - throughout the trade you know they're
+596.24 - not all when volatility is super high
+598.60 - like you have to make the decision of of
+600.92 - reducing Delta even if volatility is low
+603.40 - like sometimes you just the position
+605.40 - gets too big you want to you know add
+607.36 - extrinsic value so you know throughout
+610.16 - the the duration of the trade volatility
+612.60 - changes um you know which affects some
+615.24 - of the credits that you see as well in
+617.24 - the order chains if you look at the
+618.36 - order chain slide you'll see a lot
+621.08 - bigger meteor credits when volatility is
+624.20 - High versus when it's
+625.84 - low Y and that's especially true if
+628.48 - you're rolling to at the money positions
+631.76 - going from out of the money to at the
+633.32 - money just maximizing extrinsic value uh
+637.12 - and that's that eventually compiles to
+639.52 - wide Break Even zones yes which is the
+642.28 - most important thing
+644.48 - yes jumping over to slide six here so
+647.20 - this is a look at IV because this is
+649.20 - another super important thing that we
+650.80 - always talk about the actual implied
+652.68 - volatility so we looked at IV Rank and
+654.52 - IV rank tells one part of the story it
+657.08 - tells you whether the current implied
+659.60 - volatility which is what we're looking
+660.84 - at now is high or low relative to itself
+664.44 - over the last year so it gives you the
+666.88 - context to know whether this number that
+669.36 - that you see on the IV is high or low
+672.72 - for this underlying now if I was doing
+676.08 - those if I was trading in something that
+678.12 - has normally you know 15 16 20% implied
+682.28 - volatility and it gets to an ivy rank of
+684.88 - five or 10 I won't be keeping a position
+688.12 - on in there in something like DraftKings
+690.76 - you can see the implied volatility just
+692.52 - for contacts right now SPX the implied
+695.40 - volatility is about 13 and a half% 13 to
+700.08 - 14% in terms of the option price and the
+703.96 - option premium in DraftKings it is about
+707.56 - it's about four times as rich as what
+711.24 - throughout the duration of this trade
+712.68 - the whole year it's been about four
+714.72 - times as Rich compared to SPX right now
+718.56 - so when when you're looking at high
+720.04 - implied volatility you you know my roles
+723.20 - that were $1 if volatility was a 14 or
+726.32 - 15 or 16 handle those would be 20 cents
+729.32 - 25 cents so it's a huge huge difference
+732.48 - and it's a huge difference in terms of
+733.96 - the extrinsic value you collect how wide
+736.68 - your break evens get how much wiggle
+738.48 - room you have for the stock to move
+740.24 - you'll see on the last slide that I've
+742.40 - got this massive massive room you know
+744.76 - range for the stock to move and so this
+748.00 - is this is why we focus on high implied
+753.28 - volatility underlyings and and talking
+755.64 - about actual imp implied volatility not
+757.88 - IV rank so the reason we focus on these
+761.00 - high IV stocks is because we can
+763.52 - withstand you know the stock went it
+765.16 - started at 35 and went to 50 that's a
+769.56 - 30% increase in the stock price almost
+772.28 - almost 40% just doing rough math so it
+775.52 - goes from 35 to 50 then it goes from
+778.20 - 5050 down to 30 so it goes you know 40%
+782.32 - up 40 50% down and then back up another
+786.60 - 30% it basically settled you know five
+789.68 - or six dollars higher from where we
+791.40 - started the trade but that's that's
+794.08 - implied volatility right and so you have
+796.60 - realized implied or realized volatility
+799.32 - in the underlying not many stocks go up
+801.92 - 40% and then down 40% and then back up
+804.48 - 30% you know that's
+807.08 - volatility but you're getting paid to
+809.40 - take that volatility and at the end of
+811.32 - the day the stock stayed relatively
+813.88 - sideways and that's why we were able to
+816.24 - make so much on this trade because
+817.56 - you're getting paid to take risk on this
+820.80 - position you know multiples of what you
+823.68 - would on something that is low implied
+825.56 - volatility if you're in something that's
+827.04 - got 14 or 15% implied volatility like
+829.24 - SPX and SPX goes up 40% and then down
+832.32 - 40% and up
+834.56 - 30% there's no way you're making money
+837.08 - on that trade via role like we did here
+840.16 - or any other stock that's you know 14
+843.36 - 15% implied volatility if you see that
+845.64 - realized
+846.92 - volatility you won't be profitable
+849.52 - because the realized volatility is much
+851.08 - higher than implied here the implied
+853.76 - volatility was basically the same as the
+856.28 - the realized volatility if you have 40%
+859.28 - implied volatility or 50 or 60% implied
+861.76 - volatility it's telling you that the
+863.64 - stock can go up 60% or down 60% over the
+867.08 - next year we
+869.64 - you know it stayed inside that range but
+871.64 - we had those points of realized
+874.12 - volatility and so when you're selling
+876.16 - High volatility you're getting paid to
+878.12 - take that risk versus something that is
+880.72 - low implied volatility you are relative
+883.72 - to the the the potential you are not
+887.40 - getting paid as much yeah another way to
+890.68 - look at it now is like in DraftKings the
+893.64 - December 19th 2025 cycle has a plusus
+897.72 - $14 move so if the realized move in
+901.80 - DraftKings is less than 14 points then
+905.00 - implied volatility would have
+907.12 - successfully overstated realized
+908.68 - volatility yes in SPX the expected move
+912.96 - through next year is 700 points so right
+917.12 - now with SPX at 6,000 if we end up at
+919.60 - 7,000 to the upside or if we end up at
+921.80 - 5,000 to the downside then realized
+924.24 - volatility would have exceeded implied
+926.72 - and uh those are long-term expirations
+929.32 - which don't really they they're not
+931.92 - exhibiting the near-term implied
+933.40 - volatility so it's even more like if you
+935.56 - were to compound the 30 days 45 days
+938.28 - there the premium that you would get
+940.24 - would actually be more than in
+941.72 - DraftKings a 14 point or in SPX a 700
+944.44 - Point move yes so that's that's another
+947.60 - reason why we like to stick around that
+949.04 - 30 45 day range because when it we're
+951.60 - selling premium that's because we you'll
+954.56 - always have a heightened implied
+956.20 - volatility in the near-term Cycles
+957.68 - relative to longer term Cycles
+959.52 - you can look at a longer term cycle to
+961.12 - see what the Baseline range is for
+963.24 - implied volatility y yeah that's it's a
+966.80 - great point and here you know even using
+969.04 - current implied volatility in DraftKings
+970.80 - of 40% you know we did this trade over
+974.08 - the year 35 to right now it's trading at
+979.16 - 44 is so it's been about a 30% move to
+983.40 - the upside from start to finish just
+985.28 - just you know price of the
+987.20 - underlying we've we we've come in the
+989.72 - realized volatility has come in less
+993.36 - than what implied volatility is right
+995.80 - now with draftking so if DraftKings does
+999.60 - another 30% next year but volatility
+1002.52 - stays at 40 or 50% and you're selling
+1005.24 - premium you're going to make money over
+1006.84 - the year yeah I mean for the most part
+1010.20 - yeah you have a hard time not making
+1011.56 - money because those break evens over
+1013.88 - time you started with $2 and you ended
+1016.12 - up with a range that covered the whole
+1017.48 - screen yeah you're you're getting paid
+1021.80 - 40 uh points of volatility when
+1024.76 - volatility is only being realized at 30
+1026.92 - points yeah that that's it that's that's
+1030.04 - why we look for high volatility
+1033.04 - underlyings um let's go back to the last
+1035.72 - slide just one one more second real
+1037.76 - quick too so one of the other things I
+1040.20 - wanted to show of just some of these
+1041.88 - adjustments you know going inverted
+1044.72 - buying the guts selling the wings you
+1046.44 - could see some of those in practice here
+1048.44 - a lot of people get spooked by going
+1050.88 - inverted it's all about extrinsic value
+1053.44 - it's all about selling volatility and
+1055.60 - and ideally having that realized
+1057.80 - volatility come in less than implied
+1060.12 - volatility it doesn't matter that some
+1062.20 - of my options were in you know my short
+1064.48 - calls were in the money at some points
+1066.08 - and my puts were in the money at some
+1068.36 - points it doesn't matter through all
+1070.40 - these roles you collect enough extrinsic
+1072.92 - value to offset those and roll those
+1075.20 - forward and this is just a perfect
+1077.28 - example of being able to you know take a
+1080.88 - positions that might be losing trades
+1083.40 - make them into winning trades I know
+1084.84 - this a year-long trade you hope not to
+1086.60 - be in that sort of trade uh on a losing
+1089.68 - trade but this is an example of just
+1091.64 - collecting premium and how how much you
+1093.68 - get paid for that for taking that risk
+1096.60 - on a you know eight or 10 cycle year
+1100.04 - which is what we looked at here yeah and
+1102.40 - if you stay in a trade this long your
+1104.48 - chart would look similar if you were to
+1106.08 - plot this yourself like the dotted green
+1108.16 - lines will always expand down and up to
+1111.32 - the right because you're collecting more
+1113.16 - premium you're compounding premium like
+1115.40 - what was you started with $200
+1117.80 - strangle and what was your ending
+1120.16 - extrinsic value
+1121.72 - credit um like
+1123.88 - $1,100 something like that because I I
+1126.28 - clo I started the year the I got a 215
+1129.80 - credit on the first
+1132.08 - trade uh and then I bought back my last
+1135.04 - trade at
+1136.12 - 244 debit so it's basically you know I
+1139.72 - basically just realized all the value I
+1142.36 - did throughout the
+1143.88 - year yeah all the credits I got from all
+1146.76 - the rolls buying the guts selling the
+1148.52 - wings you know I had some scalps in
+1150.88 - there of calls and puts you that's why
+1153.16 - some of the break evens break off there
+1155.60 - um but again I was you know trading what
+1158.12 - was happening yeah and my I started with
+1161.20 - a straddle so I started with $4 in
+1164.28 - premium and my total ending credit was
+1167.32 - $1,800 almost
+1170.76 - another version of what we talked about
+1172.92 - yesterday so yesterday if you missed it
+1175.24 - you can check out the archive for
+1177.20 - options trading Concepts live on tasty
+1179.40 - live.com uh we walked through Nick's
+1181.68 - year-long trade in DraftKings which
+1184.28 - started as a strangle and was
+1187.60 - manipulated couple of different ways
+1189.52 - throughout the year up down sideways by
+1192.08 - the guts s the wings yes lots of Trades
+1195.48 - I don't know I think it was like 20 some
+1197.00 - odd transactions so it's a lot yeah um I
+1201.04 - did a similar thing and we're going to
+1203.08 - walk through that today so let's pop
+1205.84 - right in and talk about it so just like
+1209.96 - Nick's setup you can search uh on the
+1212.40 - tasty trade follow page you can look at
+1214.08 - all of our adjustments from the
+1215.60 - beginning of the trade you can see at
+1217.40 - the bottom right of this uh image here
+1220.52 - the pop of 57% that indicates the
+1222.84 - opening trade the rest of the actions
+1224.92 - are roles and closes um but colle did
+1228.92 - tons of credit along the way before I
+1230.80 - ultimately closed the trade but open
+1232.76 - this trade uh for almost $4 started with
+1235.68 - the straddle and manipulated it
+1239.84 - throughout the year as the stock price
+1241.52 - moved the 35 strike yes indeed right at
+1245.48 - the money so you can see like there's
+1246.96 - the column the original column is the
+1249.60 - price at the time the now column is what
+1252.32 - it's trading on now so you know you did
+1254.48 - at the money straddle collected $4 now
+1258.48 - was was the start of the position yeah
+1261.16 - and that was uh I could have started
+1263.36 - with a strangle too I just wanted to
+1264.88 - start with the straddle because I wanted
+1266.16 - to maximize my extrinsic value credit
+1268.44 - received throughout the year and a
+1270.88 - straddle gives you more than a
+1272.92 - strangle um so and really there wasn't
+1276.92 - uh there wasn't any like skew to take
+1278.92 - advantage with the strangle in in
+1280.96 - DraftKings and that might be the
+1283.16 - difference for something like ibit where
+1286.32 - ibit you have significant call skew so
+1289.08 - in that case it might actually make
+1290.68 - sense to start with a strangle versus a
+1292.24 - straddle because you can get
+1293.64 - significantly further out of the money
+1294.92 - to the upside and not have that same uh
+1297.84 - issue to deal with for a deep in the
+1299.32 - money option y so with ibit for next
+1302.32 - year I think I actually might start with
+1303.80 - a strangle depending on where the stock
+1306.24 - is we'll we'll cross that bridge when we
+1308.68 - come to it in a couple weeks very nice
+1311.28 - if we go to the next slide here we can
+1314.68 - check out the order chains so uh you can
+1317.92 - look at your own order chains for
+1319.60 - different products this is a snapshot of
+1321.48 - my order chains uh and the way to read
+1324.28 - this is from the lower left
+1327.68 - up uh so lower left is the opening trade
+1331.52 - and you can see the 35 straddle for
+1334.16 - February manipulated it to a uh 35
+1339.00 - straddle and then for just rolled it out
+1341.68 - from February 2 to February 16th for $2
+1344.84 - kept rolling it kept rolling it then
+1346.44 - eventually went inverted to the 3841 one
+1349.88 - uh inversion rolled that out in time for
+1352.64 - $2 in premium rolled it out again for $2
+1356.80 - in premium uh but adjusted the put
+1359.12 - strike up and then eventually I was at
+1363.40 - the 43 strike put you can see that
+1366.48 - little yellow uh symbol there where I
+1369.08 - was assigned on the 43 strike put so
+1372.16 - that was uh ultimately my decision to
+1375.72 - take the shares at 43 the stock had
+1377.52 - dropped significantly I had already
+1379.32 - collected a ton of premium and I knew
+1381.64 - that I could just lean long with the
+1383.24 - shares and continuously sell a covered
+1385.20 - call against those shares and that
+1386.88 - doesn't change the risk profile
+1389.84 - so Mike could have taken that put and
+1393.04 - rolled it out in time
+1394.64 - for a couple pennies or whatever the the
+1397.64 - the extrinsic value was at that time
+1399.96 - rather than do that you take the shares
+1401.76 - and you have that static Delta so it it
+1404.40 - doesn't you know it didn't change the
+1406.84 - position from a risk
+1409.04 - perspective all that much or at all I
+1411.24 - should say yeah from a downside risk
+1413.60 - perspective nothing changes it just like
+1416.00 - Nick said it gives you the static Delta
+1417.40 - to the upside so if this is a strong
+1418.88 - reversal I have no issue yes because I
+1421.20 - have the static shares against that
+1422.68 - short call where if you have a straddle
+1424.64 - and you get a huge move now you have
+1426.80 - upside risk yeah and well you have the
+1429.52 - extrinsic value that's at the money so
+1431.48 - you you if you're rolling a deep in the
+1434.80 - money option whether it's a call or a
+1436.56 - put and you're rolling that forward and
+1438.04 - you're collect in pennies you're not
+1440.28 - getting there's no time value to that
+1442.32 - option that you're getting paid if you
+1444.36 - get that big move however small
+1446.88 - probability it is that it happens in
+1448.96 - this case it actually did happen for you
+1451.56 - and it can happen of course but if you
+1453.56 - do get that big move your option that
+1456.04 - you've been rolling which was all
+1457.84 - intrinsic value is now going to be at
+1460.56 - the money and is going to hold both
+1461.96 - intrinsic and extrinsic value and that
+1464.20 - extrinsic value is against you because
+1466.80 - you have to buy that back and you've
+1468.12 - been rolling it for no extrinsic value
+1470.84 - along the way so at a certain point an
+1473.64 - option becomes all intrinsic value it is
+1478.08 - stock you might as well just have the
+1480.32 - stock rather than the option there's no
+1482.60 - difference between the two and that's
+1484.72 - where you were at that point you'll see
+1486.68 - that in the you know the graphic how far
+1489.24 - down the stock had moved that you were
+1492.08 - probably looking at pennies if that to
+1495.56 - roll that option yeah and really it's
+1498.16 - just just a matter of uh realizing that
+1501.52 - when you're selling premium you are
+1503.80 - collecting extrinsic value to take that
+1505.64 - risk if there's no extrinsic value to
+1507.76 - take the risk there's no reason to have
+1509.04 - the option you might as well have the
+1510.40 - shares that give you the static Delta
+1512.32 - and eliminate a lot of things that can
+1514.40 - go against you like Nick had said so
+1516.64 - that's what I did I took the shares at
+1517.88 - 43 but my basis on the shares was really
+1521.04 - at like 26 or 27 because I had collected
+1523.56 - so much extrinsic value along the way if
+1526.04 - I had just kept the shares at 43 and got
+1528.76 - rid of all the options I still keep all
+1530.72 - that extra insic value I collected along
+1532.44 - the way so $4 $2 a43 another $2 another
+1537.24 - $2 another dollar it's plenty of Premium
+1540.24 - my my basis would have been
+1541.52 - significantly below 43 but I knew that I
+1543.96 - could still sell that call Value which I
+1546.36 - did so I went to uh I actually rolled
+1550.28 - the 38 strike down to the $ 35 for a
+1553.24 - dollar and after that so I'm looking at
+1556.52 - the top of the second column here
+1559.04 - after that rolled up and out so we get
+1561.60 - the question a l a lot like if I have
+1563.28 - 100 shares of stock and I want to keep
+1564.64 - it what can I do rolling up and out is
+1568.16 - what we like to do and that just moves
+1570.52 - your extrinsic value from the near-term
+1572.64 - cycle at a lower strike to a further
+1574.56 - dated cycle at a higher strike and I did
+1576.80 - that for a 40 Cent credit so I basically
+1578.84 - gave my shares another $100 of profit
+1581.52 - potential moving from 35 to 36 and I
+1584.52 - also picked up 40 cents of credit yeah
+1586.84 - so that's what we like to do for trying
+1588.56 - to keep the shares and avoid having that
+1590.40 - short call go in the money and make sure
+1593.00 - that short call still has extrinsic
+1595.20 - value uh you can look up offensively
+1597.72 - rolling covered calls on tasty live and
+1599.84 - we have a segment where we talk about
+1601.40 - that
+1602.60 - exclusively um looking on the final
+1605.88 - right hand column here we I did the same
+1608.80 - thing just rolled out in time a couple
+1611.40 - times so I moved from October to
+1613.00 - November picked up a dollar mooved from
+1615.28 - November to December picked up a dollar
+1617.52 - and then eventually DraftKings was at
+1619.56 - like 43 44 the short call had no
+1622.16 - extrinsic value which again means the
+1624.24 - position is just done there's nothing
+1625.80 - else that I can get out of it I'm just
+1627.20 - holding risk so I closed the position
+1630.32 - and overall made uh
+1633.76 - $1,123 with the small gain in the shares
+1636.72 - or the value back in the shares I should
+1638.48 - say uh since I took the shares at 43 and
+1641.20 - I was selling premium below that level
+1643.92 - but I was able to do that because I had
+1645.64 - collected over $1,000 of extrinsic value
+1648.24 - so my basis was well below 43 knowing
+1651.16 - that I was able to sell below that 43
+1653.60 - strike so as long as you have a ton of
+1655.80 - exic value you have a lot more
+1657.16 - flexibility of where you can sell
+1658.88 - premium below where you take shares in
+1661.76 - that case and that's because it's a high
+1663.80 - volatility underlying like you wouldn't
+1666.16 - have been able to do that in something
+1667.88 - that didn't have 40 50 60 70% implied
+1671.00 - volatility because you don't get paid
+1673.76 - you know you're rolling closer to to the
+1676.04 - stock to get that same dollar versus
+1678.60 - something like DraftKings where you can
+1680.68 - you know roll further out of the money
+1682.96 - on that short call yeah and let's say
+1685.72 - like in a different example let's say I
+1688.12 - had uh let's say I started with a 35
+1691.44 - straddle for $4 and the stock tanked to
+1694.72 - like 15 I probably would have just taken
+1697.36 - the shares and just sat there and did
+1699.60 - nothing yeah CU like in that case unlike
+1702.64 - where I took the shares at 43 where I
+1704.32 - had already picked up a ton of Premium
+1706.28 - if you don't have a lot of Premium you
+1707.68 - can't really sell below where you take
+1709.08 - the shares or below your basis because
+1710.72 - your basis is so close to the stock
+1712.52 - price so if you have a lot of extrinsic
+1715.44 - value you have a lot more flexibility of
+1716.84 - selling below where you take the shares
+1719.52 - my break even was at again at like 27 28
+1722.32 - so even even selling at
+1724.40 - 3536 I'm well above my break even even
+1727.16 - though I took the shares at 43 another
+1729.60 - thing I like out of your adjustments
+1731.88 - which I don't I don't know if you did
+1733.40 - totally on purpose but a lot of your
+1735.84 - roles are like around that 21 day Mark
+1738.60 - you were you were much more tasty
+1742.12 - mechanical than I was I was a little bit
+1744.84 - more like freehanded scalping calls and
+1748.32 - you know just kind of trading it yours
+1750.60 - was pretty like this this is an example
+1753.64 - of a trade that somebody that doesn't
+1755.84 - want to be in front of their computer
+1757.44 - all the time could just do I mean you
+1759.92 - have how many rolls or how many
+1762.52 - transactions 2 4 6 8 10 12 13 so you had
+1766.64 - one a month basically yeah I mean that's
+1770.00 - and you made 200% on you know from a
+1774.56 - return on Capital standpoint yeah and it
+1777.56 - they're not all going to be like this of
+1779.16 - course but this is like you know when
+1781.32 - people ask the question you know I don't
+1783.96 - have eight hours a day like we do to sit
+1786.68 - around and trade and like be involved in
+1788.44 - the markets can you really do this I
+1790.48 - mean this is a pretty perfect
+1793.24 - example yeah and it it also removes you
+1796.16 - from staring at the ticker all the time
+1798.36 - yeah you probably even care there were a
+1799.80 - lot of times where I forgot I was just
+1801.52 - like oh I should probably do something
+1803.20 - here yeah um but that comes with size
+1806.80 - that's you know size and having some
+1810.12 - understanding of what you're doing and
+1811.88 - and you know being a little flexible and
+1814.08 - being able to hold risk yeah too but
+1816.92 - especially with a short put like if you
+1818.20 - start with a short put and you just roll
+1819.60 - it perpetually like it's a very
+1821.20 - hands-off trade yeah high probability
+1823.96 - hands-off trade you could take shares
+1825.92 - that's the key you have to trade you
+1827.44 - have to have a size correctly where you
+1829.12 - can take the shares because that just
+1830.88 - eliminates so much headache and then you
+1832.88 - don't have to close a short putut like
+1834.64 - the like if I'm selling a put and I'm
+1837.76 - intending to close it if it goes in the
+1839.28 - money the short putut is not what I
+1840.56 - should be doing I should have a put
+1841.92 - spread yes because you can't like you
+1844.64 - can't take undefined risk and then
+1846.04 - change your mind once you actually get a
+1848.00 - position where you have the shares as a
+1849.32 - lower basis than where you were selling
+1850.64 - it in the first place so yes having the
+1853.72 - correct size allowed me to really do
+1855.92 - whatever I wanted in here and it it
+1859.12 - worked out in the sense of we were
+1861.96 - selling High implied volatility the
+1864.32 - entire year and the stock came in under
+1867.52 - the implied volatility of its projection
+1869.88 - yeah where uh which which doesn't it
+1872.68 - seems like if I told you a stock is up
+1874.36 - 30 or 40% that would be you know a tail
+1877.92 - Type move um you know the projection
+1881.04 - here was that this would could be up or
+1883.24 - down 50 60 70% yeah and so that's that's
+1887.12 - exactly what we play
+1888.72 - yeah DraftKings opened at 34 got as high
+1892.84 - as
+1894.36 - 49 got as low as 28 and it's currently
+1899.04 - sitting at 44 so it's up 10 points from
+1902.72 - the open on the year we were collecting
+1904.60 - premium reflecting a much bigger range
+1907.48 - yeah so I mean you collected $4 in
+1909.56 - premium a year ago yeah and it's only up
+1913.00 - $10 so I mean like that's that's a
+1915.68 - representation of lesser realized
+1918.88 - volatility than implied yep
+1922.28 - indeed uh if we continue on for the next
+1924.68 - couple slides we can look at the market
+1926.76 - snapshot so this can be seen on your
+1928.68 - order chains uh for any underlying
+1931.72 - you're analyzing just right click on any
+1933.96 - of the roles so like what we just showed
+1936.64 - prior just CL right click on any of
+1938.36 - those little snapshots and you can
+1940.04 - you'll find The View Market State
+1941.64 - snapshots it'll pop up for you so this
+1944.68 - is just uh a deeper analysis of
+1948.36 - some of the metrics of the trade so on
+1950.68 - the top we have Delta on the bottom we
+1953.20 - have stock price so again stock price
+1956.40 - went uh stock price was flying around
+1958.80 - through the entire year went as high as
+1961.88 - 50 went as low as 30 and you can see
+1965.20 - it's it's volatile it's not just like
+1967.56 - churning around 35 or 40 it it has had
+1970.72 - its moves and that's why you're getting
+1972.56 - paid premium to take risk in a product
+1974.44 - like this but my Delta really never got
+1977.44 - too crazy here uh that the line in in
+1980.88 - the top image that goes across is the
+1982.72 - zero Delta so you can see I kind of had
+1985.96 - like1 positive 10 it's nothing positive
+1989.08 - 50 at one point when it tanked yeah
+1991.28 - reduced it to 20
+1993.20 - 3010 10 so it's just like yeah I was
+1996.08 - pretty much except for that little blip
+1997.72 - in February where
+2002.04 - DraftKings uh retire it must have been
+2005.88 - like an earnings or something like that
+2007.96 - I mean in yeah February it went
+2012.04 - somewhere from you know the 40 handle
+2014.76 - all the way up to like 50 at the highs
+2017.60 - in like mid-march so somewhere around
+2020.32 - that is when you were probably you know
+2023.44 - moving some strikes yeah there picking
+2025.68 - up some long Delta roll that was
+2027.44 - probably when you rolled up to the 43
+2029.72 - strike put
+2032.04 - yeah it was when I rolled from a 35
+2034.72 - straddle to a 4138 inversion okay so
+2038.28 - yeah so I went from short Delta to
+2039.76 - positive Delta so that's where you're
+2041.32 - that's what we're seeing here yeah but
+2043.12 - the rest of them are same as what I was
+2045.80 - doing you know it's all you're picking
+2048.72 - up 10 15 20 maybe 30 Deltas you're not
+2052.64 - picking up 50 60 70 80 Deltas it's
+2055.80 - always an under hedge you're not you
+2058.44 - know you you're leaning even though
+2060.44 - you're making the contrarian adjustment
+2064.52 - to what's happening with the stock like
+2066.12 - the or a not contrarian adjustment I
+2068.24 - should say stock going up you're rolling
+2069.88 - up a put you're not you know fully
+2074.52 - buying there yeah you're adding a small
+2078.20 - you know 20 30 Deltas not a 50 70 80
+2082.24 - Delta adjustment yeah and really it's it
+2086.04 - was always under hedging like Nick said
+2087.80 - I started with a 35 straddle eventually
+2090.16 - went from a 35 straddle to a 3841
+2093.20 - inversion and that was when the stock
+2095.52 - was at 42 two so I went right at the
+2100.28 - money kept my inversion minimal at that
+2102.96 - point I had 4 6 7even I had 750 in
+2106.68 - premium and I had a $3 wide
+2109.72 - inversion perfectly fine y it's the same
+2112.56 - as having 350 in premium or 450 in
+2115.76 - premium on a 3841 regular strangle so
+2119.32 - plenty of excess extrinsic value
+2121.32 - relative to the inversion and then I
+2123.04 - just kept the inversion that same thing
+2124.92 - so I rolled out from April to May picked
+2126.88 - up another $2
+2128.40 - so that brought me to like seven what
+2130.36 - was it four six seven $9 in premium on a
+2133.96 - a threo wide inversion so that's I think
+2136.56 - at some point I said like we're in a
+2138.24 - really good spot here and it's going to
+2139.52 - be hard for the stock to beat me now
+2140.92 - because I've I had like $1,100 in
+2143.28 - premium and I had eventually the
+2146.48 - 3843
+2148.04 - inversion so big range for the stock to
+2152.24 - move uh for me to not make money on that
+2155.08 - trade in that cycle and then I just kept
+2157.08 - picking up more premium and it chopped
+2158.76 - around the same level y um if we go to
+2162.08 - the next slide we can look at some more
+2164.12 - metrics here we got Delta in isolation
+2166.80 - so again really hovered around that
+2169.72 - midline of zero Delta had my range of
+2173.08 - plus minus 30 Delta we'll call it except
+2175.68 - for that one adjustment where I moved
+2178.08 - the strikes at the top but you can see
+2180.40 - like every roll I made was kept me
+2183.20 - within 30 Deltas on either side of the
+2185.00 - market y bullish or bearish yes so that
+2188.00 - means I was focusing on extrinsic value
+2191.52 - focusing on time Decay IV contraction is
+2194.48 - associated with time Decay and uh you
+2198.24 - know not really taking too many big
+2200.04 - directional shots just making sure I had
+2202.32 - I was compiling extrinsic value and the
+2204.56 - more you do that the wider your break
+2206.52 - evens are which we will show at the end
+2208.56 - here with the visual uh on the next
+2211.08 - slide we can dive into implied
+2212.76 - volatility so IV rank in DraftKings has
+2216.68 - been pretty volatile it's gone from 10
+2218.72 - 20 to 40 around these earnings you're
+2221.12 - going to see these spikes so 40 60 90
+2225.24 - these are all earning spikes but without
+2227.68 - the earnings we're still at 3040 IV rank
+2230.20 - which means implied volatility was in
+2232.16 - the middle of the range and it's moving
+2234.20 - that's another big thing is like there
+2236.28 - you you can you'll see in the IV chart
+2239.88 - it volatility swings around which is
+2242.36 - positive for you you want to be able to
+2244.48 - have that sort of movement because it
+2245.84 - allows you flexibility to you know roll
+2249.64 - and adjust positions you know when when
+2253.04 - that changes yeah so on the next slide
+2255.92 - we can look at the raw implied
+2257.52 - volatility so this is the implied
+2260.08 - volatility that you see on the right
+2261.96 - side of your expirations in the trading
+2264.88 - platform no nothing lower than 40%
+2268.12 - except for when I closed it yeah IV rank
+2271.32 - now is at Nega .1 which means we are
+2273.44 - setting the low in implied volatility
+2275.44 - for DraftKings for the year and it's
+2277.64 - under 40% for the first time so 40% 50%
+2282.28 - 60% IV is where we like to live that
+2285.28 - that's a good implied volatility number
+2287.20 - because it tells you that you're getting
+2289.40 - decent premium your buying power
+2291.76 - requirement is not going to be cash
+2293.24 - secured because it's not a huge IV
+2295.52 - product um which is why DraftKings is
+2298.08 - such a high return on Capital potential
+2299.80 - trade because you again you put up5 $600
+2302.88 - for a strangle or straddle and you're
+2304.64 - picking up three four dollar to start
+2306.64 - the trade
+2308.28 - um so yeah nice range of implied
+2310.96 - volatility this is a a good example of
+2313.68 - the IV environment we want to be in so
+2317.00 - right now DraftKings is at 45% 40% IV
+2319.96 - and it's literally the lowest the lower
+2321.72 - bound of what we we're setting the lower
+2323.24 - bound now yeah of the entire year of
+2325.72 - DraftKings some equities which still
+2328.04 - have earnings still have CEOs still have
+2330.20 - boards they have earn of IV of 25% like
+2333.64 - or l or less those those are not good
+2336.44 - short premium envir ments because you
+2338.44 - still hold all the risk of these these
+2340.80 - equities but you're not getting paid to
+2342.60 - take the risk yeah if those stocks have
+2345.04 - the 30% move that we're experiencing in
+2348.12 - DraftKings you're losing five or $600
+2351.92 - instead of something like DraftKings
+2353.24 - where it has a 30% move but it's
+2356.88 - projected to have a 50 or 60% move and
+2359.48 - you're making money that's why High
+2362.12 - volatility is is so important if you
+2364.48 - took the ticker out of the equation just
+2367.40 - looked at those two stocks and just said
+2369.44 - that they were two stocks that are going
+2370.84 - to perform with whatever the market does
+2373.24 - you'd want to sell premium in the higher
+2375.56 - volatility underlying because it allows
+2377.52 - you to to be potentially profitable on
+2381.36 - that sort of move
+2384.32 - y uh and last but not least our
+2387.00 - beautiful visual here and again the
+2390.56 - story Remains the Same literally all of
+2392.88 - our anatomy of a trades look like this
+2394.92 - where the Blue Line the stock price is
+2396.96 - flying around and our green dotted lines
+2400.20 - from the start of the trade to the end
+2401.56 - of the trade are expanding above the
+2403.68 - stock price and expanding below the
+2405.36 - stock price so my initial break evens
+2408.08 - when we started the trade was between
+2410.84 - let's say 38 32 and 48 right which makes
+2414.60 - sense 40 39 and 31 we'll say because I
+2418.00 - had a 35 straddle with $4 in premium
+2420.84 - look at the end the end I had a break
+2424.24 - even below 25 and above
+2427.88 - 54 let's say so for me to lose money at
+2431.44 - the end of the cycle DraftKings would
+2433.80 - have had to go up 50% in a couple weeks
+2436.36 - or get cut in half so that's the power
+2439.40 - of continuously collecting short premium
+2441.44 - and continuously staying in a trade the
+2443.60 - only way you can do that is if you're
+2445.04 - size small enough to do so and if you're
+2447.48 - in a decently High IV product that chops
+2449.88 - around or stays range bound this thing
+2451.88 - still moved but it didn't go crazy it
+2453.88 - didn't go from 35 to 100 or from 35 to
+2456.72 - 10 and never came back if you get a
+2459.48 - product that moves around but stays
+2461.36 - within the implied volatility this is
+2463.56 - what you're you're going to look like at
+2465.36 - the end of the year yeah even if you're
+2467.40 - making 20 adjustments 30 adjustments
+2469.16 - it's like as long as you're picking up
+2470.72 - credits and you're widening those break
+2472.04 - evens it makes it harder and harder for
+2474.20 - the stock to beat you because you've
+2475.68 - collected so much extrinsic value to
+2477.80 - offset intrinsic moves against you in
+2480.88 - that case it the it again it just all
+2484.04 - goes to implied volatility for this
+2486.00 - stock to be you assuming you're doing
+2489.00 - this for a year it would have to go up
+2491.48 - or down 80% because throughout the trade
+2495.64 - you're selling volatility that is
+2498.92 - projecting price movement over a year's
+2501.52 - time frame between 60 and 70% that was
+2505.08 - basically where we were at for all these
+2506.72 - adjustments so you need the stock to go
+2509.08 - up 80 90 100% or down 8090 or to zero to
+2514.44 - lose money on that sort of trade over a
+2516.40 - year's time in the short term over one
+2519.12 - or two or three months you might have a
+2521.36 - marked loss but that doesn't mean over a
+2523.20 - year you're going to still see that loss
+2526.24 - if you get you know that inside realized
+2529.32 - volatility inside relative to implied
+2532.24 - you get the 20% implied volatility stock
+2535.20 - and the stock moves 25 or 30% in either
+2538.44 - direction you lose money you get a 60%
+2540.96 - implied volatility and the stock moves
+2542.40 - 20 or 30 or 40% you make money that's
+2545.32 - the difference yeah
+2547.76 - and uh this was a great trade it was I
+2551.12 - knew it was going to be a great trade
+2552.44 - when I had the the 36 covered call and
+2554.68 - was just sitting there uh as long as the
+2556.92 - stock didn't tank because in this case I
+2560.24 - had no upside risk with my uh shares and
+2562.80 - my short call so looking at uh the
+2567.44 - difference here of like what I might
+2569.28 - have done if I knew I wasn't exiting the
+2570.88 - trade at the end of the year I probably
+2572.84 - would have uh rolled up and out more so
+2577.60 - like I knew I was exiting this trade at
+2579.00 - the end of this year but when I had the
+2580.88 - 36 strike short call against my shares
+2583.76 - when we were near 36 maybe I would have
+2586.24 - gone from the 36 to like January and
+2588.80 - moved it up to the 40 like right now you
+2591.44 - can still see if you if you've been
+2592.96 - doing that or if you have a DraftKings
+2595.32 - covered call at 45 like the the December
+2599.40 - 45 call you could buy back for a dollar
+2603.48 - if you had it moving it out to January
+2606.84 - or
+2607.80 - February you could move it up to the 49
+2610.80 - so you could buy back the 45 in December
+2612.92 - move it to February 49 collect another
+2614.92 - dollar so like you can manipulate
+2616.92 - covered calls in that fashion that's an
+2619.20 - offensive covered call role um but yeah
+2623.52 - I knew I was going to be done with this
+2624.56 - trade so I didn't do that but any
+2626.32 - covered call position you can roll that
+2628.32 - short call up and out if that short call
+2631.20 - is at the money not completely in the
+2632.84 - money you can manipulate that extrinsic
+2635.00 - value and give yourself more offensive
+2638.32 - room to breathe for those shares but
+2640.96 - yeah it was a nice trade and
+2645.12 - uh we finally got one that didn't
+2647.84 - explode at the end of the
+2651.16 - year it's true yeah beautiful good job
+2655.40 - out of you

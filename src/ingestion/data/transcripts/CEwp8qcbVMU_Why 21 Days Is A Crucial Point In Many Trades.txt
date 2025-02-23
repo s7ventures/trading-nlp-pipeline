@@ -1,0 +1,14 @@
+0.16 - why do you close or roll at 21 days
+3.72 - until expiration does something change
+6.36 - fundamentally in the last 3 weeks of a
+8.88 - trade the Decay curve speeds up in the
+12.12 - last 3 weeks of a trade inside of 21
+14.32 - days you actually take more risk to make
+17.88 - less money oh interesting one of the
+19.48 - most important things we discovered in
+21.40 - all the research we've done at Tasty
+22.96 - which again 60 hours a day now for 14
+25.92 - years we have figured out the optimal
+29.40 - points in Decay curve and inside of 21
+32.48 - days it gets to be you make less money
+35.60 - per day and you take more risk

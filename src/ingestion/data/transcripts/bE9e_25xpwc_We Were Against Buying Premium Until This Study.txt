@@ -1,0 +1,203 @@
+0.24 - this is a piece that a research team put
+2.48 - together and when I was talking to Jacob
+4.08 - and the research team about this he said
+7.08 - you know because what happens is a lot
+8.84 - of people send emails to our research
+10.68 - team and when they do you know the guys
+14.12 - they cue everything up and and you know
+18.12 - and there's been a lot of questions over
+19.84 - the years about mixing um buying premium
+23.32 - and selling premium what happens when V
+25.04 - gets low should you ever buy premium you
+27.40 - know and we we pretty much are only
+29.52 - sellers we don't really buy but the
+31.76 - question has come up is it okay to buy
+35.00 - sure right sure I mean how many emails
+36.60 - have you gotten on that topic uh so
+38.92 - hundreds thousands right exactly
+41.08 - throughout the years yeah yeah so Jacob
+44.44 - and the team decided to Jacob is one of
+47.04 - our um researchers and he's our kind of
+50.52 - our math he is our math expert we have a
+54.28 - couple of data scientists we have a
+55.88 - physicist we have a bunch of really
+58.04 - smart people but Jacob is the smartest
+60.64 - math mind we have
+63.12 - and um and so he took an in-depth look
+67.00 - at this and let's see what we got it's
+69.12 - very interesting results a little
+70.80 - surprising some mixed so at Tasty our
+73.60 - research has led us to look for high
+75.04 - probability trades this preference leads
+77.00 - us to mostly choose short premium
+78.52 - positions where we can theoretically get
+80.68 - paid for taking um for agreeing to take
+83.12 - on risk what what he means by that is
+85.96 - we're agreeing to take a limited
+89.36 - profitability for unlimited risk in
+91.48 - return for high probability trade
+94.68 - so but diversification is almost always
+97.40 - good have the results for Traders who
+99.36 - chose to sometimes purchase options
+101.76 - rather than sell options have they
+103.04 - differed at all let's take a
+107.00 - look so we used 15 years worth of data
+109.88 - we did the 20 Delta strangles and we
+113.12 - looked at it from three different
+114.04 - approaches always selling strangles
+116.12 - always buying strangles and then
+118.24 - combining the two okay following the
+120.80 - shorts triangle winner with um um sorry
+124.76 - following winning shorts triangles with
+126.24 - another one but following losing shorts
+128.48 - with a long strangle okay bat you got
+130.64 - that okay okay so so this when you have
+132.88 - a losing position following with a with
+135.16 - a long strangle saying that maybe this
+136.92 - thing's gotten away okay got it we
+139.28 - managed all the position what you look
+140.80 - at right yeah we managed all the
+142.20 - positions when they reached 21 days we
+144.64 - closed positions when they had a profit
+146.44 - of um 50% of Max profit
+152.36 - okay so it's all fun and let's take a
+157.48 - look at where we are it's all fun it's
+159.32 - all games let's see until someone gets
+161.96 - it in the face of course except Mike
+163.96 - Tyson can't hit you in the face anymore
+165.40 - we learned
+166.36 - that that's
+168.36 - true
+170.20 - um so first we looked at spy and this is
+173.72 - how we're going to set this up there's a
+174.64 - lot of slides we're not going to go
+175.56 - through every single one but but you can
+177.08 - research them later on if you want um 21
+180.44 - days these are 20 Delta strangles okay
+183.44 - when you buy the strangle you you only
+185.68 - win 27% of the time these are all IVs
+189.28 - when you sell the strangle you win 73%
+191.00 - of time that's very consistent but when
+193.72 - you follow up you're losing short
+197.56 - strangle with a long strangle at the
+199.48 - same Delta you win the percentage
+201.68 - doesn't drop off that much okay so long
+204.68 - strangles on their own don't
+206.76 - work long strangles following up a short
+209.36 - strangle loss did work that's pretty
+212.68 - interesting okay long strangles lost
+216.44 - $21 over time over whatever this was 10
+220.44 - or 15 years yes short
+223.88 - strangles made $21 that's that's our
+227.28 - game but the combination of when you had
+230.40 - a loser following up by a long strangle
+232.48 - actually made money so that was good it
+234.24 - doesn't happen that often but when it
+235.84 - does it
+237.48 - worked let's go next slide that was spy
+240.88 - yep closing at
+244.20 - 50% um I'm sorry that was spy with go
+247.60 - back one side Beth for one sec that's
+249.96 - closing at 21 days I'm sorry that's 21
+252.52 - days closing at 50% the next slide
+254.68 - should be very similar except in this
+257.84 - case because you waited longer the um
+260.56 - the long strangles actually did a little
+262.40 - better the short strangles did a little
+263.76 - better too um and the mixed it a little
+266.56 - bit better but the long strangles still
+268.96 - were net losers that's why you just
+270.24 - can't go out and buy premium but if you
+272.36 - bought premium after a losing trade the
+273.72 - results were interesting here now
+274.92 - remember that's a very small case
+276.96 - there's not that many times but when it
+279.40 - does it worked let's go next
+283.04 - slide and when you did no management at
+285.44 - all the only thing that worked was the
+287.08 - shorts
+288.16 - triangles so the mix trade only worked
+290.88 - when there was
+292.16 - management got it got it now if you go
+294.92 - to the next one Beth we we just go
+296.76 - through a bunch of these so we looked at
+298.56 - iwm next and there results in iwm were
+300.72 - very similar almost exactly the same as
+303.52 - the Spy that's with at 21 days now if
+306.52 - you go to the next one which is at
+308.60 - 50% this was also um
+312.24 - surprising uh the iwm shorts triangles
+315.20 - worked at 21 at 21 days but 50% they
+318.92 - didn't do as good and the mix worked go
+321.88 - to the next
+322.96 - slide this is no management at all and
+326.72 - the mix lost the long strangles lost and
+328.68 - the short strangles made a little tiny
+330.28 - bit of money but nothing really the
+332.00 - interesting thing here is that long
+333.40 - strangles never work but buying a long
+336.64 - strangle after a shorts triangle failed
+339.40 - actually worked a little bit let's go
+341.60 - next slide it's kind of reversing the
+342.88 - position I don't like it but the results
+345.36 - were I mean we've had a market and I
+347.44 - don't know if they're going to talk
+348.24 - about it that's kind of gone in that
+349.88 - direction I know this is a long period
+351.36 - of time of of of uh data here but you
+355.20 - need a continua market for this to work
+357.88 - would you yeah you continuous yeah yeah
+360.52 - yeah um if you go to the next side Beth
+362.80 - and nobody knows of course yeah what's
+365.76 - interesting here is that shorts
+366.92 - triangles in the qes just haven't been
+368.48 - that good um and it's funny because the
+372.04 - q's are the only thing where a long
+373.12 - strangle actually worked which really
+375.16 - surprised me but that's because the
+376.40 - crazy move we've had over the last you
+377.84 - know 15 years and go to the last the
+381.08 - next
+383.04 - slide um this was surprising there have
+386.84 - not been this has not been a good
+389.04 - stretch for Q strangles now in my world
+391.92 - if I back tested this this is when you
+393.72 - probably want to put them on because
+395.52 - they'll probably work from here right
+397.20 - but Q's the only thing where a long
+399.12 - strangle worked and a short strangle
+401.60 - didn't the only thing now this is this
+405.84 - is not taking into account ivr and one
+409.24 - of the things that we do to modify this
+411.92 - entire process is we only do this when
+414.32 - ivr is high which which will yield
+416.84 - completely different results but I want
+419.00 - to bring this up because I think it's
+420.20 - important that you see everything you
+422.48 - know and not and and we don't
+424.68 - necessarily you know cherry-pick any of
+427.08 - this um let's go to the next
+432.72 - slide so these are really interesting
+436.24 - takeaways across all major 3 ETFs in 15
+438.88 - years we saw noticeably improved results
+441.92 - following a losing trade by taking the
+443.44 - other side for the next cycle provided
+445.44 - the positions were managed note that
+447.48 - since short strangles are high pop trade
+449.72 - this results in mostly selling premium
+451.04 - but occasionally buying and these
+453.36 - results are quite unexpected and require
+455.80 - more in-depth analysis before making any
+457.60 - significant strategic adjustments for
+459.80 - now we begin to cautiously explore
+461.80 - mixing some long premium positions after
+464.76 - a losing trade on something that's like
+466.92 - in a I guess you would say like in in
+469.76 - it's having like some kind of an
+471.00 - extended move it's still pretty mixed
+473.76 - and I don't necessarily like flipping
+475.48 - the cards over it's not part of my style
+477.24 - but the results were interesting the
+479.16 - results were interesting definitely not
+481.28 - part of my repertoire but they
+482.60 - definitely interest them yeah

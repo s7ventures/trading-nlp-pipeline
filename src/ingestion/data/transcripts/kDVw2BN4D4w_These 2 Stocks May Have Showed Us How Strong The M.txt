@@ -1,0 +1,356 @@
+0.04 - so a couple weeks back we talked about
+1.72 - one way to analyze the potential impact
+3.60 - of a single stock on a broader index so
+5.84 - if a stock is expected to move 5% and
+8.56 - it's makes up like some you know it's
+10.36 - one of the components of the index how
+11.80 - much can we expect the index to move
+13.16 - there's a way to calculate that so today
+15.12 - I did my very very best to back test
+17.60 - this um and it's very hard to do for
+19.64 - reasons that I will get into but I
+21.44 - really wanted to look at some
+22.48 - significant moves and some major names
+24.12 - over the last year approximately and
+25.92 - understand how the realized moves in the
+27.08 - S&P kind of compared to that so those
+29.04 - expected estimates sounds yeah okay
+31.48 - let's try to get through this quickly
+33.00 - this a recap um I I'm probably not going
+35.76 - to spend a lot of time on this if you
+37.12 - want to go check out that segment it was
+38.36 - from two weeks ago but basically the
+40.28 - expected move of a stock or I'm sorry
+43.20 - the expected impact on a stock can be
+45.96 - estimated if you have an expected um
+49.64 - return for one stock and the correlation
+51.72 - between the two of them so for example
+53.36 - like let's say that two stocks A and B
+55.08 - are correlated with a correlation of 08
+57.20 - and expected a is you know going to
+60.00 - stock a is expected to move 5% around
+62.64 - earnings so the expected impact I guess
+65.04 - on Stock B is just the correlation
+66.72 - between them times that expected move so
+68.48 - 4% make sense okay yep okay next
+71.56 - slide okay so um that previous case is
+75.04 - if we assume the volatilities are
+76.28 - similar we can also sort of like beta
+78.32 - weight this a little bit by taking the
+79.68 - volatility of right the standard
+81.24 - deviation of returns of stock whatever
+83.52 - you're interested in dividing it by the
+85.28 - expected um the standard deviation of
+87.56 - returns of whatever you have the
+88.84 - expected move for makes sense you've
+90.08 - been doing this for years beta weighted
+91.20 - notional um IV very similar very similar
+94.12 - but this is for expected move if you
+95.24 - want to consider the expected stock on
+97.36 - another stock right yeah I understand
+99.20 - okay let's go to the next slide so if
+100.56 - you wanted to extend this logic to an
+102.60 - index right you take that formula yeah
+105.96 - multiply by the weight of that holding
+108.04 - in the index and then you just sum all
+109.72 - them up okay right you're just taking a
+111.60 - weighted sum of all those expected moves
+113.64 - basically make sense so like if I wanted
+116.04 - to calculate like apple is you know
+117.84 - going to move 5% we're expecting it to
+119.52 - move 5 5% when it reports earnings what
+121.56 - is the expected move in the index right
+123.76 - I can take all the Holdings of the index
+125.32 - I can take the correlation between all
+126.88 - those you know Holdings and apple and I
+128.88 - can use this formula to calculate how
+130.48 - much should the S&P move from that move
+132.80 - expected make sense yes easy peasy okay
+135.48 - let's go to the next slide then so what
+136.92 - I wanted to do was actually try to look
+138.44 - at some data to see how well this holds
+140.44 - up um so it's very difficult to do this
+144.04 - type of back test for like two reasons
+145.84 - number one um there's not a lot of very
+148.12 - big moves that you can really look at
+150.28 - over you know some time frame um here I
+152.60 - wanted to look at the top Holdings of
+153.88 - the S&P so that's Apple Microsoft Nvidia
+155.88 - Amazon meta or Google they all kind of
+157.56 - move around in the top like six spots
+159.64 - basically um over the last couple of
+161.56 - years and so I wanted to say okay on the
+163.76 - days when these you know assets had
+165.96 - moves that were larger than 5% either to
+168.16 - the upside or to the downside what was
+169.92 - the expected in you know index impact
+172.76 - there's not a lot of moves like that
+174.08 - that happened um in this period of time
+176.48 - and then in addition to that you also
+177.64 - need the historical weights of the S&P
+179.84 - over your back test period and those
+181.12 - aren't really easy to get so not a lot
+183.32 - of data here but I wanted to see if
+184.72 - there was maybe something interesting
+185.88 - that could come about and so here we
+187.88 - looked at from 2024 to 2025 we want to
+190.36 - see like apple Microsoft Nvidia Amazon
+192.80 - meta and Google like when they have a
+194.44 - move greater than 5% or less than 5% how
+197.52 - did the SNP what was the expected move
+199.84 - in the S&P and then how did it actually
+201.60 - move what were those results make sense
+204.00 - using that formula that I showed on the
+205.40 - previous slide sure okay let's go to the
+207.44 - next slide so um on unsurprisingly when
+210.76 - a major holding in the S&P um has a
+213.24 - large move to the upside or to the
+214.68 - downside the index is unsurprisingly
+217.12 - expected to follow suit in fact um for
+219.56 - moves that are this large remember we're
+221.24 - looking at plus minus 5% um the index in
+224.72 - this very limited data set was expected
+226.76 - to have the same sign of daily return so
+229.56 - move to the upside or to the downside um
+232.68 - at the same time 100% of the time right
+235.72 - so like if any of those Holdings move
+237.84 - like 5% to the upside we would expect
+240.24 - that the S&P should be positive that day
+242.88 - based on this expected return that we
+245.48 - looked at in the previous slide does
+247.04 - that kind of make sense yeah totally
+248.84 - which totally makes sense as you would
+250.00 - expect right
+251.04 - Tony yeah sure makes sense I I'll give
+253.64 - you a size up answer yeah it makes sense
+256.00 - um it's a um we're again we're looking
+258.88 - at very large moves so like here we're
+260.64 - looking at like mea was up 20% we would
+263.36 - expect the S&P to move up some
+264.96 - percentage and generally we'd expect
+266.36 - that to be positive if meta is moving to
+268.04 - the upside 20% that's itively what we're
+270.36 - saying here in this back test when we
+272.16 - looked at the expected moves for these
+274.00 - very large moves in the Holdings of the
+275.44 - S&P um we would expect that the S&P
+277.72 - would have at the very least the same
+279.16 - sign as this company that was moving
+281.44 - very much to the upside or to the
+282.84 - downside in this back test does that
+284.80 - kind of make sense yeah let's go to the
+286.36 - next slide so when we looked at the
+288.88 - actual moves we did see that like the
+291.12 - direction kind of aligned like aligned
+293.60 - with the expected move but the actual
+295.56 - numerical values differed by quite a bit
+297.92 - um so here we have all of those those
+300.08 - you know those I think it was like 36
+301.88 - data points all of those big moves in
+303.88 - those six Holdings over the last year
+306.32 - and that the kind of hatched bar shows
+309.40 - the expected move and then the kind of
+311.12 - solid bar shows the realized move and
+313.00 - then it's green for positive and it's
+314.36 - red for negative what we can see is that
+316.24 - when we expect a positive move in the
+318.48 - S&P S&P is usually positive when we
+321.36 - expect a negative move in the S&P the
+323.76 - S&P is usually negative um but the
+325.76 - actual size of that move can vary from
+328.24 - its expected value quite a bit bit and
+330.64 - that's usually because there are a ton
+332.36 - of other factors that are actually
+333.52 - moving the markets we're looking at very
+335.40 - extreme moves so these are kind of edge
+336.96 - cases oh what are you trying to prove
+339.16 - trying to prove anything um but I did
+341.72 - notice something a little bit weird that
+344.20 - inspired this back test that I'll talk
+345.84 - about in a second and I kind of wanted
+347.16 - to talk about it that make sense okay
+350.08 - I'm just trying to figure out what
+351.00 - you're trying to what what you're going
+352.96 - for here let's go to the next slide so I
+356.92 - wanted to look at a couple interesting
+358.40 - examples Maybe um and I don't know if
+360.68 - we're going to have time to do it but um
+363.76 - so in February 2nd meta jumped over 20%
+366.48 - after earnings the expected move in the
+367.92 - S&P was about 3% but it only moved
+370.52 - 1% okay let's go to the next
+374.04 - slide so on August 5th Nvidia dropped
+377.08 - over 6% and the expected move in the S&P
+379.20 - was 75% however the S&P dropped almost
+381.76 - 3% because that was also coupled with
+383.80 - concerns around the Nicki crashing right
+386.32 - over 12% okay so we can see there's a
+388.64 - lot of instances when these kind of like
+390.16 - external factors sort of like move the
+391.84 - markets in ways that sort of deviate
+393.96 - from these expected moves but what we do
+396.36 - actually see if we go to the next
+398.40 - slide is that 89% of the time the signs
+402.08 - of the expected moves and the realized
+403.68 - moves were the same right so even though
+406.40 - like you know Nvidia dipped um I'm
+409.16 - trying to think how to describe this so
+410.88 - even though like you know Facebook's
+413.12 - earnings or meta's earnings might have
+414.96 - caused this very large move the actual
+416.76 - move in the S&P might not line up with
+418.64 - that expected value but the signs
+420.68 - usually do that happened about 89% of
+422.92 - the time so we found that it was
+424.72 - actually pretty weird generally speaking
+427.72 - for the move in the index not to match
+430.32 - the sign of one of these major Holdings
+432.88 - sort of when they have a big move does
+434.40 - that make
+436.04 - sense yeah so the overall the expected
+438.80 - moves and the realized moves were this
+440.40 - yeah sure that kind of makes sense right
+442.16 - yeah but interestingly so and that's
+444.24 - kind of what inspired this a little bit
+445.52 - if we go to the next slide we had two
+448.68 - deviations from that like recently
+451.12 - actually um two pretty significant
+453.56 - deviations um and we'll talk about that
+455.56 - more in the next
+457.56 - slide there we go so on January 30th
+460.68 - Microsoft dropped 6% after earnings um
+463.88 - and there were other concerns that kind
+465.64 - of like you know were also bubbling up
+467.76 - around that time as well on February 5th
+469.76 - Google dropped over 7% also around
+472.00 - earnings and the expected drop in the
+473.32 - index was 1.7% so in both of those cases
+476.36 - we expected some pretty big drops in the
+478.08 - S&P but they actually turned out green
+480.28 - you remember those days it happened
+481.60 - pretty recently yeah yeah I mean I don't
+484.72 - remember like there's a lot of days when
+487.24 - when Google or Microsoft or Nvidia had
+489.80 - big even mostly Apple have had huge
+492.04 - moves and and the index has done not
+494.64 - what we expected but I I think I
+497.20 - remember both those days that's weird
+499.40 - that doesn't happen a lot when we're
+501.04 - talking about moves that are greater
+502.48 - than 5% it's actually weird for one of
+504.60 - the top Holdings in the S&P that does
+506.80 - not happen very much that happens like
+509.08 - like
+510.44 - in in this data set it's happened
+512.12 - recently more so I feel like because
+514.76 - like like just in apple alone and then
+518.40 - and then Tesla had you know dropped 30%
+521.80 - as the market was going higher for the
+523.80 - last two weeks so it's kind of weird
+525.32 - there been a few weird moves like that
+526.96 - it's weird and it's been kind of recent
+528.56 - and two data points is not enough to
+530.32 - like indicate a trend and there's been
+532.00 - other data points as well we were just
+533.48 - looking at like six companies basically
+535.76 - um but I kind of wanted to look at this
+538.20 - because I think it's worth watching over
+539.64 - the next couple of months CU it has felt
+541.56 - weird and I wanted to look at see if any
+543.88 - data kind of supported that and it turns
+545.76 - out like two very big moves two very big
+548.40 - drops in Microsoft and Google like we
+550.68 - would have 100% expected the market to
+552.64 - end red those days and it turned out
+554.08 - green yeah and I'm wondering if that
+556.16 - kind of might indicate that there's some
+557.76 - shift in market dynamics right now or
+559.52 - some maybe shift away from Tech or some
+561.40 - shift away from AI or something that
+563.72 - could be resulting in maybe more
+565.36 - optimism um that was kind of reflected
+567.44 - in the index uh after these two very big
+569.92 - drops happened those were weird um and I
+572.60 - kind of wanted to try to do a study that
+574.28 - showed a little bit of context to show
+576.20 - exactly why because it's not out of the
+577.72 - realm of possibility for Apple to drop
+579.48 - 3% or for you know Tesla to drop 4% and
+582.44 - the index to wind up green but when
+585.08 - Microsoft drops 6% and Google drops 7%
+590.24 - and we're expecting the S&P to drop
+593.12 - almost two and almost 2% in both of
+595.36 - those cases and then it turns out green
+596.96 - that's weird um it's not weird but it
+599.40 - deviates from sort of the expected
+601.00 - behavior that we can measure at least
+602.48 - looking at the last year's worth of data
+604.28 - that's what I was kind of trying to look
+606.72 - at I get it I mean it just mean it just
+609.32 - means it's broad-based the market is
+611.76 - kind of I'm not sure that I can draw any
+614.92 - takeaways from this that I can actually
+616.44 - use yeah I that's yeah that's why I kind
+621.32 - of I wanted to try the back test and the
+623.04 - back test was difficult um for the
+624.64 - reasons that I described but it was
+626.36 - really those two data points that I
+627.60 - found really interesting and I that's
+628.92 - why I found found it was interesting cuz
+630.88 - like I've been feeling this in my
+632.20 - portfolio personally where we'll have
+633.76 - these really big moves but then the
+635.12 - indexes won't move very much and it felt
+637.56 - like that's been happening more recently
+639.48 - but it was really hard to actually
+640.80 - measure that and this was kind of my
+642.08 - attempt at sort that's fair I mean there
+643.60 - have definitely been some individual
+645.56 - stock moves you know today's another
+647.96 - example but um
+650.80 - and may I could I don't know if some of
+653.08 - it has to do around earnings time or not
+654.72 - but yeah I I understand where you're
+656.32 - coming from I just don't know how to I
+658.36 - don't know what how to take something
+659.60 - away from this I could actually use yeah
+661.56 - it's difficult to say because again it's
+663.00 - not a lot of data that we're working
+664.64 - with like if the indexes are maybe more
+667.00 - resilient now than they have been um to
+670.00 - some of these moves or a little bit more
+671.44 - insulated from some of these moves it's
+673.20 - a little it's you can't really claim
+674.60 - that from a couple of data points but
+676.88 - it's a trend that I want to keep
+678.04 - watching um as we sort of continue to
+680.36 - have like more you know volatility in
+682.28 - 2025 so it's kind of that was the point
+685.96 - beautiful lovely sick let's go to the
+688.36 - takeaway slide we'll finish up so the
+690.76 - potential impact of a single stock on an
+692.64 - index can be estimated using historical
+694.72 - price data and a detailed list of index
+696.44 - components and component weights and
+697.88 - based on this very limited back test the
+699.40 - data roughly supports that when major
+701.32 - holding is expected to undergo a large
+703.24 - move we can expect the direction of the
+705.68 - index move to match um and large moves
+709.04 - resulting from earnings might move the
+710.68 - index less than expected compared to you
+712.76 - know moves resulting from Market or
+714.16 - sector-wide events but we kind of need
+715.64 - to do more research to be able to
+716.88 - validate that and as well the recent if
+719.00 - there is a trend it's not really
+720.72 - measurable yet because there haven't
+721.92 - been there hasn't been enough data but I
+723.48 - think it's worth watching going into
+725.48 - 2025 um because it's it's felt a bit
+727.96 - weird trading and it was kind of hard to
+730.20 - actually put numbers behind that before
+732.08 - this kind of test sort of came out I
+734.64 - don't know if there's a trend and I
+735.88 - don't know if it's a bad thing either I
+737.52 - don't know either yeah

@@ -1,0 +1,140 @@
+0.16 - all right so we're going to talk about
+1.60 - premium Decay today so theoretically in
+4.60 - at the money options premium Decay looks
+6.60 - like this accelerating in the last 50
+8.64 - days but basically when you're looking
+10.48 - at premium Decay it's not a linear curve
+13.36 - when you look further out in time it's a
+15.32 - a lot slower Decay as you get to that 40
+17.96 - to 50-day time frame premium Decay
+20.36 - starts to accelerate as you get closer
+22.52 - to expiration of course there's a point
+24.80 - of uh of risk reward baked into this of
+28.28 - course you have faster decay as you get
+30.48 - closer to expiration but that comes with
+33.20 - a lot more risk uh versus something
+35.36 - that's 40 or 50 days out in time does
+37.60 - this hold true in real trading uh to
+39.92 - test this we need to separate the
+41.72 - occurrences with and without directional
+43.92 - movement if the current stock price is
+45.84 - close enough to the original stock price
+47.80 - then we can say the positions p&l is
+50.28 - purely from Premium Time Decay so we're
+53.28 - we're isolating the stock movement and
+55.76 - the Delta exposure that you get from
+58.40 - short premium and we're just looking at
+60.68 - the the data Decay relative to sideways
+63.56 - moves in the market so getting to the
+65.40 - next slide we're looking at spy we're
+67.24 - doing the we're doing 2005 to present we
+69.64 - sold the at the money puts um at a 50
+72.48 - Delta we recorded uh only the
+75.40 - non-movement occurrences so we're
+77.40 - looking at the time where the stock uh
+80.48 - in this case spy was within 05% of the
+84.32 - of the of the price on the previous day
+86.84 - so it's basically looking at quote
+89.24 - unquote n movements or Inside Moves In
+91.44 - the market so first we're going to take
+93.24 - a look at the distribution of
+94.96 - non-movement occurrences in the 45-day
+97.96 - taxation cycles and when we jump to the
+101.32 - next one here as expected uh the longer
+104.72 - duration the the lower the probability
+106.76 - of the stock price coming back to well
+109.84 - they're just talking about like expected
+111.12 - move so if something moves $30 and it
+113.64 - has a $3 expected move over a six-month
+117.04 - period of time it's going to take it a
+118.52 - lot longer to get back that price even
+122.32 - if it goes All in One Direction but now
+123.96 - remember from a volatility standpoint
+126.32 - you're talking more about being a lot
+128.68 - more mean reverting now we're not
+129.84 - talking about volatility here just
+131.12 - talking about stock stock price itself
+133.08 - yeah a lot of times people get to smoke
+134.56 - Opium and since we had this large move
+136.64 - to the downside or to the upside so
+139.12 - quickly that once it backs off it
+141.24 - certainly can go back there again and
+142.80 - again it is a 5050 shot on Direction but
+145.44 - it's all about the implied volatility
+147.20 - for an expected move which is 100%
+149.92 - correct 68% of the
+152.64 - time that's good yeah you had to add
+155.36 - that one in that was
+157.04 - good jump into the next slide so next we
+160.48 - isolate these non-movement occurrences
+162.24 - to test how closely the actual daily
+164.28 - premium Decay matches the theoretical
+166.72 - premium Decay um so this will get you
+170.16 - know closer to that original Slide the
+172.56 - first slide um that was a non-scientific
+175.60 - slide we're going to look at at the
+177.76 - actual curve of the realized premium
+180.20 - Decay uh we'll jump to slide seven here
+183.04 - so the curve of realized premium Decay
+185.08 - looks very close to the theoretical one
+187.04 - with the acceleration in Decay
+189.28 - approaching expiration so as you get
+191.56 - closer to expiration of course you're
+193.44 - going to have faster premium Decay you
+195.72 - only have certain amount of time
+197.36 - especially when you're looking at these
+198.52 - closer at the money options this goes to
+201.12 - the other slide of mean rsion of price
+204.32 - being much closer on a day-to-day basis
+206.44 - or on a on a shorter duration because
+209.04 - it's more of a 5050 shot versus versus a
+211.56 - longer duration where you don't have
+213.52 - that same sort of coin flip we've known
+215.76 - that obviously in the bull markets in
+217.80 - the past years tested the call side more
+219.96 - often than the put side if we control
+221.48 - for the directional bias does the call
+223.92 - Premium Decay look similar to the put
+227.24 - premium Decay and so again we're looking
+229.44 - at these sideways moves versus you know
+232.20 - a long period of time where we're only
+234.36 - you know we're looking at the the total
+236.12 - directional move the this whole study is
+238.76 - looking at just those like inside move
+241.56 - periods of time and days so the actual
+244.04 - premium Decay for calls matches the put
+246.24 - premium decay in the hypothetical curve
+248.48 - so again you know when you take the
+250.96 - directional move out of the equation the
+254.12 - Decay on calls and puts are relatively
+256.44 - the same as the the takeaway yes here
+259.48 - yes agreed agreed takeaways here Delta
+262.12 - is one of the largest risks when trading
+264.24 - and can adversely impact traded
+266.40 - performance and this again goes to um
+269.72 - what we were just talking about here we
+271.04 - took Delta out of the equation for this
+273.24 - study and just looked at premium Decay
+275.76 - and tried to kind of compare calls
+277.88 - versus puts Delta of course has been the
+280.68 - biggest directional or has been the
+282.80 - biggest issue for positions over this
+285.28 - period of time when we control for Delta
+287.72 - the changes in the under underlying
+289.44 - price we clearly see where our Returns
+292.20 - come from they come from premium Decay
+294.48 - that's why we're always talking about
+295.76 - looking at high volatility and and mean
+297.76 - reversion of volatility theoretical
+300.36 - premium Decay very closely matches
+302.32 - actual premium Decay since most Traders
+305.00 - sell out of money options does actual
+307.08 - out of the money option Decay also
+309.08 - follow the theoretical that will be
+311.48 - covered in part
+313.28 - two oo O Part Two looming went that went
+318.32 - through that pretty quickly really it
+319.32 - was just about price movement right I
+321.60 - mean you're looking at probability of
+323.68 - pop on expected move that's really what
+325.40 - we're

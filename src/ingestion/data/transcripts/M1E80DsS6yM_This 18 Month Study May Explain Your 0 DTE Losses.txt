@@ -1,0 +1,137 @@
+0.12 - exiting by time and profit in zero DTE
+3.36 - much of the flexibility of options comes
+5.12 - from investors freedom to manage trades
+7.44 - closing winners can help increase the
+9.20 - proportion of winning trades that has
+10.64 - appeared to be the key to success for
+12.52 - zero DT trades for 45d expiration trades
+15.80 - we often combine this with existing
+17.40 - positions at 21 DTS we exit early win or
+21.24 - lose it helps limit downside risk will a
+24.08 - parallel strategy work for zero DT
+26.08 - trades can we curtail our worst Zer DT
+30.00 - losers by exiting all trades win or lose
+33.12 - at a fixed time of the day what do you
+36.08 - think about
+37.52 - that I I've never seen it done before so
+41.12 - I would say no can't like I don't think
+43.32 - they're going to find and I I mean an
+46.36 - optimal time in the past is not going to
+48.24 - work for an optimal time in the future I
+50.04 - think it'll just be be random I mean
+52.28 - maybe you can quantify it out versus
+54.76 - risk versus reward when you're selling
+56.76 - options maybe that makes buying options
+58.84 - on the Zero days more or advantageous
+61.52 - for that moment I think it's pretty
+63.48 - random uh I don't see how it can be I'm
+66.44 - going to disagree okay I'm going to say
+68.56 - that I think we can curtail our worst DT
+72.00 - losers by exiting all trades win or lose
+73.76 - at a fixed time of the day
+75.48 - meaning what that what that means is
+77.96 - we're not going to hold anything past
+78.96 - noon let's say or past 11 o'clock I I
+81.00 - think it's going to be pretty pretty di
+85.68 - Minimus let's go to the next slide that
+87.96 - push you off the edge today so 18 months
+91.72 - worth of data 20 Delta strangles at the
+93.96 - opening each day considered a variety of
+95.96 - management techniques closing the
+98.24 - winners at profit targets from 15 to 50%
+100.92 - of all initial credit and exiting a
+103.12 - variety of fixed times all times are
+105.88 - standard Central Standard Time and then
+108.40 - all trades are assumed to exercise a mid
+110.08 - price so you can subtract a few dollars
+111.80 - 1015 $20 if you want more realistic
+114.92 - returns um let's go next slide because
+118.00 - everything doesn't trade at Mid price
+119.32 - obviously
+120.72 - so first of all managing winners at 15%
+123.68 - we've done this a bunch of times but you
+126.08 - can see here that managing winners at
+127.52 - 15% which is a very small number because
+129.80 - most the time you're collecting you know
+131.96 - you're you're not collecting that much
+133.44 - money in this case but managing winners
+134.84 - at 15% whether you exit at noon um 11:
+138.40 - noon 1 two or um or no fixed exit time
+143.44 - this was this was all pretty good okay
+145.92 - across the board sure I mean this is
+147.24 - where you get your getting out by noon
+148.88 - as a statistical you know yeah I mean no
+151.60 - fixed time you know you make 13 bucks I
+153.48 - mean yeah but but but noon noon was the
+156.04 - best in this case okay let's go next
+158.00 - slide so this is when you start to get
+160.28 - you you start to pump it up a little bit
+161.80 - and this time managing winners at 25%
+164.88 - which is a lot of people that's kind of
+166.68 - the Wheelhouse and if you see it's funny
+168.60 - no fixed exit time this would this would
+171.48 - be what the bat kind of said okay random
+174.56 - um that was probably the best here and
+176.36 - noon also worked as well the sear
+179.16 - significantly lower if you exit at noon
+181.32 - you take out the outlier risk basically
+183.60 - so the difference that exiting at noon
+184.88 - is take out the outlier risk everything
+186.20 - else kind of worked if and and again
+188.44 - these are 20 Delta strangles um so far
+192.60 - so good yep let's go to the next slide
+196.20 - so now at 35% and and the funny thing is
+198.92 - all these are winners but the sear is a
+201.04 - lot higher later on but with no fixed
+203.56 - eggs of time and just I said you could
+205.52 - probably look at risk versus reward and
+207.52 - say that one of the fixed times is going
+208.96 - to be better because because of the of
+210.80 - the sear but you can see here no fixed
+214.16 - exit time so far bat looks pretty good
+217.36 - yeah I mean noon looks pretty good if
+219.16 - you include sear if you don't include
+220.56 - sear no fixed exit time looks pretty
+222.56 - good I agree I'm surprised by that
+225.80 - actually let's go to next slide five and
+227.84 - a half to four and a half right now
+229.36 - that's how you agree um like
+231.40 - wholeheartedly you know what I mean yeah
+234.04 - and and what's interesting here is that
+235.72 - throughout this whole process this is
+237.08 - man is only up by you know 50% but your
+240.40 - gains are 100% so if you extrapolate it
+243.36 - out it's a big winner you want a
+246.04 - biscuit you want a
+249.44 - cookie oh where's my son we had such a
+253.00 - great show when you were gone and we
+254.72 - looked at things and agreed on them
+256.16 - because they were right there on paper
+257.84 - you want a cookie I'll get your
+259.72 - cookie um yeah same same situation for
+262.72 - this for this page here um noon works
+265.72 - but no fixed days this six out of seven
+268.16 - before you get to the takeaways would
+269.44 - you like before you get to takeaways
+270.72 - please don't put them up yet would you
+272.20 - like to admit that the bat was correct
+274.88 - here let's go to the
+276.88 - takeaways when placing zero DT trades at
+279.68 - Market open deciding to get out before
+281.48 - noon win or lose cut down on risk but
+284.68 - with a proportional drop in net average
+287.08 - profits exiting later however was
+290.12 - ineffective exiting trades at 2m did
+292.52 - little to reduce cvar but gave up
+294.68 - significant p&l compared to holding out
+296.40 - to the close so choosing the right
+299.80 - management techniques for your account
+301.20 - is a personal balance of risk and reward
+303.48 - but examining past by examining but by
+306.16 - examining past results hopefully it can
+308.44 - be an informed Choice the takeaway from
+310.80 - here was mechanics the takeaway is
+313.48 - mechanic noon wasn't bad but if you had
+316.68 - to hold to the close in this case it was
+318.96 - also pretty good you took more risk but
+321.00 - it was pretty good

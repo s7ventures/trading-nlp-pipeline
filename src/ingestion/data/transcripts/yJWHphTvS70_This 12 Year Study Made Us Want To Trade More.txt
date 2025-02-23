@@ -1,0 +1,440 @@
+0.36 - let's do it let's do everybody's
+1.68 - favorite occurrences what's An
+2.96 - Occurrence and why does it matter we
+4.68 - talk about occurrences a lot we talk
+6.40 - about why it is important to or why it
+9.20 - can be beneficial to achieve a high
+10.80 - number of occurrences for certain types
+12.28 - of strategies um but I wanted to talk in
+14.68 - detail about exactly what an occurrences
+16.68 - because I think there's some nuances
+18.28 - that could lead to an interesting
+19.36 - discussion oh man we to prove this in
+22.44 - advance we're going to have a lot of
+23.64 - arguments I think over what An
+25.28 - Occurrence is what could it possibly be
+27.48 - I don't know but let's get into it um so
+30.04 - we talk right about trading often and
+32.48 - because uh the really goal behind
+34.00 - trading often is achieving a high number
+36.36 - of statistical occurrences and the idea
+38.48 - behind that is that it reduces strategy
+40.28 - variance and increases the chances of
+41.80 - realizing long-term averages over time
+44.00 - so if you have a strategy that is likely
+46.52 - to have a positive expected value over
+48.52 - time such as a short option strategy
+50.24 - when we look at long-term pnls then in
+52.32 - order to most likely realize that um you
+55.48 - generally want to trade frequently and
+57.12 - over a long period of time but there's a
+58.76 - little bit of nuance ining exactly what
+60.72 - An Occurrence is and so today I wanted
+62.36 - to talk about it and why it kind of
+63.92 - matters yeah let's do it let's do it
+66.64 - let's go to the next slide okay so for
+68.28 - bit a bit of background um I'm sure you
+70.20 - guys are familiar with doing your
+71.52 - statistical analyses you guys are
+72.96 - familiar with your stats 101 right of
+75.44 - course we yes we live for them we live
+77.32 - for the stats we live for the stats um
+79.48 - but when we generally when we want to
+81.64 - analyze some kind of population or
+83.36 - system we typically want a large number
+85.16 - of measurements right from that system
+87.12 - we want a large sample size to reduce
+89.20 - sort of sampling errors and ensure that
+90.80 - the results are statistically
+92.24 - representative of that system right if
+94.00 - we're trying to measure kind of anything
+95.16 - any kind of system any kind of
+96.16 - population if we want to get
+97.68 - representative statistics we generally
+99.36 - want a large number of measurements from
+101.08 - that system right and so when we tie
+103.32 - this into strategies and sort of
+105.00 - evaluating how they perform in the stock
+106.64 - market which is a system right that
+108.48 - evolves in time we generally want data
+110.60 - that spans a long time and captures a
+112.44 - variety of market conditions which then
+114.64 - decreases the variance of those kind of
+116.64 - short-term fluctuations on those
+118.40 - strategy averages and provid a more
+120.32 - accurate estimate for sort of long run
+122.36 - expected Behavior which is kind of what
+124.00 - we're trying to do we're playing you
+124.92 - know long game right got it a lot of
+126.76 - these strategies so we generally want a
+128.72 - large number of occurrences that's kind
+130.16 - of rooted in this sort of statistical
+132.20 - basis for sort of trying to smooth out
+133.92 - our pnls over time law of large numbers
+136.20 - that is involved yeah exactly right T
+138.04 - Tony remember the law of large numbers
+139.96 - the central Li all our stat yeah we we
+143.36 - Tony and I probably talk Central liit
+145.28 - theorem once a day I I can imagine at
+147.44 - least it's on my mind all the time I
+149.28 - guarantee it um let's go on over to the
+151.44 - next slide so this is kind of our
+152.80 - background um so this right motivates
+155.64 - this trade small and trade off in Mantra
+157.72 - it's based on the statistical principle
+159.92 - and assumes that if we trade sort of
+161.56 - consistently small trades over a long
+163.52 - period of time that's going to reduce
+164.88 - p&l variance over time the variance of
+167.08 - different average outcomes um that sort
+169.16 - of arise maybe from the noise in the
+170.96 - market and brings the strategy average
+172.76 - closer to its expected value noting that
+174.60 - these averages tend to be positive for a
+176.36 - lot of the short-term or short premium
+178.16 - strategies that we look at right you
+180.08 - know we built our whole career around
+181.36 - this it's an important concept that's
+182.92 - why we built our literally built our
+184.80 - entire career floor training career
+186.48 - around this without knowing any of this
+189.20 - stuff right like without knowing
+191.36 - anything about law of large numbers or
+193.04 - Central limit theorem we would we we did
+196.68 - believe in the trade often NE trade
+199.92 - small but the trade often and and I'm
+201.80 - sure Blackjack Blackjack teaches a lot
+203.52 - of lessons as well not really because
+206.24 - does no blackjacket ways or lose your
+208.40 - discipline
+210.04 - it's actually a really fair point yeah
+212.00 - um yeah it's a really really fair point
+213.84 - I don't know I like I would argue I
+216.24 - would argue that in a casino with
+218.60 - Negative Edge trade small trade often is
+221.28 - what the casino wants you to do exactly
+223.12 - but not what you want to do but I think
+225.08 - just like that looking at it from the
+226.56 - context of that game helped me
+228.16 - understand this a bit more just CU like
+229.48 - markets are kind of volatile and crazy
+231.60 - and get yeah but that would that doesn't
+232.84 - help the consumer it doesn't no but it's
+235.16 - just more of a nice mathematical analogy
+237.16 - that I found interesting when I was
+238.32 - learning about this but you're right
+239.56 - that like it's specifically you want to
+241.12 - trade small and often when there's
+242.84 - evidence that there might be some kind
+244.32 - of long-term positive expected value for
+247.84 - that game right or at least not a
+249.64 - negative or at least not a negative one
+251.84 - and you know kind of gauging that is
+253.36 - there's a lot of nuances to estimating
+255.08 - that as well but for a lot of short
+256.48 - premium strategies we have done back
+258.28 - tests and there's evidence that this
+259.64 - might be true right so that's where this
+261.08 - trade small trade often comes from and
+262.40 - it's rooted in this kind of statistical
+263.88 - principle although these two guys
+265.36 - figured it out all on their own which is
+268.12 - awesome right but this is is all
+269.92 - background right so this all this is
+271.44 - kind of like where this kind of comes
+273.04 - from what the statistical justification
+274.96 - for doing this is right all make sense
+277.08 - yeah okay so let's go on over to the
+278.52 - next
+279.56 - slide so in this sense occurrence is
+283.44 - really considered any completed trade
+285.68 - with a specific underlying contract type
+287.76 - Delta expiration like 16 Delta 45 DTE
+290.60 - spice strangle you know placing one of
+292.56 - those trades every month or something
+294.00 - like that is monthly occurrence that's
+295.96 - what we are meaning when we say the word
+297.32 - occurrence it's a completed trade with
+298.88 - specific parameters with specific
+300.28 - underlying contract types Deltas all
+301.96 - that stuff but remember that when we
+304.80 - talk about achieving a high number of
+306.44 - occurrences this kind of underlying goal
+309.12 - is that we want to minimize the impact
+310.72 - of sort of short-term fluctuations on
+313.00 - our strategy averages right we're trying
+314.88 - to average over a bunch of different
+316.56 - market conditions a bunch of different
+318.28 - sort of time-sensitive risk factors
+320.60 - right so that kind of means that ideally
+323.80 - the occurrences that we're counting
+325.08 - towards a specific strategy should have
+327.16 - some variation in Risk profile that's
+329.96 - the Nuance that I think maybe we don't
+331.80 - talk about as much but one that I wanted
+333.12 - to kind of bring up here so for example
+335.12 - if you sell a 45 DTE 16 Delta spice
+337.20 - strangle at at the open and then sell
+339.24 - another one at noon that might not
+341.40 - really give you the impact of two truly
+344.28 - distinct occurrences right because the
+345.88 - market conditions may not have
+347.12 - substantially changed in between the
+348.96 - time when you open the first trade and
+350.00 - the time that you open the second trade
+351.68 - right that's possible but we do consider
+354.24 - those to be occurrences I know so
+356.24 - technically they are like gen in the
+357.96 - general sense these are just trades but
+360.12 - if the goal of achieving a large number
+362.00 - of occurrences is to kind of smooth out
+363.80 - our p&l over time you're not necessarily
+367.04 - going to get the impact of having a
+368.76 - distinct occurrence I guess I should say
+370.88 - um depending on how you space out your
+372.40 - traits there's a difference between um
+375.60 - so the way that I would explain it is
+380.44 - there's is is like how they explain
+382.96 - things on online there's oh God I don't
+386.24 - know if that's how you want to do things
+387.80 - no like there's certain number
+392.80 - of viewers yeah but then there's also
+396.64 - like unique viewers yeah so what you're
+399.40 - talking about is unique viewers
+401.92 - sure we refer to everything as kind of
+404.88 - total views sure because for Simplicity
+408.76 - sure we don't want to break everything
+410.56 - down like and have to put an aster next
+412.96 - everything so so we don't think of
+414.88 - things in terms of unique viewers we
+417.36 - think of things in total viewers sure I
+419.56 - I think that like I I completely
+421.60 - understand the perspective of Simplicity
+423.40 - and technically that is true if you put
+424.68 - on a trade and you close the trade like
+426.08 - that is An Occurrence but if your goal
+428.56 - is to achieve occurrences with the
+430.84 - specific intention of smoothing your
+432.52 - pnls out right yeah I understand I agree
+434.96 - with you understanding this Nuance of
+436.72 - what the kind of unique or distinct
+438.48 - occurrence is I think is important right
+440.80 - sense yeah let's go to the next
+443.36 - slide so under normal market conditions
+446.80 - right there is usually a strong ER case
+450.00 - for counting a trade towards a unique
+451.68 - occurrence for a particular strategy if
+453.16 - there's like a little bit of buffer time
+454.68 - that's passed between trades really what
+456.88 - you want between your occurrences to
+458.36 - kind of make a strong case for counting
+459.84 - them as unique is to have a change or a
+462.76 - shift in the risk profile of the trade
+465.36 - that doesn't necessarily need to have
+467.16 - like a long time to pass in order for
+468.76 - that to happen right because like if you
+470.20 - think about like a crazy Market um or
+472.28 - like you know when the vix contracts by
+474.04 - 20% in a day or something like that you
+476.44 - have gotten that shift in Risk profile
+478.84 - that can just ify counting kind of
+480.56 - unique occurrences differently but for
+482.44 - normal just regular typical market
+484.44 - conditions usually how we would kind of
+486.88 - like Define that or Define the strength
+488.36 - of counting something as An Occurrence
+490.04 - is the passage of time because a lot of
+492.12 - these risk factors are driven by
+493.60 - duration and changes in market
+495.24 - conditions which kind of take time to
+496.68 - propagate make sense yes okay so let's
+499.40 - go to the next slide
+501.96 - so so this was kind of an interesting um
+505.08 - study I was talking with Jacob about
+506.44 - this last night to get his thoughts I
+507.64 - was going to use Theta to kind of
+509.12 - measure this but um he's like yeah yeah
+511.20 - maybe just look at sort of like how the
+514.52 - p&l variance or the p&l standard
+516.12 - deviation changes depending on how you
+517.64 - spread your trades out in your data set
+519.52 - and I thought that was a great idea and
+521.04 - you kind of see something really
+522.12 - interesting here so what we're looking
+523.80 - at is we calculated the p&l volatility
+525.84 - so the standard deviation of pnls for 45
+528.28 - DTE 16 Delta spice strangles 2013 to
+530.92 - present these are held until expiration
+533.40 - um and then we measured how this
+535.52 - standard deviation changed depending on
+538.28 - if we opened the trade every day every
+540.16 - other day every third day Etc right how
+542.56 - we space those trades out so this graph
+544.68 - shows what those p&l standard deviations
+546.80 - are depending on how we space those
+548.48 - triangles out in their in this data set
+550.40 - basically um so what we found is that
+553.16 - the P pnl volatility ranged from 670 to
+555.56 - 710 when the strangles were opened
+557.20 - between one to five trading days apart
+559.64 - and then it dropped to 630 so pretty
+561.76 - significant drop when the strangles were
+563.48 - spaced out by an average of seven
+564.92 - trading days or nine calendar
+567.64 - days so what what are you saying with
+570.08 - this then let go to the next slide so
+571.84 - there is a reason for this this sharp
+574.12 - drop and that's mostly just because
+575.72 - there's just this natural shift in
+577.12 - expiration Cycles right after about
+579.44 - seven trading days or nine calendar days
+582.00 - on average right then the 45-day
+585.00 - contracts from the previous cycle were
+586.68 - close enough in that duration to count
+588.20 - as a 45 day occurrence if that kind of
+590.00 - makes sense right basically your
+592.28 - expiration cycle shifted up and now
+594.36 - something that was like 50 days is close
+596.00 - enough to 45 days to count as another
+597.52 - occurrence so this is just natural
+598.60 - shifts and expiration Cycles but when we
+601.16 - shifted over into expiration Cycles we
+603.56 - saw a pretty significant drop in the
+606.00 - variance of pnls which kind of suggests
+608.96 - that spreading your occurrences out far
+610.88 - enough to at the very least ensure that
+613.08 - each occurrence has a unique expiration
+614.88 - cycle might help with smooth out like
+616.68 - smoothing out these fluctuations these
+618.32 - p&l variances over time in regular
+620.68 - market conditions and that time frame
+622.88 - that kind of buffer time for 45-day
+624.64 - contracts is about nine calendar days at
+626.88 - least for
+628.32 - spy kind of make
+632.12 - sense yes does it I mean I didn't know
+636.80 - you would come up with nine calendar
+638.68 - days but sure it's kind of not that um
+642.92 - surprising but it is nice to have a
+644.68 - number which is nice to have a number I
+646.08 - agree it's kind of nice to have a number
+647.24 - like if you're like okay I want to space
+648.84 - out my trades to kind of if my goal with
+651.56 - getting these unique occurrences is to
+653.36 - smooth out my pnls over time how many
+655.40 - days should I I think that's interesting
+657.16 - cuz we've never done that before that's
+658.68 - a news there you're basically saying if
+660.20 - you have two of the exact same trades
+662.04 - nine days apart makes
+663.68 - them distinct and unique occurrences
+666.44 - they're P their risk profiles are
+668.08 - different enough right yeah the risk
+670.28 - profiles are different enough after nine
+671.68 - days that they're not the exact same
+673.00 - trade right so if I had 16 Delta spr 16
+676.28 - Delta spy strangles right and I'm trying
+678.52 - to get that duration to about 45 days if
+681.80 - I'm trying to put on you know however
+683.28 - many occurrences then spreading them out
+685.04 - by about nine days right that's yeah
+688.00 - that's that's the number yeah at least
+689.60 - from this one particular backg it's a
+692.08 - good thing to have Julia because we
+693.36 - never went like that we would always say
+695.52 - you know I don't know wait a couple of
+697.52 - days or next day or you know something
+699.48 - like that yeah yeah yeah we never we
+700.96 - never had any context around that which
+702.80 - is also fine I I got to emphasize that
+704.96 - it's also fine because remember we're
+706.36 - trying to we're trying to make sure that
+708.40 - we're getting different risk profiles
+710.56 - and that can happen over a day or two
+711.92 - days I just want to be very clear we're
+713.60 - talking about unique occurrences as
+715.44 - opposed to just occurrences we're
+717.20 - talking about unique occurrences yes
+719.36 - we're if the variable that we're trying
+720.68 - to optimize over is reducing smoothing
+722.60 - out our p&l over time and we want to
+724.72 - maybe use unique occurrences as a way to
+726.72 - do that then N9 days is about again
+730.28 - nuances here a lot of nuances here but
+731.96 - not on average about N9 days is how much
+735.88 - time to spread out occurrences by at
+737.60 - least according to the study okay yeah
+740.32 - yeah that's cool I like NE next slide
+744.80 - yeah okay so to conclude trade small
+747.40 - trade often is based on the sort of
+748.64 - statistical principle that consistent
+750.08 - small trades over a long period of time
+751.76 - reduces p&l variance from that might
+754.40 - arise from like the noise in the market
+756.24 - right but if the goal is to minimize the
+758.64 - impact of these short-term fluctuations
+760.76 - on our strategy averages then our trade
+763.00 - occurrences specifically unique
+764.72 - occurrences should ideally have some
+766.44 - variation in Risk profile and so one way
+769.08 - that you can do this obviously like
+770.68 - there's a lot of different factors that
+772.16 - can cause the risk profile of a trade to
+773.92 - change but in kind of like regular old
+776.28 - market conditions um one way to do this
+778.44 - is by spreading out occurrences far
+780.36 - enough apart to ensure that each has
+781.76 - sort of a unique expiration cycle and
+783.88 - that's about nine days nine calendar
+785.96 - days for 45-day contracts at least for
+789.08 - spy good it's something different I like
+792.44 - it kind of different yeah I don't want
+794.56 - to discourage people from occurrences
+797.28 - because like we count adjustments sure
+800.56 - you know we count reentering adjustments
+803.68 - opening closing whatever it is yeah we
+805.92 - don't do a lot of like one of the things
+808.64 - that Tony and I do that's that's
+810.48 - probably that saves us a lot yeah is we
+813.44 - don't like fall in love with the trade
+815.76 - to the point where we say okay I put a
+817.32 - trade on in the in the morning and now
+819.44 - it's a dollar better this afternoon
+820.76 - we're going to do more of it yeah like
+822.24 - we don't think like that I know that was
+823.64 - an extreme case for sure just because it
+825.68 - really happens for us either so I mean
+828.40 - we don't really come up with that too
+829.72 - much well this is this is something that
+831.56 - I got a lot of questions about like
+832.92 - every time we have a live show I get
+834.76 - questions about it um you know like
+836.48 - emails I get emails about it which is
+838.00 - like well why don't I just trade 10 puts
+840.08 - right that is that 10 occurrences and I
+842.48 - mean in a way that kind of is right but
+844.48 - like you're really not getting the sort
+846.28 - of like time diversification I guess I
+848.52 - should say from spreading those trades
+850.28 - out over time so if you put on a trade
+852.44 - every day and market conditions for
+855.08 - change for a bunch of different reasons
+857.08 - um those are occurrences as we Define
+859.36 - them but when we're thinking about using
+862.12 - occurrences as a tool to smooth out sort
+865.12 - of these short-term fluctuations then
+867.84 - you know getting kind of space or
+869.32 - getting a buffer time from those
+870.72 - fluctuations is something that's I think
+872.68 - kind of important to keep in mind but
+874.60 - again this is a huge simplification this
+876.16 - doesn't account for like all these
+877.52 - factors that you talked about like
+878.48 - adjustments and rolling and like crazy
+880.56 - changes in volatility in tray for
+882.64 - example like there's a whole bunch of
+884.08 - factors that affect this but this is
+885.36 - kind of more of just for regular old
+887.28 - market conditions for Market you know
+889.44 - index um options that kind ofu
+892.16 - understood we get it

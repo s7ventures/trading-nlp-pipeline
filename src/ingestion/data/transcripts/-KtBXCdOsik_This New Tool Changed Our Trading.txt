@@ -1,0 +1,386 @@
+0.08 - so this is a very exciting feature that
+2.16 - we have is this you excited tting is
+4.24 - this you excited because it's rare that
+6.12 - I see you excited like this you're very
+7.48 - animated this is well maybe three cups
+9.52 - of coffee too animated now this this is
+12.04 - good this is good news awesome show me
+13.84 - what you got okay so on the platform if
+16.68 - you look at Tasty tray.com
+19.32 - backest this is uh not not on the
+21.72 - platform correct on the on the sorry
+24.12 - apologize on the on the website yep you
+25.68 - got to go to the we yep you you can see
+28.16 - this the our new back testing
+30.04 - application that's available along with
+32.36 - this little animated video here kind of
+35.20 - explains what what's going on here now
+37.64 - if you log into the platform itself and
+40.84 - you go to my tastytrade.com which is the
+44.76 - webon version this is so can I back you
+47.36 - up for just a quick second so if I go to
+50.28 - the web platform I just go to tasty
+53.28 - trade yes webbased platform and put in
+56.92 - my username and password that I would
+58.76 - put in anywhere else before I'm going to
+61.28 - have this already in there it's only in
+63.52 - the web side of it I'm going to have
+65.08 - this already in there and I can just
+66.52 - click on back testing it'll bring me
+68.20 - right here correct that's right awesome
+69.84 - awesome so when you log in you'll get to
+71.40 - like a dashboard here or something like
+73.24 - this and you go over to trading and then
+75.16 - you click over to back test back testing
+78.36 - so so it's gonna have just to to back up
+80.32 - again so it's going to have all my
+81.32 - positions that I have in the desktop
+82.92 - version ex exactly the same exact thing
+85.84 - you can use webbased if you're not
+87.80 - downloading it uh onto a computer if
+90.20 - you're somewhere well overseas on
+92.36 - vacation maybe enjoying yourself or
+94.52 - something like that new computer that's
+96.08 - right or you don't can't afford internet
+97.80 - and you're at the library and you want
+99.44 - to use a web- based platform you could
+101.52 - do it that way right yeah I suppose yeah
+103.24 - 100% 100% okay great and you can use all
+105.52 - those back testing when when you log in
+107.12 - the first time you log in you're going
+108.12 - to have some compliance speak okay and
+110.92 - then you're going to get you you click
+112.28 - accept and then you open up to this page
+115.40 - okay so the first thing that you're
+116.92 - going to do if you want to back test and
+118.32 - back testing is just seeing how well
+120.36 - a position had worked over time okay or
+123.84 - historically had worked over time and so
+126.88 - let's click over here and say the the
+129.36 - symbol that we want so here I'm going to
+131.52 - just say spy now we have about 50 stocks
+134.76 - right now have about 50 stocks and we're
+137.08 - we're going to come out with about 200
+139.04 - in just a matter of just a couple weeks
+140.52 - expensive for the data we're providing
+142.44 - free right y 50 stocks just based on
+145.48 - liquidity yeah some of the most liquid
+147.64 - stocks you know the stocks that people
+149.64 - were inquiring about the most then you
+151.80 - can click down and you can choose the
+153.44 - interval okay so what I would do on
+156.44 - something like this is I would choose
+158.00 - something that's in a relatively short
+159.92 - time span okay just you can go all the
+162.16 - way back to actually
+164.00 - 2013 uh all the way at the bottom you
+166.44 - can say all the way to 2013 the data
+169.08 - that's available you can also choose
+171.00 - different scenarios like you know we got
+173.72 - one here energy sector collapse which
+175.80 - was 2014 to 2016 uh The post-pandemic
+178.84 - Surge 2020 to 2021 you can choose the
+183.52 - tech sector Mania of 2020 to 2021 you
+186.84 - know so you can choose different scenar
+188.84 - that's nice or you can choose like the
+191.24 - past and I'm just going to do the past
+192.68 - three years then there's some different
+194.28 - scenarios that you can choose here some
+195.92 - different trades okay so if you want to
+197.80 - choose just like I want to back test to
+200.00 - see how well a short strangle had worked
+202.40 - I'm going to go over here and I'm going
+203.28 - to click short strangle then we queue up
+205.92 - and we can see now also if if you want
+208.20 - to we can just create our own strategy
+211.88 - okay we can make adjustments to things
+214.20 - so here I'm going to just say 30 Deltas
+216.68 - 30 deltas and and this is choosing the
+219.28 - strikes based on Deltas okay so this is
+222.56 - the same as if you were in the trade
+224.08 - platform you go down and you're
+225.88 - selecting a strike and you look to see
+227.76 - what that Delta was it's just an easy
+229.96 - way to select strikes because you know
+232.56 - what was a few years ago a $300 stock
+235.40 - spy is now all of a sudden a $550 stock
+238.20 - so Deltas is how we're choosing then you
+240.32 - can choose your expirations now we tend
+242.52 - to talk about 45 days till expiration by
+245.12 - default it's 45 days but you can choose
+247.32 - this and you change if you you can
+248.68 - change it to 30 or or whatnot so you
+251.08 - have a lot of flexibility here now you
+253.20 - have some other options here you have
+255.16 - your entry conditions and you have your
+257.20 - exit conditions now these are the same
+259.44 - this is the same tool that we're using
+260.84 - in our our our research studies so
+264.48 - you're basically going to be allowed to
+266.08 - do what what we've been doing for the
+268.56 - past 10 years so here you go entry
+271.16 - conditions now you have some options
+273.08 - here two two options one is you can
+275.32 - either use the exact DTE so let's say
+278.76 - right now if you look at spy okay I'm
+281.64 - going to look at the options so if
+283.44 - you're looking at uh 45 days we actually
+285.76 - do have one at 45 days well yesterday we
+288.56 - would have had one at 46 days till
+291.08 - expiration well it wouldn't have come up
+293.04 - with the trade yesterday because we only
+294.56 - had one at 46 days till expiration we
+296.48 - had another one at 67 days till
+297.84 - expiration another one 39 days till
+299.24 - expiration so here it would would have
+301.40 - waited until today 45 days till
+303.60 - expiration so here we just say Okay I
+305.48 - want to use exact DT okay we can unclick
+308.68 - this and we can get more number of
+310.40 - observations how many would be the the
+312.76 - maximum it basically would just be doing
+314.24 - it every single day oh W so the idea
+317.00 - behind that is you're just going to get
+318.20 - a a nice distribution of of Trades you
+320.88 - can see what was the the best performing
+323.00 - the worst performing sure you can also
+325.12 - say I want to limit the number of active
+327.56 - trades okay so just like you would
+329.88 - normally trade here I'm doing a strangle
+332.80 - I want to see how well a strangle would
+334.80 - have performed or had performed
+336.72 - historically over the past three years
+338.52 - October 11th 2021 to October um 10th
+342.08 - 2024 so just like as of last week okay
+345.20 - let's say you know money's unlimited so
+347.72 - we're going to only do you know let's
+350.04 - say one trade so that means we're only
+352.24 - going to have one trade open and then
+354.08 - when the next one closes when that trade
+356.08 - closes then we'll open up another one
+358.00 - okay and we can also just take that off
+360.16 - and every 45 days or anytime 45 days is
+364.64 - is in the window it would just create a
+366.20 - new one okay now we have some exit
+368.24 - conditions that we can choose let's just
+369.56 - keep keep it all just you know just just
+372.36 - uh the default which is nothing is
+374.08 - selected okay so here it comes is up
+376.92 - it's doing the transaction and it is
+379.36 - showing the the the back test so that
+382.36 - orange line is the back test the orange
+384.72 - line is the p&l the profit and loss for
+386.88 - this short strangle strategy here can
+389.96 - see again the legs was selling one put
+392.24 - at 30 Delta 45 days till expiration
+394.48 - selling a call at 30 Delta 45 days till
+396.56 - expiration over the past three years
+398.28 - okay so this was a profit okay you can
+401.04 - see the profit at the bottom now it did
+403.60 - three years correct for three years got
+405.52 - it okay now we we can also make
+407.48 - adjustments to try to improve this and
+410.48 - so this is like this is what we consider
+412.68 - paper trading but paper trading 2024 not
+416.76 - paper trading of 20 years ago you know
+419.68 - get your results back instantaneous to
+421.44 - see how well a strategy performed over
+423.56 - time so here if you look you can see the
+425.36 - Buy and Hold strategy it did
+427.16 - underperformed the Buy and Hold strategy
+428.80 - but yet buying hold strategy would have
+430.64 - been holding up that money during the
+432.12 - entire time sure sure sure you can see
+433.96 - that the average profit and loss can you
+435.24 - manage early on this thing absolutely
+437.28 - you can see the Max draw down the return
+439.56 - on Capital used now if you want to go
+441.76 - down and look at the details you can see
+443.76 - okay for this we ended up with it wasn't
+446.48 - all that great
+448.12 - 55% of the trades were profit profitable
+451.08 - so we had 18 trades 10 were profitable
+453.00 - eight with losses uh you can see the
+454.60 - average return per trade you can see the
+457.32 - average premium collected over the past
+459.44 - three years you can see the premium
+461.28 - capture rate that means how much money
+462.88 - we tended to keep after everything said
+465.68 - and done and this does include the fees
+467.20 - and you can see the fees here were
+468.88 - $111 okay we can also look at the logs
+472.04 - and this is very this is very useful
+473.84 - because you can see okay on how were the
+476.48 - fees $111 well that that would be the
+479.60 - you get $1 of course and then you also
+482.04 - have your OCC fees you have your
+483.44 - clearing fees you have all those other
+485.04 - how many contracts you doing what do we
+486.44 - say here did we say number one that
+488.92 - would been one and then you have a buy
+490.48 - and a sell well that would be just one
+492.44 - and then you had two trades so you have
+494.44 - the fees over threeyear period yes oh
+497.40 - got it okay sorry yeah over yeah over
+499.44 - the entire three-year period this is not
+501.16 - right right so it's every 45 days minus
+503.80 - whatever manager what okay it's all the
+506.36 - continual roles absolutely got it okay
+508.88 - now if you want to look at what happened
+512.28 - okay October 12th 2021 this is the first
+515.48 - trade and we closed it out why did we
+517.20 - close it out well it was actually
+518.80 - exercise so it it looked like it had
+520.92 - gone through either the call or the put
+522.88 - here and so we got exercise that
+524.68 - position this one here expired and it
+526.96 - was a it was a profit but the first one
+528.68 - was a loss we had some losses here a big
+531.40 - loss here of 36% return on on investment
+535.32 - and you can just look down and you can
+536.52 - see what the fees were the the premiums
+538.32 - were then you go over here and we can
+540.12 - look at the orders okay so here's
+542.68 - another thing that's that's interesting
+544.08 - on this we're looking at it on the most
+546.32 - liquid part of the day which is at 2:45
+549.20 - that is the transaction time so we're
+551.28 - not looking at the close we're looking
+553.12 - at the bid offer spread and so all these
+555.40 - trades would be done at 245 you can see
+558.00 - what the the credit was okay the first
+560.12 - one we did it at 993 and we took it off
+562.68 - for this debit okay and you can look
+565.04 - down and you can see all the the orders
+567.48 - you can see the transactions too what
+569.04 - exactly went on you can also download
+571.24 - each one of these pages so if you're
+573.28 - kind of a ner you get really granular
+574.64 - here you could then you could take that
+576.48 - and put it into an Excel spreadsheet if
+578.00 - you wanted to absolutely cuz some people
+579.48 - have like really particular like what
+581.44 - they want to do they want to Overlay it
+583.08 - with some technical analysis you want to
+585.16 - see when the stock hit your number if
+587.04 - you put on this strategy or you want to
+589.20 - see if a stock had a you know a 1% move
+591.84 - in any one day you can do all that you
+593.72 - put on this strategy yeah it's very cool
+595.48 - you do all that this shows you the daily
+597.64 - settlement so this is just going to show
+599.16 - you every single day going back those
+602.04 - three years and it's showing you the p&l
+604.16 - for each particular day here it's
+605.72 - basically just showing okay 4% of the
+607.84 - the total has been done and you can see
+610.08 - more and you can you can show the
+611.92 - Thousand other days within this this
+614.44 - this test now let's go back and let's
+616.28 - let's just make some modifications to
+618.00 - this this particular trade so I went
+620.28 - back and I just said uh select go back
+622.52 - to the the previous new back test so
+624.88 - here we can say let's then exit at 21
+628.20 - days till expiration why do you do that
+630.60 - well we tended to show that historically
+633.24 - once you get close expiration your gamma
+635.64 - risk all of a sudden increases your
+637.00 - Theta Decay increases significantly but
+639.52 - your gamma risk starts increasing so we
+641.72 - say it tends to be you know at about 21
+644.32 - days till expiration calendar days is
+646.60 - when we kind of like to manage as kind
+648.12 - of a ballpark we can also say okay let's
+650.20 - take profits at a specific premium level
+654.40 - we can say let's add a stop loss here or
+657.12 - we can also say let's just exit at two
+660.12 - days into the trade and we can do that
+662.56 - here I'm going to just say 21
+664.48 - days profit is it pulling the prices at
+667.12 - the end of the day yes at 245 at 245
+671.20 - yeah at 245 is when it's it's it's it's
+673.96 - assuming that you're exiting these
+675.28 - trades so it's not doing this on the
+676.64 - close it's doing this at 245 which is
+678.40 - the most liquid part of the day so then
+679.96 - we can run this back test with those
+681.52 - adjustments and we can see how well it
+683.52 - did in this particular you know in
+685.64 - managing it it looked like it didn't do
+687.20 - as well but this is always going to vary
+690.04 - based on on what you're doing what your
+692.40 - expectations are so if you want to I I
+696.08 - thought I saw a feature in there when I
+697.28 - was playing around with it that and you
+698.88 - may have mentioned it for me if if you
+700.72 - did sure where you can close that order
+704.16 - and open another one when the when the
+706.24 - parameters hit right so if you want to
+708.48 - continually have this type of strategy
+710.72 - on like let's say you're managing at 25
+713.28 - or 35 or 50% or some number date and
+716.80 - time and put on another on AB exact
+719.56 - moment with new strikes or the same
+721.52 - strikes but they would be same Delta but
+723.88 - they would be new strikes obviously
+725.12 - because time has gone by or go out to a
+727.00 - different month is that correct or not
+728.36 - 100% so here this is what you do for
+730.48 - something like that okay you want to do
+732.24 - this set let's just change these uh
+733.88 - let's just change this up a little bit
+735.04 - let's you can get you can get really
+736.24 - crazy in you get a little bit intricate
+738.20 - as opposed to just looking at what a
+739.52 - strangle is going to do over 45 days
+741.92 - absolutely you know if you think that
+743.76 - the Russell for example you think the
+745.00 - Russell is is going to go off and is
+746.92 - just going to have this huge increase in
+748.88 - in in things or you think that there's
+750.96 - going to be some huge V SP Spike because
+753.04 - of things we can get granular in this we
+755.04 - can look to see what how a particular
+758.56 - strategy performed during your type of
+760.84 - Market scenario that you're either
+762.72 - expecting and then you can make an
+764.44 - assumption okay this is how it performed
+766.36 - in the past during during the uh let's
+769.12 - say uh during the in in the bare Market
+772.28 - okay you can see how well this strategy
+774.08 - worked on something like that we don't
+776.16 - have yeah yeah yeah we that just doesn't
+778.20 - happen at all not allow so here you
+780.60 - let's just say I only want to do this
+782.64 - every until there's up to five trades
+785.04 - and then I don't want to put on anymore
+786.32 - because you know money's limited and and
+788.32 - that's kind of realistic okay so then
+791.00 - you can just run this run this scenario
+793.48 - during that environment okay in this
+795.56 - strategy it it outperformed a buy and
+797.40 - hold you of course you know a Buy and
+799.48 - Hold would have lost money during a
+800.96 - during a decrease in the overall Market
+803.52 - but then there's things that you can do
+805.00 - I mean obviously if you think the
+806.24 - Market's going to decline you're not
+807.84 - going to be selling a strangle you would
+810.24 - maybe just sell a call so let's see how
+812.60 - well that would work during that type of
+814.32 - environment and see how well we can we
+816.24 - can make modifications to the the profit
+818.40 - and loss and the adjustments of the
+820.20 - strategies so you get your almost
+822.16 - instantaneous results here this is this
+824.08 - is back testing 2024 is this the most
+827.24 - trading is this the most advanced back
+829.84 - testing platform exists it is I believe
+832.52 - the most advanced free back testing
+834.96 - application that's on the market right
+836.68 - now has to be the newest technology
+838.68 - matter what I'd like to think so and
+840.28 - it's free it's it's free as long as you
+842.56 - have an account you sign up for an
+844.28 - account

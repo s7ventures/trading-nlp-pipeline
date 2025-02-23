@@ -1,0 +1,130 @@
+0.12 - probability of a touch puts in calls now
+2.40 - as you can probably guess probability of
+4.04 - a touch just means it's like it's like
+6.20 - two times Delta or two times probability
+8.36 - of expiring but as you can probably
+10.40 - guess probability of touching on the
+11.80 - call side is much better than the
+13.08 - probability of touching on the put side
+14.76 - because the market just has always been
+16.32 - going up for the last 15 years so this
+19.24 - study is going to be a little bit skewed
+20.76 - based on all the stuff that's been
+22.28 - happening but let's see so the
+23.88 - probability of a touch indicates the
+25.88 - chance that an options price will reach
+27.64 - its strike price before it expires that
+29.44 - means just touch it's useful for premium
+31.44 - sellers focusing on price movements
+33.32 - because what it does is it gives you an
+35.00 - indication of what the statistical
+36.36 - chances you're going to be challenged it
+37.96 - doesn't mean you're going to lose money
+39.16 - just means you're going to be challenged
+40.48 - it's generally about twice the
+42.28 - probability of the option being in the
+43.64 - money so if there's a 20% of a chance of
+46.08 - an option finishing in the money there's
+47.88 - a 40% chance of it touching I wish I
+50.84 - knew this when I was a Floor Trader
+52.40 - because I didn't learn this until Tom
+54.92 - Preston taught it to me about 25 years
+56.88 - ago and I never even knew there was such
+59.72 - a thing is probability of a touch when I
+62.00 - finally discovered it on the the first
+64.24 - time like like literally 24 years ago we
+66.80 - were building Theron he I said how come
+69.28 - I never knew about this before and he
+70.60 - looks at me and he goes and he just
+72.04 - shook his head like you pedestrian youal
+76.32 - yeah you neanderthal you knuckle dragger
+79.60 - you know like who doesn't know this and
+81.92 - I swear no Floor Trader ever knew this I
+84.76 - wish I had known this we've known that
+86.48 - probability of profit often overstates
+88.96 - the realized success rate is the
+90.84 - theoretical pot or probability of a
+93.12 - touch similarly overstated so to find
+96.44 - this out we analyze 45 day 10 Delta puts
+99.16 - and 10 Delta calls from the following
+100.92 - underlines spy Q's Apple Amazon
+103.96 - Microsoft all positions were held to
+105.80 - expiration the probability of a touch on
+107.64 - these 10 Delta options should be roughly
+109.56 - 20% I mean why did we pick 10 Delta well
+112.32 - we could have picked any Delta we just
+114.00 - started off with 10 there's no reason we
+116.08 - found that the actual probability of
+117.64 - touch for these puts is much lower than
+119.48 - expected
+120.40 - of course because all we do is go up
+122.08 - it's only half of the theoretical
+123.72 - probability of touch 10 Delta puts the
+126.04 - probability of a touch should have been
+127.16 - 20% of the time it happened it really
+128.92 - only happened 9% of the time in these
+131.56 - stocks you know over a 10year period
+133.64 - that's pretty good yes yes obviously
+136.00 - this is the whole argument for puts or
+137.92 - Schmutz and all you should ever do is
+139.72 - sell puts there's your argument right
+141.40 - there it's so easy never even went over
+144.52 - 9% should be 20% but there a big but but
+147.92 - but but um the actual probability
+150.44 - touched on the call side with the same
+151.92 - Delta that was much higher almost double
+153.76 - what we observed on the put side the
+155.44 - strong bull market in recent years is
+156.92 - the primary reason making calls more
+158.88 - likely to be breached than puts however
+161.24 - the average actual pot is still
+164.16 - consistent with the theoretical number
+166.12 - suggested so this came out to about 19%
+168.80 - touched and as you can see here spies
+171.48 - Q's were the biggest 25% Apple Amazon
+175.04 - and Microsoft nothing got blown out of
+177.08 - the water over 10 years but this is a
+179.04 - very interesting
+180.52 - study because you know the average was
+182.60 - 19% supposed to be 20 it's pretty damn
+185.20 - close the numbers work out yeah making a
+188.00 - strong argument for selling puts and
+189.64 - calls of course but so lastly we
+192.84 - analyzed the win rate of these positions
+195.20 - after the strikes were touched so on the
+197.88 - put side the variation in win rates is
+200.32 - slightly higher than on the call side on
+202.00 - the call side the rates across all
+203.48 - underlines were very similar win rates
+205.40 - on the put side are significantly Higher
+206.72 - by 21% compared to the call side due to
+208.72 - the strong market and quick rebounds
+210.52 - from Market bottoms so the 10 Delta puts
+213.80 - they
+214.96 - averaged in the success rate um you know
+218.88 - at expiration you know 60% 50% 60%
+223.36 - pretty much across the board pretty
+224.52 - close to 60% except for apple on the
+226.64 - call side it was much lower no really if
+229.40 - you looked at this you'd say well why
+230.88 - should I ever sell a call exactly
+232.64 - exactly the point that was making a
+233.84 - moment ago that's correct but you don't
+235.88 - always know that the Market's only going
+237.44 - to go higher okay trust me on this is
+239.16 - correct although might feel that way
+241.12 - yeah I mean it it definitely does feel
+243.64 - that way at times but it's not the way
+245.24 - it works puts have a lower actual
+247.84 - probability of touch than calls the
+249.24 - actual probability of touch on the put
+250.92 - side is roughly half of the theoretical
+252.64 - probability of touch whereas the actual
+254.72 - probability of touch on the call side
+255.96 - aligns with the theoretical number the
+257.64 - win rates after the positions were
+259.32 - tested is also higher on the put side
+261.24 - than the call side meaning you know this
+263.24 - is a master of the obvious that puts
+265.12 - worked out better than calls in the last
+266.96 - decade but things can change the next

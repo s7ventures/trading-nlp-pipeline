@@ -1,0 +1,171 @@
+0.08 - we we're calling this one exploring the
+1.76 - probability of touch across various
+4.44 - deltas and just remember what
+6.28 - probability of a touch is it's the
+8.48 - chance that between now and whenever
+12.88 - expiration is that the option that you
+16.04 - are trading touches the strike price and
+19.08 - the back of the envelope way to to look
+21.24 - at this is it's two times the Delta okay
+24.40 - so this is we don't have to make this
+25.92 - more complicated than it than it is it's
+29.08 - essentially probability of a touch is
+31.52 - two times the Delta but we decided to
+33.76 - take a look at probability of a touch as
+35.60 - it applies to calls and puts because in
+38.32 - Bull markets you know the the the calls
+42.68 - don't the the calls get touched more
+44.88 - often than the puts let's take a look as
+46.92 - we discussed that the realized
+48.84 - probabilities of touching strikes in
+50.64 - short option strategies is much lower
+52.16 - than the theoretical probabilities this
+54.32 - drops significantly when exiting
+56.40 - positions at 21 days this is a piece
+58.40 - that we did in the past so looking at 20
+60.56 - Delta options here theoretical chance of
+63.28 - a 20 Delta option touching puts and
+65.40 - calls is two times the Delta so the
+67.40 - Delta is 20 the theoretical chance of
+69.36 - touching is 40 on the calls 40 on the
+71.60 - puts if you hold it to expiration in the
+74.40 - last 10 years because we've been in a
+75.60 - bull market the puts actually only have
+78.24 - a 20% chance of touching the calls right
+80.44 - at 40 but if you manage early both sides
+85.24 - where you think the theoretical is 40%
+87.48 - it's really only 10 and 14 that's the
+89.72 - whole concept the whole reason we manag
+91.36 - early okay that's cool let's go to next
+94.08 - slide but to understand the
+95.36 - effectiveness of the realized
+97.04 - probability touch we can examine the
+98.96 - ratio between the realized probability
+102.12 - Touch of 21 days and the Delta which is
+104.12 - half of the theoretical probability
+105.44 - touch I know these a lot of numbers but
+107.24 - the reality is for options with a Delta
+109.80 - of 20 the ratio is
+113.32 - about3 on average so that's the coolest
+117.32 - thing that when you manage early the
+120.44 - ratio probability of a touch to it
+123.20 - actually happening to whatever the
+124.48 - theoretical is it's only about you know
+128.12 - it's less than a third of the time and
+129.76 - that's cool because remember the
+131.80 - theoretical is 40% it's only 11 and 14
+135.64 - so what happens here average is about
+137.40 - three 310 of a percent essentially
+140.64 - saying you know like there's no Edge in
+144.96 - trading but there are these mechanical
+148.36 - there's these things that you could
+150.24 - understand about the mechanics of
+152.04 - trading that are really interesting like
+154.68 - if I said to you the chances of the
+157.52 - market going down and touching a stock
+160.16 - at a certain level is 40% if you sell
+163.36 - the 20 Delta option but in reality okay
+166.16 - if you manage early it's only 11% You'
+168.52 - be like oh that's cool I'll do that AG
+171.20 - that's all it is so let's go to the next
+173.64 - slide um however focusing only on the 20
+177.60 - Delta might not provide the full picture
+179.56 - so this time we analyzed spy out of- the
+182.68 - money puts and calls across various
+184.20 - ranges from 10 to 45 which are the most
+187.00 - commonly used out of the money Deltas
+189.36 - all options were initiated 45 days and
+191.44 - exited 21 days let's take a look at the
+193.44 - put side first next slide please John so
+197.12 - when we start to break it down um the
+200.56 - probability of touch at expiration for
+202.64 - all the Deltas are lower than the
+203.92 - theoretical values two times the Delta
+205.76 - but when the positions are managed at 21
+207.52 - days the results improve significantly
+209.28 - across all Deltas so did it really
+211.52 - matter what Delta that we used and the
+214.68 - answer is no it actually didn't and if
+217.64 - you look at the actual probability of a
+219.28 - touch uh 21 days divided by the Delta I
+222.76 - mean these are in incredibly interesting
+225.84 - numbers because essentially all of them
+229.48 - are you know significantly below what
+233.00 - the expectations are and and by the way
+234.84 - we don't do 40 and 45 day options so so
+237.56 - really looking at the further out of the
+238.76 - money 10
+241.32 - yeah you know obviously the at the money
+242.88 - options are going to touch no matter
+244.32 - what there's a 99% chance um unless you
+247.60 - get the price action movement you know
+250.52 - yeah right right right off the bat 100%
+252.88 - yeah you're not going to sell a 50 Delta
+254.56 - option expect it to only hit you know
+256.68 - it's it's going to 100% it's almost like
+258.68 - when you put on a position you know your
+260.92 - p&l is typically zero or negative a few
+264.40 - pennies per contract you know rarely is
+266.80 - it you know POS the value of this study
+269.76 - the value of this study is for out of
+271.08 - the money options it's not for 40 and 45
+273.40 - and 50 Deltas it's only for out of the
+275.32 - money options y a graph makes it easier
+277.72 - to see the Improvement that expiring
+280.08 - that exiting positions early can bring
+281.72 - to our short putut strategy the trend
+283.84 - also shows that the gap between
+285.36 - theoretical and realized pot pot Narrows
+288.80 - as the Delta increases indicating a
+290.36 - higher risk of touching with larger
+291.68 - Delta options of course and that just
+293.88 - you know common sense but really where
+295.80 - we are in that 15 20 25 area you can see
+299.72 - the actual vers the um the theoretical
+304.28 - in purple the actual at expiration in
+307.56 - blue and then the and then green which
+310.60 - is when you manage early so now we look
+312.84 - at the call side which is going to be a
+314.04 - little bit different it's higher than
+315.72 - the puts but it also is surprisingly low
+320.96 - if you manage early so again what we're
+323.44 - seeing here is results that are very
+325.64 - similar and um you can see a 10 15 20
+330.24 - and 25 Deltas the the actual probability
+333.64 - of touch at 21 days to expiration is
+336.48 - still a very small percentage of what
+340.92 - the theoretical would be you know 3% 7%
+344.48 - 14 24 let's go to the next slide so we
+347.44 - found a similar pattern in the graph and
+350.68 - again positions become less effective
+352.68 - when you have the higher Deltas but the
+354.56 - lower Delta positions you can see how
+356.28 - effective they are just look at the
+357.32 - green compared to the theoretical and
+359.44 - the actual it's very impressive very
+361.64 - much got to manage early we've been
+363.76 - talking about this and you know uh you
+366.56 - you always remember when you don't
+368.04 - manage early you never remember uh when
+370.88 - you manage early and it works out it
+372.52 - would have worked out perfectly for you
+373.96 - so manage early I think managing early
+376.04 - 45 days we've said it numerous times
+377.88 - that's putting on trades that's been two
+379.92 - keys to flatten out my p&l curve 100% s
+383.48 - I'm going to take a quick 90c break when
+384.92 - come back we got wait one second oh I'm
+386.64 - sorry I did the takeway I apologize yeah
+388.76 - so for index options puts have a lower
+391.36 - actual pop not pop pot probability to
+394.64 - touch than calls across all Deltas
+396.80 - managing the positions at 21dt
+398.80 - significantly reduces the chances of
+400.36 - being tested strikes compared to doing
+402.04 - nothing on average the realized
+404.52 - probability to touch on the put side is
+406.04 - slightly smaller than the Delta while it
+408.72 - is almost the same on the call side and
+411.08 - the difference between put and call
+412.56 - sides become marginal when the positions
+414.92 - are managed so manager

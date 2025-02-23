@@ -1,0 +1,317 @@
+0.20 - welcome to option trades today I'm Tony
+2.36 - the bat Batista right here in downtown
+4.24 - Chicago right here in the Batcave we're
+6.48 - going to come at you with a nice little
+8.00 - trade on 1010 the Tesla numbers coming
+12.72 - out today after the close but I'm not
+14.40 - going to go to Tesla today I'm going to
+16.12 - do something a little bit different I'm
+17.24 - going to show you something I think is
+19.28 - very interesting and a nice way to look
+20.92 - at volatility in oil related products
+23.76 - hey first let's take a quick look at the
+25.28 - market Ean S&P is down
+27.92 - $13 NASDAQ down $36 and change Russell
+33.08 - the weakest of the group down almost 1%
+36.00 - continues to be weak uh down $21 in
+38.76 - change and the Dow down 120 I said just
+42.36 - now that the that the Russell is the
+44.00 - weakest of the group and uh comparing to
+46.40 - some of the other uh indices if you take
+48.88 - a look here at the Russell Ean S&P graph
+52.72 - you'll notice here that it's at an
+54.96 - extreme it's about as low as it's been
+57.04 - that's a onetoone relationship between
+59.48 - being long Russell short &ps or long the
+63.84 - Russell stocks versus short the &ps if
+68.00 - you change this uh to NASDAQ it will
+70.20 - show you the same thing for SL NQ if you
+74.24 - look at that you'll notice that it's
+75.60 - almost at the same extreme not quite as
+77.80 - large I don't have that position on I
+80.00 - wouldn't look to put that position on
+81.52 - but it is interesting for people that
+83.56 - are looking uh for divergences in
+86.52 - markets that might think hey maybe it's
+88.76 - time to buy the the Russell here a
+90.36 - little bit I personally don't think it's
+92.88 - that time but there is something to take
+95.12 - a look at in oil oil up a137 today and
+99.60 - you'll notice that the ivy rank is quite
+102.00 - High here at 89 it's about as high as
+104.16 - it's been in recent uh history here as
+107.44 - the product is pretty much range bound
+111.12 - uh especially the higher end up around
+113.92 - 82 now oil always has a call skew to it
+119.36 - and what's call skew let's take a look
+121.08 - at these November options we like to go
+123.40 - closest to 45 days the mechanics don't
+125.96 - change whether you're trading uh Futures
+128.96 - options or Equity uh options now let's
+132.32 - take a look at what I was just saying a
+133.44 - moment ago about you know closest uh
+136.40 - call skew how far you can go from the
+138.16 - closest to at the money let's just say
+140.16 - 74 a half or 75 uh is the at the money
+144.92 - uh strike right now even though you're
+146.28 - looking at the future at 74 that's the
+149.12 - one you're Trading remember when you're
+150.88 - trading Futures options you're always
+153.28 - trading the future that's represented in
+155.52 - your months you'll notice right here
+157.00 - this future the Z4 is trading at $74 the
+161.96 - future that's going to go away going to
+164.16 - go away in about a week which is still
+166.20 - the front month and that's reflected up
+168.04 - here is trading
+169.84 - 7470 so remember the product that I'm
+172.64 - going to be trading with 36 days to go
+175.40 - is trading at
+176.80 - $74 not 7472 a little Nuance about
+181.28 - Futures and Futures options make sure
+184.08 - you're trading the future that
+186.12 - represents or you're looking at the
+187.40 - future that represents the month that
+189.44 - you're in you can notice as oil gets
+191.80 - further uh out in time it's actually
+194.52 - getting lower usually you would see
+196.84 - something where the front month is lower
+198.40 - and the back month has more cost to
+200.20 - carry I don't think that's an anomaly
+202.52 - for any type of future Direction but it
+205.08 - is something to check out and notice
+207.52 - when that's happening another thing you
+208.60 - should notice about is skew let's get
+210.40 - back to that so that the at the money is
+211.92 - 74 that's why this line is right here at
+214.48 - 74 and not up at 74.5 or closer to 75 if
+219.28 - it was showing you that the future was
+221.36 - trading
+222.96 - 7472 showing you that the future is
+225.00 - trading closer to 74 that's what that
+227.48 - line is here in the middle that's the at
+229.48 - the money strike so let's go $10 up just
+232.84 - to take a quick look and you'll notice
+234.80 - that that option is trading around $160
+237.52 - on the offer now let's try to see if
+239.56 - there call or putc you go down from 74
+242.84 - down to 64 all I'm doing is going an
+245.52 - equal distance away from the at the
+247.44 - money all things being equal each strike
+250.64 - has the same probability of success to
+252.56 - it but look the 84 is trading for 82
+257.60 - cents that means that the I'm sorry the
+260.40 - 64 is trading for 82 cents that means
+263.68 - the 84 call option has twice as much
+267.68 - almost twice as much premium even though
+270.12 - it's an equal distance away which means
+272.00 - that Delta is going to be larger too you
+274.88 - notice the Delta here is 24 on the call
+277.92 - and the Delta here on the put uh is
+280.68 - closer to 15 14 15 so as volatility
+284.92 - expands options get more Delta to them
+287.32 - that's why your Delta will change when
+289.12 - you have a position on that's equal
+291.12 - distance away like a strangle when
+292.96 - volatility expands and contracts your
+295.40 - Delta's Dynamic good way of looking at
+297.52 - it what am I going to look to do here
+299.44 - well I'm going to show you one more
+300.84 - thing first I'm going to go to
+304.08 - ovx
+305.64 - semicolon
+307.88 - CGI okay you'll notice that there's no
+310.20 - options for this because this is just a
+311.92 - crude oil um VIX Index what you could do
+316.20 - is look at what that's been doing that's
+317.96 - really just showing you what the
+319.88 - volatility and now that I just showed
+322.20 - you what skew is what the skew and
+324.00 - volatility is doing in oil ovx is oil
+326.96 - don't ask me the CBOE came it's the cbee
+329.36 - product I don't know why they name it
+330.48 - like this but that's how it is you'll
+332.04 - notice it's about as high as it's been
+334.16 - yeah it was higher day two or three but
+336.20 - you'll notice if you're looking for a
+337.68 - median or mean price you would say it
+340.00 - would be around 34 or 35 so there's an
+342.32 - awful lot of call skew here uh there's
+345.84 - typically always call skew in oil but
+348.76 - now that call skew is at an extreme I'm
+351.12 - going to take advantage of that by going
+353.16 - back to the well in for
+355.44 - slcl I did a 1x two ratio spread a few
+358.56 - days ago we were able ble to take it off
+360.12 - for a $100 Pro uh product uh profit I'm
+362.96 - going to go back to that well today take
+365.44 - on a little bit more risk because when I
+367.60 - placed the other trade on in oil uh
+369.72 - about a week or so ago we had more time
+371.64 - we able to go further away from at the
+373.24 - money and I was able to go a little bit
+374.92 - wider but I still like this trade
+377.16 - because it has that high implied
+379.24 - volatility and skew I'm going to go to
+381.60 - around the well I said the 15ish Deltas
+384.52 - where I normally like to go I'm going to
+385.68 - go about to the 18 Delta that's taking a
+387.52 - little bit more risk especially with the
+389.12 - product being a little bit higher
+390.52 - getting a little bit closer I'm going to
+391.84 - buy one of the 88 uh calls I'm going to
+395.60 - sell two two of the 94 calls now I
+401.12 - personal preference typically like to
+403.52 - trade the whole numbers um even though
+406.96 - the the the stri the there it's three
+409.20 - cents wide here it's three cents wide
+412.08 - here it's 3 cents wide here two cents
+415.56 - wide here two cents wide here if all the
+418.16 - options have the same uh with to the bid
+421.24 - ask then I'll trade any one of the
+423.04 - strikes I'll trade the 88 and a halfs or
+425.16 - or 88s or or or 93 and a half doesn't
+428.40 - make a difference to me but when the
+429.68 - options get a little bit wider the whole
+432.44 - number options typically have tighter
+434.56 - markets so as a little kind of thing I
+436.80 - like to go into a little bit of a tip a
+438.96 - little bit of a of a um tighter Market I
+442.68 - got filled at 37 cents I believe let me
+445.56 - take a look if that's 100% true go here
+448.36 - to the follow page
+450.72 - go to Bob the trader with my smiling
+452.88 - face and I did get filled at 37 cents I
+455.68 - gave you a little bit of a description
+457.04 - here going back to the well see what I
+458.92 - did there a 1 by two
+461.76 - omnidirectional bearish ratio spread
+464.92 - with massive call skew I just showed you
+466.84 - that massive call skew but if you don't
+468.52 - want to wait to see this podcast maybe
+470.28 - get a little hint to where I'm going on
+471.72 - what I did and that's always the price
+473.56 - there you can click duplicate this trade
+475.40 - right on the T trade platform it'll go
+477.28 - right out there and populate it for you
+479.20 - um but let's go back to that trade page
+481.72 - if I can in CL just to take a quick look
+484.28 - at some of the numbers 97% pop got to
+487.84 - like that $30 a day in Theta Decay
+491.24 - because um this is remember this is
+493.28 - almost 10 times the size it is 10 times
+496.32 - the size of a Uso so a 1 by two ratio
+499.48 - spread here is really like a 10x $20 10x
+502.88 - 20 ratio spread contract wise in Uso so
+507.24 - this is not for everybody even though it
+509.52 - only uses $3600 let's call it $3,700 in
+513.04 - buying power your max profit could be
+516.60 - $637 let's just round down to $6,000
+519.88 - because you are long this 1 by two long
+523.28 - 188 call short two 90 calls 94 calls and
+528.32 - if not a great probability but if we got
+531.52 - a pin in oil at 94 and you're still in
+534.44 - this trade at expiration which you would
+535.84 - not be able to because you're going to
+537.12 - want to get out of this trade a week or
+538.40 - so before uh expiration plus with span
+541.96 - margining your buying power is going to
+545.20 - increase the closer you get
+547.96 - to uh expiration in time and closer you
+552.16 - get to expiration in at the money so if
+556.80 - the stock was trading at 94 this buying
+559.00 - power can go up you know twofold at
+561.28 - least I could check that out for you in
+562.92 - just a quick second I did this the last
+564.48 - time but let me digress for a moment
+566.28 - it's $66,000 because if this product was
+568.80 - at expiration
+570.12 - at 94 just a sco under this 88 call
+573.84 - would be worth $6 that
+576.04 - $6,000 this $94 calls that your short
+578.60 - the two of them would be worth nothing
+580.52 - you sold it for
+582.16 - $370 not 37 that's $370 that's like
+586.64 - selling something in the equities at
+590.04 - 3.70
+592.20 - $370 um you can do this in an IRA
+595.32 - account if you're so inclined to trade
+597.64 - oil product there on the trade platform
+600.32 - I don't think you can do it if you're
+601.64 - using a different platform I don't know
+603.52 - of any other platform that allows you to
+604.80 - do it an IRA account to be short naked
+607.40 - calls you could be short naked calls in
+609.52 - an equity in tasty trade uh as long as
+612.40 - you have the amount of buying power that
+613.72 - the trade requires let me take a look uh
+616.52 - what else a Delta here basically Delta
+619.08 - zero I say this is omnidirectional uh
+622.24 - bearish spread because you'll notice
+623.72 - this green line gets to my break even my
+626.88 - break even is a little over $100 here
+629.48 - now oil hasn't been over $100 and hasn't
+632.28 - moved that much in a in a in a 36 day uh
+636.04 - period here this would be about the
+637.12 - biggest move we had from 66 uh to just
+640.68 - about 80 that's uh $14 there and we're
+644.48 - outside of that
+645.84 - $14 uh range here so I mean to me uh
+649.96 - that's why the trade has a high
+651.48 - probability success $97 but you know
+654.28 - what nobody knows anything and nobody
+656.96 - wants to sit there with with you know a
+658.80 - couple of ,000 loss while you wait for
+660.76 - this to be profitable unless you have
+662.52 - the amount of buying power uh in your
+664.36 - account here as the product goes higher
+666.20 - you'll notice that the mid price gets uh
+668.28 - gets bit up a little bit so maybe you
+669.96 - can get filled uh another $10 better
+672.96 - than I what's my PR profit Target on
+675.16 - this I don't know uh 100 bucks 150 bucks
+678.48 - 200 bucks 300 bucks something like that
+681.28 - uh this should contract nicely uh if oil
+685.20 - goes lower that's why I said
+687.40 - omnidirectional bearish spread because
+689.88 - there's no risk to the downside in oil
+693.48 - oil can go to any price to the downside
+695.64 - obviously you just have out of the money
+697.60 - calls so that's going to keep you um
+700.68 - profitable there let's take a look at
+702.24 - what I just said a moment ago uh how
+703.92 - your buying power can change on that $6
+706.80 - spread I'll just go to an extreme here
+708.80 - I'll buy one of the 60 calls I'll tell
+711.52 - sell two of the 606 calls just to
+714.64 - simulate that for you that $3,000 in
+717.24 - buying power goes up to4 $1,000 so this
+721.04 - is a big Traders product this is not for
+725.64 - the faint of heart or for those in a
+727.80 - smaller account at least not in my
+729.64 - opinion I'll go to at the money buying
+731.40 - the 70s and sell the 76s one by two I'm
+735.12 - just simulating that same $2 uh WID
+738.28 - spread and you'll notice that the buying
+739.88 - power goes up to about
+741.64 - $10,000 from the $3600 that we had
+744.44 - before so remember your buying power is
+747.40 - definitely going to change with span
+748.68 - margining it's a phenomenon to Futures
+751.56 - options it does not happen in equity
+754.64 - options so if you're not familiar with
+756.16 - that please do some research on your own
+758.24 - check our Learning Center out um or just
+760.80 - learn it about it by yourself or put it
+762.52 - on very small as long as you have the
+764.36 - buying power and your account can fit
+766.20 - that size remember our rules about
+768.16 - staying small in your account but you
+770.04 - know what we take all size accounts here
+772.00 - at tasty trade so please open Move
+774.52 - transfer bring your account to tasty
+776.00 - trade Hey listen help us keep this
+778.04 - content free everyone to use no matter
+780.52 - what brokerage firm you're using by
+782.48 - supporting tasty trade and helping us
+784.88 - keep the lights on here

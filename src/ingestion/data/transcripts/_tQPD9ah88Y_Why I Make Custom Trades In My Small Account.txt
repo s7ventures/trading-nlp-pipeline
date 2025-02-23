@@ -1,0 +1,172 @@
+0.20 - what's up everybody Welcome to the life
+2.60 - cycle of a trade the series where we
+5.08 - break down the thought process behind
+7.44 - trade entry trade adjustments and
+10.44 - closing order in this video we are going
+13.28 - to cover a custom trade a put ratio with
+16.56 - a naked
+17.53 - [Music]
+20.04 - call one of the stocks I'm going to take
+22.36 - a look at here um is ccj it's one that
+26.00 - we've traded a couple times it's near
+28.24 - the highs that it's been trading at
+30.64 - um it's had a really nice run to the
+32.20 - upside trading about $60 here it's
+34.24 - actually just off of the 52 we high as
+37.60 - you can see on the right side quick menu
+40.76 - uh details over here when we look at the
+43.32 - stock it's got an iv rank of 16 so it's
+45.60 - not super high but you have to keep in
+47.64 - into account that volatility is at lows
+50.60 - the vix itself at 13 volatility features
+53.96 - 1430 so very low implied volatility
+56.96 - across the market uh for me here I'm
+60.04 - looking to lean a tiny bit short on this
+62.24 - position uh what I was thinking was this
+64.84 - is a perfect uh stock to be short
+67.40 - premium in for me naked short premium
+69.72 - because it uses a small amount of
+71.92 - capital even doing a strangle here uh
+74.80 - only used about 750 bucks in buying
+77.32 - power which is perfect for my portfolio
+80.40 - size and given that I'm collecting a $3
+83.48 - is credit this would set up perfect I'm
+86.52 - going to get a little bit spicier with
+88.52 - this position and do a a short call with
+91.80 - a put ratio spread so when you have a
+95.00 - strangle your risk profile and we'll see
+98.40 - this on the curve view uh you have risk
+100.92 - on both sides of the stock right your
+102.76 - your your risk is one contract on either
+105.04 - side what you can do with a with a naked
+108.68 - position is instead of just having the
+111.56 - the sh put you can make this a put ratio
+114.00 - spread and still synthetically be just
+117.64 - be short just one contract on the
+119.96 - downside so we look at this risk profile
+123.24 - it leans you a little bit you have an
+125.16 - extra Delta to the downside here you can
+127.20 - see I'm short 30 Deltas on this position
+129.92 - and that's because I'm buying this put
+132.56 - spread basically for a small debit here
+135.60 - on this trade you can see I'm selling
+137.32 - this at 186 that means I'm buying this
+141.08 - put ratio spread I'm buying it for 50
+143.44 - cents uh net net I'm selling some
+145.96 - premium here $230 odd here on the
+149.24 - downside but buying this at 310 it gives
+152.00 - you a little bit of of more room to the
+154.76 - downside and also a higher profit
+156.76 - potential because you have that embedded
+159.16 - put spread here but you'll see it only
+161.20 - uses a couple dollars more in buying
+163.44 - power relative to the strangle and
+165.64 - that's just because my my break even on
+168.04 - the upside is two or $ three do closer
+170.36 - so you have a little bit more risk on
+171.64 - the upside so the buying power is just a
+174.16 - tiny bit more than what it would be with
+176.00 - the regular naked
+177.80 - strangle both trades have positive Theta
+182.04 - um you know they've their short
+183.72 - volatility this trade though itself has
+186.72 - a higher profit potential because you
+189.56 - have that $5 wide put ratio spread where
+193.32 - if the stock were to drop to 55 you'd
+196.24 - have $5 of value via this put spread
+199.68 - plus uh the1
+203.16 - 38 uh in credit that we're collecting on
+206.08 - the entry here so you got a little bit
+207.76 - of an extra bang for your buck here on
+209.92 - the move to the downside so we're going
+211.56 - to get this trade on 136 we'll see if we
+214.96 - get filled here 134 Market's moving a
+217.40 - little
+219.52 - bit
+223.68 - 124 God this thing is mov in stock is
+226.80 - dropping a little bit and I have short
+228.28 - Delta which means that the price of this
+230.00 - is going down as we
+232.24 - speak 119 come
+236.76 - on there we go we got filled at 119 on
+240.16 - that short call put ratio
+245.92 - spread all right so we've got an
+247.96 - interesting position here to manage
+249.72 - we've got our ccj put ratio with a naked
+253.32 - call so if you remember when we put this
+255.20 - trade on synthetically the risk was very
+257.52 - similar to a strangle uh we had the
+260.16 - short 65 call we did the
+264.48 - 6055 put ratio spread so we had an extra
+267.64 - put on the downside so we had two two
+270.20 - puts here one of them is covered by this
+272.44 - long option so you're naked the
+275.12 - 5565 strangle is synthetically what
+277.68 - you're naked here with an added long put
+280.52 - spread and that long put spread Hedges
+282.80 - you to the downside of course but also
+284.84 - adds potential added profits to the
+287.84 - position so when we put this trade on we
+290.12 - did it for a a nice
+292.00 - $119 credit what has happened along the
+294.88 - way is that our call here has lost
+297.16 - basically all of its value and this put
+299.40 - rtio IO has actually gained value so if
+302.48 - we look at this put ratio right now this
+305.60 - put ratio is trading for 21 C Credit
+308.40 - around that maybe a little bit higher
+310.44 - actually because the bid out spreads are
+311.96 - are a little bit wide and that's because
+314.16 - this spread between the 60 and the 55 is
+317.00 - worth $5 the stock right now is trading
+321.28 - uh right around
+323.04 - 5158 here uh which means that this
+325.96 - spread net of where the stock is trading
+328.08 - at would trade at a dollar 50 it's a
+330.76 - $150 and change above the 50 strike
+334.04 - which is what this position would trade
+335.72 - at at expiration if the stock was right
+338.32 - here where it's trading right now we can
+340.64 - even see this on the analysis mode so um
+344.68 - when we jump over to the curve view our
+346.28 - risk profile we have the Theo expiration
+348.88 - here this is at expiration our profit
+352.04 - here as you could see would be somewhere
+354.08 - around uh $200 in change which includes
+357.68 - the credit that we have on the original
+359.84 - entry
+360.76 - the19 on Entry plus $150 to $170
+365.32 - depending on where the stock is marked
+367.20 - that would be our ma our profit based on
+369.28 - where the stock is trading at right now
+371.92 - so the trade has gone completely our way
+374.96 - and one of the interesting things with
+377.12 - this sort of short premium position is
+378.88 - that you actually put the trade on for a
+380.52 - credit and if you're if you're right
+382.72 - where you get some time Decay some
+384.84 - volatility contraction a little bit of
+387.00 - of a price move in your direction if you
+389.04 - get some of those factors right you can
+391.08 - actually close this trade for another
+393.88 - credit so credit open Credit close very
+396.56 - interesting position so we're going to
+398.56 - go ahead and close this position we're
+399.92 - going to buy back the call we're going
+401.60 - to sell out of the 60 strike put and
+404.68 - we're going to buy back our two short 50
+407.64 - puts uh 55 puts here and we're going to
+410.64 - try and do this for for a decent credit
+413.08 - here 15 cents uh which will be our our
+416.36 - closing price here so let's try this at
+418.44 - 15 at 15 s see if we get
+423.24 - filled no fill
+429.04 - there all right so we got filled on that
+431.52 - position for an 8 cent credit so we
+433.84 - opened that position at $119 credit
+436.28 - closed it an 8 cent credit we were able
+438.56 - to get that credit for the close because
+441.08 - of that put ratio spread gaining value
+443.80 - even though it went in the money $127
+446.80 - profit nice trade free an out on Capital
+449.32 - as well

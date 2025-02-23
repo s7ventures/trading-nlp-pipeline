@@ -1,0 +1,242 @@
+0.24 - welcome to the life cycle of a trade the
+2.68 - series where we break down the thought
+4.76 - process behind trade entry trade
+7.24 - adjustments and closing order in this
+10.16 - video I'm going to show you how to turn
+12.12 - a broken wi butterfly into a risk-free
+16.21 - [Music]
+17.92 - butterfly Tesla okay big move today I'm
+21.24 - looking at broken wing butterfly on the
+23.64 - upside here on the call side do this for
+26.28 - a small credit plays up to about the 295
+29.44 - level which is basically the highs that
+31.00 - we've seen 265 is my first long strike
+34.16 - I'm selling two of the 280s and I'm
+36.92 - buying one of the 305 so it's a 15 by
+41.52 - 25 long to short spread so you have
+44.60 - $1,000 in Max risk here um small 37 Cent
+49.28 - credit so you have no risk to the
+50.92 - downside but really just playing for
+52.56 - like you know a little bit of a v Crush
+54.28 - maybe a little Bounce from here see what
+56.76 - happens
+58.88 - [Music]
+61.00 - Tesla has fallen out of bed over the
+62.96 - last couple weeks here uh we put on a
+66.32 - butterfly on the second so uh just to
+70.00 - give you an idea of where the price was
+71.36 - it was about
+72.88 - 243 A5 uh when we traded this originally
+77.48 - the stock is now 219 and change so it's
+80.84 - down about 20 points we had a wide
+84.20 - butterfly we're using a little bit more
+85.88 - Capital than we usually do we were long
+87.96 - the 265 short two of the 280s long one
+91.64 - of the 305s so we're 15 points wide on
+95.52 - the long spread on the short spread we
+98.40 - 25 points wide so we were using about
+101.32 - $1,000 in buying power we did this at a
+103.96 - 37 C Credit it's actually marked right
+107.36 - now at about a 30 C Credit as well to
+111.80 - close this position and the reason that
+114.00 - is is because these far this far out of
+116.84 - the- money call spread has gotten so
+118.48 - cheap this long option is actually
+120.32 - holding a little bit of value so this is
+122.28 - a rare case or I shouldn't say rare case
+124.92 - but one of the cases with a broken wing
+127.68 - butterfly is when you enter the trade
+130.04 - you can do it for a credit and you can
+132.32 - also close it for a credit and that that
+135.00 - is possible because of that closer at
+137.76 - the money long spread that holds some
+139.52 - sort of value relative to that that
+142.56 - wider out of the money short spread
+144.72 - which loses a lot of value so that's one
+146.92 - thing we could do we could close this
+148.28 - out for another 30 Cent credit or so and
+151.40 - take $66 in profit or 65 depending on
+155.00 - where we get filled on this position one
+156.80 - of the interesting things here is that
+158.28 - we do have earnings coming up so the
+160.28 - earnings are on the 23rd here so just a
+162.64 - couple days from now um and into that
+166.40 - earnings you obviously have heightened
+167.92 - implied volatility you big potential
+170.52 - moves especially in a stock like Tesla
+172.48 - you can see some wide price action in
+175.12 - Tesla so we can actually buy in this
+177.40 - risk and give ourselves a little bit of
+179.24 - a shot at some added profit if something
+182.60 - wild were to happen so from other broken
+185.92 - wing butterflies and ratio spreads that
+187.48 - we've done before the way that you would
+189.80 - do this would be to buy in the risk so
+191.80 - if you remember 15 points wide on the
+194.68 - long spread that means and we can
+196.72 - actually see this on the analysis mode
+198.48 - here so we'll go to the ad expiration
+200.72 - toggle this on and zoom out a little bit
+203.88 - so you can see my risk is right up at
+206.60 - about 95 right because I have that 15
+209.28 - point yde long spread my Max profit
+211.72 - would be you know a big $1,500 profit
+215.64 - obviously a low probability of that
+217.28 - happening if we do get right up to 275
+220.00 - and change uh but my risk is here at 295
+224.44 - so if I can buy in my risk to 295
+227.68 - meaning sell out of this 305 and buy
+230.96 - this
+231.76 - 295 I'll free up all that Capital that
+234.64 - I'm using the th000 in capital and I'll
+237.08 - essentially have this butterfly on this
+239.80 - equal with butterfly the 265 280 295
+244.40 - I'll have it on for a very um uh for a
+248.44 - pretty decent credit actually I mean
+250.20 - when you think about it about 15 20 cent
+252.28 - credit net credit on the position with a
+255.00 - shot at up to $1,500 now when you
+257.60 - quantify this shot let's just get filled
+259.60 - just to get this uh get this on the
+262.12 - board here we'll try and get filled at
+263.36 - 14
+267.44 - cents let's try 15 all right so we got
+270.52 - filled at 15 cents so you can see my
+272.32 - average trade price 22 cents so I've
+274.84 - locked in 22 cents of profit that is on
+278.16 - the table that's mine I'm keeping that I
+280.52 - freed up all the capital so I'm not
+282.08 - using any Capital to hold this
+284.44 - position now the stock is trading all
+287.16 - the way down here 220 so it's a very low
+289.44 - probability of actually hitting this but
+291.32 - how can we actually quantify the
+294.16 - probability so when you look at the
+296.36 - position you can actually use the
+298.20 - probability of touch but if you want and
+300.68 - that that is toggled here um but if you
+303.64 - want to do just kind of a back of theand
+305.56 - Traders a Trader hack for probability of
+309.04 - touch on a strike you just take twice
+311.84 - the Delta right so you double the Delta
+314.28 - a Delta of 11 would give you somewhere
+316.48 - around a 20 or 22% probability of
+319.44 - touching
+320.72 - 265 in the next 25 days at some point
+324.64 - within that duration so it gives you
+327.08 - about a 20ish % probability of reaching
+331.88 - some sort of added value on this
+333.72 - position right now it's trading at 44 C
+337.44 - so if I were to close this position I
+339.12 - would I would take 44 cents in credit or
+342.08 - around that if I got filled there uh I'm
+344.56 - leaving that on the table in exchange
+347.80 - for up to $1,500 in potential profit at
+352.08 - a 20% or so probably less uh probability
+357.00 - of actually hitting any of that profit
+359.32 - so I'm leaving that on into earnings the
+362.68 - stock has been flying around uh 265 is
+366.52 - Within Reach of where we were just a
+368.76 - couple weeks ago so hopefully we get a
+372.24 - little bit of a pop on earnings the
+373.92 - stock gets somewhere to like 240 250 and
+377.52 - I'll get hopefully about a dollar or two
+380.24 - out of this position so I'm risking 40
+382.64 - cents for a two or3 potential profit at
+387.36 - about a 20% probability so
+390.08 - uh a long shot but a shot we're willing
+392.64 - to take for a little Johnny account to
+394.36 - make some big
+397.13 - [Music]
+398.24 - bucks all right time to close one of our
+400.96 - more interesting positions our Tesla
+404.48 - broken wi butterfly we turned into a
+406.84 - risk-free butterfly gave us a shot into
+409.52 - earnings here Tesla just reported
+411.72 - earnings yesterday after the close $36
+414.96 - move I think it was probably two or
+416.44 - three times the expected move here into
+418.20 - earnings if I'm if if I remember
+420.00 - correctly the expected move was
+421.40 - somewhere around $4 or $15 so it's
+424.12 - definitely exceeded the expected move
+426.04 - here into earnings we're now back to
+428.24 - where we're Trad where we were when we
+430.16 - started this position you've had the
+432.16 - benefit of some time Decay and you also
+433.92 - bought in that risk so just to to um see
+437.40 - what that uh profit was or that added
+440.76 - value that came from buying in that risk
+442.92 - it actually netted us another 70 cents
+445.52 - because we did this trade at 15 cents so
+449.20 - uh or about 65 cents is our net on that
+451.92 - position 60 to 65 cents so we've got
+456.16 - this equal with butterfly now the
+457.72 - question becomes a million-dollar
+459.48 - question is do you hold this position or
+461.84 - close it and to be completely honest the
+465.16 - answer is totally subjective now I have
+467.88 - no principal risk on this trade I've
+469.96 - booked 22 cents in profit covers all the
+472.96 - commissions fees all the other stuff uh
+475.48 - that some of the people in the chat get
+478.08 - uh excited about but
+480.36 - for me in such an extreme move my
+483.48 - thought is that you know what I take the
+485.24 - profits I take the money and run I've
+487.56 - added into this move $160 of value is
+491.92 - basically trading at at you know pennies
+494.20 - before the earnings so I basically got
+496.64 - all of this overnight and for me I think
+499.28 - I take the profits here it worked out
+501.28 - perfectly if you wanted to hold this and
+503.56 - take the shot into the next 22 days uh
+507.44 - until expiration totally just
+509.48 - justifiable and and your risk moving
+511.84 - forward is just the profits you have on
+514.04 - the table so you have to keep in mind
+516.00 - you have no principal risk left in the
+517.96 - trade you can't lose anything you you
+520.36 - put out originally as risk but you have
+523.96 - 180 some odd dollars in value that's
+526.84 - sitting on the table that you are
+528.72 - risking through the rest of the duration
+530.64 - if this stays out of the money so for me
+534.36 - I'm always looking to take profits
+535.84 - somewhere between $50 and $200 on most
+538.52 - my trades this is the higher end of my
+540.16 - trades uh in terms of profits I'm ready
+543.36 - to take the money and run move on to
+545.56 - something new we can even do something
+547.48 - in Tesla into the future so to Route
+551.44 - this order uh you'd be buying or you'd
+554.04 - be selling out of the 265 buying two of
+557.48 - the 280s and then selling out of the 295
+561.04 - you can see we we've got a mid price
+562.88 - it's probably about 20 to 30 cents wide
+565.52 - here depending on where we get filled um
+567.88 - and you know the spreads are moving
+569.44 - around with the stock moving a little
+570.72 - bit as well let's see if we can get into
+572.52 - even 160 and we we'll work our way down
+575.16 - from
+580.08 - there we'll go to
+582.36 - 158 all right so we closed that we
+584.64 - actually got price improved on that
+586.04 - order to 159 so we ended up closing out
+589.60 - of that butterfly we we started with the
+592.12 - broker wing butterfly 37 we bought in
+594.56 - the risk at 15 cents and then we closed
+597.16 - today for a credit of $159 which Nets us
+600.68 - $181 on this trade uh in just about 20
+604.72 - or so days 21 days so a nice little
+607.48 - trade here in the books earnings were
+609.64 - perfect for us they bailed us out they
+611.16 - got us extra profits on that trade so
+613.28 - it's a perfect uh execution there we'll
+615.84 - see if we can get some more into the
+617.32 - future if you want to catch these trades
+619.28 - live tune in to Johnny trades every
+621.68 - Wednesday at 9:40 a.m. on tasty live
+625.00 - peace
+627.20 - [Music]

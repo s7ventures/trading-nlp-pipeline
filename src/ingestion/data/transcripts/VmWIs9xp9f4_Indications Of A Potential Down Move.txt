@@ -1,0 +1,212 @@
+0.04 - we did a piece the other day talking
+1.68 - about skew and one of the things that we
+3.60 - learned is that the higher the skew the
+5.76 - more prepared people are for a big down
+8.04 - move and we always thought that skew was
+11.08 - more of a red flag suggesting that
+13.00 - you're probably going to get a pretty
+14.36 - big outlier move coming soon and what we
+16.88 - learned is that it's actually that's
+19.20 - probably not the best way to describe
+20.64 - skew the best way to describe skew is
+22.28 - that um it's really a measure of how
+24.68 - many people are buying protection that's
+26.28 - why the out of- the money options are
+27.64 - bit up so high and right now um
+30.96 - me just get you the latest quote skew
+33.72 - closed 16278 I don't think skew updates
+37.40 - intraday if I'm I don't think it goes
+39.68 - tick for tick right doesn't it just I
+41.08 - don't believe so I believe you're
+42.00 - correct I think it's like once a day or
+43.68 - something but 162 78 it's a it's a CBOE
+49.48 - proprietary U measure of out of the
+51.96 - money put and call buying um it's very
+54.28 - high right now so we wanted to take a
+56.56 - look and see when markets have big
+57.96 - outlier moves where's the skew trade now
+60.88 - based on what we used to think we
+62.12 - thought okay probably means the skew is
+64.08 - pretty high but based on our research
+66.48 - from Wednesday the AR we're going to
+67.64 - make the argument that it might not mean
+69.32 - that it might mean Skuse actually a
+70.48 - little bit lower you ready for this I am
+72.92 - let's do it let's do it so while in the
+75.16 - black shs model log returns are normally
+77.76 - distributed in reality the distribution
+80.44 - is non-normal with a heavier downside
+83.24 - tail for which means negative skewness
+86.28 - so the skew is an index published by the
+88.44 - sibo which follows similar methodology
+91.08 - to the vix but with a higher waiting for
+93.28 - out of the- money option prices so a
+95.40 - high skew means that the market is
+97.56 - pricing in a larger probability for
+100.08 - large downside moves which is what we
+102.24 - have right now but have large skew
+105.12 - values been able to anticipate outlier
+107.92 - events yes or no bat not a trick
+110.68 - question yeah I I mean a high skew I'm
+114.56 - I'm gonna I'm GNA say we have more when
+116.20 - when skew is low obviously that would be
+117.88 - my my way of answering this okay that's
+120.04 - Fair um let's go to the next slide Beth
+123.88 - hang on one sec let's go next slide
+125.68 - perfect so using the SPX the vix and
+128.92 - skew we did we looked at closing dates
+131.60 - from 2011 to present so 13 years worth
+134.08 - of data we looked at when the SPX had
+136.60 - outlier down moves based on the vix dve
+139.84 - expected move at the 30-day and the
+142.80 - 7-Day and the overnight moves okay so 13
+145.84 - years of 30-day 7-Day and overnight
+147.48 - moves for big outliers to the downside
+149.64 - and we examine the skew value
+151.00 - immediately preceding these outlier
+152.72 - moves as a baseline over the life of the
+156.00 - skew its mean and median values were 130
+159.88 - and 128 respectively significantly lower
+163.28 - than the 162 right now now again I need
+166.28 - to preface this by saying there's not a
+168.40 - crazy number of cases to look at I mean
+171.60 - there there's enough to do this study
+174.04 - but it's not like we had an abundance of
+176.24 - cases so although it's statistically
+178.72 - significant the one thing that when I
+180.84 - was talking to Jacob about this last
+182.48 - night the one thing he mentioned to me
+184.04 - was he goes Tom yeah but this is on this
+186.84 - is every you know there's not a million
+189.48 - times when we had these huge down moves
+192.40 - so it's hard to you know create enough
+194.40 - occurrences but the mean value and the
+197.24 - median values were 130 and 128 we're
+199.92 - currently at 162 does that mean we can't
+201.88 - have a down move now of course not it
+203.84 - just means we're more likely to have a
+205.08 - big down move if the skew was a lot
+206.68 - lower let's take a look well doesn't it
+209.08 - didn't make sense to a week ago no it
+210.96 - didn't I I would have said skew is high
+213.44 - I I would have said here is how I always
+215.52 - answered I would have always said that
+217.20 - if skew is high the at the money options
+220.64 - are are are high but the out of the
+223.64 - money options in relationship to the two
+225.88 - are a lot higher meaning that they're
+227.80 - buying protection now if you look at
+229.48 - that the other side of the coin of that
+231.28 - would be that a lot of people are buying
+233.20 - protection which would then if you look
+235.36 - on the other side of that mean that you
+236.88 - know when we expect it to happen ain't
+238.80 - going to happen and that's the point
+240.44 - that I think Jacob brought up which is
+241.76 - pretty cool let's take a look at some of
+243.40 - the research here so in the 30-day
+246.08 - outlier moves and and this is two times
+249.12 - the expected move okay um two and a half
+251.88 - times the expected move and three times
+253.52 - the expected move we had to we had to
+255.32 - come up with like research that shows a
+257.16 - bigger than normal move right we're
+258.44 - looking for outliers so two times two
+260.80 - and a half times and three times the
+262.12 - expected move which only happens
+264.80 - theoretically let's say 2% of the time
+266.92 - for two times and the actual frequency
+269.12 - is one one and a half% so when we look
+271.88 - at this the numbers here suggest that
+275.28 - the skew in those cases is always around
+278.24 - 130ish okay the mean the mean skew
+280.80 - proceeding the median skew proceeding is
+283.24 - you know 128 130 132 for two times two
+286.44 - and a half times and three times you
+287.60 - expect the move those are all close
+289.20 - enough to say you know 130 is your
+290.92 - number and that's two to three times the
+292.92 - expected move that's on a 30-day outlier
+295.80 - move the projection so let's go to the
+297.52 - next one and look at um I think we did
+299.88 - seven days yeah and then we did one day
+302.20 - on the 7-Day expected move the chances
+304.52 - of a 2% two times the expected move you
+307.40 - know 2% 3 times
+310.00 - .13 and when you look at the actual you
+312.72 - know the number the one thing that jumps
+314.48 - off this screen at me was that three
+316.92 - times the expected move the actual is
+319.96 - three times what it is in the
+321.28 - theoretical where everything else is
+322.88 - actually a little bit lower but the me
+325.00 - the skew proceeding is 128 so there's no
+328.80 - cases yet where a 162 skew led to kind
+332.88 - of a crash type thing it's always the
+335.48 - 130 or anything above that 130ish
+337.96 - average right right but the the third
+340.64 - line here where it says three times
+342.00 - expected move do you see where it says
+343.24 - 0.13 theoretical and the actual is 4.4
+347.68 - that's the only thing that jumps out to
+349.56 - me on this screen that's other than skew
+351.52 - is that if you're looking for a big
+353.04 - outlier move you're you're more likely
+355.24 - to get it at like three times than you
+357.04 - are at two times you know two times is
+359.12 - usually less than theoretical three
+360.52 - times it's greater than theoretical
+362.04 - let's go to the one day and see if that
+363.56 - Trend continues next slide Beth the one
+365.84 - day so in the one day yeah it's the same
+368.48 - it's the same kind of thing the skew the
+370.84 - skew actually drops even more we went
+372.80 - from 130 on the 30-day to 128 on the 7
+375.40 - day to 127 or 126 on the one day so all
+380.84 - of these SKS are significantly lower
+383.88 - than where we are now before you see a
+385.32 - huge down move the realized um frequenc
+389.80 - these down moves is always going to be
+391.92 - less than the theoretical except when
+393.36 - you get to the three times the expected
+394.92 - move I mean it's a very interesting
+397.72 - study from the standpoint of you know
+400.92 - one learning that the the greater than
+403.80 - expected moves happen with less
+406.40 - frequency until you get to the real
+408.56 - outliers which are like three times the
+410.40 - expected move those are how play how can
+412.44 - get play for something that happens less
+413.72 - than 1% of you can't you can't that's
+415.88 - the whole point you can't but it happens
+417.76 - more than it should theoretically that's
+419.12 - all they're saying
+420.08 - but all of these have a low skew so
+422.00 - we're nowhere we're kind of not in that
+424.76 - range right now
+426.88 - um let's that's why the market was able
+429.84 - to come back you mean the S&P are up 21
+431.80 - let's go to the next slide so we'll look
+433.92 - at some of the takeaways here because
+435.84 - this is um I think we covered them but
+439.44 - let's just let's just make sure so the
+441.44 - vix and normal distribution statistics
+443.72 - did a good job of anticipating 2X and 3X
+446.24 - expected moves but severely
+448.12 - underestimated the frequency of three
+449.84 - times skew values that preceded outlier
+452.52 - downside SPX moves appeared very typical
+455.56 - slightly lower than usual when looking
+456.96 - at short-term outlier moves and while
+459.20 - the skew represents how prepared Market
+461.32 - participants are for outlier down moves
+464.04 - even at its most extreme they remain
+467.72 - unlikely um and realized outliers
+470.64 - frequently come when they are least
+472.36 - expected I think that's the main
+474.20 - takeaway when the skew is lower that's
+476.80 - when you get your outlier moves and the
+478.92 - really bad outlier moves happen more
+481.28 - often than they should the're really bad
+482.88 - ones every all the other ones happen
+484.80 - less than they should

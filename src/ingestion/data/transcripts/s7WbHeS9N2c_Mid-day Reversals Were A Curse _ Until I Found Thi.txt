@@ -1,0 +1,123 @@
+0.04 - the likelihood of reversal from open to
+1.88 - close I mean could you think of a better
+4.12 - day to do this Market
+6.60 - measure well I could bit of Wishful
+9.20 - Thinking is what I'm hoping for yeah
+11.28 - yeah well wishful thinking we'll take it
+13.16 - the likelihood of reversal from open to
+14.76 - close let's see if it covers what we're
+16.16 - doing today a fun study we wanted to do
+18.52 - is to see what the probability of
+20.04 - closing the opposite of how we opened
+23.40 - today so today we'll do just that using
+28.24 - the concepts of conditional
+30.20 - probabilities I mean it's nice that we
+32.32 - have a big up opening today so we can
+33.96 - see hey what are the chances perfect
+36.88 - example so we looked at 2005 to present
+40.76 - open and closing prices we computed the
+42.84 - conditional probability Matrix for the
+45.60 - probability of closing up or down given
+48.48 - a day where we open up or down so in
+50.92 - other words we open up close down or
+52.96 - open down close up all right got it got
+55.88 - it using a conditional probability table
+58.08 - we calculate the probability that spy
+59.68 - will close up given that it opens up and
+63.88 - we found now remember this just we went
+67.28 - back and we used 20 years worth of data
+69.44 - using the conditional probability table
+71.32 - we calculate the probability that spy
+73.24 - closes up given that it opens up we
+76.28 - found that to be around 70% closes up
+80.08 - after opens up wrapped right around 70%
+83.56 - here are the useful conditional
+86.20 - probabilities derived from the table the
+89.16 - chance that we close down given that we
+92.36 - open up this is what we're talking about
+94.28 - today
+95.56 - Tony is
+97.88 - 35% the chance that we 65% chance that
+101.32 - it doesn't happen that standard
+103.08 - deviation hold on the chance that we
+105.60 - close down given that we open higher is
+109.60 - 35% that's where we live today the
+112.32 - chance that we close down given that we
+114.24 - open down is 58% the chance that we
+117.24 - close up given that we open down is
+121.08 - 42% and the chance that we close up
+123.40 - given that we open up is 67% how long
+126.52 - was this study for I'm I'm sorry I
+128.68 - missed it was it just this year no no no
+131.76 - this is five years five years all right
+133.72 - so we've been in bull market for pretty
+135.36 - much five years but I get it yeah and
+137.16 - then it's and that's what it shows there
+139.36 - because you would think they would be
+140.28 - almost symmetrical right with a little
+141.76 - bit of positive drift yeah because
+143.40 - what's interesting about these what's
+145.04 - interesting about these statistics here
+146.64 - if you just had these statistics this
+149.36 - all you ever had was just this statistic
+152.04 - M you would be
+153.36 - like why AR we always
+155.92 - long yes yeah because the chance that we
+158.92 - close down given that we open up is 35%
+161.00 - but the chance that we close up given
+162.08 - that we open down is 42% which means
+164.68 - there's 7% Edge in that right and the
+167.36 - chance that we close down given that we
+168.64 - open down is 58% but the chance we close
+170.56 - up given that we open up is
+172.32 - 67% then you'd want to be long yes yes
+176.84 - of course so why am I short because you
+179.36 - like a chane
+180.48 - because I like a challenge exactly hold
+183.44 - on let me just put an order in really
+184.80 - fast because I like a challenge Mr
+186.84 - Batista because I like a challenge
+190.20 - that's correct that's correct we are
+191.20 - buying back some horrible sales of some
+194.24 - Nasdaq futures which is good notice the
+196.96 - Chan of closing up regardless of how we
+198.60 - open is higher than closing down and
+200.72 - that's because we have positive drift
+204.04 - these are the conditional probabilities
+205.76 - of a reversal situation the chance that
+208.84 - we close down given that we open up is
+211.04 - 35% the chance that we close up given
+213.00 - that we open down is
+215.48 - 42% using the figures on the last slide
+218.36 - we see that is roughly 60 66% more
+222.32 - likely that we will not have a reversal
+225.40 - on a down opening and 91% more likely we
+228.92 - will not reverse on an up opening than
+232.20 - reverse on each respective up or down
+235.36 - opening God this is so much fun the
+238.20 - these kind of
+240.88 - that
+242.16 - um these kind of Statistics they explain
+245.44 - a lot of my bad
+248.60 - trades yeah because you're not paying
+250.68 - attention here that's what that's what's
+252.96 - happening yeah they explain a lot of my
+255.24 - bad trades let's go we spend a lot of
+257.08 - money to figure this stuff out you're
+258.36 - not using it so takeaways given that we
+260.80 - open a certain direction from
+262.72 - yesterday's close the chance that we
+265.12 - Clos in the same direction we opened is
+267.84 - roughly 1.6 to 1 .9 more likely than
+271.88 - closing in the opposite direction
+273.48 - because of positive drift like Tony
+275.64 - mentioned the chance of closing higher
+277.72 - on any given day is higher than the
+279.12 - chance of closing lower on any given day
+283.04 - MH it doesn't hurt that we've been in a
+285.68 - bull market I just want to add that of
+287.76 - course not right yeah in a bare Market
+289.92 - you're gonna go don't they ever tick up
+292.52 - that's like telling us you know that's
+293.88 - like a fable or a story because we don't
+295.56 - see that ever

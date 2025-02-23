@@ -1,0 +1,131 @@
+0.36 - welcome to the life cycle of a trade the
+3.04 - series where we break down the thought
+5.00 - process behind trade entry trade
+7.40 - adjustments and closing order in this
+10.68 - video I'm going to show you how to place
+12.88 - a synthetic covered
+17.60 - call all right so today we're going to
+19.64 - take a look at Intel we've got the e-
+21.52 - mini S&P 500 futures up almost 100
+23.72 - points here nice little rally after PPI
+25.68 - and CPI um we've done a couple synthetic
+29.40 - long stock positions cover calls and
+31.92 - whatnot um I think today is we could
+35.48 - expand on that again with an in the-
+38.68 - money short put an in the money short
+40.80 - put is synthetically the same as a cover
+43.48 - call so when you sell a put uh that is
+46.12 - in the money that Delta the 64 Delta is
+49.32 - the same that you would have if you were
+51.28 - long stock and short the call and we
+54.04 - could see this on the analysis mode when
+55.64 - we go and take a look at the risk
+57.92 - profile when you do a cover call your
+60.24 - long stock so you have uh risk all the
+62.92 - way to zero and you have capped upside
+65.24 - via wherever that call is so this the
+67.96 - same risk profile would would exist if
+70.44 - you are long the stock and short the 21
+73.24 - strike call now you can see the position
+75.32 - uses about $385 in buying power this is
+78.72 - um in a margin account so you get extra
+81.36 - leverage which is which is great if
+83.68 - you're okay with the risk to the
+84.92 - downside just to show you what the
+86.80 - difference would be so if you are long
+88.48 - the stock and then if if we go to the
+90.44 - table here we sell the 21 strike call at
+92.80 - 90 you're going to use almost
+95.00 - $881 in buying power now when we go look
+97.68 - at this risk profile again you can see
+100.80 - it's the same exact thing as we had with
+102.80 - that short put you have a capped upside
+105.40 - potential uh above where the short put
+107.88 - was here above where the short call is
+110.24 - the same amount of risk to the downside
+111.92 - as you would with a cover call has the
+114.04 - same amount of risk on the position has
+116.52 - the same amount of reward because you're
+118.40 - selling the same amount of EX trans
+120.08 - value the short call is is going to have
+123.00 - the same amount of extrinsic value as
+125.24 - the in the money put and it'll act
+127.60 - exactly like a cover call this selling
+130.12 - the put allows you uh as well to wheel
+132.80 - into the stock so if you want to buy
+135.24 - shares of the stock this will be
+137.52 - synthetically shares of stock at
+139.64 - expiration uh with a nice basis
+142.16 - reduction here of about 90 so uh we're
+145.08 - going to go ahead and place this order
+146.64 - we're going to do a synthetic cover call
+148.80 - an in the money short putut we're going
+151.48 - to drop it down to 243
+154.58 - [Music]
+156.04 - here all right so we got filled at 243
+159.40 - that puts us at about 90 cents or so in
+162.40 - extrinsic value that we can capture to
+164.84 - the upside if the put expires out of the
+166.88 - money we can make up to
+169.28 - $243 that's the credit we sold it for if
+171.92 - it expires out of the money uh you want
+173.68 - to stick around though cuz we're going
+174.88 - to manage this along the way
+180.36 - all right we've got a quick one to to
+183.32 - manage here our Intel uh in the money
+186.04 - short putut synthetic cover call
+187.96 - position e- minis are up 32 uh we had a
+190.96 - great entry on this Intel position
+193.12 - obviously didn't plan that out but it
+194.76 - happened very quickly so perfect for us
+197.28 - uh we traded this on the 15th uh so it's
+200.12 - basically marked the low or near the low
+202.44 - of where intel was trading when we were
+204.24 - looking at the trade uh it was a a
+207.16 - synthetic cover call so um in the money
+210.72 - short put is the same as being long the
+213.52 - stock and short that same strike call so
+216.32 - our position when the stock was trading
+218.44 - about 19 selling the 21 strike in the
+221.32 - money put was synthetically long stock
+223.84 - and short the 21 strike call uh same
+227.72 - exact risk
+229.04 - profile same exact Max profit Max loss
+232.92 - everything is the same uh the benefit in
+236.36 - a margin account to this sort of trade
+238.92 - is that you you get some added leverage
+241.36 - with the in the money short put so short
+243.84 - short options and options in general are
+247.24 - generally margin to about 20% is of
+251.16 - whatever the notional value is so the 21
+253.24 - strike uh in the money put would be
+255.84 - margined at somewhere around three4
+258.36 - $500 if you buy stock you're margined at
+261.80 - 50% of the notional value of that stock
+264.60 - so a stock trading at $20 is would use
+266.84 - about $11,000 in capital just to belong
+269.52 - that stock so we had the same risk
+272.60 - profile as a cover call but but at about
+275.52 - half The Upfront cost to hold that
+278.48 - position and that's really the biggest
+280.56 - benefit to this sort of strategy now we
+283.68 - got this very quick move we had this
+285.92 - short put it's now out of the money we
+287.76 - sold this at
+289.52 - $243 uh it's now trading at A113 we had
+292.92 - a really nice move on some news or
+295.08 - potential takeover you know rally in the
+297.68 - market who cares what the news is this
+300.12 - position is a nice profit so we're going
+301.68 - to take our money and run here and free
+303.92 - up that Capital so we're gonna route
+306.00 - this at
+306.96 - a13 um not much more to say it was a
+310.52 - good trade uh it's time to go on this
+313.16 - position
+314.68 - so there it is $114 uh $129 profit on
+319.84 - about 400 bucks in buying power so
+321.80 - really really nice return on Capital
+323.48 - there over just a couple of days uh
+326.60 - perfect trade Take the Money and Run
+328.60 - when it comes to you

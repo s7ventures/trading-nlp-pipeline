@@ -1,0 +1,203 @@
+0.08 - we're calling this segment revisiting
+2.92 - rolling zeros um we talked about the
+5.88 - zero DTE uh I'm sorry we talked about
+8.76 - the the one day um vix today was trading
+13.28 - at the lowest level we've ever seen it
+14.84 - under six 595 or something and we talked
+18.56 - about you know this is not a great day
+20.44 - for zeros we also talked about funny
+22.84 - thing is we also talked about um rolling
+25.64 - zeros in the past and which what that
+28.00 - means by the way is if you put a trade
+29.72 - on and it's a zero DT trade and you make
+32.72 - some money on it and you or and you want
+34.28 - to just push it further along or you
+35.72 - want to change the strikes or you take a
+37.32 - profit you want to you know do something
+38.92 - else with it our research in the past
+40.76 - has shown that it's it's not you're
+43.00 - better off being one and done than you
+44.84 - are trying to be a hero and do multiple
+46.32 - trades a day you remember this right yep
+48.60 - okay so what we're going to do today is
+53.56 - we're going to revisit that because we
+54.96 - have a lot more data than we had before
+56.88 - beautiful let's go to the next slide and
+58.20 - we're going to see if the results are
+59.12 - the same so for retail Traders looking
+60.80 - to take advantage of liquidity in the
+61.92 - zero DT markets aggressively managing
+63.76 - winners appears to be the key to success
+67.12 - but what is the term aggressively
+69.08 - managing winners actually mean yeah
+70.88 - let's put some context around it right
+72.64 - so mostly we've considered closing
+74.32 - winning positions but if it's still
+76.16 - early in the day rolling the strikes to
+77.88 - try for another win sounds like it's an
+80.04 - appealing approach let's test the
+82.04 - performance of rolling mechanics of our
+83.76 - new larger zero DTE data set remember
+87.28 - zero DTE trades are about a year and a
+88.76 - half old now so now we have have you
+90.52 - know 18 months worth of data as opposed
+92.28 - to a year and um we're building up one
+94.76 - of the biggest data sets on the Zero DTS
+96.80 - that anybody has for our crazy tasty
+99.60 - think tank so using 20 months of data in
+102.52 - the so it's 20 months now I'm sorry I
+104.40 - thought it was 18 it's 20 in the zero
+106.84 - DTE SPX trades why do we do SPX because
+110.04 - it's cash settled easy there's nothing
+112.32 - after this and easy industry standard
+114.48 - industry standard Cash settle just means
+116.32 - that there's when the play is over at
+118.48 - expiration wherever it fires if it's in
+120.80 - the money it's your strike plus whatever
+122.76 - the difference is that's how much money
+124.68 - you have in your account now you don't
+126.16 - get extra money your KS already there in
+128.04 - your account like when you see your p&l
+129.76 - moving because p&l is dynamic it's there
+132.04 - but there's no stock to next B bing bada
+133.84 - boom yep examine the 2030 Delta
+136.52 - strangles we working very well lately
+138.28 - because we've had no movement sou off
+139.88 - and we are at extreme lows on volatility
+143.00 - and volatility has been crashing it's 20
+144.60 - and 30 Delta strangles managing a 25% of
+146.60 - Max profit losers left alone contrast to
+149.08 - the Daily results for traders who based
+150.68 - whether to close or roller positions on
+152.56 - how many hours remained in the trade so
+156.00 - all the trades were assumed to exercise
+157.96 - or to be be filled at Mid price and the
+161.04 - buy and to and the cost of the BPR
+164.08 - controlling the long strikes was
+166.12 - neglected so what that means is we
+167.96 - didn't buy long strikes against these to
+169.52 - reduce the buying power so if you wanted
+171.44 - to if you need to do that which most
+173.52 - people do subtract 1010 to $15 from the
+176.24 - daily p&l for more real realistic
+178.00 - results that you're going to find here
+179.60 - and sad enough on this study they're
+181.56 - leaving all this the losers alone why do
+183.72 - you bother me every day they're leaving
+185.88 - all the losers alone on this study so
+188.52 - we're going to do the 30 Delta strangles
+190.08 - first we're going to look at winning
+191.80 - days and what you see here is closing on
+194.00 - winners you 90% rolling until 10 85%
+197.52 - rolling until 11 um 80 78 it's not that
+202.16 - bad but the problem is it's the money so
+205.88 - the average daily p&l is better when
+208.00 - you're just one and done okay you take
+209.52 - your Prof 25% boom you're done thank you
+211.64 - very much let's go play golf don't try
+212.96 - to make more out of this right right
+214.44 - when you try to make more you actually
+216.08 - make less mhm you're your percentage of
+219.52 - winning days goes down that's not even
+221.92 - that significant but but the money
+223.92 - doesn't justify it I I makeing more
+225.96 - money you're working less time you're
+227.28 - making more money so this is a crazy
+231.92 - stat the line the number the second line
+234.72 - but it's consistent with what we found 6
+238.24 - months ago and 8 months ago in other
+240.04 - research that we did but now we have 20
+242.12 - months of data so the numbers are even
+244.52 - the numbers are better bigger data set
+246.92 - better numbers and this is as clear as
+250.40 - day you're better off not trying to
+253.16 - force it late in the day and taking
+255.56 - whatever you can get early on in the day
+258.04 - way better off let's go to the next
+262.92 - slide so this is the 20 Deltas
+265.04 - triangles and because it's further away
+267.40 - you can see that the percent of winners
+269.40 - is here huge
+271.20 - 93% and here the numbers look exactly
+274.12 - the same the average daily p&l because
+276.56 - you're collecting less money is um $48
+280.40 - instead of $78 but all the other numbers
+282.52 - are significantly
+284.00 - lower and and your risk is higher that's
+286.72 - what the SAR is on the bottom so your
+289.24 - probability profit goes down your carar
+291.08 - goes up and your um and your average
+294.76 - daily p&l goes down this is a no-brainer
+297.44 - so the next time when people ask you
+298.84 - about the Zero D
+300.24 - on the opening take your winner go home
+303.24 - go to go to another trade do something
+304.88 - else not not in the zeros anything else
+307.00 - you want to do clear as day Mr Batista I
+309.80 - love it I love it I mean uh no nothing
+313.00 - nothing crazy about this study in so
+314.72 - you're not looking to complicate things
+316.52 - no I'm not trying to make this you're
+317.68 - really kind of simplifying it yes let's
+319.64 - go to next slide
+321.68 - beautiful so over the recent past the
+324.56 - best short premium zero GT positions
+326.92 - have been the earliest ones because
+329.84 - people write to Tony and I almost every
+331.48 - single day about zero DT positions we
+333.88 - probably get 50 to 100 emails a week
+336.16 - about zero DTS and most people are not
+341.20 - focused on the first hour or two of the
+343.16 - day most people are focused on the last
+345.48 - hour like it's the whole cash settlement
+347.92 - thing what happens this everybody talks
+350.52 - about last ER because if you're doing
+352.24 - spy you have the assignment risk right
+355.56 - yes SP spy is is I know you can get
+357.80 - smaller in there and I love the idea
+359.16 - that you can get smaller in there and
+360.40 - there are other cash settled products uh
+363.12 - that that that are smaller there's just
+364.80 - not enough volume in there SPX is really
+367.96 - you get smaller in there by buying the
+369.48 - wings which we talked about but but in
+371.92 - the Spy you have assignment risk in the
+374.56 - es options on the zeros you have it it
+378.64 - converts to the Future so you have F
+381.12 - Futures assignment risk in SPX it sells
+384.84 - to cash to deal with any of that stuff
+386.64 - that's what people like but but for but
+389.28 - it's a big contract and the capital
+390.96 - required to trade it is expensive but
+392.96 - what most people don't realize is that
+394.64 - first hour that's that's you know that's
+397.68 - your that's your that's your prime time
+399.56 - that's your meal ticket the longer
+401.80 - trades the longer Traders I'm sorry the
+404.64 - longer Traders were willing to roll
+406.24 - winners rather than close them the
+408.32 - smaller the proportion of winning days
+409.96 - they had this was um this generally
+414.20 - knocked down their average p&l and
+417.36 - managing zero DT trades in smaller
+419.24 - accounts can make it tricky to avoid the
+421.72 - pattern day trading restrictions as well
+423.72 - so you want to be careful there
+424.92 - fortunately for the little guy simply
+426.88 - closing Winters and walking away appears
+428.92 - to be the best thing to do with a
+430.16 - winning zero DT what's your Takeaway on
+432.16 - this snof you have to be careful if
+433.96 - you're if you have the pattern day
+435.24 - trading rules because you don't want to
+436.88 - shut your account down and there's
+438.56 - nothing we can do about it we are really
+439.84 - hoping that's Ira also like if you're
+441.84 - under 25,000 in an IRA you're going to
+443.80 - have the same what we're really hoping
+445.24 - for is that with the new
+448.08 - SEC person
+450.16 - we can finally make some inroads um with
+452.96 - respect to pattern day trading rules we
+454.40 - don't know if that's the case we're just
+455.68 - hoping

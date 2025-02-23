@@ -1,0 +1,108 @@
+0.24 - zero DTE profits zero DTE profit targets
+3.76 - and the vixs this is a piece that Jacob
+5.84 - and his team put together and I think
+7.28 - you're going to like it lately this is
+9.32 - our zero DT piece once a week lately
+11.96 - we've been looking to refine our
+13.76 - Mechanics for managing zero DT winners
+16.20 - experienced option Traders know that the
+17.60 - implied volatility environment can be
+18.88 - one of the most important things to keep
+20.12 - your eye on how have different profit
+21.92 - targets for selling zero DT premium
+24.32 - performed based on the level of the vix
+26.84 - at Market open so we use two years worth
+29.12 - of data and and we are going to examine
+31.48 - selling 30 Delta strangles every day at
+33.20 - the market open with the Winter's closed
+35.36 - and a variety of profit targets ranging
+36.96 - from 15 to
+38.48 - 45% we contrast the performance between
+41.44 - those days when the vix
+43.00 - opened above or below its mean which is
+47.28 - 16002 kind of weird that we're right
+49.44 - there on yeah that's where we are 16007
+51.88 - right now yeah so we're right there
+53.60 - uhhuh so are we below so this is weird
+57.32 - so it's a perfect study for today all
+60.52 - trades were assumed to be mid-priced and
+62.24 - blah blah blah if you want to buy the
+63.72 - wings you know they take off about 15
+66.04 - cents per day um so below 16 or
+71.08 - basically above 16 all right okay that's
+74.44 - it what do you think
+77.76 - here I'm hoping about 16 works out
+80.36 - better but I don't know let's go to next
+82.20 - slide at a 50-50 shot okay so remember
+86.32 - these are 30 Delta strangles in the SPX
+91.36 - zero days cash
+94.00 - settled and again we are going to talk
+97.04 - about kind of what's optimal we've
+98.80 - always said that optimally you'd like to
+102.40 - be in that 25% target range so we do
+105.92 - overall the 25% target range here 90%
+109.32 - win rate $85 that's your wheelhouse baby
+112.72 - that's it with the high vix okay the win
+115.60 - rate's about the same 88 verse 90 the
+118.92 - p&l
+120.44 - is about the same yeah at
+124.20 - 87 doesn't change much the difference is
+126.72 - the profit Target on the 35% goes way up
+129.52 - and the average pnl on on the average
+131.52 - p&l on all the other strikes goes way up
+135.36 - you go back one slide for a second
+137.60 - Beth okay 42 it goes up pretty
+140.48 - significantly Tom
+142.12 - 4285 7533 now go to the next
+146.12 - slide so the 42 goes to 54 that's 20%
+150.00 - higher the 85 goes to 887 that's nothing
+152.96 - but the next two have a huge the bigger
+155.56 - the option you know the bigger the
+157.52 - profit Target the more money you make
+159.52 - yeah so the so the higher and that's in
+161.28 - a higher right that's high vix yeah so
+163.80 - you can change you got to manage a lot
+165.40 - earlier in in a lower vix and you can
+167.52 - kind of hang in there with a higher vix
+170.36 - the sear and the win rates stay the same
+173.12 - MH so not much there so all it's saying
+176.04 - here is that in high vix if you raise
+178.40 - your profit targets a little bit you do
+179.60 - better
+181.04 - that's all and high vix is better for
+183.48 - average p&l yep yep let's go to the next
+187.36 - slide which is
+188.64 - loix so on the loix and I don't think
+192.08 - this surprises any of us the win
+195.28 - percentages are virtually the same so
+198.88 - the win percentages don't change what
+201.84 - changes is the average p&l so at the 25%
+206.64 - profit Target you're good amazing you're
+209.88 - good there's no difference between High
+212.44 - vix and low vix all the other all the
+216.04 - other numbers 15% 35% or 45% I don't
+218.96 - even understand why are significantly
+221.52 - worse in low volatility High Vol
+224.88 - everything worlder
+227.48 - Lal all the numbers stay the
+230.04 - same win percentage but the average P
+232.84 - only works at
+234.60 - 25% the takeaway here is when in doubt
+238.72 - 25% if the vix is super high you can
+241.04 - hold out a little bit more but when in
+243.08 - doubt 25% that's your profit Target as
+246.00 - with longer dated options the short zero
+248.00 - DT positions perform better off with a
+251.00 - high vix than a low vix got it the least
+254.12 - affected profit Target was the 25% which
+256.36 - was best performing no matter what MH in
+258.92 - a high IV environment however trades
+261.16 - traders who waited for 35% profit
+263.24 - targets often made off better made out
+265.20 - better other than the importance of
+266.76 - aggressively taking profits Harden fail
+269.72 - T rules are tough to come by in the zero
+272.00 - DT options but perhaps we can be
+274.64 - forgiven for being a little bit more
+276.28 - patient with our winners on days when
+278.32 - the vix opens High

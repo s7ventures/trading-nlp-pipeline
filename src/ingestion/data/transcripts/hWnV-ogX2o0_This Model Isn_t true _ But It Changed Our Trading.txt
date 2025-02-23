@@ -1,0 +1,388 @@
+0.00 - cuz we're going to talk about the black
+0.80 - Scholls model and I I mean I had a talk
+3.68 - with a a very intelligent uh econ PhD
+6.96 - person who is like how can you spend so
+9.24 - much time talking about black schs model
+11.12 - when we just know objectively that it's
+13.08 - not
+13.88 - true and so I felt like I needed to
+16.36 - really explain like even though it's not
+18.32 - true where the value comes from like why
+20.76 - it's a good thing to sort of frame
+22.52 - everything else in terms of and and I
+24.52 - came up with this uh heliocentric
+26.96 - analogy and so we'll we'll we'll get
+28.84 - through that
+30.84 - okay uh so blackrolls model um right
+34.56 - when you come up with a financial model
+36.04 - the the goal at least for in an options
+38.24 - world is to come up with some sort of
+39.76 - way to model the how prices behave so
+42.24 - that you can get a a you know a
+43.96 - tractable solution for for how much an
+45.80 - option should cost right it doesn't help
+47.40 - if you have some really abstract model
+49.08 - that the math doesn't come out of and
+50.52 - you don't R it with values at the end um
+52.96 - so we're going to that that's the goal
+55.24 - that that's what's set out as the goal
+56.52 - here and there's a couple of uh
+58.56 - observations you do one is that well
+60.56 - firstly it's got to be in terms of
+62.04 - returns right the the scale of things
+63.76 - can't matter right splits shouldn't
+65.28 - really affect things right the it has to
+67.60 - be in terms of returns um and
+70.92 - then straight returns you know the
+73.00 - current price divided by the previous
+74.36 - price the future price divided by the
+75.52 - current price those don't add together
+77.96 - right they multiply together right if
+79.24 - you want to know the price two years
+80.76 - from now you need to multiply the
+82.20 - returns one year from now and the
+83.28 - returns between one in two years from
+84.72 - now um and you could do that um but we
+87.80 - don't have as many theorems that apply
+89.12 - to multiplication as as we do to
+90.32 - addition and so we just do this
+91.72 - algebraic trick and we take the logs and
+93.44 - this is why we care about log returns
+94.80 - we've talked about this before um that
+97.44 - it's it's this kind of convenient trick
+99.36 - that turns multiplication into addition
+101.32 - and that means that we can use our
+102.48 - theorems like the central limit theorem
+104.08 - um if we kept it in terms of returns
+105.92 - we'd wind up with some sort of geometric
+107.52 - Central limit theorem which would say
+108.76 - that the product of a bunch of
+109.88 - independent random variables is a
+111.68 - geometric is a log is a log normally
+114.12 - distributed and we end up in the same
+116.20 - place but the math would be a little bit
+117.68 - less familiar for the mathematically
+118.96 - inclined um so we're going to talk in
+121.28 - log returns and then we look at sort of
+123.36 - just the weak efficient market
+124.52 - hypothesis says that you're going to
+125.76 - have Independence over D joint time
+127.12 - intervals and then here's where the big
+129.64 - untrue right the the false assumption
+131.52 - comes in and we say the underlyings are
+133.56 - time homogeneous right that they don't
+135.12 - have distinct periods right that they're
+137.28 - always behaving roughly the same you
+138.88 - know you don't get the same output all
+140.08 - the time but the probabilistically it's
+141.96 - all the same um if we had that and
+145.56 - Independence over Destro time intervals
+147.52 - we'd get the central limit theorem would
+148.92 - apply because we could cut it into a lot
+150.28 - of little pieces say that it's all any
+152.12 - any long span is the sum of many short
+154.64 - spans each of the short spans are the
+156.72 - same and independent so total they have
+159.00 - to be normal and we got the central
+160.52 - limit theorem and then we arrive so we
+162.08 - get that log returns are going to evolve
+163.40 - as Brownian motions Central limit
+165.04 - theorem says that it's normals bring
+166.68 - motions are the sums of a bunch of
+168.40 - normals um and so that that gets us the
+170.96 - whole black Rolls model that's the whole
+172.12 - justification uh let's roll forward one
+173.76 - Beth and then the output of that is
+175.32 - exactly what we were hoping for a
+177.48 - relatively convenient closed form
+179.08 - expression for the fair price of an
+180.32 - option given some inputs right if you
+182.28 - have the strike the time until
+183.56 - expiration the current the current spot
+185.92 - price and this Sigma parameter which
+189.36 - we're going to call volatility later but
+190.84 - for now it's sort of a morphous
+193.32 - parameter and the idea is that the sigma
+194.72 - squared is the infant tmal variation on
+197.04 - the Brownian motion that's driving our
+198.48 - log returns so it's how Wiggly it is how
+200.96 - fast it's moving um per unit time um and
+205.88 - this is the one not directly observable
+207.48 - piece but because the formula strictly
+210.40 - increasing in terms of it if we have
+212.64 - market prices we can invert the formula
+214.72 - and get an implied volatility and that's
+216.80 - sort of the the you know where we get a
+218.60 - lot of the meat out of our use of the
+219.88 - black sholls model is it's where we get
+221.96 - our implied volatilities from right
+223.40 - there's no hon model implied volatility
+224.96 - because you'd also have a volatility a
+226.28 - volatility parameter and there' be a
+227.76 - whole Space of possibilities that
+229.16 - explain current prices so the nice thing
+231.44 - about black formula is that a single
+232.96 - price turns into a single volatility in
+234.68 - a nice one to one uh way unfortunately
+238.48 - let's roll forward
+240.76 - the market prices don't support the
+242.20 - black shols model right it said that
+244.32 - they should they should be the the sigma
+246.92 - should be a property of the underlying
+248.88 - and in but in actuality when you look at
+250.44 - different options even on the same
+251.60 - underlying they give different sigmas
+253.68 - they in incompatible values for the
+255.16 - implied volatility you get this surface
+257.28 - right where if you look at different
+258.76 - strikes and different times until
+260.48 - expiration you get different implied
+262.40 - volatilities typically they go up away
+264.16 - from the spot and out about in time but
+266.96 - that the important part is this that
+268.00 - it's not flat right if the if black
+270.16 - charoll model is true this picture would
+271.52 - just be a flat plane but it's not um
+274.40 - right so this is what we're saying the
+275.40 - black trolls model isn't
+277.24 - true why do we put up with it then why
+279.48 - do we keep talking about it why do we
+280.76 - keep using it well let's go for it one
+283.00 - and we'll we'll
+284.16 - see um sort of the thing we keep using
+289.00 - it because there's never going to be a
+290.84 - true financial model in in the way that
+293.12 - these people want right when you have a
+295.12 - physical model oh Tom's falling asleep
+297.44 - oh
+298.32 - no to go to sleep on you I no we have a
+302.84 - physical model right like how a ball
+304.60 - flies through the air we can model we
+306.72 - can write down our formulas for how we
+308.00 - think it's going to happen we have
+309.44 - someone kick the ball we observe how the
+310.80 - ball flies and we can check oh how good
+313.00 - was our model did it describe how the
+314.68 - ball flew yes or no um social sciences
+317.92 - wind up with this this problem called
+319.24 - The Observer Paradox that prevents them
+320.60 - from modeling things well where when you
+322.48 - ask people questions they change their
+324.24 - answers all right you people behave
+326.16 - differently when they know they're being
+327.16 - watched um but financial math hasn't
+329.44 - even deeper problem which is sort of a
+331.44 - describer Paradox where the models that
+335.00 - you make influence how people trade
+338.20 - which then influences the prices that
+339.52 - are trying to be modeled so the the
+340.88 - model influences its own output um right
+343.60 - so this picture on the bottom right is
+345.44 - 1987 which is before 1987 people really
+348.24 - like the black shs model so much that
+349.60 - they priced all the options as if it was
+351.16 - absolutely true and then 1987 people
+354.28 - realiz well maybe that's not right and
+356.00 - there was a big crash about it and can
+357.84 - you guys tell me why is there so much
+359.12 - paper in in the air how did that happen
+361.64 - What 198 1987 proved the model wrong
+366.84 - right I mean they were equally priced on
+368.60 - each side so that's why they had to
+370.40 - change it and put in skew right I mean
+373.16 - it wasn't
+374.60 - that Traders got around and said oh we
+377.04 - have to change the model it was no the
+379.92 - the appetite for downside protection
+382.92 - changed forever in the market even to
+385.80 - this day and that's why you have skew
+388.20 - why is there so much paper in the air
+389.88 - that's really kind of false like we
+391.96 - didn't throw paper in the air the last
+394.96 - day of the year or the or maybe if there
+397.16 - was a big Market move or something like
+399.12 - that people would throw paper I threw
+400.60 - paper every day up in the air yeah I
+402.92 - took all my all my your your receipts
+405.84 - all my receipts ripped them in a little
+407.16 - tiny piece that's why everybody had an
+408.32 - out trade with you cuz you didn't keep
+409.52 - your receipts I kept my receipts the
+411.24 - morning I reconcile can I say something
+414.20 - about this
+416.08 - the the reason that there was the reason
+420.08 - that it wasn't necessary that it was
+423.28 - exact was because anytime you're first
+426.68 - building a product the markets are wide
+429.20 - enough that it made up for the um for
+433.68 - small inefficiencies and
+435.68 - inaccuracies because remember everything
+439.12 - was wide nothing was decimalized and um
+443.16 - and you could all they really needed
+446.00 - black shells to do was to create um a
+450.28 - pricing a a a symmetrical model that you
+453.72 - could price everything off of because
+455.24 - everything was done in everybody's heads
+457.12 - so that's one of the reasons that it
+458.76 - suffered from some of the inefficiencies
+461.80 - you know over the years obviously as as
+464.20 - the business grew everything became a
+466.68 - lot more um measured and efficient and
+470.72 - then therefore black shells got
+472.32 - significantly better as everybody
+473.56 - tweaked it
+474.88 - mhm everyone sort of dialed in and made
+477.12 - it more and more accurate until someone
+479.08 - decided they really wanted some downside
+480.60 - protection we didn't even have computers
+483.12 - we didn't even have computers back then
+484.52 - we used to figure out by hand so and
+486.92 - then and then you know and then the
+488.16 - handheld computers were really weak so
+490.28 - it wasn't like it wasn't something
+492.04 - that's that simple so that's where all
+494.04 - the inefficiency came from the
+495.52 - Brilliance of the model is that
+499.20 - everybody stayed with it because it
+501.72 - worked so good and it was just it was
+504.32 - really able to just you know everybody
+507.08 - was able to customize it and and use it
+509.28 - as the
+510.32 - foundation the blue this is what I'm
+512.40 - saying right there's this description
+513.76 - thing right it works so well because
+515.52 - everyone was using
+517.88 - it okay until people until people start
+521.76 - disagreeing with it and then it stops
+522.92 - working all of a sudden
+524.80 - because well believe me even when we
+528.00 - built toss we tried to use we tried to
+530.16 - put multiple models on the platform
+532.64 - because we weren't even sure if black
+534.64 - shs was good enough you know so we used
+537.00 - multiple models but but in the end and
+540.24 - they didn't really matter exactly I
+542.72 - think that's right so I think that the
+544.32 - thing is that the black sholls model
+545.72 - isn't true but it is really useful as
+549.20 - the frame of reference and we go forward
+550.88 - one the way to think about this is so
+553.96 - the ancient Greeks were pretty good at
+555.68 - astronomy right they looked at the stars
+557.20 - and the planets and the sky and they
+558.72 - measured them every day and they wrote
+560.20 - it down and then they started doing some
+561.40 - math to figure out where they thought
+562.48 - things were going to be in the future
+564.64 - and they they did it they they you know
+566.44 - they they tracked the position of Mars
+567.80 - in the sky um every let's Mo move
+570.24 - forward one but their formulas for how
+573.00 - these planets move are really
+574.80 - complicated looking because if you're
+576.12 - looking at Mars relative to Earth it
+578.96 - comes it it mostly moves around Earth in
+581.00 - a circle but it does these like little
+582.28 - loop-de-loops because in fact they're
+584.24 - both going around the Sun in in pretty
+586.56 - stable ellipses and but if you don't
+589.76 - focus on the Sun instead you focus on
+591.40 - Earth you get this you know this this
+593.64 - geocentric model which has this very
+595.32 - complicated formula for the motion of
+597.28 - Mars um and it took until the cernus to
+601.28 - say wait if we instead of using Earth as
+604.48 - our Center we shift the center of the
+606.16 - solar the center of all the planets to
+607.96 - the sun then all the formulas become
+610.16 - these very simple equations everything's
+612.08 - just a very stable ellipse and then
+615.12 - their positions relative to each other
+616.48 - make a lot of sense and you don't have
+617.96 - this defer and epicycle that's trying to
+620.48 - measure these interactions between these
+622.28 - multiple periods everything is much more
+623.92 - straightforward um by picking the right
+625.80 - frame of reference in the same way the
+628.08 - black shs model isn't true right no
+629.72 - underlying behaves like a black sh's
+631.80 - underlying but at the same time if
+633.56 - you're trying to describe how an
+634.96 - underlying is behaving if you just try
+636.80 - to do it raw on its own terms just
+639.00 - straight from the thing you wind up like
+640.52 - the Greeks doing their astronomy with
+642.00 - these very convoluted
+644.52 - conceptions but if instead you take
+647.24 - black schs as a baseline as a frame of
+648.96 - reference and you say okay how different
+650.84 - from a black schs underlying is this
+652.60 - underlying then you can look at the
+653.96 - implied volatility surface and say oh
+655.56 - okay it's it's got heavier Tails because
+657.20 - the surface curves up at the at the
+658.60 - sides
+659.84 - um right and that that's a much more
+661.96 - direct way to read sort of properties of
+663.64 - it we can go forward yeah especially
+666.36 - because I think most people um have some
+668.92 - amount of familiarity with the log with
+670.68 - the normal distribution um because of
+672.88 - the central limit theorem normal
+674.00 - distribution show up all the time in
+675.28 - life you know this 30 68% in the middle
+678.52 - another 26 or 27% of kind of a one to
+681.52 - two standard deviation wings and then
+682.80 - these thing you know these out past the
+685.24 - these outlier moves all these things are
+688.52 - much easier to interpret via using the
+691.60 - black schs model as a as a Baseline and
+694.48 - then judging how different the current
+696.44 - market prices say the underlying is from
+698.28 - that right you don't doubt the current
+699.88 - market prices but you interpret them via
+702.12 - the black schs model to get a much more
+703.96 - intable thing right you can look at the
+705.56 - implied volatility surface and get a
+709.00 - really firm grasp of what the market
+711.52 - says about this underlying right is gme
+713.92 - has all this has all this call skew most
+716.24 - underlines have all this put skew that
+717.88 - means that you've got you know big moves
+719.48 - in that way and small moves in the other
+720.72 - way and if you were just looking at the
+721.80 - option prices directly it'd be almost
+723.36 - impossible to figure out sort of on your
+724.96 - own how to do it without you know
+726.72 - decades and Decades of experience uh
+728.92 - working on it and so I think that's sort
+730.48 - of my point is that the black sholls
+731.76 - model is wrong but it is also very right
+735.08 - to like use it as your foundational the
+738.20 - foundation of your understanding because
+739.56 - it's the most clear picture in the same
+741.44 - way that if you're trying to model where
+742.84 - Mars
+743.96 - is it'd be wrong to say that Mars is
+746.88 - where the sun is but it is much more
+748.72 - helpful to start by looking at the sun
+751.08 - and then measure the position of Mars
+752.44 - from
+753.84 - there I get that and that's
+757.20 - it the blacks model is not an accurate
+759.76 - description of the underlying price
+760.84 - Dynamics um but this isn't such a strike
+763.36 - against it because there will never be a
+764.60 - perfect financial model um right because
+767.68 - model affects the system itself um and
+770.80 - using the black of the Baseline can make
+772.20 - viewing the market much more
+773.20 - intelligible in the same way that
+774.40 - heliocentrism simplifies astronomy right
+776.80 - if you want to think about Mars moving
+778.04 - in a circle or lips you don't want to
+780.04 - think about Mars moving in loop-de-loops
+781.56 - the same way you want to think about the
+783.00 - Spy moving as a put skewed underlying
+786.24 - not just an unintelligible randomly
+789.16 - moving object

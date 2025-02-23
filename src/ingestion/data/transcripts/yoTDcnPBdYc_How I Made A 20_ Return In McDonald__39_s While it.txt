@@ -1,0 +1,142 @@
+0.20 - what's up everybody Welcome to the life
+2.60 - cycle of a trade the series where we
+5.08 - break down the thought process behind
+7.44 - trade entry trade adjustments and
+10.44 - closing order in this video we are going
+13.28 - to cover a call
+16.21 - [Music]
+19.64 - diagonal all right so we've got a little
+21.80 - bit of a pullback in the market but one
+23.64 - stock in particular has just been
+25.84 - whacked over the in the overnight
+28.24 - session here and that is McDonald's
+30.00 - there are some eoli news that came out
+32.96 - uh the stock is down let's call it 7%
+37.08 - right now it was down uh all the way
+39.56 - down to like 280 something at some point
+42.20 - in the overnight session so it
+44.32 - definitely has had a big pullback here
+46.88 - it's a relatively low implied volatility
+49.20 - underlying most of the time but
+51.48 - currently because of this move you could
+53.52 - see IV rank getting into the 100 handle
+55.84 - over 100 means that it's exceeding its
+58.72 - 52- we High
+60.68 - uh today right now so it's as high as
+63.36 - volatility has been uh I think this is
+65.72 - an interesting time to get a little bit
+67.08 - of Delta you know be a little contrarian
+69.80 - here into this move again 20po move
+72.68 - we've erased you know a month and a half
+75.32 - two months of price action here even
+77.84 - though the stock has had a very
+79.48 - significant rally of late um I'm going
+82.40 - to look at a called diagonal spread even
+84.88 - though again because volatility IV rank
+87.44 - is high it doesn't necessarily mean that
+89.28 - actual implied volatility is high the
+91.52 - actual implied volatility in in
+94.24 - McDonald's is actually relatively low
+96.36 - when you look at this 20% 24% so it
+99.80 - makes getting Delta cheap if something
+102.64 - has high implied volatility it's
+104.60 - expensive to buy Delta or to get Delta
+108.68 - via long premium when volatility is low
+111.80 - it's
+113.32 - relatively cheaper uh just because of
+116.40 - the difference in the volatility here so
+119.12 - we're going to look at December let's
+121.08 - buy this 300 strike uh it's a it's the
+124.40 - first strike out of the money but we've
+125.80 - got $5 wide strikes here I'm going
+128.16 - closer at the money because I know that
+129.72 - this is going to be a relatively cheap
+131.40 - call diagonal spread for me relative to
+133.92 - the width it's going to used five or six
+135.80 - $700 in in in premium here now the high
+139.72 - we got to and we could see this here 52e
+141.96 - high of 317 let's play for somewhere a
+145.04 - little bit under the 52 we High here
+147.84 - we'll go to the 310
+150.40 - strike for our short option now I'm
+153.24 - picking up 18 long Deltas here in a
+156.52 - stock that's trading at let's just round
+158.28 - it and make it
+159.60 - $300 uh so we're getting you know $3,000
+163.96 - $4,000 worth of exposure in Delta for
+167.76 - just five or 600 bucks so this is a a
+171.44 - reflection of of two things first of all
+174.04 - you know the leverage that you get with
+175.68 - options as well as the low implied
+178.28 - volatility here again I said it was
+179.84 - cheap to get Delta here it's cheap to
+182.24 - get exposure to stock or in effect Delta
+186.48 - via this called diagonal spread so stock
+189.20 - is rallying here so this spread has
+191.24 - moved pretty significantly just to move
+193.92 - uh just to show this on a risk profile
+195.84 - at expiration is kind of a hard look
+198.16 - because these are calendarized I like to
+199.96 - go to this Theo this is kind of what our
+202.12 - risk profile looks like so uh basically
+204.76 - a 5050 shot using the analysis mode here
+208.60 - we can actually kind of simulate the
+211.00 - passage of time you'll see the risk
+213.28 - profile moving that way you can even
+215.00 - take out some implied volatility you
+217.36 - could take out some from the long option
+219.24 - as well so you can see it's got a very
+222.04 - interesting uh asymmetric sort of upside
+225.28 - to this position and uh as we keep
+228.20 - waiting we are missing out on some value
+230.44 - here so we'll see if we can get filled
+232.12 - at 590 uh 593 here 595 you can see the
+236.80 - stock is rallying a little bit it's at
+238.72 - 296 now so we'll try at
+241.08 - 595 see if we can get filled somewhere
+243.48 - around that probably going to have to
+245.04 - move it up to 310 that's probably where
+246.92 - we'll get filled
+248.36 - here through routed it at 310 got it
+251.24 - price improved at 604 uh a little bit of
+254.32 - long Delta in McDonald's into this dip
+256.88 - basically at the high of the session uh
+259.24 - this might be a good timing on that
+264.20 - trade do have a position that we have to
+266.68 - manage today uh one of our winning
+269.16 - trades we we had a McDonald's position
+271.44 - it was trading at 297 the stock has
+273.68 - rallied about3 or $4 from here we had a
+276.96 - slightly bullish lean with a called
+278.84 - diagonal spread but really A lot of the
+280.68 - value has come from this short option
+283.64 - that we sold uh in the November monthly
+286.56 - expiration at the 310 strike we can go
+288.64 - and look at that here uh just to give
+290.76 - you an idea it's trading at about 35
+292.76 - cents is right here when we put this
+295.40 - trade on was trading at about $4 and
+298.36 - that that's come from time Decay changes
+301.56 - implied volatility volatility has come
+303.16 - in significantly after that big drop uh
+305.96 - so we've gained about $3 almost $4 in
+309.60 - value out of that option that option we
+311.28 - sold at 390 is now trading at 30 so uh
+315.84 - with that position the long option has
+319.60 - only come in about $2 even though the
+321.92 - stock has gone basically nowhere so we
+324.08 - we bought it at 10 and it's now trading
+326.76 - at$ 759 so we've lost $2.50 from the
+330.08 - long option we've gained almost $3
+335.32 - $3.50 on that short option so most of
+338.20 - the value came from the short option so
+342.60 - that value is what is giving us this
+344.88 - profit potential selling out of the
+346.64 - December call buying back the November
+349.60 - position
+351.76 - here 730 we got filled about 2 cents
+354.64 - above the mid price closing that one out
+356.64 - for $126 profit about uh let's called
+359.88 - 20% return on Capital 30% there so nice
+363.08 - little trade over about a 3 week time
+366.20 - frame

@@ -1,0 +1,192 @@
+0.16 - this is our Market measure sponsored by
+1.92 - sibo it's Dr Jim in the house for his
+3.92 - first Market measure let's see if he can
+6.04 - figure this out first Slide John in our
+8.12 - studio in our studies we've discussed
+10.40 - how our view of the market efficien our
+12.16 - view of market efficiency is somewhere
+15.00 - between semi strong and the strong
+17.76 - version of efficient market hypothesis
+20.72 - would you say you're in that camp Mr
+22.92 - Schultz uh well this is a maybe a longer
+26.84 - thing not necessarily okay I'm in that
+29.44 - camp for sure um Jim is a guest host
+32.44 - today this is why we don't have guest
+33.60 - hosts
+36.00 - usually but Tom Tony and the research
+39.48 - team are in the semi strong to strong
+42.32 - version of efficient market hypothesis
+44.64 - Well normally when again normally when
+46.56 - you say we you know it's all of y'all
+49.72 - and then it's me right so now I'm just
+51.68 - going to voluntarily put myself outside
+53.60 - of that I think the emotional reaction
+56.32 - of the market in the search for
+57.48 - equilibrium in the short term is more
+59.64 - power ful than the models give credit
+61.68 - for I'll just say that in other words
+64.52 - risk in return for a particular trade
+66.44 - cannot be manipulated only understood
+69.04 - and managed accordingly so let's test
+71.44 - this Theory with two popular ETFs that
+74.16 - are both very Diversified but they have
+76.48 - different underlying prices implied
+78.60 - volatilities and components we're going
+80.88 - to look at the Spy n iwm now just for
+84.96 - the record I will tell you that right
+86.92 - now I happen to be short spy and long
+91.80 - iwm not because we were doing a study
+93.64 - here today I've had this position on for
+95.60 - it's been a while two and a half months
+97.20 - yeah yeah it's been a while today it's
+99.08 - working okay by conducting the same
+101.16 - trade on each over a long period of time
+104.36 - what does our average p&l and short-term
+106.56 - risk profile B of pnl look like for each
+109.72 - and is there a risk return advantage of
+112.76 - trading one over the other I'm going to
+114.68 - ask you this because the first question
+117.04 - it's not fair the second question I mean
+118.72 - not fair to ask second question is do
+121.04 - you think cuz Jim has not seen this yet
+124.04 - I haven't do you think there is a risk
+126.24 - return advantage of trading the S smps
+128.80 - over
+129.72 - iwm so if I so if I had to guess I'm
+132.92 - going to
+134.24 - assume having not seen this that iwm
+138.00 - could potentially give you greater
+139.40 - returns but uh spy is going to give you
+141.32 - lower
+142.16 - risk so again it's game is and gotas you
+145.56 - pick your poison as you like to say and
+148.08 - I so that's what I think you're going to
+149.28 - be up against I'd be I'd be surprised if
+151.92 - the results suggest anything other than
+154.00 - that I've been surprised before you'd be
+156.52 - surprised if the results suggest
+159.20 - anything
+161.08 - other than lower risk with spy higher
+164.44 - returns with iwm okay that's fair um not
+167.96 - necessarily the Holy Grail of both with
+170.12 - one I'm going to say that the risk
+172.20 - return advantage of trading one over
+173.88 - another is going to be virtually
+177.56 - nil so that so you're saying it's know
+180.12 - when you factor in both risk and return
+182.04 - Yes okay I I agree with you but I think
+184.48 - depending on how the guys and gals like
+187.20 - sliced up the data it'll be Cur I'm
+189.20 - curious to see if they actually kind of
+191.04 - pinpoint the return aspect and the risk
+193.36 - aspect okay because that's the question
+194.80 - here 2013 to present 12 years worth of
+197.76 - data 16 Delta strangles in both three
+200.04 - lots in iwm on average the spies around
+202.24 - three times the price of iwm okay one
+204.76 - lot in the Spy 45 days in both managed
+206.92 - 21 days we recorded the win rate the
+208.48 - average P the volatility panl and the
+210.56 - return on investment all right let's go
+213.36 - to next slide and let's take a look and
+215.96 - see where we are first the win rate
+218.72 - between the two is nearly identical I
+220.64 - don't think that I don't think that any
+224.08 - of us would be that that that that's
+225.76 - surprising to any of us I think that
+228.44 - whatever you do regardless of implied
+230.80 - volatility regardless of everything else
+232.28 - the win rate is going to be virtually
+233.60 - the same we need people to understand
+235.36 - that that that's how this works the win
+236.68 - rate's always going to be the same
+238.24 - nearly identical this suggest that the
+240.44 - Deltas are priced efficiently across
+242.04 - these products even though the
+243.48 - components are completely different yeah
+245.32 - agreed I would absolutely expect that I
+247.40 - would be shocked if it was ever anything
+249.08 - other than that I agree with you let's
+250.48 - go next
+251.76 - Slide the key takeaway however is that
+255.04 - the risk is that the ratio of risk
+257.28 - reward for these strategies is
+259.80 - astonishingly close with 36% more
+263.96 - expected risk and return for iwm that's
+267.36 - Jim said and the actual historical risk
+271.36 - I'm sorry the the actual historical risk
+273.28 - and the return numbers fell in line
+276.40 - almost perfectly which is what you said
+278.76 - yes which is really interesting well
+280.80 - we've been doing this for a long time so
+283.96 - what's so funny about this is the
+285.84 - average implied volatility you can see
+287.52 - the iwm is always going to be higher but
+289.88 - we we did a ratio here ratio of iwm to
+292.52 - to spy was you know 1.33 and you can see
+295.80 - right here the average P the strangles
+297.64 - was greater um for iws
+300.16 - the volatility of the p&l was also
+302.28 - greater because you make more money you
+303.40 - have more volatility and the return on
+305.28 - investments is a little bit higher but
+306.60 - the ratios are all virtually stay the
+308.60 - same let's go to next slide so okay well
+312.00 - yeah let let's let's see what the we can
+313.56 - go back one go back one no I was just
+315.32 - well I I was curious how you take this
+318.00 - information and use it so H how is this
+320.56 - how is this information I'll tell you
+322.92 - exactly I'll tell you exactly how I do
+324.48 - it I take this information because I
+328.16 - recognize
+329.84 - that my decision over what to trade this
+333.24 - has nothing to do with like the pairs
+334.40 - trade on that I have but if I was going
+336.24 - to do a strangle my decision to put the
+338.96 - position on would be based on implied
+340.92 - volatility rank not based on whether or
+343.76 - not I like spy I like Dow I like Q's or
+347.84 - I like iwm my decision is based on
+350.12 - where's the greatest opportunity because
+352.92 - the pop is going to be the same no
+355.76 - matter which one I
+358.12 - choose and that is the beautiful thing
+361.68 - about being product indifferent and
+364.56 - having so many different opportunities
+366.20 - right yes because it doesn't matter
+367.84 - you're right when you're looking at
+368.68 - strikes you're looking at Deltas you're
+369.88 - looking at probabilities spy iwm you
+372.40 - know coinbase whatever that is going to
+374.64 - be kind of uniform across the board and
+378.24 - it's a beautiful thing that is 100%
+381.12 - correct um let's go to the takeaways
+384.16 - risk and reward are priced extremely
+386.76 - efficiently over time in liquid and
+388.88 - diversified under lines even if the
+391.08 - components are completely different
+392.72 - that's why we focus on implied
+394.28 - volatility comparing implied
+396.44 - volatilities across different products
+398.48 - can be used as a proxy for comparing the
+401.52 - two products risk and return
+403.04 - characteristics over the long term in
+405.12 - this study we showed how the higher
+406.40 - implied volatility
+407.88 - underlyings the higher implied
+409.56 - volatility you got historically the
+411.40 - higher the p&l but also
+414.36 - equiv equivocally equivalently higher
+417.72 - risk sorry equivalently equivalently
+420.48 - best aren't you glad I'm here equivalent
+422.64 - aren't you glad I'm here S&P has just
+424.36 - rallied 50 handles I mean that's a that
+426.68 - was impressive nasdaq's now only down
+428.56 - 270 yes well so I wonder if well no the
+431.72 - the the Trump tariff meetings aren't
+433.00 - until later right well obviously started
+435.28 - started now I just wonder if there's
+437.16 - been some news they hit the wire well
+438.84 - they were just down 115 and now they're
+440.48 - down 70 so I would say that

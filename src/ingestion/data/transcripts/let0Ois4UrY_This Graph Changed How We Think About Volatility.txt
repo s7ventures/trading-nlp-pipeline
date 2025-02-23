@@ -1,0 +1,130 @@
+0.08 - that means it's not that hard but there
+3.20 - are some nuanced there are some nuances
+5.80 - of knowhow in this case we're calling
+8.36 - this the nuances of
+10.36 - volatility a distributional perspective
+14.80 - I'm not exactly sure where the team's
+16.16 - going with this one me either let's take
+19.20 - a look the nuances of volatility a dis
+21.92 - that's an interesting
+23.40 - word a distributional perspective okay I
+26.96 - like it Market volatility the vix is a
+30.20 - mean reverting asset whose average over
+31.88 - the last years including to
+34.24 - 2020 is
+37.00 - 18.9 I would have guessed it would have
+39.32 - been lower than that if you guess if you
+41.60 - ask me over the last eight years which
+43.12 - takes us back to
+44.56 - 2017 I would have guessed that I would
+48.40 - have guessed 18.9 is a little high I
+50.36 - would have said closer to 17 but when we
+53.24 - say that the vix is mean reverting it's
+55.56 - because it's a math
+57.56 - equation and
+60.72 - it's
+62.96 - stocks Futures which are price-based are
+68.08 - not mean reverting because price is not
+70.24 - mean reverting but when you have some
+72.84 - form of an equation like like volatility
+75.68 - volatility is meting it gets too high it
+77.72 - goes down it gets too low it goes up
+81.40 - eventually it's very expensive to hold
+84.76 - it knowing that it's mean reverting it's
+87.16 - very expensive to hold it until that
+88.88 - happens in fact in fact I would say it's
+90.76 - next to
+91.72 - Impossible um but at some point it will
+95.40 - go back let's go next slide looking at
+97.68 - an average Al loone can mislead your
+99.56 - expectations of how often volatility is
+101.32 - at certain levels in other words to get
+103.28 - a better picture of how volatility
+104.56 - behaves we need to look at its
+105.80 - distribution a distribution will show
+107.80 - you that not only the average value but
+110.88 - also the probabilities around all values
+112.92 - that volatility can end up with what's
+116.12 - interesting about this is our old
+118.64 - research and this may updating our old
+120.76 - research our old research used to show
+122.96 - that volatility on a distribution basis
+125.92 - would go up about 10% of the time go
+128.04 - down about 20% of the time and stay in a
+130.56 - low State about 70% of the time let's
+134.00 - see how this latest piece of research
+136.24 - lines up with that so the distribution
+138.44 - of all the daily vix value since 2017 is
+141.44 - shown below notice the very long right
+144.72 - skewed Tail Of course that gives you a
+147.04 - good little picture but let's keep going
+149.04 - yeah sure because of this large right
+152.12 - tail that covers many large values with
+155.08 - low probability the average of
+157.80 - 18.7 does not split the values of the
+160.64 - distribution evenly in fact it is
+163.32 - roughly one and a half times as likely
+165.04 - for the vix to be below average on any
+167.68 - given day 60% of the time then above the
+170.68 - average 40% of the time that's why you
+173.88 - can see that yellow line kind of all the
+176.88 - way to the left on this
+178.60 - graph which
+180.44 - okay this starts to bring that whole all
+182.88 - that you know lull State into you know
+185.52 - into perspective a little bit more let's
+187.44 - go to the next
+189.36 - slide that's a really good picture there
+192.40 - the median the 50th percentile the vixs
+194.80 - is 16.4 that makes more sense to me the
+198.24 - median by definition tells us the value
+201.88 - where the distributions occurrences are
+204.56 - split
+206.08 - equally so it is much lower in other
+209.60 - words half the time the vix is above
+212.44 - 16.4 and half the time it's below
+217.72 - 16.4 all this again this is the
+221.56 - distributional uh perspective of
+223.88 - volatility it is very nuanced let's go
+226.80 - to next
+229.56 - Slide the chances of falling into the
+233.96 - tale of the distribution this case um
+237.12 - defined by the vix value great G than 30
+241.00 - is just under
+243.24 - 7% rarely do we get a vix over 30 is
+246.36 - what that
+247.32 - means sure I would have said the number
+249.44 - was closer to five or 2% something like
+251.80 - that you know two or three distribution
+254.40 - curve I think over 35 it's going to be
+256.36 - closer to two or 3% but 30% seven 93% of
+261.60 - those are below that with the current
+263.36 - vix at 16.1 as it close on Friday
+266.40 - February 7th we look into the
+270.60 - distribution graph from
+274.68 - 2024 and you can see it's not that
+277.04 - dramatically different from the other
+278.36 - things that we were just talking about
+279.96 - so some of the takeaways here when
+281.76 - looking at an asset like
+283.68 - volatility with non normally distributed
+287.20 - prices it's important to consider values
+290.16 - besides just the average the average
+292.76 - tells you the typical value to Expect
+295.32 - When taking into account the magnitude
+296.88 - of each value whereas the median tells
+298.80 - us the typical value Val to Expect When
+300.96 - taking into account only the number of
+302.40 - occurrences literally the middle value
+304.84 - with normally distributed data sets no
+307.28 - skew the median and the average are the
+309.56 - same in this case a little bit different
+311.92 - but um oh no the median average has be
+313.68 - the same yes no about yeah right yep but
+316.96 - yeah I mean that's how you get down to
+318.28 - that 16 level that's actually really
+319.84 - good that just shows you that you know
+322.28 - there there there's a pretty low chance
+325.12 - the vix over 30 you know over time but
+329.36 - and 's a high chance of it trading below
+331.48 - that 16 level

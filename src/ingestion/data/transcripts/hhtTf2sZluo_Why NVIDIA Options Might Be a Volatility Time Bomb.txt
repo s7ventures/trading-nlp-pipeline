@@ -1,0 +1,225 @@
+0.04 - we're calling this one breaking the
+1.52 - volatility code speed matters more than
+6.32 - size let's see where the team's going
+8.56 - with this
+10.36 - one so recently we've seen certain
+12.96 - stocks we're going to as an example
+14.96 - today we're going to use Nvidia make
+16.96 - some huge outlier moves these types of
+19.68 - moves are generally bad for short
+21.84 - premium trades and of of course they are
+25.20 - you know when when a stock like Nvidia
+27.96 - drops from near 15 50 to near
+31.36 - 120 it's pretty hard to defend that move
+35.80 - of $30 when the expected move over that
+38.12 - period of time it's closer to 15 you
+40.92 - know that's the challenge two times the
+42.48 - expected move and as you can see on the
+44.36 - right hand slide there you know the
+46.68 - volatility in Nvidia just popped up and
+49.76 - so you have a double whammy going on
+51.84 - stock moving outside the expected move
+54.28 - and volatility expanding and when you're
+55.80 - short premium uh no bueno on that little
+59.56 - combin
+60.64 - there that's where you get that's where
+62.60 - I get into trouble Chris that's those
+64.52 - are my nightmare scenarios let's go next
+67.32 - slide Beth that's the double tap as we
+69.96 - call it right you're short the puts and
+71.28 - then all of a sudden the market sells
+72.36 - off with a V
+74.68 - expansion so the outlier moves in Nvidia
+77.72 - caused Monday just this most recent
+79.72 - Monday caused the V Spike to 72 from 48
+84.20 - um of the previous trading day with an
+85.88 - expected move range is shown below um
+88.88 - you know obviously
+90.96 - we're using Nvidia here
+93.40 - because the simplest way to say why do
+95.72 - you choose Nvidia um well we could
+97.88 - choose it because it's a$ three and.
+99.08 - half trillion dollar stock but we can
+100.80 - also choose it because it had the most
+103.88 - option volume um by a lot I think I
+107.80 - think there was one day last week where
+109.76 - we did 10 million Nvidia contracts
+112.04 - industrywide 10 million you know I first
+114.72 - started this business we were doing a
+115.84 - million contracts a day it was a lot now
+117.92 - we're doing 10 million contracts in in
+119.88 - Nidia and I the yesterday I think we did
+122.52 - five or 6 million Nvidia or 7 million
+124.76 - some crazy numbers that's why we chose
+126.36 - it let's go next slide
+129.20 - Beth so with an ivy rank of
+131.96 - 54 and a March 21st that's that's
+136.40 - regular March expiration 30 Delta
+138.44 - strangle of
+141.04 - $10.45 using only 5,500 mine power now
+144.52 - if you have a March 30 Delta strangle of
+146.40 - 1050 you know you can understand why a
+148.80 - $30 move will mess you up with more than
+152.04 - a
+152.72 - 60% um win
+155.16 - rate that's a that's
+157.76 - a derivative of black schs that number
+161.16 - so it may seem like a tempting trade to
+163.00 - put on however we need to make sure we
+166.36 - are considering all risks as well now
+169.88 - one thing to note here Chris first of
+172.12 - all nothing is mispriced let's be very
+174.40 - clear about this nothing is mispriced
+176.68 - nothing is ever
+178.16 - mispriced and the other thing is when we
+181.04 - talk about these kind of Trades the one
+183.56 - way to defend yourself to protect
+186.32 - yourself is or protect against a $30
+189.84 - move in Nvidia is just to stay
+193.00 - small that's your way that's what you
+196.56 - can control let's go to next
+202.80 - slide so at first glance a short
+205.36 - strangle in Nvidia seems to have a
+207.68 - typical risk reward profile since
+209.32 - implied volatility has overstated
+211.56 - historical volatility on average we
+213.92 - included the spies and the cu's IV and
+216.28 - HV for reference as well this also has
+218.92 - to do with the conversation we were
+220.52 - having before when Julia was on the show
+222.68 - this morning but just to give you some
+225.04 - kind of
+226.16 - comparison um average implied volatility
+229.44 - which is forward-looking expected in the
+232.44 - qes was 23 the actual historical 20 spy
+237.48 - again 3% difference and
+240.28 - um between 18 and 15 and Nvidia a little
+243.28 - bit less 49 to 47 if you looked at this
+246.96 - you'd say okay the risk reward profile
+251.80 - is pretty similar across the
+254.44 - board similar across the board but also
+257.36 - in line with the understanding that IVs
+259.32 - typically overstate the historical
+260.76 - volatility so nothing really unusual
+262.76 - there not nothing at all just wanted to
+264.64 - show you that it compares to what it
+266.52 - looks like in the ETFs as well let's go
+269.44 - to the the next slide Beth however when
+272.12 - digging deeper it seems like the number
+275.16 - of outlier moves as well as the
+278.40 - magnitude of the outlier moves in Nvidia
+281.08 - and the Diversified indexes were nearly
+284.08 - identical who would have thought that
+286.08 - see this is where I get messed up I look
+288.76 - at something like Nvidia and I'm like
+290.96 - there is no way that the daily moves
+294.48 - that exceed two standard deviations
+297.12 - which have less than a 5% chance of
+298.96 - happening
+300.32 - would be the same in Nvidia and spy and
+304.24 - q's since
+306.20 - 2017 like this is the slide that messes
+309.64 - me up the most because I never I've been
+312.12 - trading Nvidia and it feels like all the
+314.20 - outlier moves are in Nvidia It Feels
+316.92 - Like Only outlier moves exist in Nvidia
+319.96 - yes Gad sent this over right when Gad
+322.36 - sent this over I said wow that's that's
+324.96 - shocking but that goes on to the bigger
+327.20 - Point here about the idiosyncratic risk
+328.68 - and trading some these single stock
+331.40 - names um it is it's it's like wild to me
+338.24 - that that that the spy and qes have
+341.16 - almost the exact same number of
+342.44 - occurrences and the average um s
+345.04 - deviation move when you exceed two
+346.24 - standard deviations wild to me let's go
+348.56 - next slide
+350.40 - Beth so then why does it seem for most
+354.56 - that Nvidia is riskier to trade than the
+357.76 - Spy The Q's if the outlier risk the
+359.72 - number of two standard deviation moves
+361.28 - and the overall risk the IV
+363.16 - overstatement for both the index and
+365.96 - Nvidia are nearly
+367.64 - identical because they're all about the
+369.80 - same all that's why we did this study
+372.12 - all these numbers are the same so why
+375.24 - does it seem like you take so much more
+378.12 - risk when you trade Nvidia because the
+380.04 - implied volatility is higher I mean I'm
+381.84 - just you know throwing it out there
+384.60 - let's go next SL throwing it out there
+385.72 - to M well I think we're going to find
+386.88 - out the
+387.76 - answer and the answer lies in the
+391.20 - velocity of implied
+394.24 - volatility we talk about velocity a lot
+397.32 - on this network and the reason we do is
+400.04 - because velocity is the the velocity of
+403.72 - risk is what we call basically is what
+405.92 - option pricing skew is so the velocity
+409.28 - of implied volatility this translates
+411.20 - into how quickly implied volatility can
+414.20 - Spike on any given day we can quantify
+419.16 - this by looking at the average and the
+420.92 - standard deviations of historical daily
+424.16 - implied volatility
+426.36 - increases um so really the answer is in
+430.96 - how fast implied volatility can move you
+433.64 - know Nvidia can go from 40 to 70 but
+438.12 - it's tough for the indexes to go from 20
+441.72 - to 40 and that's and that's the
+444.48 - difference let's go to next slide so
+446.72 - when Nvidia implied volatility expands
+449.68 - and here's the key it expands by 57%
+453.24 - more than the spy and 60% more than the
+456.12 - q's in addition Nvidia implied
+458.92 - volatility has double the range of
+461.36 - expansion potential than the QQQ IV
+466.32 - does um
+468.80 - so however the minimum Maxi daily
+471.92 - increases are almost identical so this
+474.48 - is where basically the the additional
+477.48 - risk comes into play now you get paid
+480.64 - for that additional risk because if you
+482.04 - sold the same strangle in the qes the
+484.72 - same Delta strangle you'd collect about
+486.96 - a third of the amount of capital that's
+489.60 - the
+490.36 - difference so the average of the
+493.44 - historical daily implied volatility
+495.60 - increases is about let's call it double
+498.56 - in Nvidia over the other ones and
+501.60 - everything else kind of
+504.16 - stays exactly the same except the
+507.44 - standard deviation of historical daily
+508.92 - volatility increases is higher that's it
+511.28 - about
+512.84 - 50% um showing you where the additional
+515.56 - risk comes and why you get paid the
+517.00 - additional money for trading underly
+519.64 - that has higher volatility than the
+522.44 - indices does it it's not just Nvidia
+525.24 - right it do any stock would fit this
+527.28 - profile just for it's not just Nvidia we
+529.16 - just use Nvidia as an example they're
+530.72 - all the same and this is why if you
+533.56 - trade some of these equities you get
+535.48 - paid more money you take more risk you
+537.68 - get paid more money that's exactly how
+539.16 - it works
+539.96 - works this whole industry is
+542.80 - theoretically on spoton but you take
+546.52 - more risk you get paid more money let's
+548.52 - go next
+550.56 - slide so the reason why trading single
+553.36 - stocks tends to be more risky and has
+556.72 - more potential reward that's the offset
+559.32 - than trading ETFs is due to the large
+561.20 - potential velocity of IV
+563.80 - expansion as shown in our studies single
+567.24 - stocks also have a tendency to have more
+569.68 - outliers than ETFs but in nidia's case
+572.76 - the main risk is to be aware of its IV
+576.24 - expansion risk that is one solid study

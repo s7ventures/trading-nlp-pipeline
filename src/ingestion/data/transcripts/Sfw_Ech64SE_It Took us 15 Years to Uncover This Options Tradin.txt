@@ -1,0 +1,172 @@
+0.24 - little back testing little back testing
+2.84 - let's do it back testing feature is live
+5.08 - for anyone that has a tasty account on
+7.20 - the web-based platform which is my.
+9.20 - tastytrade.com along the left side panel
+11.96 - you will see the back testing button the
+14.84 - little uh the little beta back testing
+16.84 - beta button and it'll pull up this
+19.12 - interface after you accept the terms and
+21.20 - conditions yes signing away your life
+23.92 - yes just kidding it's a cool feature
+26.00 - where you can back test option
+27.88 - strategies without putting up any risk
+29.44 - it's basically a way to see how the
+31.44 - strategy would have performed over a
+33.52 - specific period of time in a specific
+35.28 - ticker symbol you have entry and exit
+37.72 - parameters you can customize as well so
+39.52 - this is the first page you select your
+41.20 - ticker symbol you can there's a they're
+43.80 - built in so we don't have you don't have
+45.76 - everything now hopefully at some point
+48.56 - in the future I don't think it'll be
+49.88 - everything but more selection they're
+52.08 - adding more consistently but you can you
+54.72 - have over 10 years of options data here
+56.36 - you can customize and you can do it from
+58.20 - this calendar yeah let's let's replicate
+60.80 - the trade that I did for the written
+62.52 - piece if you don't mind what do we do
+64.72 - well I I don't I don't know you're go to
+67.52 - we go to spy okay and then just keep the
+69.64 - date the same January 1st 2023 January
+72.36 - 1st 2023 yeah that's a default at least
+74.68 - for this this one here oh why do I have
+77.00 - to use your trade why can't I do mine I
+79.64 - want to do my trade January 1 okay
+82.44 - January 1 so you can select a strategy
+84.52 - here you can go with a debit spread iron
+87.44 - Condor whatever also build your own yeah
+89.96 - just so you know but yes go on sorry I
+92.12 - yeah you can custo you can customize it
+94.24 - too I just made it kept it simple and I
+96.08 - did a short put in spy so the way you
+98.72 - can add other ones just so people know
+100.68 - you can add legs like this up to four
+103.08 - legs and you could change them Buy sell
+105.24 - you could do any sort of custom funky
+107.24 - thing you want to do you know selling a
+109.04 - put spread to buy a call spread whatever
+111.88 - whatever you want to do yeah yeah so
+113.80 - yeah I did a short putut in spy I did
+116.40 - adjust a couple things here so on this
+118.24 - interface you can see your trade entry
+120.92 - parameters and your exit parameters so I
+123.12 - changed the Delta from 30 to 50 oh right
+126.16 - at the money the money big risk taker um
+129.08 - I also disabled the exact DTE okay so y
+134.04 - because spy has weekly options like I
+136.16 - don't really care about the exact day I
+138.76 - I just want to get as close as possible
+140.56 - and just keep this thing running yes I
+142.44 - also limited the next one below it I
+144.44 - limited the number of active trades so
+146.88 - what that will do and I click the second
+148.92 - one here oh close the old one and open a
+150.96 - new one so with this and I change it to
+152.92 - one one so this just ensures that the
+155.68 - parameters will not go more than one
+157.72 - contract at a time it's it's open close
+159.88 - open close you won't you won't have open
+162.04 - open open open and have like 10 trades
+164.12 - on yes okay and then the only other
+166.32 - thing I did here was I closed at 50%
+169.28 - profit on the bottom right okay so you
+171.84 - can change that to 50% there yeah yeah
+174.24 - so 50 Delta put closest to 45 days have
+177.56 - only one trade on on a time roll at
+179.44 - expiration
+180.36 - if it's still there uh and it has not
+182.72 - reached the 50% profit but if it reaches
+184.60 - the 50% profit it will close and open a
+186.56 - new one and open a new one exactly and a
+189.08 - couple things to note so you can of
+190.92 - course change the quantity as well you
+192.68 - can change the Delta and the expiration
+195.80 - just keep in mind there you can't so for
+198.68 - ease and simplification we're using
+200.84 - Delta as opposed to strike because
+203.08 - strikes are very different especially
+204.56 - when you go back in time when things are
+206.20 - lower priced you know if you're doing $5
+208.68 - wide spreads in spy 10 years ago that's
+212.52 - a way different position than a $5
+214.44 - widespread now so when you use Delta it
+216.92 - kind of accounts for some of that
+219.20 - difference in in relative value it also
+222.64 - makes it so that you know you don't miss
+225.20 - specific strikes right so not every
+228.48 - stock is going to have dollar wide
+230.04 - strikes where you can pick exactly this
+233.24 - strike so using Delta using the 50 Delta
+236.08 - is basically just at the money
+237.44 - regardless of whatever the stock price
+239.44 - is exactly good and you run it and get
+243.20 - your results easy yeah pretty quick yeah
+246.04 - so what's cool about this feature is the
+247.76 - orange line is your test so the orange
+250.36 - line is your back test with all your
+251.72 - parameters you can you can see at the
+253.84 - top there all the all the things we
+255.36 - entered as well short putut every 45
+257.72 - days and all the conditions that apply
+259.96 - and the Gray Line on this chart is if
+261.64 - you were to just buy and hold spy so you
+263.60 - can see but they're not the profits
+265.36 - aren't together it's price of spy corre
+268.52 - correct yeah so this is like spy is at
+271.64 - 567 at the end and you've made 8 Grand
+274.72 - yeah so they're the it's not just buying
+277.20 - and holding it's just the price of the
+279.32 - underlying mapped with the profit got it
+282.28 - so as you can see short put in spy still
+285.92 - does very well especially with these
+287.24 - parameters still does very well even in
+288.72 - a a ripping Market to the upside yeah
+291.20 - your biggest draw down here was likely
+293.44 - just now at in the August cycle when spy
+296.44 - was was aggressively dipping um but you
+298.84 - made it back on on the way back up yes
+301.44 - so yeah nice feature here and then
+303.76 - that's on the summary tab so the details
+305.68 - tab is another way where you can see
+308.36 - some more trade metrics and actually if
+310.20 - you go back to the summary tab real
+311.68 - quick and scroll down a little bit you
+313.96 - can see your total profit average profit
+316.72 - or loss Max draw down and return on
+318.96 - Capital that's used so some basic info
+321.24 - there but then as Nick clicked on the
+323.72 - next tab you can see a bunch of other
+326.08 - metrics much more detailed trade by
+328.32 - trade p&l you can see the biggest losers
+330.40 - biggest winners and naturally that that
+332.60 - big volatility along the right hand side
+334.24 - was the August Melton we had and then
+336.32 - the quick recovery a lot more metrics
+338.08 - there that you can analyze Y and the
+340.96 - last tab the logs this is where you can
+342.96 - get really granular if you want you can
+345.36 - look at every single line item you can
+347.00 - do it by trades orders transactions and
+350.00 - you can download this as well so if you
+352.00 - are a savant in the N if you're a freak
+355.76 - in the sheets you can download a freak
+358.16 - in the Excel sheets that's good that's
+360.48 - decent that is very good you can
+362.24 - download the data and you can analyze it
+365.20 - yourself if you wanted to do something
+366.64 - different fun yes so this is now
+369.44 - available if you have a web based if you
+372.08 - have access to a browser and you have a
+374.36 - tasty account my. tast trade.com yes uh
+377.44 - and again I will be writing a piece on
+378.92 - this if you want written info on it
+380.36 - there's a help center article that
+381.52 - already exists on the tast trade help
+383.80 - center um but I use this trade exactly
+386.24 - so this will be nice be nice Synergy you
+388.52 - know when you're reading and watching
+389.80 - the video that we will surely embed
+391.40 - within that article as well

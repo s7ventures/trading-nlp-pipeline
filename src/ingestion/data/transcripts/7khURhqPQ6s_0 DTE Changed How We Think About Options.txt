@@ -1,0 +1,179 @@
+0.20 - profit Targets in depth let's have some
+2.24 - fun with this managing winners is the
+4.28 - Cornerstone of tasty mechanics we have
+6.84 - traditionally closed our 45-day
+8.76 - expiration short premium winners at 50%
+10.96 - of their Max profit in order to increase
+13.00 - our win rate and allow us to redeploy
+15.16 - Capital to new positions our recent
+17.24 - experience in zero DT markets has caused
+20.20 - us to experiment with different Target
+22.52 - profiles different Target profit targets
+24.76 - we're going to investigate if 50% is
+27.44 - really optimal or should we consider
+29.76 - these on longer trades or should we
+31.68 - consider adjusting our profit targets
+33.32 - based on the initial features of the
+34.68 - trade you know Tony and I like to use
+36.92 - 21dt but what do you want to use let's
+40.24 - take a look and see what is truly
+44.00 - optimal so we use 15 years worth of spy
+46.52 - data we sold 45 data expiration
+48.52 - strangles each monthly expiration cycle
+51.08 - at a variety of Deltas we consider the
+53.04 - average panl that would have been
+54.20 - reached by managing winners at every
+56.44 - conceivable profit Target from 1 to 99 %
+61.00 - we were looking for the most effective
+62.60 - profit Target to use based on strike
+64.80 - selections all trades were closed at
+68.96 - 21dt okay you good I'm good so far all
+73.48 - right it's where it gets a little bit
+76.60 - chunkier let's go to the next slide okay
+80.52 - so what am I look who whoa what am I
+82.44 - looking at here okay so this is the
+84.64 - average p&l for straddles 50 Deltas on
+89.08 - both sides
+91.40 - and let me just see what this says look
+93.32 - negative across the board hold on am I
+95.92 - reading it
+97.28 - right it's the mean your head a little
+99.72 - more well I I'm trying to I'm I'm trying
+103.56 - to see it's the first time that I've
+104.92 - seen this particular slide and so first
+107.84 - time you new hands
+110.40 - the what we're what we're looking at
+113.88 - here is the first thing we're looking at
+115.88 - is the average p&l for strangles and you
+118.04 - for strangles so what's on the left
+119.40 - what's on the left left hand side I I
+121.28 - that's the mean pnl
+122.96 - portray okay and and the zero line I I
+125.80 - made a mistake the Z the zero line is
+127.64 - more towards the middle bottom of the of
+130.68 - the graph correct about one two three
+133.48 - three higher right yeah I got it now
+134.88 - thank you guys yeah yeah made a little
+137.16 - made it a little easier to see so you
+138.92 - have the average P for straddles and
+140.56 - then you have there you go and then you
+142.52 - have the um the profit Target percentage
+148.16 - remember we're going for kind of that
+149.92 - you know that that 50% area and then um
+154.44 - well 50% 50% no you're looking at more
+156.96 - of like a 10% here right 5 to 10% of the
+159.80 - straddle otherwise otherwise am I read
+162.88 - well it looks like 30 is optimal like
+164.88 - right right around 30 yeah yeah yeah
+166.56 - what this is going to show is that
+169.04 - optimal profit tar well I shouldn't say
+171.36 - optimal but the average p&l for
+174.56 - straddles if you put them on sell the 50
+177.56 - Delta call 50 Delta put and you manage
+180.00 - them at 21 DTE you're going to come in
+183.44 - somewhere just around let's call it the
+185.52 - 30 to 35%
+187.48 - range okay and and it looks like your R
+190.60 - and your risk is about 15% am I reading
+192.72 - that correctly yes so your risk is your
+196.00 - your your your profit to risk is almost
+197.72 - two to one in your favor yes what it
+200.44 - shows is with 15 years worth of data if
+203.12 - you when you put on a straddle initially
+206.40 - it's all over the place like you're
+207.56 - going to you're you're always going to
+208.56 - be losing a little bit at first winning
+210.12 - a little bit they're going to be stles
+211.64 - are really hard to manage but after a
+213.68 - certain period of time which in this
+215.68 - case you know in this case is up 21 days
+218.44 - because we use 21 days across the board
+220.96 - the optimal areas in the mid-30s let's
+223.36 - just call it okay okay because remember
+226.44 - we're looking for profit targets as we
+228.24 - fast forward let's go next slide what
+229.92 - happens here is as the Deltas get a
+231.68 - little bit smaller profit Target goes up
+234.64 - so instead of being in the mid-30s it's
+236.56 - in the low 40s now and we don't usually
+238.84 - do 40 Delta Del strangles but you can
+241.12 - see here with 40 Delta strangles even
+242.88 - that even when they first start out for
+244.16 - the first 10 or 20 days you know your
+246.32 - p&l is all over the place you're going
+247.52 - to have negative p&l but then eventually
+250.56 - it comes back to be positive and it kind
+252.60 - of sits around there and it doesn't make
+254.44 - a lot of sense to hold it past the 21
+256.88 - days because it kind of flatlines after
+258.36 - that this is more towards the areas
+261.00 - where we get to so I think what they're
+263.48 - trying what the research team is trying
+265.44 - to show you is that if you go to a
+267.44 - smaller Delta like the 20 to 30 your
+270.32 - profit Target at that 21 days actually
+273.24 - goes higher because you're collecting
+275.00 - less money so you collect less money
+276.88 - your profit Target goes your your your
+279.36 - your profit Target goes up goes up into
+282.00 - that 50 55 range and after the 21 days
+285.84 - are kind of flat lines but when you
+287.52 - first put on a position this shows you
+289.24 - that the first 10 20 days you know it's
+292.56 - all over the
+294.00 - place you you're down money you're up
+296.16 - money you're down money you're up money
+298.16 - okay and I I think that this is actually
+300.72 - a really good visual because it's
+303.00 - showing you that as as you reduce the
+304.92 - Deltas you can go your profit Target
+307.88 - goes up to the percentage that you want
+309.28 - to make these are all still at 21 days
+311.76 - like the next one should be 20 deltas
+313.56 - and so this is kind of where we live in
+315.48 - that 20 Delta range and what's
+317.68 - interesting about this is the nice thing
+320.12 - about 20 Deltas is you don't have those
+321.92 - draw Downs early on you don't
+324.44 - necessarily making money right away but
+326.76 - you're not drawing down like you are on
+329.08 - the 50 40 and 30 Deltas the 20 Deltas
+332.88 - tend to always kind of work your way
+334.28 - because we usually don't go under those
+335.56 - numbers and then you maximize profits
+339.16 - you know at around 60 plus percent at 21
+342.76 - DTE that's why I like this that's why I
+345.08 - kind of like this the 20 Delta range and
+347.48 - then go to the next slide and then here
+349.56 - this is the 16 Delta this one this one
+352.44 - is less interesting to me we usually
+354.84 - don't get down to 16 Delta but you're
+357.28 - they didn't draw the yellow line here
+358.92 - but but it's the the same thing it's
+360.24 - going to be up in the mid-60s it's be a
+362.96 - little higher than the 20 Delta and then
+364.44 - it flat lines after that and no draw
+366.28 - Downs early on if we go to the next
+368.28 - slide if we go to the next Slide the
+370.56 - takeaways very low profit targets make
+373.64 - for frequent winners but their effects
+375.08 - on long-term p&l were erratic and with
+377.84 - small mechanic variations having large
+380.32 - differences in results so very high
+382.52 - profit targets never triggered reaching
+385.64 - before reaching days to expiration
+387.08 - management so so like trying to say you
+389.12 - want to make 100% is
+392.64 - unrealistic using profit targets
+394.80 - slightly below the average 21 dtp no
+397.88 - levels was able to consistently
+401.28 - outperform and will be more time
+404.04 - efficient than days to expiration
+406.12 - management alone so with strikes around
+409.20 - the expected move this made the
+411.96 - 50% profit Target close to
+416.88 - Optimal somewhat lower when trading
+418.88 - close to at the and somewhat higher when
+420.52 - trading far out of the money but the 50%
+423.12 - averaged out to be pretty accurate which
+425.52 - we've been talking about all along

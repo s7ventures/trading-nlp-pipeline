@@ -1,0 +1,188 @@
+0.32 - separating reality from
+3.36 - Fear fix expansion separating reality
+6.28 - from Fear so selling premium and high
+8.40 - implied volatility is ideal because the
+10.56 - trader will likely benefit from a
+12.16 - volatility contraction volatility as we
+14.96 - talked about yesterday and many other
+16.84 - times is mean reverting so when it goes
+20.12 - up it's at some point it's going to come
+23.32 - down sometimes it stays high for a long
+25.80 - time like 2008 to 2009 stayed high for
+29.36 - almost I want to
+31.92 - say almost two 300 days or something but
+35.88 - usually it's five or six days and
+39.56 - volatility goes gets high and then it
+42.04 - contracts but when selling low
+43.84 - volatility there's the risk of implied
+46.08 - volatility
+47.64 - expansion that's volatility going up how
+50.88 - serious has this risk been over time
+54.40 - because we know that volatility goes up
+56.56 - um I mean we know when volatility goes
+58.44 - up it goes up really fast and we know
+60.80 - when it comes down it's like H it could
+62.96 - be torture sometimes but sure how much
+65.64 - of a risk is volatility exploding what
+67.76 - do you think let's go to next slide and
+69.52 - we'll give tony some more I don't know I
+70.80 - got a percentage let's give let's give
+72.36 - him some I'm gonna give him some more
+73.84 - information before I ask cont y so we're
+77.12 - going to look at the Spy we're going to
+78.40 - look at Tesla the reason we chose Tesla
+80.72 - is because of all the stocks that are
+83.52 - out there um that's consistently been in
+86.56 - the top of the um
+90.96 - most actively traded ones like right now
+93.40 - it probably be I think Nvidia is the
+96.88 - most actively
+98.28 - traded options you know um yeah it's
+101.56 - always been the one with some of the
+102.56 - most volume but Tesla's number two right
+104.56 - now and Tesla's always been one or two I
+106.84 - want to say for the last like five years
+108.96 - so we're using spy and Tesla they've
+110.48 - been one and two for the longest period
+111.76 - of time we're selling 16 Delta triangle
+114.68 - 45 days to expiration manag in 21 days
+117.48 - and we compared
+120.00 - when the vix range is when it's below 15
+123.56 - between 15 and 30 which it is right now
+127.40 - and then above 30 which it is a very
+130.64 - small percent of the time in fact I want
+132.16 - to say based on the research we did
+133.72 - yesterday that I kind of remember that
+135.56 - number to be like around 7% of the time
+139.72 - I I don't know if that's right Tony but
+141.04 - I think we're above 30 about 7% of the
+143.24 - time we're between 15 and 30
+147.92 - um we're between 15 and 30
+151.68 - probably
+153.44 - about about 40 to 50% of the time and
+156.48 - then obviously the balance below 50 um
+159.32 - yeah in the last calendar year from
+161.24 - February to February it's probably even
+163.20 - less than that it's only three or four
+164.80 - times in the whole year yeah Beth
+166.60 - there's a it says b o l o I'm sorry b o
+171.04 - l w just change that to an E so we so we
+173.92 - don't so we look perfect thank you let's
+176.76 - go next
+178.84 - slide so for example when the price of
+181.88 - the Spy 16 Delta strangle will be higher
+185.16 - when implied volatility is higher
+186.76 - resulting in a loss seller okay
+188.40 - obviously when when volatility goes up
+190.60 - premium sellers lose money so implied
+193.04 - volatility is 15% you collect 335 if
+196.48 - it's 25% you collect um 505 and if it's
+199.84 - 35% you collect 7 uh 35 so it's it's
+203.16 - obviously when when volatility goes up
+205.60 - proportionately the amount of Premium
+207.80 - goes up the other thing is when you're
+210.12 - selling 16 Delta strangles when
+212.28 - volatility is cheap um you don't make a
+214.88 - lot of money when volatility is
+216.80 - expensive or at least higher you make
+218.88 - money so that's the most important
+221.16 - takeaway from this entire slide it's
+223.72 - it's not it's that the return on
+226.20 - investment is a negative number when
+228.64 - volatility is low that's why we use IV
+232.04 - rank to tell us when to get into
+233.52 - positions and all that kind of stuff
+235.28 - because we don't do well unless implied
+238.00 - volatility is on the higher end of its
+239.28 - range we're talking about IV this is
+241.52 - we're talking about straight fix but but
+244.00 - we use ivr to help us with individual
+246.40 - stocks to put context around everything
+248.56 - um you can see the higher the implied
+250.84 - volatility the better that we do the
+253.12 - buying power the probability of profit
+255.08 - everything's going to be kind of the
+256.24 - same um but we just the average p&l and
+259.56 - the return on investment is better when
+261.52 - volatility is higher let's go next
+264.76 - slide so to put context around
+267.04 - volatility expansion risk we examine the
+268.96 - frequency at and the magnitude of
+270.64 - expansions we recorded the vix on day 1
+273.08 - and day 45 and computed the difference
+275.40 - this was done every trading day since
+277.92 - 2017 you can imagine the amount of data
+280.36 - in here this is almost eight years worth
+282.04 - of stuff let's go next
+285.84 - slide so for spy in very low implied
+289.56 - volatility 75% of the 45-day periods saw
+293.08 - vix change of less than 3.7 points so it
+296.88 - was fairly rare to see a significant
+298.88 - change at the end of the period yes and
+302.24 - I think this is the important thing you
+305.48 - can't and and and I can't tell you how
+308.04 - many times we stressed this you cannot
+311.48 - time a vix
+314.24 - expansion it's that's why it's so
+317.20 - difficult to inventory long vix because
+319.76 - you know at some point it's going higher
+322.68 - but you cannot inventory it because it's
+327.20 - untable if that's actually a word to
+330.24 - hold if your timing is off yeah you
+333.16 - cannot time
+334.76 - it
+336.80 - so what happens here is that you can see
+340.48 - that that the the biggest risk to the
+343.68 - upside is when the vix is below 15 and
+347.28 - the least amount of risk to the upside
+348.88 - in the vix is when the vix is above
+351.00 - 30 um but you know again it's a very
+355.72 - difficult thing to
+357.08 - time you have almost no risk I shouldn't
+360.08 - say no risk but longterm when the vix is
+363.72 - above 30 it contracts longterm when the
+366.96 - vix is between 15 and 30 it also
+370.44 - contracts but when the vix is below 15
+373.52 - it expands let's go to next
+378.20 - slide even for individual stocks such as
+382.20 - Tesla when the implied volatility is
+384.56 - very low 75% of the 45-day periods
+388.56 - experienced the vix Exchange of less
+389.88 - than 3.8 points very similar to the Spy
+392.76 - almost a tenth of a point difference but
+395.16 - as a result the significant changes by
+396.72 - the end of these periods were relatively
+398.96 - rare So if you're betting on implied
+401.40 - volatility going higher in Tesla again
+404.60 - it only happens from very low levels of
+406.72 - implied volatility it does not happen
+409.96 - when the vix is above
+413.80 - 30 it's interesting to see how close the
+416.88 - vix and the Spy are to each other when
+419.96 - you just look at this stuff let's go
+421.60 - next
+423.84 - slide so the other main factors that
+426.68 - drive p&l of a short premium trade are
+428.56 - Delta and Theta trade p&l often comes
+431.64 - from time Decay Theta and from Price
+433.76 - movement Delta more than it does
+435.76 - volatility that's a very fair statement
+438.08 - um you know we're volatility sellers so
+440.12 - we're more dependent on volatility
+442.68 - contraction um
+444.80 - but you know there's a good little good
+448.00 - little slide let's go next next
+451.84 - slide as shown in our previous studies
+454.04 - selling premium in low implied
+455.96 - volatility low ivr can be profitable
+459.60 - even if it can be minimum though it's
+462.60 - reasonable to
+464.16 - mitigate um IV expansion so again when
+468.16 - IV is really low reduce the number of
+469.68 - contracts in overall size and maintain
+471.88 - some short Delta to offset the vager
+474.12 - risk the vager risk is just that
+475.56 - volatility
+477.00 - expands and that's mostly going to
+478.80 - happen in down mod
+480.00 - let's go to the last slide

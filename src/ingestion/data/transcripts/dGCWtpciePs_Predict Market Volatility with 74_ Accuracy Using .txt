@@ -1,0 +1,311 @@
+0.08 - this is I think pretty relevant for what
+1.80 - we do because we you know work with this
+3.64 - normality assumption a lot we assume
+5.24 - that stock log returns are normal right
+7.48 - normally distributed that comes from the
+8.76 - black schols model that forms the basis
+10.24 - for a lot of our statistical assumptions
+11.80 - a lot of the models that we use as
+13.08 - Traders um right and we know that when
+16.60 - we look at real data it doesn't quite
+18.68 - fit that assumption right we know that
+20.48 - when we look at actual returns they're a
+21.80 - lot messier than what this mathematical
+23.48 - simplification sort of tells us what
+25.72 - quantile quantile plots can do they're
+27.60 - basically a statistical tool for
+28.96 - comparing two different distributions in
+30.68 - a really nice visual way so I wanted to
+32.88 - kind of use those today to show some
+35.28 - interesting properties about when
+37.00 - markets tend to deviate from this
+38.88 - normality assumption does that make
+41.16 - sense um yeah actually it does does it
+45.16 - does it actually make sense it makes
+46.68 - sense this morning so far so far it's
+48.76 - only page one the
+50.40 - introduction so far I'm good we got past
+53.08 - the first step Tony that make sense I
+54.56 - don't know if I can how longer continue
+57.00 - I don't know how much longer Tony I can
+58.24 - do the Julia Jacob Within 1 hour combo
+62.00 - well I put a lot more pictures in mine I
+64.92 - think I I like the pictures so hopefully
+66.84 - these should be some fun ones
+68.52 - yeah yes let's see if you have more
+71.20 - pictures go ahead so uh random thing my
+74.20 - eth grade math teacher had this saying
+76.48 - that I absolutely loved which is called
+77.84 - math is the pursuit of laziness um does
+80.64 - that yeah have you ever heard that I've
+82.52 - never heard that well we're gonna we're
+83.96 - going to try to use math to help
+86.08 - understand things in a much simpler way
+87.48 - how about that so the normal
+89.32 - distribution we're intimately familiar
+91.16 - with the normal distribution it's this
+92.36 - nice symmetric symmetric distribution
+94.56 - that is marked by the sort of central
+96.04 - tendency or mean and occurrences that
+98.16 - are spread on either side of the mean
+99.80 - which is defined by some uh variance
+102.04 - right uh which we use an awful lot we
+104.04 - use um volatility a lot we use the
+105.92 - standard deviation um again for a lot of
+107.96 - our statistical assumptions around
+109.32 - expected move around expected range um
+111.72 - and this is a really key distribution in
+114.12 - finance and let's go to the next slide
+116.24 - but when we look at actual log returns
+119.04 - um for spy for example from 2015 to 2024
+122.36 - on the next side t play we can just look
+124.92 - at this more it was hard to make uh when
+127.00 - we look at actual stock stock uh log
+129.28 - returns we can see that um we actually
+131.24 - in reality don't quite measure a perfect
+133.68 - normal distribution we got these fat
+135.00 - tails you can see that those um two
+137.16 - three sigma moves uh happen a lot more
+139.28 - often than what the normal distribution
+140.72 - estimates um we can see that that it's a
+142.88 - lot pointier than what the normal
+144.16 - distribution estimates um we see a
+146.00 - little bit of asymmetry especially in
+148.00 - option distributions right we see the
+149.44 - skew
+150.76 - um as well as cryosis you call this
+152.04 - Fooled by Randomness it could it in fact
+154.44 - be Fooled by Randomness perhaps um so we
+157.40 - see that our actual realized returns and
+160.12 - what we sort of you know expect for the
+162.48 - sake of mathemat mathematical Simplicity
+164.52 - sort of differ so let's go to the next
+166.12 - slide real quick but what we can use to
+168.72 - kind of understand this a little bit
+169.92 - better are quantile quantile plots um
+172.44 - basically this is a statistical tool
+174.24 - where we can provide this sort of direct
+175.92 - comparison between two types of uh
+178.08 - distributions we're really going to plot
+180.08 - the slices of one distribution against
+182.44 - the slices of another more specifically
+185.00 - we're going to compare distributions by
+186.96 - their quantiles or slices that slice up
+189.68 - the uh distribution into equal
+191.32 - probabilities so for example these are
+193.04 - the three quantiles of the normal
+194.64 - distribution going be three slices that
+197.12 - uh kind of divide the divide it up into
+199.28 - equal into equal chunks or equally
+201.20 - likely chunks does that make sense
+204.08 - yeah yeah kind of okay so let's look at
+207.16 - an example when we apply this to stock
+209.28 - returns let's go to the next slide when
+210.72 - we apply this to stock Returns what
+212.28 - we're B basically going to do is we're
+213.52 - going to take the returns of a stock so
+214.96 - here we have data for spy from uh you
+217.16 - know April of 24 for a couple of days
+219.20 - these are going to be nine different
+220.20 - daily returns and each return is kind of
+222.80 - kind of act as its own quantile and what
+224.96 - we're going to do is we're going to take
+226.16 - our Target distribution our normal
+227.80 - distribution and slice it up into that
+230.04 - number of quantiles or dve that number
+232.48 - of quantiles um and then what we're
+234.76 - ultimately going to do if we go to the
+236.52 - next slide so this is an example for
+238.08 - nine data points we're going to plot
+240.12 - those against each other we're going to
+241.72 - plot the uh the quantiles or the returns
+244.20 - of spy against the quantiles of the
+246.16 - normal distribution and what we should
+248.68 - see if the distributions match we should
+251.60 - get a 45 degree line we should get a
+253.72 - straight 45 degree line if our uh
+256.32 - distributions are basically similar
+258.72 - right is what we should ideally pretty
+260.32 - close which is pretty close with these
+261.56 - nine data points right so what's
+264.16 - interesting when we look at actual data
+265.72 - let's go to the next slide is that for
+268.40 - certain periods we get that nice 45 well
+270.88 - not 45 but we get this nice straight
+272.52 - line which means that we're seeing a
+274.00 - similar distribution between spy returns
+276.40 - and a normal distribution we look at log
+278.32 - returns from Spy for 2004 to 20 from
+280.72 - 2007 for example this three-year period
+283.12 - we actually see a pretty normal
+284.32 - distribution we get that nice straight
+285.68 - line it Bears some resemblance some
+287.16 - similarity to a normal distribution
+289.32 - let's go to the next slide but what's
+291.84 - kind of cool we got we got GIF a clock I
+294.20 - love my gifts what's really interesting
+296.64 - is that when we move into periods of
+298.24 - extreme Market volatility we can see now
+301.20 - we're starting to deviate from that
+302.72 - straight line and we're starting to see
+303.92 - some curvature specifically around these
+305.80 - extreme moves that deviate from this
+308.28 - nice normal distribution that we were
+309.92 - able to observe before um as the market
+312.76 - kind of enters into this period of
+314.08 - extreme volatility and what we notice is
+316.96 - that these deviations tend to occur when
+318.60 - one the moves are are very large which
+320.56 - is around the two Sigma Mark or 2.2 um
+323.24 - 2.2% for spy and also notice that they
+326.00 - tend to kind of uh cluster together when
+328.88 - you get one
+330.48 - they all kind of start to happen at the
+331.76 - same time they all kind of which is a
+332.96 - concept called volatility clustering
+334.60 - when you get these sort of large moves
+336.12 - that deviate from this historic
+337.64 - distribution um in close proximity and
+340.08 - this kind of hearkens back to a stat
+341.44 - that we've talked about before which is
+343.00 - that when you have a two Sigma move
+344.36 - today the overall probability of that
+346.12 - happening is about 5% um but the
+348.52 - probability of getting another one
+350.16 - within 10 days of the first one is about
+352.56 - 74% and on average we get about two and
+355.12 - a half two Sigma moves even though we
+357.16 - kind of assume that they're all sort of
+358.40 - equally distributed and in reality when
+360.52 - we look at real markets we can see
+362.60 - volatility clustering kind of happen in
+364.28 - real time um does that make sense
+367.12 - absolutely yeah which is kind of cool
+368.56 - we've all kind of dealt with that um
+370.96 - right so let's go to the next slide
+372.52 - there are some implications that kind of
+374.08 - come from this um this is uh something
+377.52 - that I think a lot of financial
+378.64 - professionals a lot of academics agree
+380.28 - on which is that um it it seems that the
+382.80 - market probably transitions between
+384.68 - different regimes or these sort of
+386.48 - unique states with these sort of unique
+388.36 - characteristics unique sta iCal
+389.92 - properties that tend to propagate for a
+391.64 - sustained period of time a regime could
+393.68 - be a bull market it could be a bare
+395.56 - Market it could be a selloff and what we
+397.96 - can kind of gauge from these quantile
+399.52 - quantile plots is that um the
+402.04 - distributions are fundamentally
+403.96 - different this normal distribution that
+405.92 - described spies returns from 2004 to
+408.60 - 2007 now no longer works now and these
+412.04 - you know this new regime might have a
+413.36 - new normal distribution so we don't want
+415.12 - to throw the baby out with the bath
+416.28 - water and say normality is kind of out
+417.56 - the window but what we can tell is that
+419.24 - our historic our historic data which is
+422.56 - often used you know to formulate our
+425.44 - historic models suddenly have a little
+427.84 - bit less reliability specifically when
+429.80 - we enter these high volatility periods
+432.48 - yeah but you get paid more also that
+435.12 - yeah yeah it just kind of means I think
+437.08 - like the big takeaway from this Market
+438.40 - regimes are something that I find really
+439.80 - interesting specifically looking at
+441.28 - transitions into different regimes I
+443.36 - think like recognizing when the market
+445.44 - has gone into a different regime or when
+447.52 - it's changed is really important for
+448.96 - active Trading especially because we're
+450.32 - trying to adapt strategies for new
+451.84 - environments and that's also part of why
+453.88 - like watching the market as an active
+455.28 - Trader is so important because you want
+456.84 - to look for those telltale signs that
+458.32 - like maybe the Market's moved into one
+459.72 - of these different regimes where now our
+462.52 - historical expectations our historical
+465.24 - data might not be H as predictive of
+468.36 - future Behavior right and so like so
+471.32 - think about like when the market starts
+472.92 - to go off the handle what do we observe
+474.88 - we see increased correlations across the
+476.44 - market we see increased intraday
+478.12 - volatility increased just like CL vix
+480.44 - levels for example what else do we see
+482.36 - bond prices gold prices start to
+484.32 - appreciate defensive assets start to
+485.72 - appreciate right um and watching that in
+488.64 - real time and being able to recognize
+490.24 - that I think is really important for
+491.40 - just adapting strategies um to new
+494.16 - conditions um so we have a lot of uh I
+497.32 - guess like intuitive benchmarks for like
+499.20 - the markets moved into a different
+500.40 - regime but there's also some pretty cool
+502.28 - computational methods for reliably
+504.28 - detecting regime shifts uh which uh one
+506.64 - of like clustering algorithms in Markov
+508.88 - models which are personal favorite of
+510.24 - mine Gan mixture models um depending on
+513.08 - how much uh I want to torture you guys
+514.84 - next week we might talk about one of
+516.16 - those
+518.12 - so but yeah thank you that was really
+521.68 - good I like me a quantile quantile plot
+524.84 - yeah I'm sure you too go ahead do the
+527.00 - takeaways cuz we got to get going
+528.16 - takeaways we got to get going um but
+529.84 - just a couple takeaways quantile
+531.68 - quantile plots can provide a direct
+533.52 - comparison of two different
+534.48 - distributions by qu plotting their
+536.08 - slices um against each other Dynamic
+538.88 - quantile PL plots during extreme market
+541.04 - conditions demonstrate that market
+542.24 - returns um that deviate from their
+544.04 - historic normal distribution tend to be
+545.72 - quite large and tend to occur in close
+547.60 - proximity of one another which is a
+548.96 - concept that we call volatility cluster
+551.08 - this suggests that the market May
+552.32 - transition between different regimes or
+554.32 - states that have their own unique
+555.52 - statistical properties that tend to
+557.12 - propagate for a sustained period of time
+559.40 - although obviously the uh nature and
+562.00 - duration and stability of those regimes
+564.32 - obviously differs those a lot of the
+565.92 - times are triggered by market shocks
+568.00 - that are very unique to the market at
+569.48 - the time but either way being able to
+571.40 - recognize when the market has kind of
+573.04 - shifted into a different regime I think
+574.68 - is really important for knowing when to
+576.92 - maybe uh take our statistical estimates
+579.24 - with a grain of salt way easier said
+580.72 - than done by the way oh my God yeah
+582.68 - that's why the computational tools I
+584.16 - think are especially useful way easier
+585.56 - said than do it's really hard to do in
+587.04 - real time haven't been able to figure
+588.32 - out a regime change ever well I you know
+591.36 - what kind of inspired this as a little
+592.80 - bit was in 2020 when the market was
+595.12 - selling off and the market big sell off
+596.92 - right in 2020 we were in the office and
+598.88 - we had just had our like third big down
+601.60 - day in like a one and a half two we
+604.00 - period And I remember you saying I can't
+605.92 - tell if we're in a selloff yet yeah
+608.16 - right right no exactly so because I'm
+609.80 - telling you those regime changes are
+611.20 - impossible yeah they're impossible but
+613.60 - there there are some telltale signs but
+615.00 - usually you need to get a little more
+617.04 - information to be able to

@@ -1,0 +1,188 @@
+0.20 - what comes after earnings let's take a
+3.72 - look do stocks go the way of earnings or
+7.40 - do they go the other way uh I I I
+11.08 - believe after earnings I believe they
+13.68 - they Trend sideways for the most part I
+16.16 - mean I think depending on the and again
+18.76 - I haven't seen this the the study set I
+21.64 - would say it was sideways to higher just
+23.52 - because we're at all-time high snof so
+26.16 - the question
+27.40 - is if you have an earnings report that's
+31.28 - in line obviously afterwards the
+33.72 - Market's probably going to do you know
+35.52 - the same as it was doing before but if
+37.68 - you have a stock that has a really good
+39.28 - earnings report or a really bad earnings
+41.20 - report do you think the market continues
+43.56 - to Trend in the direction that it went
+46.16 - or do you think that it all normalizes
+47.88 - and just becomes random again in a in a
+50.28 - 45 day time frame after the trade is
+52.56 - made I got to say it's all random
+54.72 - immediately following I would say it
+57.96 - kind of stays in the direction it's in I
+60.36 - don't know if I'm answering I don't know
+61.80 - if I'm answering to the to the study
+64.12 - let's take a very good let's take a good
+68.28 - hard look at this because it's really
+70.04 - interesting and some of the results are
+72.20 - a little different than you might think
+73.92 - publicly traded companies released
+75.16 - quarterly earnings reports detailing
+77.20 - their financial performance these
+78.72 - reports come out either before the
+80.04 - Market opens or after the market closes
+82.24 - the overnight moves accompanying these
+83.64 - releases are often dramatic because this
+85.88 - is anticipated implied volatility is
+88.48 - typically elevated just before earnings
+90.96 - and falls off after we've explored
+93.96 - placing earnings trades before but
+96.52 - whether you have an earnings position
+98.36 - still on or you're considering trading
+100.88 - and underlying now that the dust is
+102.44 - settled what happens to the underlyings
+104.76 - in the weeks following an earnings
+106.60 - report this is an important question for
+108.48 - retail Traders let's take a look this is
+110.80 - the first kind of study we've done
+113.24 - exactly on like this topic next slide
+116.00 - please
+116.92 - John so We examined each earnings
+120.48 - announcement from the 15 largest
+122.24 - components of the S&P 500 for the past
+125.16 - eight years so it's a massive study for
+128.88 - each we looked at the overnights
+130.40 - earnings move and the 7-Day move and
+132.88 - then the 30-day move close to
+135.92 - close um following the earnings move we
+138.56 - looked at overnight 7day 30-day all
+141.68 - right all right correlation from minus
+144.52 - one to plus one between the size of the
+146.92 - earnings moves and the size of the
+148.12 - following moves how frequently the
+150.96 - following move was the same direction as
+152.64 - the earnings move as we call that
+155.68 - continuation the average size of the
+158.52 - seven and 30 day moves meaning the the
+161.32 - mean the mean absolute so we contrasted
+165.16 - the overall statistics those following
+166.60 - earnings moves that did or did not
+168.04 - exceed the implied
+170.64 - move and we just put a little caveat at
+173.52 - the bottom says note that these earnings
+175.68 - moves only stayed inside expected 48% of
+179.36 - the time far below theoretical or the
+183.00 - empirical non- earnings frequencies yeah
+186.12 - okay
+187.80 - okay let's go to the next
+191.64 - slide so what comes after earnings so
+195.44 - the first what we looked at was overall
+198.32 - okay so the
+200.72 - correlation the
+202.88 - continuation and the mean absolute move
+206.96 - so this is interesting because you know
+208.88 - how sometimes we go well it's only got
+210.48 - priced in a 3% move and stuff like this
+213.00 - remember this is the top 15 stocks over
+215.32 - eight years in the S&P 500 so when we
+218.68 - look at the overall the size
+222.76 - correlation and the continuation the
+226.12 - first thing that pops up here is that um
+229.76 - you know what these moves tend to be a
+232.08 - little greater than whatever the
+234.40 - expectation is right around
+236.28 - earnings because those are higher
+238.36 - numbers the absolute the mean absolute
+240.60 - move and the continuation number is a
+243.44 - little higher than a random number would
+245.16 - be yeah I mean they're just they're a
+247.36 - little bit higher so the size
+249.80 - correlation is also interesting in
+251.40 - saying that after seven days there's
+253.64 - some correlation after 30 days there's a
+255.52 - little less correlation but the
+257.84 - continuation of the move is pretty good
+261.04 - so on this slide um this is with
+263.76 - earnings inside the expected move now of
+266.40 - course if it's inside the expected move
+268.68 - the correlation is going to be be lower
+270.88 - and the continuation is going to be
+272.72 - lower and then the mean absolute move
+274.84 - after 7 days is obviously smaller and
+276.80 - after 30 days is small so when they're
+278.76 - inside the expected move I would say
+281.16 - this is pretty random 52% you know that
+285.52 - that's probably in in line with just a
+288.12 - completely random number so if the
+290.16 - earnings are inside the expected move
+293.08 - then there's not that much to actually
+296.68 - consider right about a continuation or
+299.08 - stuff like that
+300.48 - yeah 100% let's go to the next Slide
+302.64 - John this is earnings outside of the
+305.44 - expected move well here everything
+308.32 - changes and you can look at the size
+310.96 - correlation you can look at the
+312.72 - continuation numbers and you can look at
+315.00 - the size of the mean absolute move and
+317.48 - what happens for earnings moves outside
+319.80 - of the expected move is that there tends
+322.60 - to be a very high continuation move
+327.28 - after the actual after the number comes
+329.32 - out so if you have a really bad earnings
+331.44 - report there tends to be you know eight
+334.16 - out of 10 times the stock continues to
+335.76 - go lower after seven days and seven out
+338.96 - of 10 times after 30 days and this is in
+341.88 - the top 15 stocks in the S&P 500 and and
+345.24 - if it's and and I think those numbers
+348.92 - are do have a lot of value to them
+351.80 - agreed I I think they do to and the mean
+353.84 - absolute move is usually greater than
+355.48 - you think it's going to be so it means
+357.08 - you got to be a little bit aggressive
+358.28 - especially if you're looking to roll up
+359.80 - the untested side or do anything like
+361.24 - that I mean that's my takeaway I think
+362.92 - that's fair yeah this is this is a very
+366.12 - this is a very powerful slide that we
+368.28 - haven't done before and it's funny
+370.00 - because if I think back about emails
+371.72 - that I get for earnings you know if if a
+374.16 - stock moves let's say you know outside
+376.32 - the expected move to the downside even
+378.12 - though the Market's a little bit you
+379.40 - know bid the way it is right now at at
+381.92 - Market highs you know people sit for a
+384.64 - couple of days because they think it's
+385.76 - going to correlate with the market or
+387.12 - come back a little bit most of the time
+389.36 - the it is like what do I do now I didn't
+390.92 - roll that kind of thing so I think being
+392.96 - aggressive with the rolling is probably
+395.12 - uh my biggest takeway for this okay
+397.96 - bigger numbers than I thought way bigger
+400.00 - I thought there'd be a little bit of
+401.24 - positive you know outlier moves would be
+403.24 - have a little bit of positive
+404.76 - continuation but not from 5050 to 8 out
+408.08 - of 10 when earnings moves fell within
+411.00 - the expectation the underlying
+412.64 - afterwards performed like the
+413.88 - underlyings any other time that's
+415.80 - exactly what we that was our takeaway
+417.92 - the following unexpected large earning
+420.08 - moves however we saw the underlyings
+422.44 - making large moves very frequently
+424.20 - continuing in the direction of earnings
+425.76 - like 70 to 80% of the time these moves
+428.76 - might well be anticipated and priced
+430.84 - into the premiums available post
+432.84 - earnings but understanding what is
+435.56 - typical following earnings can help you
+437.56 - choose how to play it yes it definitely
+440.60 - is going
+441.76 - to influence it impact our decision
+445.08 - somewhat so very good uh Market

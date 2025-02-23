@@ -1,0 +1,238 @@
+0.28 - the title is why neutral strategies May
+2.48 - dominate a strategy dominates when it
+4.28 - achieves equal or higher returns while
+6.32 - bearing equal or less risks so what are
+8.44 - we looking at here we got the expected
+10.44 - returns as a percentage and then the
+12.40 - standard deviation of risk you're saying
+14.92 - more risk more expected return exactly
+18.72 - La leis race returns ex all right going
+22.80 - on to the next one here so examining
+25.48 - straddles so it's reasonable to assume
+27.76 - that the offsetting Delta would would
+29.60 - reduce the directional risk and the
+31.24 - straddle would be more profitable than
+33.48 - either leg on its own in terms of risk
+36.08 - taken and return so you're looking at a
+38.20 - straddle versus each position so what
+40.68 - you're saying is you're you you you're
+42.84 - you have more risk potential just on one
+46.20 - side of the market on either side of the
+48.20 - market whether it be puts or calls you
+50.52 - have more risk on just a single position
+53.20 - because you don't have that Delta hedge
+55.00 - from the other one so just this we be
+57.80 - testing to uh those in indidual leg
+60.92 - right put or call and then we put all
+63.72 - those RS together which will be hedging
+66.28 - both sides right and those results in in
+69.68 - case of risk we're going to use standard
+72.16 - deviations all right so getting on to
+74.00 - the next slide here so how is this uh
+77.04 - position how is this assumption played
+78.76 - out historically does the risk reward
+80.92 - advantage of a neutral strategy make it
+82.72 - noticeably Superior to a directional
+84.80 - premium selling so you're you're going
+86.16 - to take uh neutral positions compared to
+89.28 - one or the other directional premium
+91.64 - selling position naked calls naked puts
+94.44 - exactly all right so let's get to the
+96.16 - study here so the study 2005 to present
+99.20 - every trading day Place trades close to
+101.96 - 45 days so you compare it selling at the
+104.28 - money puts you're managing them at the
+106.60 - 21 days at the money calls manage at 21
+109.00 - days straddles manage at 21 days and
+111.40 - then the strangles manage at 21 days I'm
+114.08 - uh Little T typo there right yeah uh 21
+117.00 - days and then so you're going to look at
+118.48 - the average returns and the Ste standard
+121.00 - deviation of returns um or the standard
+124.00 - deviations of risk of risk of risk okay
+126.68 - so we're going to see how wide the risk
+128.36 - is as well as the Returns on all those
+130.92 - strategies right you got a lot of you
+132.32 - got a lot of data here this over the
+133.44 - last 20 years right 05 till till now
+136.52 - just about 20 years 19 years so a lot of
+139.44 - information go ahead all right so the
+141.20 - stradle achieved both higher returns and
+143.36 - lower standard deviations of risk even
+145.64 - though the call side loss most of the
+147.52 - time if you look at a chart of spy it
+150.24 - has gone up since that that time so
+152.76 - you're naturally going to be losing on
+154.64 - the call side tell me what we're looking
+156.76 - at here so we got annualized p&l as a
+159.72 - percentage of the underlying first of
+162.12 - all when you take a look to this table
+164.44 - the I mean numbers speaks by themselves
+166.84 - right okay when you see at the money
+168.80 - call the money put in the stradle this
+170.64 - is the first table we compare the stats
+172.84 - on both sides neutral neutral strategy
+177.08 - when you look to uh annualize pnl as a
+180.28 - potential of underlining you see at the
+182.68 - money P have 32% at the money call it's
+185.96 - a rul trade right negative 40% and strle
+191.28 - outperform by
+193.28 - 40% which means we have better returns
+197.04 - when you compare neutraly and both when
+200.20 - you compare one leg one leg by its
+202.32 - individual stats right when you go to
+204.44 - their risk which is standard
+207.12 - deviations here didn't I didn't put
+209.48 - percent percentage I I use actual
+211.56 - numbers actual uh money right okay so it
+215.92 - shows by at money call it's 130 right
+219.88 - and the money puts 841 the Str which is
+222.80 - neutral shows
+225.72 - 602 and remember when you trade the only
+230.96 - Ric which is simple for RO for everyone
+233.40 - who trade we know like if you take huge
+236.48 - risk the return will be also huge right
+240.08 - yeah and if the minimum risk you take
+242.44 - also returns you can expect huge returns
+244.88 - right but take look to the uh neutral
+247.96 - strategy strle have
+251.64 - 602 risk in terms of standard deviation
+254.84 - right and other at the money put have
+258.64 - 800 at the money C have 600 and
+261.52 - 330 so this give us the indication like
+267.28 - in your life we don't need to be
+269.20 - mediocre right Tom hates this
+272.36 - strategy if we don't have to be mediocre
+274.80 - right we need to take sides but in you
+277.44 - tra when you are trading I prefer to
+280.52 - stay neutral when you don't take won't
+283.68 - take uh huge risk yes we th this shows
+288.48 - me that we've obviously had some
+290.08 - positive drift up over this period of
+292.12 - time and then you know I'm in both cases
+294.68 - of being bullish or bearish like if
+297.12 - you're on one side of the trade you
+299.32 - should expect to have um bigger uh
+303.68 - potential returns but you're also going
+305.48 - to have bigger risks because you have
+307.48 - any there's no hedge in place on entry
+310.72 - and so it's easier said to done than
+312.72 - done to look at 2005 to now and say oh
+315.00 - well I should have just sold puts the
+316.28 - whole time you know that's a hindsight
+318.28 - look back um even if you are selling at
+321.48 - the money puts you're going to see the
+324.52 - losing trades the standard deviation of
+326.96 - risk to be much greater than have with
+330.12 - the straddle you don't have the upside
+332.12 - profit potentials as the as uh the naked
+335.52 - puts do but you're going to have wider
+338.52 - losses your your overall standard
+341.08 - deviation of returns can be much much
+343.08 - wider because you have those tail losses
+345.96 - proces yeah even if you look at you the
+348.52 - return in terms of um return on on your
+351.44 - Investments you will see the the call
+354.32 - it's negative 1.6 and the puts it's one
+358.16 - and the sh it's 2%
+360.32 - that's annualized return on investment
+362.48 - we get if you see the standard deviation
+364.96 - of your return on investment which is
+366.88 - the risk M so the puts will be higher
+371.00 - right because there's so much noise
+373.16 - right there but the strle which is
+375.36 - neutral strategy will be slightly lower
+377.96 - according to the puts all right jumping
+379.92 - into the next slide here then um so even
+383.92 - the Strang will achieve both higher
+385.40 - returns and lower standard deviations of
+387.24 - risk even though the side was a losing
+390.56 - trade and and this is I mean anytime you
+392.72 - look at a long time frame you're always
+394.92 - going to have losing short Delta
+397.28 - positions when you when you see the mark
+398.80 - the market as what effectively 3x in
+401.72 - since 2005 2x minimum um I mean we're
+405.16 - right there so you're obviously going to
+406.72 - have losses on any neutral or any short
+411.20 - type position the the thing to to key in
+414.84 - on is that you're you know the law the
+419.60 - losses on those select times to the
+421.68 - downside are much much greater because
+423.60 - you don't have any sort of hedge on you
+425.40 - don't have any sort of short Delta on
+427.16 - your position you're you're one to one
+429.28 - to the downside you see it here with
+430.88 - your standard deviation of risk being
+434.16 - you know much higher on the out of money
+435.88 - puts exactly and when you compare this
+438.12 - slide with the previous one you this
+440.48 - Trad up has potential of losing more
+443.76 - than strango right yeah if you see to in
+446.68 - terms of risk the stro has more than
+449.28 - three 3x of ring more than strangle has
+453.76 - uh like for example St have 600 of the
+457.12 - risk but on this triangle we have like
+460.12 - 200 right which is my recommendation I
+463.80 - don't need to take recommendation right
+466.36 - but this triangle kindly outperform in
+470.72 - terms of risk management when you're
+473.08 - looking to longterm positional you have
+475.88 - more you can do with it when you're
+477.32 - selling a put or selling a call you can
+479.04 - only roll it out in time or roll it up
+481.36 - and out if you're on the call side if
+482.72 - you have a strangle or straddle you can
+484.92 - roll both those options are are bringing
+487.20 - in premium and are bringing in value
+489.76 - that you can capture over a period of
+491.64 - time whereas with one-sided trades if
+494.36 - you're wrong on direction that that part
+496.48 - of the the the trade is tough exactly
+500.64 - and I don't think there's someone who
+502.28 - want to do the calls the wrong time
+504.52 - because Co sucks right yeah reason to
+507.56 - say Co sucks so D I mean until they work
+511.36 - the the one once or
+513.80 - twice all right let's move on to the
+516.92 - takeaways here a couple more so while
+519.00 - neutral strategies appear to outperform
+521.72 - directional ones we may still look to
+524.32 - take directional positions to stay
+526.12 - engaged and build core positions there's
+527.92 - nothing wrong with having a directional
+530.04 - assumption exactly um however you build
+532.56 - it you know the things that we control
+534.36 - on Entry or volatility time or how heavy
+537.60 - our directional assumption is those
+539.44 - those are the things that you can
+540.28 - ultimately control uh with your
+542.44 - positions however a purely mechanical
+545.52 - approach looking to optimize returns
+547.44 - give given certain levels of risk may be
+550.20 - exclusively to stay neutral if you're
+552.80 - trying to to take less risk on both
+555.68 - sides of yeah we we don't you don't we
+559.20 - don't mind if you take a direction on
+561.72 - any side but remember to say a
+565.00 - mechanical use mechanical approach for
+567.48 - you to control your trades
+569.92 - and be small yeah be small all right
+573.32 - last one takeaways so neutral strategies
+576.60 - don't require any additional buying
+578.80 - power so it's logical to sometimes avoid
+580.64 - picking a direction selling the call
+582.64 - doesn't you know against uh if you're
+584.96 - just selling puts if you're selling a
+586.72 - call against it won't use additional
+588.24 - Capital brings in more premium gives you
+590.20 - a little bit more um potential value to
+592.64 - capture through the life the trade in
+594.40 - the exam example of the Spy straddle and
+596.68 - strangle it achieve both higher returns
+598.80 - and lower risk than its individual
+601.16 - components obviously you know positive
+603.44 - drift over 20 years helps but uh in the
+606.64 - short term on a trade bytrade base
+608.36 - better off with the neutral position
+610.28 - exactly

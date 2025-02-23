@@ -1,0 +1,238 @@
+0.04 - jumping in this is the importance of
+1.44 - managing Jade lizards so let's jump I
+3.84 - love that Jacob knows we're on and he's
+5.32 - bringing on a jade lizard study I know
+7.28 - and I and I'm very curious to see what
+8.96 - this is going to say because the Jade
+10.32 - lizard in a bull market if you don't
+12.84 - manage it early you can go from having a
+15.92 - winner to freaking even having a non
+18.72 - loss is not a winner right so okay
+20.92 - managing Jade lizards Jade lizards are
+22.76 - an advanced option strategy for Traders
+24.60 - with a neutral to slightly bullish
+26.16 - directional assumption looking to make
+28.04 - short premium trade true to s Jade
+30.24 - lizard a short out ofth the money put
+31.48 - option is combined with a typically
+33.04 - closer in the out ofthe money call
+35.16 - spread the distance between the call
+36.84 - strikes is less than the credit received
+39.16 - there's no upside risk the downside risk
+40.88 - is unavoidable at Tasty we often advise
+43.76 - exiting short premium option short
+45.76 - premium positions well in advance of
+47.40 - expiration what effect has early
+49.40 - management had for a persistent seller
+51.48 - of Jade lizards all right let's this
+53.52 - isn't this is great let's keep moving
+55.16 - and he's got it all right okay the study
+56.80 - so they're using 15 years 15 years of
+59.16 - options data in spy iwm triple Q's Apple
+62.36 - Amazon and Google that's a lot
+64.16 - considered selling 45 dat lizards at
+65.88 - every monthly expiration using a 20
+67.96 - Delta short putut and a 40 and 30 Delta
+70.92 - call spread okay so with that 40 Del 30
+73.52 - Delta call spread you're maybe not
+77.12 - covering the width of the spreads I do a
+79.36 - lot of back testing on Jade lizards but
+81.16 - they but they have to use Delta have to
+83.44 - use a Delta so if and so with this study
+87.12 - there there may be a little bit of risk
+89.56 - to the upside but I like it I love any
+92.08 - Jade lizard study bring it and I like
+93.60 - that that they're covering their bases
+94.88 - because these are the these are the big
+96.36 - the big liquid big liquid products all
+98.32 - right let's go to the next slide and
+100.00 - this is over 15 years the study
+101.96 - contrasted holding these positions
+103.56 - through expiration with closing them at
+105.56 - 21d okay so this is interesting because
+108.04 - I you and I kind of say you close your
+110.04 - Jade lizard when it's going to go when
+111.44 - it's nearing your call spread not
+112.96 - necessarily these parameters but he's
+114.52 - got 21 days till expiration and when
+117.12 - you're using that back testing you can
+119.32 - choose close at a certain day or close
+122.24 - at a certain percent of profit um and
+125.72 - sometimes when I'm looking at it I will
+127.00 - look at you know compare closing them at
+129.36 - 50% or closing them at 30% or closing
+131.92 - them sometimes when it's going through
+133.08 - that call spread you're only getting 20%
+135.24 - so uh here he has closing them at 21 DTE
+137.92 - and they analyze the percentage of
+139.40 - winning trades the net average p&l per
+141.60 - trade and the conditional value at risk
+143.52 - the cvar average of the worst 5% of
+146.20 - outcomes okay that's just like this is
+147.92 - just the setup this we can kind of go
+149.28 - through quickly analyze more of the more
+151.08 - of the rest of them number four please
+153.20 - okay uh win rate spy iwm triple Q's 79%
+156.96 - 7 this is held through expiration 68%
+160.04 - average p&l are you surprised that iwm
+163.60 - is negligible 2.55 five 2.55 no I'm I'm
+168.44 - more surprised that spy has a $38 hold
+171.96 - on hold on one second I'm just gonna
+173.16 - pull I'm gonna pull up his parameters
+174.52 - and spy just want to see what it looks
+175.44 - like we Talk Amongst yourselves the next
+177.00 - one if you want to well this is 15 years
+179.00 - okay so this is 15 years of of data it's
+182.12 - also running through covid and I know
+185.24 - from testing some of these a lot of
+187.16 - these a lot of strategies really take
+189.84 - take a big hit as your you know your p&l
+192.00 - you'll see your p&l climbing climbing
+193.96 - climbing climbing you hit that covid era
+196.52 - and it it goes really negative and then
+198.72 - it takes from then until now to get back
+200.44 - up into the positive I'm not surprised
+203.88 - now here we have closed at 21 DTE look
+207.24 - at the difference now all of them more
+209.88 - higher high higher average p&l but M
+212.88 - much much higher in iwm and triple Q's
+214.84 - spy minimally higher minimally higher
+217.40 - but the conditional value at risk and
+218.72 - spy went down by 2third because you're
+221.64 - closing them at 21 days you're not
+223.12 - letting those puts get close to
+224.36 - expiration and the they're all over 80%
+227.00 - win rate yeah this is fascinating to me
+230.04 - so but I usually don't let my now I will
+232.84 - say this I usually do not let mine go
+234.84 - until expiration the Jade lizards Jade
+236.96 - lizards so I I mean this is the one that
+238.88 - I will say 21 I'll either close it and
+240.68 - then reestablish it somewhere else close
+242.80 - it and manage it I'm never rolling up a
+244.48 - put we're never managing it by rolling
+246.08 - up a put the one thing you can do in
+248.16 - these with the Delta parameters Jenny is
+250.24 - you could take and roll down the calls
+251.56 - if you needed to because they're pretty
+252.64 - wide when you look at this like average
+254.64 - p&l we've always said iwm is a good
+257.36 - candidate because it's much lower priced
+259.60 - you're using much less buying power I
+261.64 - don't think it's that the conditional
+262.68 - value at risk isn't that much more than
+264.60 - spy no but you know you're looking at
+266.80 - spy which is so much higher price and Q
+270.12 - where you're using a lot less buying
+271.60 - power in iwm it I kind of like the
+274.00 - average p&l there I do too I do too okay
+276.88 - let's see because then there's then they
+278.28 - they're going to do it in apple Google
+279.52 - and some other things too let's take a
+280.88 - look so here's held through expiration
+283.72 - okay look at this held through
+285.08 - expiration you're losing money on Apple
+287.76 - look how much you're making in Google
+289.24 - but that's before a lot of this is
+291.12 - before the split so you're getting Hefty
+293.76 - premium for some of those puts look at
+295.60 - the win rates in these I mean what I saw
+297.48 - I mean you I expected the win rates to
+299.24 - be around 70ish percentile right you
+302.16 - know 68 70 72 I consider all those the
+304.56 - same number I mean I'm not going to
+305.84 - tweak those but to your point in the in
+307.68 - the last set I would choose iwm for its
+309.68 - low Capital usage especially if you're
+311.32 - GNA if you're going to close it at 21
+312.60 - days and here now I feel like it's a lot
+314.28 - different you look at the SAR and Amazon
+315.68 - and Google well now they've all split so
+318.20 - now you're looking at a $150 product
+320.32 - instead of hundreds of dollars yeah okay
+323.04 - so let's see when you manage it at 21 21
+325.44 - days the sear is still pretty high in
+327.24 - these closes to 21 days well they were
+329.28 - expensive products I mean Amazon was so
+332.60 - so expensive so okay looking at these I
+335.88 - think I think the main takeaway from me
+338.80 - is I'm never going to let it go past 21
+340.48 - days no I no I it's okay so here's I
+345.00 - love this and I love this study and
+347.24 - selling jid lizards and running all my
+349.52 - back testing yes I I would close at 21
+352.48 - days but we do also love the zero DTS
+354.52 - and the weeklys but it's different it's
+355.92 - a different strategy it's a different
+357.52 - they're different that's not that you
+358.72 - that's like apples and girs those aren't
+360.36 - even the same it's not like a jade
+361.92 - lizard if we're putting on a jade lizard
+363.20 - in one of these big products we're
+364.36 - closing at 21 DTE this way you can't
+366.40 - talk about zero DTE in the same breath
+368.44 - or even the weeklies we got lots of
+370.00 - people who love trading the weeklys and
+371.72 - I know most these studies show best
+373.28 - results closing at 21 DTE and I think
+375.20 - that is for the you know these big
+377.24 - products it can't be the weeklys because
+378.84 - the weekies are gone after today like
+380.28 - the zero DTS are gone it's the it's the
+382.76 - Jade lizard and these bigger products
+384.44 - close it 21 DTE for the best results
+387.36 - yeah I mean hands down what I've been
+389.64 - loving too is taking these Jade lizards
+391.76 - and putting them over stock positions oh
+394.32 - yeah like because because when you're
+395.56 - looking at that you're getting premium
+396.84 - selling but you've got the directional
+398.12 - bias in there and then because there's
+399.84 - no risk to the upside if if your product
+402.84 - goes up then you pick back up to the
+404.44 - upside of the of the Jade lizard it's a
+406.36 - double it's a double negative because
+407.52 - you've got you're you're doubling down
+408.96 - to the downside but I do like that let's
+411.20 - look at his takeaways okay final final
+413.04 - slide takeaways selling Che lizards can
+415.16 - be a profitable trade when looking to
+416.60 - collect premium on neutral to slightly
+418.24 - bullish assumptions both ETFs and
+420.68 - equities closing Jade lizards at 21d saw
+423.36 - improvements in all trade metrics
+425.12 - considered only in Google were Traders
+427.00 - holding out through expiration able to
+428.56 - make more money but this was the cost of
+430.40 - less frequent winners remember it was
+431.56 - only 50% and significantly worse bad
+434.20 - losers that had the biggest conditional
+436.16 - value at risk the next time you identify
+438.28 - a good candidate to sell premium but
+439.80 - can't decide on an option strategy
+441.40 - consider a jade lizard just remember to
+443.08 - manage early I and that is a key
+444.96 - takeaway with those Jade lizards manage
+447.00 - early and I from my experience looking
+449.84 - at some of running the looking at some
+451.60 - of the test results managing at 21
+454.04 - yields way better results than managing
+456.36 - at 50% like if you're if someone says
+458.52 - I'm just going to manage at 50% and
+459.96 - leave it but then doesn't manage at 21d
+462.36 - I think that hurts you in the long run
+464.08 - well because I also think it's a battle
+465.48 - right you're collecting so much more on
+466.80 - the put than you are on that call spread
+468.52 - but you want it to go towards that call
+470.12 - spread so you want to be making more on
+471.60 - the put than you're losing on that call
+473.16 - spread so it's a battle I think that I
+475.16 - think 50% of a jade lizard is a little
+476.88 - bit is a little bit right so I hard to
+479.00 - get agree so I think that that 21 day
+481.60 - Mark is more important than the 50% I do
+484.16 - too I don't know that you're going to
+485.20 - hit 50% before 21d so just keep it
+487.68 - simple 21 days till expiration I kind of
+489.96 - agree

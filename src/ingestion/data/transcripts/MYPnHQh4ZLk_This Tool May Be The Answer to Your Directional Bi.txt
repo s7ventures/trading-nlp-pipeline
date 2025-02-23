@@ -1,0 +1,206 @@
+0.04 - here's some predefined intervals that
+1.68 - you can choose from on the new back
+3.16 - testing tab on tasty what I like about
+6.40 - this is that there are different times
+8.92 - throughout you know Market history where
+11.36 - we've definitely had some some crazy
+13.20 - events and it's hard for people to
+15.12 - remember just because we have nothing
+17.36 - else to do in our lives and we can't
+18.96 - remember our own kids' birthdays but we
+20.68 - can remember like the pandemic sell off
+23.76 - I mean I'm not saying that's a good
+25.44 - thing or whatever but at least there's
+27.40 - is what it is it is what it is exactly
+29.52 - so so so the software helps you remember
+31.80 - certain things everything am yeah and
+34.76 - the good news I heard is that we will be
+36.36 - releasing this in the software in
+38.68 - another week or so oh awesome so it's
+40.76 - going to be right in the tasty trade
+42.00 - platform that we're using on the
+43.00 - software version yes right now it's on
+44.48 - web based only and it will be released
+47.20 - on the software version I think by early
+50.80 - next week okay good we're excited about
+54.12 - it yeah let's go to the next
+56.24 - slide so choose your intervals here for
+58.80 - example back test bullish strategy
+61.36 - during a bare Market to stress to stress
+63.92 - test your strategy um we won't go
+66.00 - through the all the software right now
+67.68 - but um how much have you actually
+70.24 - experimented with the new back testing
+73.20 - platform that we built so as a research
+76.28 - team we exp I mean we we use it every
+78.92 - time that's why we use like most of the
+81.16 - research to just prove raid or prove
+83.84 - like to taste what you're going to put
+86.24 - on paper as old slides so on this uh
+90.04 - these segments the the main purpose was
+92.64 - to show how can you taste how can you
+96.24 - before making any decision how like
+99.56 - which kind of data can you rely on how
+102.84 - do you know like you the whole purpose
+105.32 - is stress testing yeah the back test but
+109.08 - like how do you know which event to pull
+111.92 - up like how do you know what how to
+114.32 - actually stress test something so there
+117.08 - is okay when you go to these intervals
+120.72 - you will see bad days right yeah we have
+123.48 - be be market and we have bull market
+126.04 - right yeah so when you go to those
+128.00 - Corners you can taste and see the
+131.04 - difference those intervals will show you
+133.88 - different kind of results which will
+136.16 - show you how stresses how like different
+139.80 - those results will be and it will show
+142.04 - you um hey if you do this it will give
+145.24 - you this kind of result into so you
+146.92 - think it's best to back test a bullet
+148.96 - strategy during a Market stress usest
+151.08 - because it's just you want the you want
+153.32 - as much of a tradeoff as you can get
+155.28 - exactly okay let's go next slide
+158.28 - Beth so we did a study we looked at a
+160.72 - bare Market on the interval chosen was
+163.20 - the inflation induced bare Market from
+165.40 - January to October of 2022 that was a
+168.40 - pretty
+170.12 - decent uh that was a pretty decent
+172.36 - selloff I mean that was a pretty
+174.52 - negative year pretty decent selloff um
+177.64 - spy 45 days to expiration 30 Delta short
+180.88 - putut 50 Delta short putut and the 20 30
+184.68 - Delta short putut spread so what you're
+186.56 - trying to do is you're trying to test
+188.84 - out bullish strategies in a bare Market
+191.72 - in a bare Market exactly okay stretch
+194.32 - those uh bullish strategy in bare Market
+196.56 - you did not manage early on these no no
+198.76 - management okay can you manage early
+201.08 - with this back testing softare exactly
+202.68 - these software is so easy you can modify
+205.48 - to any extent you want you can manage a
+208.12 - you can manage a 50 uh percent of profit
+211.36 - you can manage everything you want
+213.60 - beautiful let's go to the next
+216.20 - slide okay so and this might be a little
+220.84 - hard to read for people I have another
+223.12 - version right in front of me but um uh
+226.64 - hopefully you can hopefully it looks you
+228.44 - can see it um take us through what you
+231.68 - have here Gad um the results of the
+234.64 - strategy in terrible market conditions
+237.76 - yeah so sorry so when you go to these
+240.52 - terrible uh be market conditions you see
+242.88 - short 50 short ports it you show
+245.32 - negative if you go to pnl Total pnl yeah
+248.60 - it's almost like 4500 negative if you go
+252.32 - to 30 Port 23 negative yeah 2300
+257.12 - negative if you go to 20 3020 Delta uh
+260.84 - short put trade and you put this 204 the
+264.08 - protections you will see uh almost 100
+267.84 - negative uh to uh pnl this Trace how bad
+274.24 - this Market was this is for the total
+277.80 - year right total year yeah this is not
+280.60 - for trade basis this is everything
+282.48 - combined everything combined yeah if you
+285.04 - combine everything this Market in this
+286.80 - interval this what you
+289.08 - got yeah okay I got it and if you go to
+292.76 - the next average also a p per
+295.72 - trade no go back Beth one second so the
+299.44 - first one total yeah the first one's
+301.44 - total the second one's average per trade
+303.40 - trade the max drw Downs these are new
+306.44 - new uh features we added on back testing
+309.44 - which will show you um how that your
+312.64 - marks your percentage marks draw Downs
+315.44 - so what's interesting here is that if
+317.44 - you sold this put spread long short the
+319.92 - 30 Delta long the 20 Delta you lost $224
+322.52 - per trade but if you did it
+326.76 - and and you sold the $3 put it's only4
+329.72 - $165 per trade it almost feels like you
+333.16 - won even though you
+334.76 - lost well you only lost
+337.56 - 22% um of return you know your return on
+340.44 - Capital was NE 22% when the other ones
+342.88 - were minus almost 40 4 yeah that's
+344.80 - pretty interesting that's my take away
+346.08 - from that all right now let's go next
+347.36 - page
+348.56 - Beth so the bull market same exact thing
+351.68 - right
+352.88 - exactly and this is the post-pandemic
+355.04 - Surge from it's basically may20 to
+360.92 - yeah uh same thing so now we're going to
+362.72 - look at the exact opposite opposite yeah
+366.68 - let's go here Beth next
+369.28 - slide okay if you go straight to the
+371.88 - return on Capital you will see that data
+374.12 - put it's over
+376.32 - 100 return on Capital if you go to 30
+379.60 - data put it's 69 or 70 and if you go to
+383.64 - Delta 30 and you put 20 for the
+386.44 - protection it will be 136
+389.92 - uh percent return on Capital these on
+393.12 - the side of the bull market when the
+395.80 - market is good so what do you
+398.80 - expect I
+400.88 - mean based on this I can't believe S&P
+404.72 - are up nine points now I know wow what a
+407.40 - little turnaround hasda up
+409.36 - 97 um not sure what just happened but
+413.40 - interesting
+416.56 - um what my my takeaway from this is
+421.40 - if you sold the 30 Delta puts regardless
+423.40 - of the market condition you did way
+425.20 - better better in the bull market than
+426.68 - you did bad in the in the bare Market
+429.08 - the bare Market exactly so the strategy
+431.72 - is just sell 30 Delta puts and close
+433.24 - your eyes
+434.04 - forever and remember there's no
+436.48 - management there's no Management in
+438.48 - these strategies you just put there with
+441.44 - the whole risk in included yeah I mean
+445.00 - it's really interesting that you know
+447.52 - how it it really the
+450.60 - losses were a fraction of the gains MH
+455.32 - exactly you know um in in both periods
+458.20 - that's that's pretty damn interesting um
+460.96 - and this one of the importance of this
+463.28 - uh back testing tool it will show you
+466.32 - all as I said both angles I mean both
+468.44 - Corners in bare Market what will you
+471.48 - expect to get in your portfolio as
+473.64 - return in bu Market what do you expect
+475.92 - to get in in your portfolio as return
+479.12 - capital
+481.20 - got it okay let's go to the last slide
+484.04 - Beth takeaways the back testing tool
+486.40 - allows users to simulate and evaluate
+488.96 - various trading strategies using
+491.00 - historical data by identifying
+492.36 - strategies that perform well in
+493.76 - challenging conditions Traders can build
+496.16 - more resilient portfolios and using
+497.96 - multiple Market scenarios including both
+500.28 - typical and extreme conditions a
+501.92 - comprehensive view of the strategies uh
+504.16 - it gives you a comprehensive view of the
+505.60 - strategy's potential Effectiveness and
+508.00 - again like I said my main takea away
+509.80 - from this was just that in the bare
+512.08 - Market you lost money in the bull market
+513.32 - you made money but you made three times
+514.52 - as much money so wasn't that bad um
+518.68 - that's fun Gad that was a fun piece yeah
+520.68 - thank you for coming in yeah also you
+522.00 - have to add like it's free for any
+524.04 - everyone who have a tasty TR account oh
+527.08 - don't tell that to Tony because we're
+528.20 - charging
+530.08 - him making a lot of money off him okay

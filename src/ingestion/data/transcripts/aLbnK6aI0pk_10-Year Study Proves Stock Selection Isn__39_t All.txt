@@ -1,0 +1,165 @@
+0.16 - why strategy over product why strategies
+3.88 - over product so in our research we
+5.92 - consistently
+8.08 - emphasize the significance of focusing
+10.20 - on strategies rather than individual
+11.60 - products we aim to illustrate that in
+13.52 - liquid and efficient markets the the
+16.44 - controllable elements across different
+18.52 - products are implied volatility of
+19.88 - notional value as opposed to the
+21.80 - unpredictable nature of price movements
+24.68 - one of the things that I talk about all
+26.12 - the time in different lectures that I
+27.76 - give and in different um
+30.52 - discussions and things that we teach
+32.16 - just in general about entrepreneurship
+34.40 - and business and trading is most
+37.12 - important thing you can do Mr Batista
+39.76 - control the things you can
+43.52 - control the things that you can't
+46.00 - control like what is the stock going to
+47.60 - do today or tomorrow or next week you
+50.68 - have no control over that what you do
+53.44 - have control over is the strategy that
+56.00 - you're going to use the strikes you're
+57.20 - going to select the duration you're
+58.36 - going to do the current level volatility
+61.12 - all those things are under your control
+62.92 - MH that's control what you can control
+65.28 - is really what you're saying here it's
+66.40 - the entry for in life worry about the
+69.16 - things that you can control don't worry
+71.48 - about the things you can't control
+72.64 - there's nothing you can do just worry
+74.56 - about the things you can
+76.24 - control this segment intends to update
+79.12 - and illustrate how this strategic
+81.04 - mindset can be applied to liquid
+83.24 - products and the reason we care about
+85.20 - liquid products is be care we care about
+86.76 - you being able to get in and out and we
+88.72 - care about the derivatives pricing to be
+91.76 - efficient across various asset class
+94.36 - classes prompting the question why
+97.44 - prioritize strategy over product let's
+101.56 - go to the next slide so we did a study
+103.84 - um four different underlying spy Q's TLT
+106.12 - and gold 10 years of research 60 Delta
+108.96 - triangles and we also shorted the 30
+110.68 - Delta put as a separate test we looked
+114.08 - at 45 days to expiration manag in 21
+116.12 - days because we know the short 30 Delta
+117.84 - put performed really well over the last
+119.92 - 10 years since 2014 we compared the
+122.64 - average profit as a percent of the
+124.32 - premium collected we looked at the win
+126.40 - rate the worst loss as a percent of the
+128.96 - premium collected and the average p&l as
+131.72 - a percent of buying power so for our
+134.64 - claim of why strateg over product and
+136.40 - product indifference to be considered
+138.36 - valid we need to see the following in
+140.16 - the results since the Delta of the
+141.80 - strangles is all the same the win rates
+144.04 - must also be similar and the size of the
+145.80 - average profit and the percent of the
+147.84 - premium and the worst loss per of the
+150.36 - premium should be similar across all
+151.68 - underlyings since products do vary by
+153.84 - implied volatility and notional value
+155.52 - looking at profit and loss as a premium
+158.04 - as a percent of the premium collected
+160.56 - normalizes the implied volatility and
+163.00 - the notional differences takes those
+165.24 - right out of the study so regardless of
+168.84 - the underlying with slight variance we
+171.04 - tended to see the win rates between 70
+173.08 - and 73% of the 16 Delta triangle and the
+175.64 - average profit between 7 and 10% is a
+178.20 - percent of the buying power um the
+180.72 - average loss between 9 and 15 times and
+183.76 - the average pnl is a percent of buying
+185.44 - Power Ranges to 310 to 510 of percent
+189.04 - this is all just going to this is all
+191.40 - going to validate the whole concept of
+193.64 - this is why we choose strategy over
+195.44 - product because the product the cued the
+198.32 - Spy the bonds and gold it didn't really
+201.92 - matter the win rate was all the same the
+204.16 - average profit as a percent of Premium
+206.00 - was pretty close to the same the worst
+208.16 - loss pretty close to the same and the
+211.20 - average p&l as a percent of buying power
+213.52 - all really close to the same now could
+215.48 - those vary from year to year could the
+217.24 - worst loss as a percent of the premium
+219.08 - because because that probably happened
+220.64 - on August 5th be be something different
+222.88 - in TLT and gold in 2025 of
+225.60 - course but the point here is it's close
+228.20 - enough and strategy over Direction too
+230.80 - it's just so much easier to do the
+232.08 - strategy than it is to pick the
+233.56 - direction yes so even by selling a short
+236.84 - even by selling the short putut it falls
+239.20 - the suit we tended to see the win rates
+240.84 - between 73 and 77% this a big put the 30
+244.56 - Delta put and the average profit between
+246.96 - 16 and 21% again because we've been in a
+248.96 - bull market so when you look here the
+250.64 - win rates 77 77 73 73 I mean and the
+255.76 - average profit as a percent of the
+257.32 - premium obviously it's going to be much
+258.52 - higher in this case because the market
+259.60 - just kept going higher but and the worst
+261.64 - loss is is going to be very similar
+263.84 - because that wouldn't affect that one
+265.20 - big down move but the average p&l is a
+267.68 - percent of buying power significantly
+269.20 - higher to one and a half percent 2% 1%
+272.04 - 1% but that's just because all you do is
+274.16 - sell puts in a bull in a be in a sell
+276.60 - puts in a bull market the point here
+279.08 - being that the spice Q's TLT and gold
+282.76 - were basically all the same let's go to
+285.76 - next
+287.20 - slide these findings strongly support
+290.80 - the prioritization of strategies over
+293.00 - individual products and the concept of
+294.56 - product indifference despite the
+296.60 - significant differences among the assets
+298.40 - studied such as varied prices implied
+300.84 - volatilities correlations and Market
+302.12 - exposures but selling premium with a
+304.20 - fixed Delta on all assets results in win
+306.44 - rates average profits and average losses
+308.88 - that differ by only a small percentage
+311.40 - across all underlines this is really
+316.20 - interesting again because this is what
+318.68 - we Stress Control the stuff you can
+321.44 - control optimize your mechanics do what
+324.96 - we know is the is is the most mechanical
+329.72 - and most optimal thing to strategically
+331.84 - to do and don't worry about the
+333.12 - underlying product those can be chosen
+334.76 - by just levels of implied volatility so
+337.76 - some of the takeaways the fundamental
+339.56 - principle of emphasizing strategy over
+341.48 - individual products in trading and
+343.92 - indifference of product involves
+346.12 - selecting underlying assets based on
+348.68 - preferred notional size implied
+350.12 - volatility correlation and I would also
+352.12 - say liquidity to this this is essential
+354.92 - because the long-term profitability of a
+356.72 - trade is determined more by strategy of
+359.68 - of the then by the specific product
+361.72 - excluding short-term price variability
+364.52 - when the same strategy was applied to
+366.00 - four different underlying classes each
+368.40 - with distinct implied volatilities
+369.96 - correlations notional values and
+372.28 - profitability metrics were consistently
+374.72 - similar across all it's just listen this
+378.28 - is what we do

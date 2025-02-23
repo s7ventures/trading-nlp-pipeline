@@ -1,0 +1,18 @@
+0.16 - why do put spreads trade cheaper than
+2.04 - call spreads why s nor why it's strictly
+5.72 - because of skew so in all the index
+8.80 - products the puts are more expensive
+11.12 - than calls it it just if you think about
+13.20 - it out of- the money puts are very
+14.72 - expensive so if you sell one put and buy
+17.12 - another put you're paying a lot for the
+18.04 - out of money put that makes put spreads
+19.32 - cheaper so if you're looking to buy a
+20.80 - put spread they are cheaper if you're
+22.28 - looking to sell a put spread they are
+23.68 - cheaper and if you're looking to sell a
+25.68 - call spread they're more expensive if
+26.80 - you're looking to buy a call spread
+27.80 - they're more expensive in index products
+29.72 - right primarily an index products only
+31.56 - it's all because of the pricing skew

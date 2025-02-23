@@ -1,0 +1,327 @@
+0.08 - right well modern portfolio Theory it's
+2.04 - been a few decades Tom it's been a few
+4.00 - decades since uh this thing's been
+6.24 - updated I think it's overdue what do you
+7.64 - think it's ironic and we're gonna I'm G
+9.32 - to kind of skip over the the backstory
+11.56 - uh you know uh well actually no let's
+13.24 - just let's get into it John hit us on
+14.44 - the intro slide so let's not jump the
+16.28 - shark here uh uh too quickly okay so
+19.04 - modern portfolio theory is one of the
+21.00 - core pillars of academic finance and has
+23.20 - been so for many many decades which is
+26.20 - ironic in and of itself if you just kind
+28.04 - of read that sentence with claim to fame
+31.00 - being a mathematical construction of the
+32.80 - optimal weightings between risky assets
+35.08 - to achieve the best balance of risk and
+37.16 - return but modern quote unquote modern
+40.40 - portfolio Theory does not include any
+43.88 - type of derivatives so if it did could
+47.76 - it be improved so gentlemen my question
+50.36 - for you here this morning is do you
+52.04 - think you can even have something in
+55.00 - 2025 titled modern portfolio theory that
+59.16 - does not incl include derivatives no I
+61.76 - wouldn't say I would say no also I had
+63.84 - to think about that though I mean I I
+65.64 - completely agree I completely agree with
+67.56 - you I mean in the world that we live in
+69.28 - now and especially I mean the retail
+71.64 - Trader retail investor access that we
+73.40 - have to the platforms and the technology
+75.12 - and the products it's like man I you
+77.24 - know I don't know how you can still have
+78.88 - something called modern portfolio theory
+80.96 - that essentially hasn't changed for for
+82.92 - many many many decades and that's
+84.84 - exactly what we're going to talk about
+86.00 - here this morning is if we did begin to
+88.92 - include something like derivative
+91.64 - exposure into our portfolios how would
+93.84 - modern portfolio Theory change now I
+96.36 - know and I mentioned this from time to
+97.88 - time when I think it's applicable there
+99.76 - are a lot of graduate students doctoral
+102.84 - students that watch our content that
+105.72 - have reached out to me about various
+107.92 - things over the years if you are a
+109.96 - graduate student right now or you are a
+111.88 - doctoral student right now and you are
+113.68 - trying to think of a disputation or
+115.40 - thesis topic this is something to put in
+118.04 - the old back of the Noggin that could be
+120.56 - an option for you so something like this
+123.76 - that could kind of update what we've you
+126.04 - know been using for many many decades
+127.68 - just a shout out there to our our
+129.20 - academic students that might be out
+130.96 - there all right so John Hennis here on
+132.44 - the next slide so this is here's kind of
+135.92 - the cou d' gr here's kind of the claim
+137.40 - to fame here's kind of like the the
+139.48 - Jared gof right of academic Finance the
+143.72 - Capital Market line so in modern
+146.76 - portfolio Theory what you're essentially
+148.92 - trying to figure out is what is the
+150.68 - optimal ratio between two risky assets
+154.48 - so you have a portfolio that's two risky
+156.92 - assets you have risky asset a and risky
+159.20 - asset B and you're trying to figure out
+161.68 - you know what is the optimal combination
+163.72 - of these two Assets in my portfolio well
+166.12 - here is what modern portfolio Theory
+168.20 - essentially shows us and I'm skipping
+169.92 - over a bunch of steps I'm skipping over
+171.64 - like you know risk-free rates I'm I'm
+173.52 - skipping over like betas tangential
+175.60 - lines I mean all that stuff is here but
+177.48 - I kind of want to get to the to the meat
+178.80 - and potatoes if if you look at the
+180.40 - portfolio return on the y- AIS and the
+182.56 - portfolio risk on the x-axis what you
+185.00 - see in a portfolio construction is kind
+187.68 - of this funny looking curve like this
+189.36 - backward bending curve that kind of
+191.44 - shows you what the weightings between A
+193.20 - and B would look like well here are some
+195.12 - important points and observations about
+197.76 - this curve again this is standard modern
+200.44 - portfolio theory that at time I think
+202.28 - this was developed in the 50s in the
+204.36 - 1950s Tom it's been 70 years 70 years
+207.96 - this thing hasn't changed what do you
+209.20 - think about that for somebody who likes
+210.60 - a lot of change I think is his point I
+213.28 - I'm okay with change yes I'm has changed
+216.44 - in 70 years I'm not a purist that's so
+219.32 - that's so surprising to me you're you're
+221.20 - so I mean for being for being as old as
+225.04 - you are the fact that you're so open to
+227.16 - change is man that's really a testament
+229.20 - to you I got to give it to you I don't
+231.72 - that be the only thing we give him
+232.84 - portfolio return portfolio risk okay two
+235.80 - points number one in portfolio theory in
+238.60 - portfolio Theory you always have what
+240.48 - it's referred to as the minimum variance
+242.56 - portfolio so there are a lot of
+244.44 - conservative investors out there a lot
+246.00 - of conservative Traders out there that
+247.56 - they kind of want to know all right
+249.52 - where's the point where I can achieve a
+251.96 - modest level of return but really take
+254.64 - my risk down to the lowest possible
+256.68 - level like what is that point where does
+258.84 - that exist well that of course is going
+260.40 - to be on this curve you see that right
+261.80 - there as the minimum variance portfolio
+264.44 - then the green segment the highlighted
+267.08 - green segment that is above that
+268.72 - portfolio these are going to be all the
+271.00 - combinations between asset a and asset B
+274.84 - that offer you an optimal balance
+277.56 - between risk and return because if you
+279.32 - look at that graph you always want to
+281.40 - move if you could you always want to
+283.48 - move to the upper left you always want
+285.92 - to move to the northwest of that graph
+288.68 - you always want to go higher on the Y
+290.60 - AIS to improve your return and you want
+292.72 - to go lower on the xais so to the left
+295.32 - to reduce your risk but because of the
+298.08 - various standard deviations and the
+299.76 - various you know risk parameters of the
+301.16 - two assets there's only so much you can
+303.20 - do you can't just Peg your portfolio
+305.04 - with all returning no risk that's not
+306.84 - possible of course but when you think
+308.68 - about the green line that's on this
+310.68 - curve this is where you want to live in
+313.48 - modern portfolio theory that is referred
+315.96 - to as the efficient Frontier because all
+318.72 - of those portfolios are efficient none
+321.20 - of them are dominated from a risk return
+323.84 - standpoint any dot on that green line is
+326.96 - going to give you the best possible
+329.72 - breakdown and combination of risk and
+331.36 - return in your portfolio and you you
+333.48 - decide how much return you want per unit
+335.68 - of risk very similar to how we might
+337.52 - look at like a Delta Theta ratio you
+339.48 - know as an active Trader very similar
+341.28 - idea okay so this is old modern
+343.48 - portfolio the okay so John hit us on the
+345.44 - next slide this is where it starts to
+346.96 - get very very interesting if we add
+348.64 - options to the MX to the mix we can kind
+351.32 - of create for ourselves an option
+354.28 - Frontier so we could so there's two
+356.72 - things that we can do we're going to see
+357.72 - the first one on this slide we're going
+358.72 - to see the second one on the next slide
+360.96 - when it comes to first and foremost
+362.68 - reducing the risk of your portfolio I I
+364.72 - know you guys are both going to agree
+366.00 - with me sometimes on these Monday
+367.32 - mornings you know we don't agree
+369.48 - sometimes hit or miss it's Hit or Miss
+371.80 - sometimes it's very it's more Miss than
+373.88 - hit but yes it's it's certainly both yes
+376.16 - correct I think we're all going to be in
+378.24 - agreement I think we're all going to be
+379.88 - on the same page this is something that
+382.00 - I think it's overlooked so much in the
+384.04 - derivative space when you add derivative
+387.68 - exposure to your portfolio like short
+390.00 - options for example it is so easy and
+393.56 - simple to reduce the risk of your
+397.16 - portfolio to reduce the overall
+399.76 - portfolio risk that you're exposed to
+402.00 - and I think this is something that a lot
+403.92 - of people Miss would you guys agree with
+405.60 - that as just a general statement yeah I
+407.24 - mean you can't you can't not right I
+408.60 - mean you guys just answered an email a
+409.88 - couple days ago I was watching confirm
+411.80 - and S I saw the email that came in and
+413.20 - the guy had um I think he he had like a
+416.68 - 12 or 15% return for the year but his
+419.92 - risk was significantly less and he was
+421.76 - trying to ask you guys if that was if
+424.28 - that was a success or not and what did
+425.80 - you guys say yeah for sure I mean it
+428.52 - depends on how much risk you're taking
+429.76 - but yeah for sure because when you think
+431.40 - about what you know what are we trying
+433.52 - to achieve as you know active Traders
+435.80 - we're trying to achieve higher return
+438.36 - and lower risk now sometimes we have to
+441.16 - choose one over the other of course it's
+442.56 - very difficult to find both at the same
+444.08 - time but both are considered Victory
+447.48 - like both are considered a w
+450.12 - right and so I think that's an important
+451.56 - thing to remember I we get so fixed dat
+453.16 - on returns we get so fixed on making
+454.76 - money and you rightfully so I mean
+456.68 - that's why we're doing what we do but if
+458.56 - you're able to achieve similar returns
+461.12 - at much much less risk then that can be
+464.24 - you know a victory in and of itself
+465.68 - itself and even if you achieve less
+467.12 - returns lower returns which I think is
+469.04 - kind of what he was emailing about you
+470.72 - know 15% relative to s Spy at 25 last
+473.20 - year whatever like that is a that is an
+475.52 - underperformance but if you factor in
+477.52 - the lower volatility it may not be
+479.00 - underperformance perance it may actually
+480.76 - be better right Tom sure I yes answer
+485.08 - for Tom yeah I mean sure I mean you say
+487.48 - of course but I think a lot of people I
+488.96 - think a lot of people skip over this
+490.08 - step I think it's important for us to
+491.56 - kind of slow some things down like let's
+493.64 - control the mechanism here and let's
+495.16 - make sure we understand you know that
+497.32 - that taking that risk is a big is a big
+499.28 - thing too I agree you're taking you're
+501.60 - taking little liberties with patting
+502.84 - yourself on the back here or at least
+504.40 - talking about it not yourself you but
+506.44 - yeah I agree I agree this what you're
+508.60 - supposed to do I liked our answer better
+511.88 - just so you know our answer was that
+514.48 - benchmarks can be misleading because
+516.64 - you're not competing against a benchmark
+518.60 - you're competing against the amount of
+520.80 - risk that you're taking but that's what
+522.64 - he's quantifying it here with right I
+524.36 - mean I understand a little bit
+526.52 - yeah no I mean of of course I mean you
+529.28 - are absolutely uh benchmarking against
+531.68 - the number of of the amount of risk that
+533.48 - you're taking but that and that's kind
+534.84 - of what I'm trying to say here this
+536.16 - morning at least on this slide I think
+538.32 - so many people you know benchmarking to
+540.40 - a major index I mean it makes some sense
+542.16 - at least at you know a base level just
+544.20 - kind of thinking in very simple terms
+546.04 - but then you have you have to go the
+547.52 - next step you have to quantify the
+549.56 - amount of risk that you're taking the
+550.76 - option Frontier minimum variance more
+552.96 - full it's going to be even lower risk
+554.20 - okay John here us on the next slide but
+556.76 - what if we look at an even different
+558.96 - scenario where now you have a portfolio
+562.88 - where because of the added derivative
+565.84 - exposure because of the added options
+568.16 - you have the opportunity for not only
+569.92 - lower risk but higher returns because
+573.20 - now you have a more strategically
+575.20 - Diversified portfolio because now you
+577.48 - have other ways to make money that are
+579.28 - not just tied to the directional
+581.20 - exposure of the overall Market where you
+583.08 - know on passively passively Long Market
+585.52 - goes up everybody's happy Market goes
+587.36 - down everybody's sad I mean it's very
+588.72 - simple straightforward and I guess
+589.92 - that's a benefit but it doesn't really
+591.92 - give you a lot of strategic flexibility
+594.12 - with the option Frontier right and with
+596.16 - added derivatives to your to your
+597.52 - portfolio it's just we we all know this
+599.72 - we're kind of beating a dead horse but I
+601.08 - just think when it comes to the
+602.36 - connection to ecademic finance when it
+604.32 - comes to the way that most traditional
+606.44 - you know uh investors and money managers
+608.68 - think you know even if they go as far as
+610.80 - you know go go as deep into academic
+612.40 - Finance into something like modern
+614.20 - portfolio Theory you know they're going
+616.04 - to run into some problems they're going
+617.24 - to run into some some difficulties in
+619.12 - kind of connecting that to the markets
+621.48 - that we that we trade today and the and
+623.28 - the Global Financial Marketplace as we
+625.44 - have it in 2025 where we have things
+627.60 - like options Futures options Futures Etc
+630.60 - that really I mean this may all look
+632.28 - like a bunch of like you know
+633.40 - theoretical hand waving and whatever but
+635.96 - it's actually very simple to get to that
+638.08 - dash line today it really is just by
+641.12 - adding you know short put exposure in
+643.40 - place of long shares I mean you know
+644.96 - short strangles to get neutralized
+647.00 - exposure like things like that are going
+648.80 - to allow you to minimize your uh risk
+651.28 - while also possibly potentially
+653.24 - increasing your returns and so this is
+655.32 - how we update modern portfolio Theory
+657.80 - gentlemen you think we did an okay job
+660.72 - yeah I mean I think I think modern
+662.44 - portfolio Theory needs needs to be
+665.00 - updated I think it's time you can own it
+667.96 - after 70 years because a moment ago you
+670.00 - said it was fine people probably just
+671.48 - weren't paying attention that's all no I
+674.12 - I think modern portol theory is fine I
+676.40 - just think it need we just what he
+678.04 - mentioned to start this off with it
+679.68 - needs to be updated so for few theories
+683.48 - have contributed more to portfolio
+684.88 - analysis than modern portfolio Theory as
+686.72 - it allows investors to conceptualize the
+689.48 - waiting between risky Assets in their
+691.48 - portfolios but perhaps modern portfolio
+693.80 - theory is due for an update as simply
+695.96 - adding short premium to any Equity
+697.76 - portfolio could reduce risk and increase
+700.08 - return

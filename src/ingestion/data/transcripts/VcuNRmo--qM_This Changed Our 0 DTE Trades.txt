@@ -1,0 +1,138 @@
+0.16 - anti-correlation and zero DT we did a
+2.16 - piece on anti-correlation on Friday
+3.80 - which was longer duration and I thought
+5.72 - it was really interesting we got a ton
+6.96 - of feedback so we're going to take it up
+8.84 - another notch and go we're going to take
+10.52 - anti-correlation to the zero DTE does
+12.84 - anti-correlation really matter with
+14.84 - respect to zero DTE trades does the vix
+17.12 - matter when it when it relates to the
+18.84 - snps with respect to zero DT trades
+21.16 - let's take a look so the market and
+22.60 - volatility are generally anti-correlated
+24.32 - when one Rises the other Falls right the
+26.24 - Market's falling a little bit today and
+28.36 - the vix Futures are falling a little bit
+30.24 - today so unchanged right now yes so
+32.40 - right now we got a problem Houston we
+34.56 - got a problem we're in that 20% range
+36.92 - yes it's a muted move while the effect
+39.12 - is strong it's not absolute in practice
+41.12 - all four combinations for spy and vix
+44.28 - rising and falling are possible every
+46.12 - Market open is exciting time for the
+47.80 - zero DT Traders as they try and
+50.12 - determine the best position to take or
+52.64 - adjust how have short premium zero DT
+55.68 - positions fared based on overnight moves
+58.52 - in the spy and the vix is that a
+60.56 - question that's a question without a
+62.40 - volatility component to it o without a
+64.72 - volatility component to it slight winner
+66.84 - with big outlier moves how have short
+68.72 - premium zero DT positions fared based on
+72.08 - overnight moves in the SPX and the vix
+74.48 - let's take a look and then we're going
+75.68 - to look at them if they're correlated or
+77.40 - not 18 months worth of data we're doing
+79.60 - zero DT strangles we can buy the wings
+82.12 - it's you'll see it here you can just
+83.72 - reduce the p&l by $10 if you if you're
+85.92 - buying Wings all trades were closed to
+87.84 - 25% of Max profit or held to the end of
+90.36 - the day if you didn't have any profits
+91.92 - we contrasted the overall Performance
+93.76 - Based on directions of the preceding
+96.16 - night's move in the spy and the vix and
+98.76 - all trades were assumed to be exercise
+100.24 - at Mid price so last night for example
+102.92 - was pretty pretty flattish you know the
+105.20 - S&P really move and the the spy and the
+108.08 - vixs were pretty flat overnight so it
+109.92 - would be hard to say but sometimes you
+111.88 - do get most time you get decent sized
+113.68 - moves overnight let's go to next slide
+115.44 - first we looked at
+117.20 - 378 occurrences over the last 18 months
+120.64 - and we determined that 35 Delta
+122.88 - strangles 25 Delta strangles and 15
+125.72 - Delta strangles worked no matter what
+127.96 - happened but daily pnls obviously the
+130.48 - bigger ones worked better and the SAR is
+132.76 - like what's your worst case they're all
+134.24 - kind of in the same ballpark so the zero
+136.12 - DTS have generally been working as a
+138.04 - strategy if you take them off at 25% of
+140.36 - Max profit right we're kind of more
+141.84 - around that middle column that 25 Delta
+143.92 - here we're going to look at the SPX down
+146.12 - and the vix up because remember they're
+147.76 - inversely correlated right so there's
+149.64 - 100 and what that say 137 occurrences of
+153.08 - SPX down vix up out of 380 that's how
+156.24 - shows how kind of strong the market spin
+158.44 - when the SPX is down and the vix is up
+160.92 - which is fairly normal your win rate is
+163.04 - across the board super high your daily
+165.88 - p&l super good and your c bar actually
+168.88 - better than just on all the other
+170.24 - occurrences so why do you think that is
+173.00 - why the numers so good for SPX down vix
+176.04 - up because you're selling into vix
+177.56 - strength into the into the into the one
+179.96 - day I would imagine yeah I think so too
+181.84 - I I think because usually they rally
+183.92 - that's what I think this is the SPX up
+186.20 - vix down there are 92 occurrences here
+189.04 - and the reason that this is interesting
+191.28 - first of all I'm surprised by there's
+192.24 - only 92 occurrences and second one with
+193.88 - this is is the win rates are a little
+196.00 - bit lower not significantly lower the
+197.56 - win rates are lower but what's
+199.04 - interesting here is that the daily p&l
+201.68 - on all of these is down is a negative
+203.88 - number what they're basically saying is
+205.64 - when the vix is up do the zero days when
+207.84 - the vix is down don't touch them right
+209.92 - when volatility is low when the SPX is
+212.32 - up and the vix is down this AR this is
+214.44 - my argument for the vix one day same
+216.80 - exact thing this is the whole freaking
+218.40 - argument because um when you're doing
+220.72 - the vix one day it doesn't make any
+222.68 - sense when volatility is low just
+224.48 - doesn't work vix up SPX up surprising a
+227.64 - lot of occurrences this vix up SPX up
+229.80 - when the vix is up you make money what's
+231.76 - so interesting about this study is that
+233.76 - vix up you make money vix down overnight
+236.04 - you lose money the SPX doesn't really
+237.84 - matter down vix down this one there's
+240.84 - only 19 occurrences and this is the one
+243.28 - that threw me off this slide cu the SPX
+245.64 - the SPX down vix down the win rate was
+248.92 - 100% in all 18 occurrences and the
+251.64 - average p&l was huge seems weird to me
+253.92 - how much different it is so basically
+255.76 - premium came in on a down move no cabar
+258.00 - because there's no losers over the past
+259.68 - 18 months selling zero DT premium was
+261.48 - generally successful when the vix fell
+263.20 - overnight and the xros overnight down
+265.72 - moves in SPX accompanied Contracting vix
+268.56 - very rarely about once a month trades on
+271.24 - dates following those were extremely
+272.48 - successful but the sample size is too
+274.04 - small to draw conclusions the efficient
+275.84 - market hypothesis tells us not to put
+277.48 - too much weight into this recent chart
+278.96 - action while making our trading
+280.48 - decisions but for highly active zero GT
+283.28 - option sellers looking for overnight
+285.40 - Rising vix regardless of XX movements
+288.44 - looks like a good place to start what's
+290.80 - your takeaway from this selling to
+292.92 - strength in volatility yes sell into
+295.76 - volatility strength

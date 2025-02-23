@@ -1,0 +1,176 @@
+0.16 - 2024 we did the best Market measure part
+3.24 - one yesterday we are doing part two
+7.00 - today the best time of the day to buy
+10.72 - and sell does intraday seasonality
+14.20 - exists statistically which five minute
+16.84 - bar is the weakest during the day for
+18.60 - the S&P 500 using 15 years of market
+21.72 - indices and Futures ETFs 11 years of
+24.92 - vix um we C we first covered or I'm
+30.00 - sorry we first convert the 5 minute
+31.88 - price and volume bars into an intraday
+34.16 - percentile then we calculate the average
+36.28 - of these percentiles for each symbol to
+37.68 - get their intraday strength as well as
+40.20 - their monthly and overall strength what
+42.88 - we
+43.72 - found was that
+46.08 - low am and high we found a low am and
+49.72 - high PM rule market indices tend to be
+53.16 - lower in the morning and stronger in the
+55.52 - afternoon buy them now
+57.88 - bat that's right buy them when you can
+60.92 - vix tends to be higher in the morning
+63.96 - and weaker in the
+65.84 - afternoon yes as time goes by there's
+68.28 - less risk
+70.52 - sure now I'm going to say something
+72.68 - about lower in the morning and higher in
+74.88 - the afternoon that is a very
+79.00 - typical byproduct of bull
+82.36 - markets in bare markets it's the exact
+85.20 - opposite so don't get fooled by the bull
+87.16 - market bare Market thing the reason that
+89.48 - this the last 15 years we've been in a
+91.20 - bull market and in Bull markets you open
+93.84 - lower and go
+95.36 - higher in bare markets which we haven't
+97.76 - had for a long time you open higher and
+99.48 - go lower so this is a bull market
+103.48 - phenomenon but we did study this because
+105.88 - this is remember the best of
+108.72 - 2024 and 2024 was a bull yes and on
+112.92 - average the best time to buy the dip or
+114.76 - manage a short position is around 10:30
+118.16 - to 11:00 Eastern Standard time or that
+121.16 - would be 9:15 right now MH to 10 central
+128.12 - time it's when the market is weakest
+131.04 - right now bat close your eyes and buy
+132.68 - them this heat map shows weak in the
+134.80 - morning strong in the afternoon for
+136.56 - market indices and it shows the exact
+138.36 - opposite for the vix The Greener The
+141.36 - Greener the higher the price of the day
+144.24 - so that's that's all that is just just
+146.84 - um it's a heat map for all market
+149.04 - indices in vix Futures the average
+150.96 - 5minute percentile crosses around 12:55
+153.72 - Eastern Standard Time which is noon in
+155.96 - Chicago the vix surrenders around one
+158.56 - Eastern stand time because they're
+159.80 - inversely correlated this is noon in
+162.60 - Chicago again this is why you got to be
+166.36 - careful with those zero DTS and the
+168.04 - upside risk at the end of the day in
+169.68 - Bull markets and being long volatility
+172.64 - going into the end of the day this is a
+174.44 - U-shaped volume curve um in the middle
+177.16 - of the day it's lowest and the market
+180.56 - volume decelerates from morning to noon
+182.32 - and then it re accelerates in the
+183.52 - afternoon this was a fun piece and and
+186.60 - that's why we like to trade when it's
+189.24 - busiest morning and close but to be fair
+192.36 - it doesn't matter much anymore let's go
+193.96 - to the next slide it doesn't matter much
+195.20 - anymore because of Technology yeah
+197.08 - technology has kind of technology has
+199.72 - has changed that game dramatically the
+202.00 - possible theory behind the buy the dip
+203.96 - morning momentum lighter volume easier
+206.68 - accumulation nah I I know what they're
+209.12 - writing here but I don't like it I think
+212.12 - that the reason for it is is that it's a
+215.36 - it's just simply a bull market
+219.40 - phenomenon there's also an argument that
+222.16 - there's macroeconomic data releases and
+224.68 - that lighter volume means e easier uh
+227.60 - accumulation but I'm not buying it um
+231.40 - volatility tends to peak in the morning
+233.00 - and decline in the afternoon fear is
+235.00 - often overstated and as the day goes on
+237.72 - people become less fearful it's like
+239.32 - anything else you hop on a roller
+241.80 - coaster you're scared to death once you
+244.00 - get up to the top and you start going
+245.44 - down you're like yeah it's nothing yeah
+247.84 - hop in a wh Mo you're not so sure about
+250.96 - what to expect there you go Si off you
+253.44 - just did it yourself and you know what
+255.80 - in the middle of the ride you forget
+257.16 - you're even in a weo and by the end of
+259.16 - the ride you say you know what I'm gonna
+260.60 - do that
+262.16 - again I'm not building any more bridges
+265.40 - there you go this is a correlation heat
+267.84 - map it's just a little a different way
+269.96 - of looking at it um but it's the average
+274.48 - price percent on the time confirms a
+276.52 - weak a. and strong PM again this is a
+279.32 - bull market pattern and don't think that
+281.92 - it will last into perpetuity but until
+285.04 - the market rolls over so far so good mhh
+289.52 - and the inverse for volatility um in
+292.24 - December we saw the vix and the market
+296.60 - um act a little differently than it's
+297.88 - acted the whole rest of the year the
+299.44 - rest the year was really bullish and we
+302.28 - didn't we basically didn't have a down
+303.72 - tick all year but starting in December
+306.04 - and we had a little bit more two-sided
+307.44 - action and actually the Market's down a
+309.72 - little bit for the last couple of weeks
+312.00 - so that is true welcome to a two-sided
+315.20 - Market a choppy December can we predict
+317.44 - what's next not really but we know a
+320.20 - couple things a we know that January
+322.68 - tends to
+323.76 - be among the highest volume months part
+326.72 - of it's because of leap options part of
+328.88 - it's because of people come back after
+331.28 - you know they're all fired up and ready
+332.92 - to go clean slate everything else um but
+337.24 - January shows that the vix tends to be
+338.96 - strongest around until around 10:15
+342.24 - eastern time and then it gradually
+344.12 - declines by
+345.48 - 12:25 starting in January the vix is
+347.96 - overtaken by all the major market
+349.44 - indices and goes the opposite way that's
+351.40 - just the same chars we've been showing
+352.60 - all along really interesting though
+355.00 - beautiful picture how about February
+356.80 - along with November febru no along with
+359.92 - November February is statistically one
+361.96 - of the best months to buy the morning
+363.48 - dip and here's a little just historical
+366.44 - evidence to that these months often see
+369.40 - the vixs morning Bluff early volatility
+372.64 - fade creating opportunities over the
+375.04 - last 10 or 15 years we've had some
+377.64 - really nasty end of January early
+380.60 - February of which the market has started
+382.76 - off weak and finished strong the
+384.88 - strongest average percentile of vixs
+386.88 - five minute Bars by month and so we're
+390.24 - looking you know again between that 10
+392.20 - and 11:00 Eastern time or 9 to 10
+394.88 - central time which is right where we are
+397.28 - right now bullish Trend post 2008
+399.76 - financial crisis yes we have been in a
+402.44 - 15-year bull market of which you open
+405.56 - lower and go higher that's just the way
+407.20 - bull markets work every day they try to
+409.36 - scare you a little bit and when the when
+411.68 - when the fear runs out they they they
+414.80 - buy them until your hands
+416.56 - bleed um so timing of by the dip month
+420.80 - specific strategies each month has its
+423.76 - statistically best 5 minute bars and
+426.52 - then low am high PM phenomenon the vix
+431.16 - has the inverse but it has been very
+435.56 - true from September to December and the
+438.84 - best months for buying morning dips
+442.08 - February May June and November I don't
+444.16 - know how that's possible February May
+446.16 - June and November who would have d

@@ -1,0 +1,386 @@
+0.20 - what's up everybody Welcome to the life
+2.52 - cycle of a trade the series where we
+4.76 - break down the thought process behind
+7.12 - trade entry trade management and closing
+10.28 - order in this video we are going to
+12.76 - cover a
+16.21 - [Music]
+18.20 - strangle today I am looking for a
+20.88 - position in DraftKings so DraftKings 38
+23.60 - IV rank it's had a nice little rally
+25.88 - here back it's stayed pretty range-bound
+28.32 - over the last couple months if not year
+31.12 - uh and has high implied volatility it's
+33.32 - a stock that I gravitate toward a lot in
+35.88 - this portfolio in my own portfolio it's
+38.12 - a product I use myself so I like uh to
+40.84 - trade in DraftKings as just a a user I
+43.96 - like to have a position on there but
+45.64 - really the the key to this underlying
+48.20 - and to one of the reasons why I love
+50.32 - trading it is that it constantly has
+52.44 - high implied volatility you can see the
+54.72 - IV the actual raw implied volatility is
+57.40 - about 55% which is a high
+60.44 - volatility it basically means that the
+62.40 - stock is projected based on the option
+64.48 - prices to either go up 50% or go down
+67.56 - 50% over the course of a year so it has
+70.24 - very high implied volatility you can see
+73.24 - it does have P some decent price action
+75.52 - but nowhere near 50% to either side that
+78.76 - would be that would mean 55 on the
+80.76 - upside or or uh you know 20 on the
+84.12 - downside we are well inside that that
+86.48 - expectation and so it means that the
+88.96 - premium here is pretty high Ivy rank at
+91.56 - 37 on the higher end that we see right
+94.80 - now um so I think it warrants a position
+98.00 - so I'm going to go to October the 37 day
+100.88 - you know we typically look to go
+102.32 - somewhere between 30 and 50 days to go
+104.56 - till expiration the reason we picked the
+106.96 - 37 the October uh 18th expiration is
+110.40 - because it's the monthly expiration and
+112.04 - you can see it
+113.16 - highlighted as a more uh vibrant blue
+116.64 - here uh the monthly expirations when we
+118.96 - look at the bit asp in the volume just
+120.92 - to go through some of the things that I
+122.80 - look at volume relatively low we just
+124.96 - opened this morning but you can see that
+126.96 - the open interest on these options is
+129.04 - very very high uh in a in the Thousand
+132.48 - handle you know couple hundreds couple
+134.76 - thousands on each of those strikes when
+136.76 - you go into a weekly and and also the
+139.88 - bid ass spreads right so we have Penny
+142.08 - wide couple pennies wide on either
+143.92 - either strikes when you go into the
+145.64 - weeklys you'll see much less volume of
+148.52 - course you'll see much less open
+150.12 - interest you only got a handful of of
+152.44 - options traded but you'll also see
+154.68 - really wide bid ass spreads so these bid
+156.84 - ass spreads 20 cents wide 30 cents wide
+159.72 - some of these are dollar wide what that
+161.80 - means is is that the prices here for
+164.84 - these options I is much wider it's not
+167.84 - as easy to buy and sell at mostly the
+170.92 - same price as it is with the uh monthly
+173.92 - expiration so here you might sell to
+176.32 - open an option at the 33 strike at 80 2
+180.84 - but when you go to buy it back it might
+182.64 - trade at A110 and that's because these
+185.52 - these markets are wide there's not much
+187.56 - volume there's not much open interest
+189.68 - and so the the prices are not as tight
+192.52 - we're always looking for tight bid ass
+194.92 - spreads because it allows us to get in
+197.36 - and out of positions at a relatively
+200.40 - fair price because you can buy and sell
+204.16 - at relatively the same value here it is
+206.88 - not the case so uh with DraftKings we're
+209.28 - going to go to that October monthly of
+211.32 - course you can see Penny wide markets
+212.92 - couple pennies wide here uh that's
+214.84 - pretty normal so I'm going to look for a
+216.80 - strangle here get some short premium on
+219.84 - I typically like to go somewhere between
+221.56 - a 20 and 30 Delta for me personally from
+224.68 - just a capital uses usage standpoint I
+227.80 - like to sell at least a dollar uh of
+230.64 - Premium on the positions that I'm I'm
+232.84 - taking so for me I would lean towards
+235.64 - like this 34 strike at a 26 Delta on the
+240.28 - upside same sort of thing I want to
+242.48 - collect about a dollar maybe lean a
+244.60 - little bit short the stock has rallied
+246.76 - pretty significantly over the last
+248.36 - couple weeks you do have football season
+249.96 - starting maybe that's a reason um so I'm
+252.64 - going to lean into this 40 strike call
+255.28 - here and do the whole package at $2 and
+257.96 - change you could see another great thing
+260.00 - about this stock and stocks in this
+261.88 - realm low stock price so it's in the 30
+264.60 - handle 36 and change here uh High
+268.64 - implied volatility which means it's
+270.36 - expected to move a lot but the capital
+272.96 - requirement relative to how much premium
+275.48 - you're you're getting here is very very
+277.68 - low so when you think about this from a
+279.64 - potential return on Capital standpoint
+281.72 - it's almost a 50% return on Capital just
+284.48 - getting filled at $2 and change on $400
+287.36 - in buying power the caveat is of course
+290.04 - that buying power can and usually will
+292.80 - change as time passes and if one of
+295.60 - these options goes in the money it can
+297.48 - certainly change there so um it is
+299.76 - something to keep in mind but this as a
+301.88 - as a good beginner type stock to put a
+305.00 - position on uh doesn't use a ton of
+307.12 - capital has high implied volatility
+309.12 - definitely gives you opportunities to
+310.72 - trade this and you can see I've traded
+312.60 - it before uh for decent success so we're
+316.12 - going to try try and Route this at 216
+318.56 - see if we get
+323.12 - filled no fill there cancel and replace
+328.64 - that no 215 let's see if we can get
+335.28 - 214 all right so we're in for 214 on
+338.08 - that strangle we are short the 3440
+340.48 - strangle in the October monthly
+347.36 - expiration all right so we've got an
+349.36 - adjustment to make in our draft King
+352.64 - strangle uh today DraftKings busting
+356.32 - through the 40 handle it's had a nice
+357.96 - little rally up we put put this position
+360.32 - on on the 11th uh $214 credit for a
+364.68 - delta neutral strangle we were doing the
+367.76 - 3440 strangle if we take a look at the
+370.76 - market snapshots if you right click on
+372.80 - that you can see the stock was trading
+374.88 - about 37 so we were two or $ three do on
+377.52 - either side of the stock at that time
+380.28 - the stock has rallied about 4 and a half
+384.04 - to5 since then so it's been a very quick
+386.68 - rally to the upside uh we had that Delta
+389.56 - neutral strangle that strangle now if we
+392.12 - go to the table
+393.64 - here in October is currently in the
+396.88 - money on the call side you could see
+398.52 - we're we're only marked at about a 50 c
+400.76 - 60 C loser at the moment G even into
+404.16 - such a big move in the stock I mean the
+405.84 - Stock's up 10 11 12% since that time
+409.20 - frame uh at this point so we've got 23
+412.12 - days to go till expiration we could
+414.48 - consider rolling this out in time to the
+416.60 - November expiration it does look like
+418.80 - it's projected to have earnings coming
+420.96 - up uh in the in the early part of
+423.44 - November it's not yet confirmed yet
+425.96 - though you'll see a little bell here if
+427.56 - it is confirmed but just given that
+429.64 - volatility is 57% versus
+433.12 - 43% in the front October expiration it
+437.00 - tells you that there's probably
+438.52 - something happening here so the earnings
+441.36 - are kind of baked into that expiration
+443.44 - so I'm going to try to avoid the
+445.08 - earnings for now and just roll up the
+447.48 - put I'm going to roll the straddle here
+449.64 - the 40 strike uh put here so I'll have
+452.60 - the 40 straddle if I do this for a
+454.92 - dollar and change it'll put me at about
+456.64 - a $3 and change total credit on the
+459.52 - position which which would move my break
+461.28 - even all the way up to 43 is 43 in
+465.68 - change and to the downside 37 in change
+468.72 - so um and collect another you know
+471.48 - dollar so so if we sit here at this
+473.84 - price it'll be another dollar that I can
+475.76 - capture over the next um couple weeks
+479.04 - here so
+480.08 - we're going to make this roll up we're
+481.40 - going to try it at 104 and see if we get
+483.96 - filled
+485.84 - here no
+488.48 - fill we'll put this at
+492.96 - 103 all right so we got filled at 103
+495.76 - you can see the order chains update with
+497.56 - that full and new position all the
+500.68 - adjustments that we've done the opening
+502.08 - order and then the new adjustment here
+504.52 - average trade price because we only have
+506.20 - one contract here 317 it's currently
+508.84 - marked at 3 374 so I'm out about $55 on
+512.76 - the trade right now I have this 40
+514.36 - straddle if we continue higher over the
+516.84 - next week or two I'll probably look to
+518.84 - take this out to November uh it depends
+521.48 - on where the stock is at that point but
+523.56 - I can either take it as a straddle or
+526.12 - buy the guts and sell the wings as we've
+528.32 - talked about before where you buy the at
+531.36 - the money premium the at the money
+532.84 - straddle sell a out-of- the- money
+535.08 - strangle and try to do it for a small
+536.88 - credit just to kind of move your break
+538.56 - even points uh but it depends on where
+540.64 - the stock is it depends on what happens
+542.20 - with volatility here maybe a cut gets a
+544.32 - little bit of a pullback that would help
+545.96 - this position maybe I'm able to exit for
+547.72 - a profit we'll see over the next couple
+550.28 - weeks uh if we can get some sideways
+552.16 - action here to roll uh this position out
+554.60 - to
+558.28 - November we have this uh DraftKings
+561.72 - position which we put on on the 11th so
+564.40 - it's been about a month uh this trade
+567.60 - has gone in directions here so you've
+570.80 - had a little bit of a of a sell off so
+573.04 - if we look at the 11th here we were
+574.64 - trading at about 36 I actually had a
+577.48 - little bit of a rally then a little bit
+578.84 - of a sell-off we're kind of right back
+580.28 - to where we've started we've rolled up
+582.60 - the put spread so you can see uh or I'm
+585.52 - sorry we rolled up the put 34 to the 40
+589.12 - strike we did that for a dollar credit
+591.64 - our total credit is 317 marked at 309
+595.52 - gives us a total p&l basically of a
+597.64 - scratch here up just a couple pennies
+600.16 - now the position itself the 40 straddle
+603.80 - which we rolled up into the bigger up
+606.32 - move here so on the 25th uh which was
+609.40 - right here stock was at 41 Stock's now
+612.60 - down $4 from when we rolled up that put
+616.16 - uh it hasn't really hurt us all that
+617.96 - much that put we rolled up for a dollar
+620.16 - it cost us probably about a hundred
+622.24 - bucks on that roll up here but at this
+624.60 - point we only have about 60 cents more
+628.76 - EX iic value to get out of this position
+631.04 - so with 10 days to go till expiration
+633.52 - the
+634.36 - position is trading at $3 and change if
+638.12 - we look at where the stock is right now
+640.44 - at
+641.40 - 2751 the position marked at $3 if the
+645.28 - stock were to stay here we this position
+648.56 - would trade down to
+650.24 - $2.50 because this put would be $2.50 in
+653.36 - the money the call would expire
+655.20 - worthless and so we really only have 50
+657.36 - cents more of value 506 cents more of
+660.12 - value to get out of this position in
+662.84 - terms of of of where the extrinsic value
+665.60 - is right now now if the stock were to
+667.32 - Rally to 40 these options would both
+670.84 - have very minimal extrinsic value at
+673.48 - expiration and thus it could be a much
+675.60 - bigger uh win if that were to happen but
+678.40 - we don't know if that's going to happen
+679.76 - or not it's not something we can play
+681.44 - for here so instead of playing for that
+684.80 - we're just going to take this position
+686.60 - and roll this out to November now it
+688.72 - does look there there will be earnings
+691.40 - coming up at some point here it does
+693.44 - look like it's somewhere in the these
+695.88 - three expirations so November 1 through
+698.36 - the 15th I'm not concerned about that I
+700.80 - don't really that's not something that
+702.28 - I'm worried about I want to lean a
+704.04 - little bit directionally long here uh up
+706.64 - to this 40 handle so I'm just going to
+708.84 - take this position and roll it as a
+711.68 - straddle you'll see we'll do this roll
+714.44 - for a net
+715.92 - $293 credit or somewhere around that you
+718.92 - won't use any additional buying power
+720.84 - when you roll short options short
+722.72 - premium your risk doesn't change so you
+726.08 - still have the same risk as you had
+727.64 - before you're collecting premium which
+729.44 - is reducing the overall risk of the
+731.48 - position and giving yourself more
+733.24 - potential value to capture but the risk
+735.88 - itself you're rolling forward that risk
+738.68 - and so you're not adding any additional
+740.80 - risk here um the position will lean
+745.00 - directionally long so you could see
+746.68 - we're actually taking off um some Deltas
+750.00 - here with this roll because we are
+752.92 - selling uh meteor options here so we'll
+755.84 - only have 20 long Deltas as opposed to
+758.20 - 60 when you look at the Deltas here will
+760.48 - be short 40 Deltas long 60 Deltas net 20
+763.84 - Deltas long so it does reduce some of
+766.04 - our directional exposure we don't need
+767.88 - as much of an up move as we do in the
+770.48 - 10day all those things are good things
+772.64 - and it's time to roll I've been waiting
+774.16 - on this position for quite some time so
+776.52 - we're going to make this roll see if we
+778.24 - can get 29 5 and then we'll um check out
+782.28 - how our order chains
+785.00 - look put this down to
+788.04 - 293 come on no fill there put this down
+793.00 - a
+795.14 - [Music]
+796.32 - penny no fill
+799.20 - there they're really trying to squeeze
+802.50 - [Music]
+804.12 - me 290 there so we got filled at $22.90
+809.52 - credit on this roll to the 40 stradle
+811.68 - we're out in November now our net credit
+814.16 - is going to be
+815.24 - $6.7 which means that our break even at
+818.60 - expiration in the next 38 days is going
+821.28 - to be $6 below the 40 strike put so that
+824.52 - puts us at about 34 $6 above the call at
+829.12 - 56 anywhere in that range should be a a
+832.56 - decent profit for for us over the next
+834.92 - 30 some OD days here so um just managing
+838.28 - that strangled to a straddle now I'm
+840.24 - rolling out in time I could have rolled
+842.24 - out and adjusted the strikes if I wanted
+844.64 - to but I chose to lean a little bit
+846.40 - directional and be at that 40 strike
+848.64 - straddle so we'll see if that works out
+850.40 - over the next couple
+854.92 - weeks all right so we've got a position
+857.68 - to manage here we have a closing order
+862.32 - for our DraftKings position so we've got
+865.40 - em mini S&P 500 futures up 100 points
+868.88 - this morning uh we had the elections
+871.08 - last night a lot of volatility getting
+873.48 - uh pulled out of this Market here with
+875.32 - the volatility Futures down almost 7% to
+879.00 - start the session we've had this
+881.24 - DraftKings position on this uh straddle
+884.88 - at the 40 strike which we started as a
+887.04 - strangle we rolled up the puts and then
+890.40 - we rolled out in time from nove from
+893.48 - October to
+894.80 - November we've done all these
+896.76 - adjustments for a $67
+899.92 - net credit it's currently marked at
+902.92 - $458 going into earnings uh tomorrow
+907.00 - after the close so uh this move today up
+910.84 - a167 a little over 4% is about as good
+914.12 - as it gets for us in terms of this
+916.32 - position so we've had this position on
+918.36 - since September 11th which is right
+921.52 - around this area right here 34 35ish we
+925.24 - leaned a little bit long stock went all
+927.64 - the way up to 43 all the way back down
+929.92 - to 36 and is right back in the middle of
+932.00 - that range exactly where we needed to be
+934.96 - here for some profit so we're going to
+937.40 - take the money and run on this maybe
+939.04 - we'll take this and roll into a new
+941.32 - position in another video so we're going
+943.84 - to close out this position $151 in in uh
+948.16 - profit on this if we can get filled here
+949.80 - at
+952.32 - 456 no fill there we'll adjust this down
+956.76 - to 154
+960.80 - 4 I'm sorry 454
+965.84 - 453 oh we got to go
+968.88 - up little bit of a brain fart there
+971.72 - we're going to go up here 258 or
+975.52 - 458 see if we get filled
+981.36 - there all right we got filled at 460
+984.84 - here nice trade for us in the Johnny
+987.24 - portfolio $147 profit very very high
+990.84 - return on Capital given that it only
+992.36 - uses you know couple hundred I think it
+994.68 - was5 or $600 in total buying power on
+997.24 - that position so a nice little trade uh
+1000.36 - for us Johnny's

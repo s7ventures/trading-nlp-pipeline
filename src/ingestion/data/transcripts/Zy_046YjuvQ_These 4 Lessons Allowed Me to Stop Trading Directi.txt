@@ -1,0 +1,1081 @@
+2.20 - over the course of the next 45 minutes
+5.12 - we are going to completely change the
+7.20 - way that you view the markets and get
+9.32 - you ready to start trading volatility
+12.24 - not necessarily Direction I'm Jim
+14.76 - Schultz Finance phg I've been trading
+17.20 - for nearly 20 years now and trading
+19.76 - volatility specifically through options
+22.12 - for almost 10 now naturally let's begin
+24.84 - by addressing the elephant in the room
+27.08 - if you're bullish and the market goes up
+28.88 - things are going to work out pretty well
+30.68 - if you're bearish and the market goes
+32.08 - down things are going to work out pretty
+33.68 - well like you're going to make money so
+35.08 - don't get me wrong direction matters and
+37.32 - during the times when you're able to
+39.28 - actually nail the directional move
+41.20 - things work out pretty well and they're
+43.56 - pretty easy the problem is no one really
+47.72 - knows where the market is going next not
+50.08 - me not you not anybody you might have a
+53.64 - hunch you might have a feeling that this
+56.76 - stock is going this way or this Market
+58.72 - is going that way and so by all means
+60.72 - you know do that follow those hunches we
+62.88 - all do that I do that you should do that
+65.04 - but the important thing to do is just
+67.12 - put it in its place understand what it
+70.32 - really is in the sea of Randomness that
+73.92 - is the short-term directional moves in
+77.04 - the market what I want to do in this
+79.08 - crash course is I want to show you how
+81.60 - you can take the emphasis off of
+84.00 - something like Direction that's very
+86.16 - unpredictable and put it on something
+88.24 - like volatility that might just have a
+91.40 - little bit of predictability in it and
+94.16 - to begin that Journey let's make sure
+96.48 - that we're all on the same page when it
+99.20 - comes to option profitability when it
+101.72 - comes to generating returns and
+103.24 - achieving profitability there are
+104.68 - essentially three factors involved
+106.92 - Direction time and volatility and when
+109.56 - most people get into trading they focus
+112.52 - exclusively on Direction without paying
+115.56 - much attention to time or volatility but
+118.24 - given just how random and unpredictable
+120.88 - the market is I think that order of
+123.96 - operations is backwards trading
+127.08 - Direction can certainly come but it
+129.04 - should come after time and after
+131.84 - volatility with options and even more
+134.04 - specifically short options we can shift
+136.12 - our emphasis away from needing to be
+138.36 - right directionally and instead trade
+140.68 - the simple passage of time and the
+142.92 - expansions and contractions of
+145.20 - volatility two non-directional metrics
+147.84 - in the marketplace that can serve as the
+150.32 - foundation to your portfolio one of the
+153.28 - first things that you're going to notice
+154.96 - when you shift your focus away from
+157.08 - Direction and onto volatility is you
+159.72 - will have just unlocked A Whole New
+162.40 - World of analysis that is now available
+165.52 - to you one additional thing that you're
+167.60 - going to discover when you shift your
+169.16 - focus onto volatility when it comes to
+171.32 - your analysis is you now have a whole
+173.80 - new way to diversifying your portfolio
+177.12 - and not only the risk that you're
+179.24 - exposed to but also the opportunities
+181.68 - that you find when it comes to your
+183.52 - existing positions and the new trades
+186.52 - that you might be looking at for most
+188.84 - traditional investors volatility and
+191.88 - huge spikes in volatility are not
+194.48 - normally well received because if I'm a
+197.04 - traditional investor and I'm invested
+199.24 - just passively long in you know spy then
+202.28 - I'm just looking to ride the gradual
+204.76 - movement higher in that stock or in that
+207.28 - index over time when volatility spikes
+210.12 - that usually means the market is
+212.20 - suffering a significant drop so that's
+214.44 - clearly not going to be good for your
+217.04 - traditional passively long investor but
+219.96 - for you when volatility comes that's
+222.56 - simply going to mean more opportunity it
+224.80 - could be exactly what you've been
+226.48 - waiting for to deploy more Capital into
+229.08 - short option strategies and take
+230.88 - advantage of the volatility spikes but
+233.60 - also from a diversification standpoint
+235.80 - there's one other thing to make mention
+238.12 - of while market prices and Market
+240.32 - volatility have clearly shown to exhibit
+243.64 - an inverse relationship a rather
+246.16 - reliable inverse relationship over time
+248.64 - where when market prices go up Market
+250.60 - volatility is typically going down and
+252.36 - when market prices go down Market
+253.72 - volatility is typically going up this
+255.84 - relationship is not one for one and this
+258.24 - relationship is also not perfect there
+260.64 - will be plenty of times when market
+262.72 - prices are up and Market volatility is
+264.76 - up or market prices are down and Market
+267.28 - volatility is down that's important
+269.76 - because it clearly illustrates the
+271.80 - simple fact that volatility is its own
+275.52 - independent metric in a lot of ways so
+278.44 - it's going to give you a way an Avenue
+281.56 - to diversify the exposure in your
+284.12 - portfolio that you simply cannot get by
+286.72 - just shifting assets into you know fixed
+288.68 - income or currencies or precious metals
+291.76 - so as we get underway in this crash
+294.28 - course here is the first major takeaway
+297.16 - trade volatility first not Direction
+300.88 - doing so is going to shift the
+303.16 - foundation of your portfolio away from
+306.00 - the randomness and the unpredictability
+308.32 - of daytoday Market movements so here we
+311.24 - are inside of the tasty trade platform
+313.44 - and I just want to offer a brief
+315.68 - overview of a few of the things that are
+318.28 - relevant when it comes to market-wide
+320.40 - volatility so on the leftand side here
+322.56 - forward SL VX so this guy right here
+325.24 - this is going to be your volatility
+327.00 - Futures going out to whatever the front
+329.16 - month might B which I believe right now
+330.72 - V is going to be November so you have
+333.60 - for/ VX is now trading at 2040 the other
+337.76 - market-wide volatility metric that is
+339.72 - commonly used if I scroll down on this
+342.48 - watch list is going to be the vix itself
+344.56 - so this is your Market wide volatility
+346.52 - this is often times referred to as the
+348.64 - fear indicator or the fear gauge in the
+351.56 - marketplace right now you have you know
+353.16 - vix trading at 1921 so in terms of
+356.56 - trying to get some type of idea
+358.68 - regarding what is is market-wide
+360.48 - volatility doing often times Traders
+362.48 - will look at Future volatility so for/
+365.12 - VX wherever the Futures Contract might
+366.92 - be right now we're trading the vcycle or
+369.36 - the vix the vix which is kind of your
+371.88 - spot volatility or your current
+373.96 - volatility let's say I'm looking at
+375.40 - Apple if I go into the quote overview of
+379.24 - Apple so I've got Apple loaded up in the
+381.08 - ticker box I bring over this right hand
+383.36 - side bar that's available inside of
+385.48 - tasty trade I click on the overview if
+387.40 - you look down at this IV Index this is
+390.80 - going to give you just in one number
+393.28 - what the implied volatility is for apple
+396.24 - the reason why this is important is
+398.16 - because for specific stocks it's a bit
+400.40 - of a misnomer to say the implied
+402.76 - volatility of Apple is X and the reason
+405.32 - why is simply because every single stock
+408.32 - has a myriad of implied volatilities
+410.60 - associated with it because different
+412.12 - expirations have different implied
+413.88 - volatilities and different strikes
+415.60 - within those expirations have different
+417.44 - implied volatilities case in point for
+419.68 - Apple you see the IV index is 28.6 if I
+423.12 - go to the trade page I simply look at
+425.44 - the different expiration cycles look at
+427.40 - how the implied volatilities differ from
+429.60 - one cycle to the next now you can make
+431.28 - the case that's not a big difference but
+433.20 - that's not really the point the point is
+435.12 - there are different numbers associated
+437.76 - with different expiration cycles and
+439.76 - then if I open up an expiration cycle
+442.08 - like let's say open up November right
+443.52 - here with 41 days to go and you start
+445.64 - looking at the different strikes that
+447.24 - are available inside of that expiration
+449.52 - you're going to see different implied
+451.40 - volatilities if I change this drop- down
+453.64 - menu one of these drop downs from
+455.00 - extrinsic value to implied volatility
+457.16 - you can clearly see that now I have a
+459.76 - number of implied volatilities inside
+461.68 - the same expiration cycle for the
+463.32 - different strikes that are available
+465.08 - inside that cycle so again it's a bit of
+466.96 - a misnomer to say the implied volatility
+468.92 - for apple is X but tasty trade does a
+471.20 - nice job of kind of giving us this
+473.48 - average implied volatility of taking you
+475.32 - know a lot of the relevant metrics that
+476.88 - exist for that stock and giving us just
+479.00 - one number number so we have some idea
+481.28 - of whether or not we're dealing with a
+483.04 - high volatility stock or a low
+484.72 - volatility stock especially when we're
+486.28 - comparing you know Apple versus Proctor
+488.52 - and Gamble now the next metric that I
+491.04 - wanted to go ahead and at least
+492.44 - introduce you to at this point we're
+493.92 - going to have a lot more to say about
+495.24 - this as the crash course moves on but
+497.28 - the IV rank so right up here you see
+499.76 - this ivr for apple is 44.9 now later on
+503.68 - I'm going to explain you know what that
+505.00 - number means I'm going to explain how we
+506.88 - use it in you know trading volatility
+509.08 - and all of those things but just know
+510.72 - right now that when it comes to you know
+512.88 - shifting your focus away from Trading
+515.48 - Direction and now trading something like
+517.64 - volatility where the foundation of your
+519.80 - portfolio is going to look a lot
+521.72 - different from what it was when you were
+523.60 - so focused on you know Direction
+525.84 - exclusively looking at metrics like
+527.68 - implied volatility looking at metrics
+529.52 - like IV rank these are going to be a big
+531.56 - part of what you do on a daily basis so
+533.92 - I simply wanted to introduce you to
+535.88 - these ideas right here and right now
+538.04 - what I want to do now is I want to talk
+540.28 - more specifically about the nature of
+542.92 - volatility how it changes and why that's
+546.20 - important for us as active Traders so
+549.16 - volatility is fluid and dynamic just
+551.96 - like every other metric in the financial
+553.68 - Marketplace and this might surprise you
+556.20 - but many of the financial models that we
+559.08 - use every single day they actually
+561.92 - assume constant volatility in the
+564.84 - marketplace the reason why that is the
+566.92 - case is allowing for changing volatility
+569.20 - in Financial modeling a phenomenon more
+571.44 - formly referred to as
+573.96 - heteroskedasticity really complicates
+576.44 - the fine-tuning that's necessary in
+578.72 - these models to capture the complexities
+582.08 - of the real markets even if they can
+584.48 - only do so partly but for us as
+587.96 - practitioners as Traders we're not
+590.48 - really super concerned with the
+592.28 - theoretical obstacles that you know
+594.12 - Academia might run into we just want to
+596.60 - know hey how can I improve the risk term
+599.92 - profile of my portfolio and so that's
+602.32 - why something like heteroscedasticity
+604.60 - might present a lot of problems to you
+606.92 - know Financial Academia for us as
+609.48 - Traders it's actually a really really
+611.84 - big deal because it gives us a ton of
+614.28 - opportunity Cas in point when it comes
+616.76 - to market conditions you basically have
+619.80 - three different states that the market
+621.96 - could fall into from a volatility
+624.28 - standpoint you have expansion you have
+627.04 - contraction and you have a low and as
+630.00 - Julia show in figure 2.2 inside of the
+633.12 - Unlucky Investors Guide to option
+635.56 - trading volatility expansion occurs 10%
+638.76 - of the time volatility contraction
+640.64 - occurs 20% of the time and volatility
+643.32 - lows occurs 70% of the time as the name
+646.64 - implies volatility expansions are when
+648.68 - volatility is rising quickly volatility
+650.84 - contractions are when volatility is
+652.32 - falling quickly and volatility lows are
+654.56 - when the volatility is typically stable
+657.12 - with a general tendency to slow grind
+659.80 - lower over time as the market slowly
+662.72 - Rises well it is these different states
+665.00 - that we want to take advantage of and in
+666.76 - a perfect world it would be simple we
+668.60 - would just sell volatility when
+670.28 - volatility is Contracting or we're
+671.76 - inside of a volatility LW and then buy
+673.84 - volatility when volatility is expanding
+676.04 - but unfortunately that perfect world is
+678.60 - not the world that we live in and that
+680.36 - we trade in so we are always up against
+683.52 - the randomness and the unpredictability
+685.96 - of the market and we can never know with
+688.64 - certainty what's going to happen next
+691.12 - still we can use these empirical
+693.56 - findings to our advantage doing this we
+696.64 - find that volatility is usually moving
+699.08 - lower either quickly during a
+700.68 - contraction or slowly during a low and
+703.08 - this accounts for roughly 90% of the
+706.00 - days in the market it is only 10% of the
+708.68 - time that volatility is significantly
+711.44 - expanding it's fairly easy to see that
+713.80 - selling volatility would appear to give
+715.60 - us a far greater number of opportunities
+718.68 - than buying buying volatility this is
+720.80 - the case because selling volatility can
+722.64 - benefit greatly from volatility
+724.44 - contractions or volatility lows whereas
+726.92 - buying volatility might only be able to
+729.56 - cash in during those far more seldom
+732.44 - volatility expansions to be fair we are
+735.20 - painting with a fairly wide brush here
+737.84 - volatility sellers can certainly make
+739.88 - money during volatility expansions and
+742.20 - volatility buyers can also make money
+744.32 - during volatility contractions p&l is
+747.84 - multifactorial however it doesn't change
+750.20 - the fact that if you're in a market
+752.04 - where volatility wants to go lower where
+754.48 - volatility is usually falling man you're
+756.96 - going to have a far easier time being on
+759.84 - the short side of that volatility trade
+761.92 - than you would being on the long side of
+764.48 - that volatility trade no one knows
+766.44 - what's going to happen next when it
+767.68 - comes to Market volatility there might
+770.16 - actually be just a wee little bit of
+773.00 - predictive power that we can tap into
+775.48 - you know if I go into a stock like
+776.84 - Amazon let's say go into the trade page
+779.16 - and I'm inside of November with 41 days
+781.04 - to go I've got my expected move right
+783.04 - there in the center of the screen you
+784.44 - know if I set up something like a short
+786.52 - call spread to be bearish on the stock
+788.80 - you know I sell a 195 call I buy a 200
+791.56 - call you know this is a very very
+793.28 - classic short premium strategy that's
+795.40 - defined risk you can see the maximum
+797.00 - loss is 335 the maximum profit is 165
+800.20 - and all the other trade metrics that are
+801.80 - associated with this trade but now let's
+803.52 - say I clear this away and I want to do
+805.08 - something that's undefined risk and
+806.40 - maybe I have a neutral bias on Amazon so
+808.72 - I could just just you know I could sell
+809.88 - a 170 put just going right outside the
+812.16 - expected move there and I could sell a
+813.68 - 205 call going right outside the
+815.68 - expected move on the upside and now I
+817.28 - have a neutral strategy where I'm going
+819.00 - to benefit the most from Amazon staying
+821.48 - between my strikes if I go over to the
+823.12 - curve view here you'll see that a bit
+824.68 - more clearly curve you click on the
+826.24 - analysis button and you can see the p&l
+828.72 - diagram that is just nicely presented
+830.84 - here inside of tasty trade kind of shows
+833.12 - us where we make money where we lose
+834.68 - money where our risk is our break even
+836.72 - points and all of those things just kind
+838.32 - of painting with a very very broad brush
+840.84 - to show you what is available inside
+843.04 - Tasty Tray and these are only two short
+844.52 - premium strategies there's a whole
+845.96 - another hemisphere with long premium and
+848.36 - debit strategies and we'll look at those
+850.08 - a bit later inside of this course
+852.32 - specifically going back to the table
+853.96 - view take a look at one of the metrics
+855.96 - so you have a couple of drop- down
+857.52 - columns where you can select different
+859.52 - variables to look at for your trade
+861.84 - analysis and you can see I could choose
+863.48 - you know Theta gamma and all kinds of
+866.04 - other metrics well right here I have
+867.72 - Vega selected for a reason Vega is one
+870.96 - of the Greeks that is a first derivative
+874.12 - of the black Souls model and it shows us
+876.80 - how sensitive that strike is going to be
+880.48 - to any changes in volatility because
+883.16 - it's going to show you how many cents is
+885.32 - my option contract going to move by when
+888.04 - volatility changes by one point here's
+890.52 - the most important part for what we're
+892.28 - trying to do here it's not so much the
+894.72 - magnitude of the Vega it's actually just
+897.28 - the sign of the Vega when when it comes
+899.48 - to specifically a strategy like a short
+901.84 - call spread right when I have a short
+903.24 - call spread and you can see I'm selling
+904.76 - the 195 strike so I'm going to be short
+907.24 - 24 Vega I'm buying the 200 strike I'm
+910.20 - going to be long 22 Vega the net result
+913.08 - there is minus 2 Vega so you are going
+915.64 - to be short Vega you are going to be
+917.60 - short volatility you are going to be
+919.36 - able to benefit from any falling
+921.52 - volatility let's clear this strategy
+923.36 - away and let's look at an altogether
+925.12 - different strategy if I were to sell a
+927.04 - strangle let's say just using the
+928.56 - expected move as my anchor for strike
+930.56 - selection if I sell the 170 put and I
+933.12 - sell the 205 call let's say just kind of
+935.40 - outside the expected move on both sides
+937.12 - the most important part here is yes you
+939.16 - can look at probabilities you can look
+940.48 - at credits you can look at deltas and
+942.12 - thetas and the thing that I want to look
+943.76 - at right now though is the Vega impact
+946.80 - of this strategy remember if you sell an
+949.08 - option you're negative Vega if you buy
+951.32 - an option you're positive Vega now when
+953.40 - we looked at the call spread just a
+954.72 - second ago we were selling one option
+956.60 - and buying another option as part of the
+958.52 - spread so we had to take the difference
+960.20 - to figure out what our net Vega exposure
+962.56 - was well when you have a strategy like a
+964.32 - strangle this is something that can
+966.36 - really capitalize on falling volatility
+968.72 - because you are selling options on both
+970.96 - sides of the market I'm selling a 170 p
+973.08 - and an 18 Vega and I'm selling a 205
+975.32 - call and a 19 Vega so there's no
+977.40 - watering down effect there's no buying
+979.68 - back Vega from long options in the
+981.44 - strategy like we saw with the call
+982.96 - spread my point and my purpose of doing
+984.92 - this right now is just to show you the
+987.32 - potential of what shifting your focus
+990.08 - away from Direction can do for you by
+992.28 - looking at things like volatility by
+994.00 - looking at things like ivr which we're
+995.68 - going to look at a bit later on by
+997.00 - looking at things like option Vega to
+999.40 - actually capture and measure just how
+1001.56 - sensitive your positions are to any
+1003.36 - changing volatility that might happen in
+1005.00 - the marketplace what you're going to see
+1007.32 - next might shock you volatility has been
+1010.96 - shown to possess a mean reverting
+1014.24 - characteristic and to understand what
+1016.80 - that means we could actually take a few
+1019.08 - approaches we could take a mathematical
+1021.04 - approach we could take an intuitive
+1022.88 - approach or we could take an empirical
+1024.92 - approach so let's take a look and
+1027.04 - discuss each of those three first
+1029.96 - mathematically many academics and
+1032.04 - researchers over the years have
+1033.68 - demonstrated and powerfully so that we
+1036.28 - can assume Market volatility is what is
+1038.48 - known as a stationary process a process
+1041.64 - where any data points that lead the
+1043.72 - variable in question away from its mean
+1046.52 - are met with additional data points that
+1049.08 - fight to bring the variable back to its
+1051.44 - mean or in other words what goes up must
+1054.60 - eventually come back down and vice versa
+1057.00 - second we could take an intuitive
+1058.72 - approach to volatility mean reversion
+1060.20 - we're given the natural e and flow of
+1062.68 - the financial markets Global events and
+1064.92 - just the natural uncertainty in the
+1066.60 - world it makes a lot of sense that
+1068.44 - periods of steadiness and stability low
+1070.56 - volatility will be followed by some kind
+1073.12 - of shock at some point volatility
+1075.12 - expansion in periods of chaos High
+1077.80 - volatility will will be followed by calm
+1080.52 - volatility contraction that's very
+1082.56 - intuitive and it just makes a lot of
+1084.24 - sense but third and most relevant for
+1086.60 - our purposes here we could take an
+1088.92 - empirical approach and simply say
+1091.40 - regardless of what the mathematical
+1093.04 - Theory might support or our own
+1094.64 - intuitive analysis might suggest what
+1097.08 - does the actual data say because in the
+1099.92 - end that's all that matters right I mean
+1101.80 - that's the trump card that's the Arbiter
+1103.36 - of Truth the results themselves well not
+1106.64 - surprisingly the tasty live research
+1108.48 - team has looked at volatility mean
+1110.72 - reversion a number of times in a number
+1113.32 - of different ways over the years but one
+1116.04 - study the team did back in August of
+1119.20 - 2022 really highlights and illustrates
+1123.04 - the power of volatility mean r verion
+1125.48 - especially from the short side of the
+1128.08 - option contract so first when looking at
+1131.16 - the vix data that were available going
+1133.64 - back to 2000 in this study we see that
+1137.20 - the probability of an update or down day
+1139.72 - in the vix itself on any random day was
+1142.76 - skewed slightly in favor of a down day
+1145.32 - in the vix 53 to 47 this makes sense
+1148.84 - because the probability of an upday or a
+1150.68 - down day in the overall Market on any
+1152.60 - random day is skewed slightly in favor
+1155.00 - of an update 53 to 47 over time the
+1157.72 - market has experienced positive drift so
+1160.04 - an upward bias to reflect this drift
+1163.00 - makes sense and since market prices and
+1165.16 - Market volatility are inversely related
+1167.68 - it then follows that we would see a
+1169.80 - slight downward bias on any random day
+1172.96 - in the vix but what happens after we've
+1175.80 - had a consecutive streak of down days or
+1178.92 - up days in the vix do the probabilities
+1182.40 - change yes and in some pretty remarkable
+1186.20 - ways after a series of down dayss in the
+1188.80 - vix the probabilities of what the next
+1190.72 - day will do don't change much they stay
+1193.08 - clustered around 50/50 between an upday
+1196.36 - and a down day but as the down day
+1198.76 - Street continues we can see there is a
+1202.04 - slight shift in favor of the next day
+1204.64 - being an upd in the vix showing some
+1208.00 - volatility expansion so in other words
+1210.56 - there does appear to be a tiny bit of
+1213.12 - mean reversion after volatility has been
+1215.72 - contracting for even just a short time
+1218.72 - but the remarkable part comes after a
+1221.28 - series of updats in the vix because now
+1224.36 - we see something very different here the
+1227.04 - probabilities do begin changing in in
+1229.36 - some significant ways from the very
+1231.48 - first update the probabilities move off
+1233.72 - of 50/50 and they begin to Cluster more
+1236.40 - closely around 6040 in favor of
+1240.20 - volatility Contracting and mean
+1242.28 - reverting back to a lower level so when
+1245.36 - volatility is low you could certainly
+1247.60 - make the case that this is a good
+1249.76 - environment for some long volatility
+1252.36 - strategies some debit strategies like a
+1254.72 - long vertical spread a calendar spread
+1257.44 - diagonal spread like that would be a
+1259.16 - good strategic way of thinking about how
+1262.36 - to take advantage of that environment
+1265.24 - and while the stats might largely hang
+1267.68 - around 50/50 there might be a tiny
+1270.84 - little Advantage as that street
+1273.16 - continues in terms of a big volatility
+1275.96 - Spike or some kind of volatility Spike
+1278.52 - coming your way you could certainly do
+1280.84 - that but the real benefit of taking
+1283.68 - advantage of volatility mean reversion
+1286.32 - is on the other side after
+1289.12 - volatility has expanded that's when we
+1292.12 - can step in with a short volatility
+1294.72 - strategy like a short vertical spread
+1297.04 - iron Condor short put short strangle
+1299.96 - whatever and take advantage of a market
+1303.00 - that is clearly shown a propensity to
+1306.64 - want to revert back to a lower level of
+1310.08 - volatility which also lines up nicely
+1313.36 - with the different volatility conditions
+1315.44 - and volatility scenarios that we just
+1317.56 - learned about with contra actions and
+1319.16 - lulls you know kind of governing 90% of
+1322.60 - the market days that we trade in the
+1325.56 - overall market so you take these two
+1327.68 - things together and you have a really
+1330.00 - nice environment for short volatility
+1333.16 - trades so the big takeaway here is the
+1336.04 - volatility mean reversion that the
+1338.08 - market has exhibited can be quite
+1340.92 - advantageous especially from the short
+1343.80 - side of the option contract okay so now
+1345.68 - we have established a New Foundation of
+1347.80 - trading volatility
+1349.04 - we've taken a look at changing
+1350.24 - volatility and we even have some
+1351.60 - evidence for volatility mean reversion
+1353.88 - what I want to do now is begin to put
+1356.28 - all these pieces together in a way
+1358.76 - that's going to help us trade and this
+1361.28 - is where taking a closer look at implied
+1364.12 - volatility and implied volatility rank
+1367.12 - come into play yes market-wide
+1369.64 - volatility metrics like the vix or the
+1371.96 - vix Futures give you a nice context the
+1375.16 - broader context of what might be
+1377.28 - happening you know RIT l in the overall
+1379.68 - Market indexes but when it comes to
+1382.16 - specifically selecting a strategy in a
+1384.88 - specific stock you want to dial in you
+1387.84 - want to really hone in your focus on
+1390.32 - what's going on in that specific stock
+1392.84 - with its implied volatility and its
+1395.64 - implied volatility rank so let's begin
+1398.56 - with a closer look at implied volatility
+1400.92 - implied volatility essentially measures
+1403.20 - how volatile that specific underlying
+1405.60 - stock is expected to be over whatever
+1408.00 - time period perod you might be
+1409.12 - interested in higher implied volatility
+1411.08 - means more volatility and wider ranges
+1413.32 - are expected in the stock and lower
+1415.00 - implied volatility means less volatility
+1417.36 - and narrower ranges are expected in the
+1419.40 - stock furthermore IV is one of the
+1422.28 - inputs into the black Souls option
+1424.00 - pricing model that is used to determine
+1426.76 - what the options price should be along
+1429.08 - with other metrics like the stock price
+1431.28 - the strike price time to exploration
+1433.28 - interest rates and any potential
+1435.76 - dividends the most important thing for
+1438.08 - us here is the relationship between the
+1441.16 - option price that eventually comes out
+1443.04 - of the black Souls model and the IV of
+1445.68 - the stock that goes into the black shs
+1447.64 - model simply put if IV is higher then
+1450.36 - the option price will be higher and if
+1452.24 - IV is lower then the option price will
+1454.28 - be lower and if you're looking for a
+1456.40 - deeper dive into all things option
+1458.24 - pricing we actually have a separate
+1460.24 - crash course that's already on the
+1461.80 - YouTube channel so you can give that guy
+1463.72 - a look whenever you're ready but here
+1465.60 - the main takeaway is this if you're
+1467.20 - buying options with Reit strategies like
+1469.32 - we've talked about before then using
+1471.12 - these in stocks that have lower IVs can
+1473.64 - make some sense but what's even more
+1475.60 - effective if you're selling options with
+1477.56 - credit strategies like we've talked
+1478.96 - about before so short vertical short
+1480.64 - strangles short puts Etc then using
+1482.96 - these in stocks that have higher IVs can
+1485.88 - certainly make some sense this is an
+1488.00 - oversimplification and implied
+1489.68 - volatility is not the only thing that
+1491.76 - you should consider when you're doing
+1493.52 - your trade analysis as we're going to
+1495.32 - see here in just a couple of minutes but
+1497.48 - this is a really really good starting
+1499.72 - point for understanding how implied
+1502.20 - volatility impacts the option premium
+1504.72 - which is going to play a big role in
+1507.08 - whatever trade you do so now that we
+1509.72 - have a basic understanding of how
+1512.20 - implied volatility is going to impact
+1513.80 - our trading let's shift our Focus over
+1516.36 - to implied volatility rank or ivr while
+1521.00 - IV is a metric that gets input into the
+1523.92 - black Souls model ivr is a separate
+1526.72 - measurement that actually looks at IV
+1528.96 - relative to itself over some period of
+1532.04 - time let me show you what I mean what
+1533.72 - the ivr does is it looks at the range of
+1537.44 - implied volatility for that specific
+1539.80 - stock over the last 12 months and then
+1542.40 - it tells you where the current IV sits
+1545.12 - in that range so for example let's say
+1547.56 - the range of IVs for Apple over the last
+1550.08 - 12 months was a low of a 30 IV and a
+1553.52 - high of a 50 IV if the current IV was 40
+1557.44 - then that means app's IV is right in the
+1559.96 - middle of the IV range over the last 12
+1563.20 - months so its ivr would be 50 showing
+1566.08 - that it's sitting at the 50th percentile
+1569.16 - of that IV range and if Apple's IV was
+1572.20 - 35 then it would be five IV points into
+1575.96 - the 20 point IV range from 30 to 50
+1579.16 - which would be the 25th percentile so an
+1581.64 - ivr of 25 similarly let's say you've got
+1584.60 - Amazon with an IV range of 25 on the low
+1587.08 - end and 65 on the high end following the
+1589.80 - same process if Amazon's current IV is
+1592.12 - 30 then it's five IV points into a 40
+1595.56 - Point IV range which would be an ivr of
+1598.28 - 12.5 now there might also be times where
+1600.96 - you see ivrs that have moved outside of
+1604.28 - the zero to 100 boundaries this is
+1607.00 - actually pretty simple to deal with it
+1609.12 - simply means that the current implied
+1611.00 - volatility is either lower than the
+1613.68 - previous 12-month low or higher than the
+1616.88 - previous 12-month High more specifically
+1619.72 - if you see an ivr of -10 that simply
+1622.64 - means the current implied volatility is
+1624.88 - 10% lower than the previous year's low
+1628.48 - or if you see an ivr of 106 that simply
+1631.24 - means that the current implied
+1632.36 - volatility is 6% higher than the
+1635.20 - previous year's high so our big takeaway
+1638.04 - here is just as we observed volatility
+1640.80 - mean reversion when looking at the
+1643.00 - market-wide metrics like the vix we want
+1646.20 - to take that same principle and apply it
+1649.08 - on a stock bystock basis but use more
+1652.68 - finely tuned metrics that apply to that
+1655.44 - specific stock so like their implied
+1657.52 - volatility or their implied volatility
+1660.08 - rank that allows us to better capture
+1663.16 - any opportunities that might exist for
+1665.36 - that stock when it comes to volatility
+1668.16 - mean reversion and that's exactly what
+1670.44 - we're going to do next when we put all
+1672.68 - of this together and show you how to use
+1675.16 - it to begin trading volatility but the
+1678.80 - first question you might have is all
+1681.20 - right Jim I'm ready to start trading
+1683.00 - volatility but I got to know what
+1685.60 - actually constitutes High volatility
+1688.68 - which is a great question and it's an
+1690.32 - important question and for the answer
+1692.76 - we're again going to turn to the tasty
+1695.36 - live research team so back in August of
+1697.92 - 2023 the research team did a very simple
+1700.68 - study showing the difference between
+1702.68 - selling 16 Delta strangles on stocks
+1705.68 - with an ivr below 30 and stocks with an
+1708.36 - ivr above 30 and the key takeaways are
+1711.48 - twofold first notice that regardless of
+1714.76 - the ivr environment under 30 ivr or over
+1718.72 - 30 ivr selling premium was a profitable
+1721.60 - strategy but second while the win rates
+1724.12 - are essentially the same in both ivr
+1726.44 - environments the p&l between the two is
+1728.92 - drastically different where your average
+1730.92 - daily p&l in the under 30 ivr category
+1734.00 - was 25 cents a day but the average daily
+1736.68 - p&l in the over 30 ivr category was a15
+1741.04 - a day or over 3x what you earned with a
+1744.20 - lower ivr now look I can respect the
+1747.72 - fact that you may not want to sell
+1749.48 - volatility when an ivr is at four or six
+1753.04 - or nine because you don't want to get
+1754.84 - caught in the Whirlwind that is a huge
+1757.12 - volatility expansion that makes sense
+1759.52 - but if this is the first time that
+1761.36 - you're looking at Short options in
+1763.32 - Earnest then I wanted to at least take a
+1765.36 - couple of seconds and just point out the
+1767.52 - ubiquity nature of their effectiveness
+1770.52 - in all market conditions because that
+1772.76 - might be rather surprising to you but by
+1775.52 - all means when ivrs are low and implied
+1778.44 - volatility is suppressed like that might
+1780.92 - be the time to mix in your debit
+1783.72 - strategies your long verticals your
+1785.44 - calendars your diagonals Etc and we'll
+1787.64 - take a look at those in just a few
+1789.48 - minutes but in terms of trying to figure
+1791.92 - out you know where is your reference
+1794.04 - point between High volatility and low
+1795.64 - volatility using 30 as kind of a marker
+1799.80 - in the sand in terms of high ivr and low
+1803.40 - ivr that's a pretty good reference point
+1806.56 - that's a pretty good starting point for
+1809.36 - your analysis but again ivr much like
+1812.40 - everything else in the marketplace is
+1814.24 - fluid and dynamic and so it should be
+1816.60 - just that a starting point for your
+1818.56 - analysis right some Traders might prefer
+1821.12 - to lower that number to where now
+1823.32 - they're looking for you know ivrs of
+1825.12 - only 20 or 25 and they're comfortable
+1827.68 - selling premium other Traders might feel
+1830.24 - a lot more comfortable when the ivrs
+1832.08 - have really expanded to 35 or 40 and
+1835.60 - that's when they pounce with short
+1837.32 - premium strategies there is no right or
+1839.48 - wrong answer here there are a number of
+1841.08 - ways that you could slice this up but if
+1843.12 - you're just getting started and you're
+1844.92 - looking for a clear reference point then
+1847.12 - use 30 adjust it over time based on your
+1851.16 - style your risk tolerance your account
+1854.04 - size your experience level all those
+1856.64 - different things so let's dive into
+1858.76 - tasty trade and let's set up some short
+1862.04 - volatility trades together okay so you
+1864.92 - are now ready to begin trading
+1867.32 - volatility like where do I even begin
+1869.64 - tasty trade makes it fairly easy to do
+1872.28 - that so you go inside of the hamburger
+1874.40 - menu that's right you click on the watch
+1875.88 - list now there's all kinds of different
+1877.76 - watch lists that you could choose from
+1879.24 - the two that I would strongly recommend
+1881.20 - you start with you can play around the
+1882.56 - other ones start with either the tasty
+1884.60 - default or Tom's watch list the great
+1887.20 - thing about you know the tasty default
+1888.84 - which we'll click on here these are all
+1890.56 - going to be stocks that are pre-screened
+1893.00 - for liquidity these are all the big
+1895.44 - names the big players that everybody in
+1897.88 - the market is trading the next thing you
+1899.64 - want to look at is you have this IV rank
+1902.40 - as one of the dropdowns that you can go
+1904.68 - ahead and sort the list by well again if
+1907.92 - I'm looking for opportunities to sell
+1910.48 - premium I'm going to want to click on
+1912.28 - this and sort from high to low so I
+1914.20 - clicked on it once now it's sorted from
+1915.72 - low to high I click on it again and now
+1918.00 - it's sorted from high to low and so now
+1920.64 - I'm in a situation where I can very
+1922.24 - clearly see this is the IV rank of these
+1925.28 - different stocks you can see on the list
+1926.76 - we've got IBM we've got chipotle Etc so
+1929.72 - there are many many many different names
+1931.92 - to choose from so let's say I open up
+1934.12 - Starbucks which has an IV rank of almost
+1936.36 - 75 and the stock price is $97 I open up
+1939.56 - Starbucks click on the trade page I go
+1941.56 - into let's say the November cycle with
+1943.44 - 41 days to go again they have earnings
+1944.92 - on November 7th so this may or may not
+1946.60 - be a good trade when it comes to putting
+1948.20 - it on right now going into the earnings
+1949.84 - date but given the fact that so many
+1951.44 - individual stocks have earnings coming
+1952.76 - up I'm not going to be able to avoid
+1954.04 - that right here and right now because of
+1955.48 - the time of the year that we are doing
+1957.80 - this video so let's bypass the earnings
+1960.40 - impact for the purposes of what we're
+1962.00 - trying to accomplish right now if I open
+1963.68 - up November you know let's say that I
+1965.80 - was bullish on Starbucks well one of the
+1968.52 - strategies I could use a very popular
+1970.68 - strategy when you're bullish on a stock
+1972.96 - is you could sell a put spread so I
+1974.88 - could go in here and I could sell the 95
+1976.80 - put and I could buy the 90 put and I
+1978.84 - will be able to collect a $1.74 credit
+1981.32 - 62% pop positive Theta positive Delta of
+1984.80 - course because it's a bullish strategy
+1986.28 - your p50 is 77% my maximum loss is only
+1989.52 - the difference between the width of the
+1991.36 - spread and the credit that I collect and
+1993.00 - so all the trade metrics are looking
+1995.08 - pretty good on this specific strategy
+1997.60 - but again what I really want to focus on
+1999.88 - here is the volatility impact you know
+2002.68 - you have the Vega here where you're
+2004.60 - looking at how sensitive is this Strate
+2007.96 - y to changing volatility well this is a
+2010.16 - spread so I'm selling volatility on one
+2012.24 - leg and essentially buying volatility on
+2014.48 - the other leg I'm short 13 Vegas here
+2017.16 - I'm long 10 Vegas there so my net Vega
+2019.92 - exposure is -3 because I'm short 13 and
+2023.00 - I'm long 10 so by being short three Vega
+2026.36 - I am going to have some negative
+2028.28 - volatility exposure remember that when
+2030.84 - the market Rises volatility typically
+2034.04 - goes down so look at how well you can
+2037.16 - strategic Ally play you know the market
+2039.64 - or Starbucks in this specific instance
+2042.16 - by setting up a short put spread in that
+2044.44 - if you are correct and the stock rallies
+2046.92 - because you're positive Delta you want
+2048.68 - the stock to move higher then you're
+2050.24 - probably going to see the implied
+2052.08 - volatility of Starbucks go down because
+2054.96 - most stocks do follow that relationship
+2056.96 - volatility is its own metric some stocks
+2058.88 - when the price Rises the volatility Also
+2060.84 - Rises and when you know the price goes
+2062.32 - down the volatility goes down that does
+2063.76 - happen too but most individual stocks
+2065.68 - are going to follow suit with the
+2067.76 - overall Market where you have the
+2069.04 - inverse relationship between volatility
+2071.64 - and price and so by choosing something
+2073.84 - like a short put spread you're able to
+2076.08 - capitalize on any volatility contraction
+2078.56 - that might happen in the marketplace
+2080.04 - which could also be accompanied by a
+2082.16 - market Rising a stock going higher which
+2084.44 - is going to be really really good for
+2086.08 - your short put spread strategy here but
+2088.12 - an altogether different strategy that
+2089.92 - you could choose that's very similar in
+2091.52 - a lot of ways but different in some
+2093.40 - significant ones is you could just you
+2095.24 - know clear this away and let's say you
+2097.04 - want to go into with an undefined risk
+2099.08 - strategy that's going to be able to
+2100.56 - better capitalize on any volatility
+2102.84 - contractions so maybe you go in and you
+2104.68 - just sell a 90 put so now you can see
+2107.04 - this is still a bullish strategy similar
+2109.36 - to the one we just had it's even more
+2110.76 - bullish than the short put spread but
+2112.36 - now you have a higher probability of
+2113.92 - making 50% which makes sense because
+2115.72 - that's the general relationship between
+2117.32 - undefined risk and defined risk but now
+2119.44 - you have short 10 Vega right there's no
+2122.08 - long Vega there's no defined risk so now
+2124.68 - you have more exposure to volatility
+2126.80 - contraction now of course it's been said
+2128.68 - before for every gimme there's a Goa so
+2130.60 - you might be wondering R jim I've got
+2131.96 - this gimme of more Vega I've got this
+2133.36 - gimme of more volatility exposure where
+2134.88 - is the gcha well what happens if
+2136.20 - Starbucks goes down you're going to get
+2137.64 - hurt more than you would with that short
+2140.08 - PPR of course it's games and gotas you
+2142.16 - know it's pros and cons it's trade-offs
+2143.72 - it's always trade-offs you could make
+2145.24 - your whole career for your whole
+2147.20 - investing life just selling puss from
+2149.48 - start to finish I know many traders who
+2151.20 - have done that have been really really
+2152.48 - successful you've got positive drift
+2154.08 - you've got negative Vega you have so
+2155.40 - many things that are working for you
+2156.72 - that are in your favor so there's a
+2159.24 - couple of examples of what you can do
+2161.60 - with short volatility trades and of
+2163.28 - course there's so many other things that
+2165.24 - you can do I mean the permutations and
+2167.20 - combinations that are available in the
+2169.00 - world of options even just on the short
+2171.08 - side alone are almost literally endless
+2174.40 - and so use this as a starting point to
+2177.16 - uncover additional short premium trades
+2180.00 - that you can begin to add to your
+2181.64 - portfolio now of course there might be
+2183.96 - some times when you want to play a debit
+2185.84 - strategy maybe play for a volatility
+2187.80 - Spike so let's hop back into tasty trade
+2190.20 - now and work through how to set those up
+2192.48 - as well there are a million other things
+2194.28 - that you could do I've only begun to
+2196.16 - scratch the surface but I just kind of
+2197.80 - wanted to push you out of the nest with
+2199.32 - a couple little examples and a couple of
+2201.12 - examples that will probably resonate
+2202.88 - with you if you're coming from a stock
+2204.48 - world if you're coming from a long-term
+2206.24 - investing world where you like playing
+2207.92 - the market to the upside well short put
+2209.56 - spreads and short puts are going to do
+2211.40 - that just like we did on the short
+2213.08 - premium side let's set up a couple of
+2215.00 - long premium trades that would benefit
+2217.08 - from vol ility expanding so let's go
+2219.44 - into the watch list here go back to my
+2221.80 - watch list I've got tasty default I'm
+2223.64 - going to sort my IV rank from low to
+2225.88 - high cuz now I'm looking for a low
+2227.40 - implied volatility opportunity to you
+2229.16 - know put on a debit strategy it's going
+2231.04 - to benefit from volatility expanding
+2233.16 - well one thing that catches my eye here
+2234.92 - is QQ this is the NASDAQ index you know
+2237.60 - the IV rank is 27 so it's not super low
+2240.48 - it is below 30 from that study but even
+2242.68 - even though the study was more focused
+2244.00 - on you know short premium and selling
+2245.88 - premium strategies still this is is not
+2247.76 - a terrible opportunity for buying
+2249.64 - premium and there aren't too many low
+2251.44 - volatility options right now you've got
+2253.12 - the vix at 20 you've got vix Futures at
+2255.32 - just over 20 as well so there's just not
+2257.20 - a ton of low volatility opportunities in
+2259.16 - the marketplace right now so if I go
+2260.68 - into QQQ a classic strategy to take
+2263.72 - advantage of volatility expansion is an
+2266.44 - at the- money put vertical so let's say
+2268.60 - you're bearish on the NASDAQ and you
+2270.52 - want to position yourself to take
+2272.12 - advantage of volatility expansion well
+2274.00 - what you could do you've got the stock
+2275.48 - at 486 and some change you could step in
+2277.88 - here you could buy a 490 put and you
+2279.80 - could sell a 480 put so this is an at
+2281.92 - the money vertical you see the
+2283.20 - probability of profit is right around
+2284.68 - 50% that's typically what we want with
+2286.56 - an attim money vertical this is usually
+2288.48 - a directional shot that you're taking in
+2290.36 - the stock but from a volatility
+2292.40 - standpoint the nice thing about using a
+2295.52 - long put vertical is it does set you up
+2298.28 - with positive Vega it's not a ton we
+2301.28 - want to make our money on the short
+2302.92 - volatility side of the market but you do
+2304.76 - have a little something here where
+2306.24 - you're buying 66 Vega you're selling 64
+2308.88 - Vega you're going to be slightly net
+2310.96 - positive Vega so you do have a little
+2312.88 - bit of long Vega exposure which is nice
+2315.84 - because you're also going to benefit
+2317.76 - like if I go to the curve view here you
+2319.24 - can see I make money if QQQ goes down
+2321.64 - it's a bearish trade that makes perfect
+2323.08 - sense if the market prices are going
+2325.40 - down Market volatility is often times
+2327.28 - going up and so this is a situation
+2329.56 - where man I could get paid on the Delta
+2331.76 - from the market going down but I also
+2333.24 - get paid a little kicker from volatility
+2335.44 - expanding because I'm positive Vega so
+2337.84 - this is one way to set up a positive
+2340.56 - Vega volatility expanding trade using
+2343.68 - just an equity index and of course
+2345.24 - there's a number of different ways that
+2346.52 - you could do this you can t take this
+2348.12 - example explore other stocks other
+2350.04 - underlyings and things like that but one
+2351.92 - of the other strategies that is even
+2354.44 - more positive Vega is you could go in
+2356.88 - here and you could set up a calendar
+2358.32 - spread and so again you've got QQ at 486
+2361.24 - 487 maybe you want to say Okay I want to
+2363.84 - be neutral on the NASDAQ index I don't
+2366.76 - really want a ton of directional
+2368.36 - exposure either way at least not right
+2370.04 - now but I want to play for some
+2371.92 - volatility expansion well again focusing
+2374.08 - on this Vega that we see here on this
+2376.16 - little column on this drop down a
+2377.96 - calendar spread of course is I'm buying
+2380.16 - the back month I'm selling the front
+2381.84 - month they're overlapping strikes so
+2383.96 - here I'm in November with 41 days to go
+2386.44 - maybe I sell this 485 put so I'm selling
+2389.72 - 66 Vega at the 485 put I minimize
+2392.48 - November I open up December and I buy
+2395.00 - the same strike the 485 put so the
+2397.48 - strategy is going to cost me $4 but look
+2400.00 - at the Vega impact that you're going to
+2401.64 - have on this strategy you're going to be
+2403.52 - long 20 plus vegga so you are going to
+2406.52 - have a lot of positive volatility
+2409.20 - exposure you can make the case well Jim
+2410.72 - if volatility expands you know the
+2412.00 - market may go down a lot more it may not
+2413.44 - stay around 45 that would be bad for
+2414.96 - this strategy and so on and so forth and
+2416.76 - I would not necessarily argue with you
+2418.40 - so maybe you want to adjust your strikes
+2420.04 - maybe you want to move these things a
+2421.16 - bit lower my purpose here was just to
+2423.44 - again give you a couple of examples of
+2425.56 - how to trade volatility from both the
+2427.36 - short side and the long side my
+2428.88 - overachievers out there y all probably
+2431.00 - noticed how I just kind of glossed over
+2433.24 - like all right let's say you're bullish
+2434.72 - on this stock let's say you're bearish
+2436.88 - on that stock let's not talk about how
+2438.44 - we arrived at that you know directional
+2440.48 - bias let's just assume that it's there
+2442.36 - my overachievers are probably thinking
+2443.88 - wait a minute wait a minute wait a
+2444.84 - minute how did you come to that
+2446.80 - conclusion well again when it comes to
+2449.04 - day-to-day movements I firmly believe
+2451.68 - it's all completely random so you can
+2453.76 - use the charts you can use the balance
+2455.48 - sheets you can use the whatevers to
+2457.36 - determine you your own personal
+2459.36 - directional bias in that underlying
+2461.28 - stock but if you want you know some
+2464.56 - guidance if you want some reference
+2467.16 - points for your overall portfolio
+2470.08 - directional metrics then I would
+2471.92 - encourage you to check out the portfolio
+2474.76 - management crash course that's already
+2476.88 - on the YouTube channel and if you sit
+2479.56 - tight for about 3 seconds it's actually
+2481.92 - going to start right now

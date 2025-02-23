@@ -1,0 +1,209 @@
+0.16 - intraday implied volatility and zero DT
+3.00 - success this is part of our zero DT
+4.80 - series are you ready I am ready or
+7.52 - little zero DT talk I'm ready okay bring
+11.04 - it on let's do it be should be right in
+13.28 - front of you Tom the Zer DT markets in
+15.64 - the right underlyings are incredibly
+17.60 - liquid and fast moving demanding that
+19.88 - zero DT Traders be some of the most
+21.64 - attentive and active Traders this degree
+24.24 - of Market awareness means constantly
+26.00 - looking for signs to adjust positions
+27.96 - one of the most important Market
+29.04 - statistics for short premium success is
+31.32 - implied volatility remember we talked
+33.28 - about the vix one day yes where do you
+35.12 - think it is today that's why I didn't do
+36.68 - a 0 DT 866 it's probably still in the E
+39.44 - handle 866 how have zero short premium
+43.48 - trades performed when looking at
+45.60 - intraday IV changes and how can we
+48.84 - account for this in our mechanics I
+52.16 - don't know but you got six slides that
+53.44 - going to tell me we how we can that is
+55.44 - correct thank you very much welcome
+57.96 - let's take a look so we did a study we
+59.76 - used 18 months worth of data in the zero
+62.28 - DT options collected every 10 minutes we
+64.84 - considered selling zero DT triangles 102
+68.16 - and $30 out of the money not Deltas out
+70.56 - of the money we then okay because this
+72.84 - is kind of the key we then examined the
+74.60 - change and implied volatility as
+75.88 - measured by the implied volatility from
+78.20 - Market open until noon we contrast to
+80.96 - the performance of IB being up or down
+83.16 - note that due to price or IV
+85.24 - anti-correlation this is very similar to
+87.68 - asking if the market is up or down does
+90.12 - that make sense to you it does okay and
+92.24 - the reason that we said this is because
+95.48 - there are when you think about
+97.72 - volatility okay if volatility goes up
+100.16 - the Market's going down if volatility
+101.60 - goes down the Market's going up so it is
+103.68 - reasonable to assume that when you look
+106.16 - at this study today if you look at
+108.52 - volatility you can also assume which way
+110.20 - the Market's going okay meaning that if
+112.56 - the Market's going if these positions
+114.92 - work better when volatil is Contracting
+116.60 - then you want an up Market okay I say
+119.12 - that a lot when I do my podcast on what
+120.88 - you think volatility is going to do is
+123.16 - going to influence the position that you
+124.84 - put on too for sure okay just looking to
+127.24 - see if there's anything crazy here I
+128.76 - don't see it so let's continue with this
+132.56 - slide all right so a bunch of stuff here
+135.36 - Beth and there's a lot of stuff on these
+136.76 - slides and remember these are 10 20 and
+140.08 - $30 wide strangles and the difference
+143.52 - here is that you close it early in the
+145.00 - day or you roll it okay you just adjust
+148.20 - it and you can see that after you look
+150.72 - at these slides you're kind of think
+152.56 - angles in we've talked about this zero
+154.20 - dat they use a lot of buying power so I
+156.20 - know they're not buying the wings but we
+158.20 - would typically buy the wing you could
+159.76 - sure but what's important here is they
+162.44 - don't put the definition of rolled here
+163.68 - I just want to make sure rolled means
+165.76 - you are adjusting the position right not
+168.24 - rolling it to the next day you ain't
+169.72 - going anywhere you're not going to the
+170.60 - next day though you're just okay you're
+171.64 - just adjusting the position all right go
+172.80 - ahead Beth go to the next slide you go
+174.16 - based on the strangles and you close
+176.56 - them I think you close them based on
+178.68 - success we do the 20 and $30 wide so 91
+182.24 - and 94 when you look at the a because
+184.92 - those numbers are just too high they're
+186.20 - too high not to do it the average daily
+188.00 - p&l I mean when you start to look here
+190.00 - at the $20 wide strangles where we live
+191.88 - here it it totally makes sense C bars
+194.20 - same across the board when you roll
+196.04 - these things hold to the end of the day
+197.68 - the the results aren't worth it just
+199.68 - close it and move on simple the numbers
+202.08 - the numbers literally with everything
+204.00 - that we've found I mean you're going to
+205.68 - have a lot more risk bringing it into
+207.72 - the later hours of the day too these
+209.44 - numbers speak for themselves just put
+211.76 - the position on close them out that's
+213.88 - your best play don't roll them don't
+215.52 - don't get too cute unless you have you
+217.28 - roll them if you have to not not not
+218.96 - because you're doing it offensively the
+220.44 - Sears pretty much stays the same when we
+222.68 - look at this this is when implied
+225.88 - volatility no that's overall okay good
+227.84 - perfect that's it regardless of implied
+230.52 - volatility now we're looking at this
+232.36 - implied volatility contracts so when
+234.48 - implied volatility cont tracks the other
+236.44 - side to that is that this is Market
+238.36 - going higher Okay so the Market's going
+240.48 - higher your win rate is really high I'm
+242.68 - looking at the middle one the 20 Delta
+244.24 - closed triangles that's the one I've
+246.04 - highlighted 20 Delta wide not sorry
+249.84 - 20 wide strangles $20 outside the money
+253.48 - basically $20 away from the at the money
+255.88 - strangles I'm looking at this the win
+258.44 - rate I'm looking at the average daily
+260.52 - p&l okay even if you adjust it still
+263.04 - makes a little money and and not that to
+266.16 - the $30 wide it's not bad either it's
+268.44 - still solid the $30 wide but I'm just
+270.56 - losing the 20 cuz we tend to be at the
+272.24 - 20 those numbers work this is when the
+274.20 - market goes higher and implied
+275.52 - volatility contracts do the $10 wide you
+277.72 - actually when you're when you're when
+279.28 - you're rolling it becomes a negative
+280.88 - just too close to the money so you ins
+282.56 - you got to be wide inside the expected
+284.32 - move and this is when IV expands now
+286.76 - this is gets a little scary because you
+288.84 - don't know what's going to happen and
+290.56 - usually in the first hour like today
+292.60 - first couple of hours you had you had
+293.92 - the market higher now you have it
+295.64 - obviously lower but take a look at these
+297.52 - numbers when IV expands inra day this is
+300.08 - why we don't like holding things to the
+302.04 - this is why we don't like holding things
+303.56 - in general because you don't know when
+304.52 - the Market's turn around there's no
+306.04 - positive number here this is when the
+308.00 - market turns around and goes down this
+309.64 - is what makes zero DT so hard because
+312.44 - when the market goes down due to the
+313.92 - velocity of change meaning the velocity
+316.08 - of the movement to the downside and also
+317.92 - due to the IV expansion and today is a
+319.88 - perfect example as the vix is was down
+322.64 - this morning now it's up 25 CS the win
+325.28 - rate drops from low 90s to 70% the
+330.04 - average daily p&l gets crushed totally
+332.28 - crushed and this is why I'm going to
+334.84 - point out a couple things here this is
+336.60 - why I only like to do zero days when IV
+340.04 - is really high to start with because
+342.32 - when IV is low you run the risk of IV
+345.24 - expansion you run the risk of
+347.12 - acceleration to the downside and there's
+349.40 - no juice there to make up for it when
+352.04 - when you have a market that is let's
+355.28 - call it 50/50 to go up or down or 55 45
+358.60 - whatever it is to go up or down down the
+360.28 - numbers still don't play out even with a
+363.12 - 94% or 92% probability of profit the
+366.72 - numbers don't play out to do zero days
+369.48 - in low implied volatility they just
+371.48 - don't play out well you're flirting yeah
+373.48 - and it's now if you put this on on a big
+375.80 - down opening maybe that plays out a
+377.64 - little bit better because maybe
+378.56 - volatility cont tracks over the course
+379.84 - of the day if it comes back a little bit
+381.32 - but I don't know and we really wanted to
+382.84 - do this because I wanted to show the
+384.24 - difference between up markets and down
+385.88 - markets changes in intraday implied
+387.80 - volatility seem to heavily and
+389.60 - anti-correlate with short premium Zero D
+392.12 - success so as long as IV fell during the
+394.68 - day the short premium trades tended to
+396.12 - be winners or the short premium zero DT
+398.92 - trades when Ivy expanded from open to
+401.16 - noon the zero DT trades were often
+403.44 - unsuccessful those was pretty obvious
+405.68 - the key if you managed to have a winning
+407.72 - trade despite IV expanding take your
+409.44 - profits and be happy rolling to new
+411.28 - strikes was a recipe for snatching
+412.84 - defeat from the jaws of Victory
+414.56 - essentially here this is making a very
+416.92 - strong argument that one of the reasons
+419.76 - that zero DT trades have been for some
+422.60 - people so successful over the last 18
+425.68 - months year and a half is because the
+427.40 - Market's been going higher I I don't
+429.12 - want to burst anybody's bubble but a
+431.12 - phenomenon of the market accommodating
+432.68 - right which we've always said in these
+434.04 - zero days you and I have always said
+435.48 - this yes there is there is no question
+439.64 - that a market that grinds higher is the
+443.44 - best case scenario for zero DT trades if
+446.84 - you have a market that is grinding lower
+450.16 - or going lower zero DT trades become
+453.68 - very difficult to be profitable with so
+455.52 - let's not not confuse those two

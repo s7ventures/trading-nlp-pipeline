@@ -1,0 +1,179 @@
+0.28 - this is the start Tony of a four-part
+4.44 - series that we are doing every Monday
+7.28 - for the next four weeks so for the next
+9.80 - four weeks we are doing something called
+12.00 - an earning season Playbook with earning
+14.16 - season around the corner say we're going
+16.08 - to drive into the key metrics needed to
+17.64 - navigate these trades earnings trades
+19.88 - can present unique opportunities but
+21.60 - it's crucial to understand the factors
+23.60 - that impact outcomes earnings trades by
+26.52 - the way have in my opinion one of the
+30.84 - the smallest amounts of edge that you're
+33.92 - going to get they're interesting because
+35.92 - they're binary they're interesting
+37.40 - because they're immediate they're
+40.08 - interesting because it's it's it's it's
+43.20 - almost like um instant gratification if
+46.00 - you're right but the other side to that
+48.16 - is there is very little Edge even if
+50.92 - you're working with a smaller account
+52.00 - earnings trades can still be a viable
+53.44 - strategy when risk is carefully managed
+56.36 - by focusing on proper risk management
+58.08 - you can position yourself to capitalize
+59.60 - on Market moves while minimizing Downs
+62.56 - potential downsides hey you know one
+64.80 - thing I think that's interesting about
+66.32 - earnings trads I just looked at Netflix
+69.04 - man not much trading in there not a lot
+71.12 - of trading the markets aren't as as
+72.92 - tight of as I would thought too to be
+75.32 - honest with you yeah I I did a Netflix
+78.00 - trade I tried to sell calls in there
+79.88 - this morning because I was a little it
+81.84 - is a $700 stock I mean I understand that
+85.84 - I sold the November 870 calls tried to
+90.76 - took me forever to get them off so
+92.36 - there's not not a lot there dude so when
+95.28 - traded mechanically a few of the many
+97.32 - advantages of earnings trades and these
+99.12 - are the advantages most trade with high
+101.36 - IV or high ivr they provide an
+103.48 - opportunity for lots of occurrences and
+105.32 - stocks you might not normally trade I
+107.12 - think before we before we just go on
+109.24 - here I also need to point out that they
+111.44 - also have a downside and the downside is
+114.20 - you have very little time to adjust
+116.12 - usually your bed is made for you
+117.76 - choosing the right duration is never
+119.96 - easy because they're all mathematically
+122.20 - accurate a you don't have time to adjust
+124.32 - and B the outlier moves are hard to make
+127.32 - back right that's fair yeah that's fair
+129.48 - that's the downside so stocks exhibiting
+131.36 - High implied volatility above 30 tend to
+133.28 - experience earnings related changes in
+135.00 - implied volatility exceeding 30% more
+137.16 - often than typical trading days so what
+139.24 - we're looking at here is which I think
+141.40 - is interesting since we looked at six
+143.44 - years worth of data and we basically
+145.28 - said if you looked at Apple Microsoft
+147.44 - Netflix Amazon and you looked at the
+149.32 - average number notional IV the average
+152.24 - you would see that it's about 35 when
+155.16 - you look at it around earnings it's
+157.20 - about 42 the difference there on a
+159.24 - percentage basis is about 20% so if
+161.12 - you're looking to know kind of like what
+162.48 - are we talking about with height and
+163.80 - volatility it doesn't matter whether
+165.76 - it's Apple Microsoft Netflix Amazon on
+169.20 - average throw them all together it's
+171.36 - about 20% higher right 35 to 42 is 20%
+175.64 - yep yep the standard deviation of
+177.84 - implied volatility around earnings okay
+182.04 - is this is where this is the big number
+185.16 - it's essentially we're we're talking
+187.72 - about plus or minus 8% in apple 8% in
+191.72 - Microsoft 14% in Netflix remember that
+195.28 - because that's tomorrow 10% in Amazon
+198.84 - now the reason I say remember this
+200.08 - because it's tomorrow is Netflix has the
+202.56 - highest standard deviation IV change
+204.84 - around earnings and when it does it does
+207.28 - because for a reason it's the most risky
+209.52 - so you look at Apple Microsoft Netflix
+211.40 - and Amazon the riskiest of those four
+213.64 - stocks is Netflix that's why it has the
+216.48 - biggest range of implied volatility but
+219.40 - the average number is 10.3 these are all
+222.00 - really interesting numbers statistically
+223.76 - we can create earnings with similar pop
+225.80 - and a win percentage as a standard you
+227.88 - know 45 day to expiration strangle since
+230.32 - 2018 we sold 16 Delta strangles 45 days
+233.60 - to expiration and then we sold 16 Delta
+235.92 - strangles closest to earnings and held
+237.32 - for a day in those same four stocks this
+240.12 - is kind of a really cool research and so
+242.52 - we looked at six years worth of research
+244.20 - and if you look at the win rate overall
+246.04 - selling 16 Delta strangles it's 72%
+249.08 - which is a little bit less than than it
+251.64 - would be for the indexes but you know
+253.96 - there's more potential profit here
+255.96 - actually apple and Netflix um dragged it
+258.44 - down a little bit at theoretical and
+259.88 - Microsoft and Amazon were higher than
+261.40 - that but what's interesting here is the
+263.84 - win rate only on earnings was virtually
+267.24 - the same if you look and see which one
+268.88 - is the worst of all all these in the
+270.28 - last six years it's Netflix so the
+272.08 - numbers don't lie really is what you're
+273.48 - looking at here the numbers don't lie
+275.24 - but Netflix has been hard to grind out
+277.44 - you know surex is actually
+279.24 - underperformed theoretical so you think
+281.16 - more of a of I mean will this change
+283.24 - your opinion on maybe more of a
+284.76 - directional bias it's not going to
+286.48 - change it does a little bit more of a
+288.64 - directional bias in Netflix I'm inclined
+290.60 - to be short in Netflix just because the
+292.32 - Stock's so high but I guess my argument
+294.36 - here is that if you if you were going to
+295.88 - choose to sit one out because of low
+299.08 - volume or low liquidity uh Netflix would
+301.96 - probably be the one you sit out let's go
+303.76 - to next slide understood we trade
+305.84 - earnings small and and and Netflix
+307.72 - earnings are Thursday not not tomorrow I
+309.60 - think you you said tomorrow I thought it
+310.92 - was tomorrow it's not
+312.52 - tomorrow uh it's the 17th after the
+315.80 - close oh sorry that's Thursday then
+317.96 - something had earn tomorrow I don't
+319.76 - remember what it is okay not a big deal
+322.56 - um so the next thing we did is we we we
+325.36 - looked at average price movement the
+326.92 - same four stocks when you look at the
+329.20 - change they switched the order here but
+331.04 - when you look at the change around
+332.88 - earnings it's plus or minus 7.2% when
+337.52 - you look at the change without earnings
+339.36 - it's 2.4 when you're thinking about just
+341.52 - your earnings risk and earnings
+343.76 - volatility it's it's almost 3x exactly
+346.96 - that's pretty cool oh these are good
+348.20 - numbers yeah um good numbers here's how
+350.52 - the key mechanics differ from 45 day
+352.60 - trades first is timing place your trade
+355.36 - the day the day before earnings
+357.20 - announcement to capture the pre- earn
+359.64 - earnings volatility now when they say
+361.40 - the day before you could do it two days
+363.12 - before you could do it the day before
+364.48 - you could do it the day of really matter
+366.12 - there's there's nobody nobody knows for
+367.60 - sure when you're going to sell the high
+369.12 - tick and volatility each stock is very
+371.16 - different really nobody know nobody
+372.40 - knows for sure are you are you confident
+374.08 - about that I happen to be very confident
+376.40 - fair enough keep your size small to
+377.92 - ensure that risk is consistent that's
+380.48 - 100% ideally exit your position the
+382.80 - morning after earnings I mean that's up
+385.20 - to you I Tony and I like like to lock in
+387.88 - profits or adjust trades the morning
+389.96 - after earnings and use option strategies
+392.48 - that benefit from high implied
+393.60 - volatility pre-announcement and avoid
+395.64 - concentrating too much risk in one
+397.12 - earnings play to protect against
+398.56 - unexpected outcomes I mean that's common

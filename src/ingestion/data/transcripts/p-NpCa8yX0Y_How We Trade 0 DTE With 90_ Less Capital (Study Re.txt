@@ -1,0 +1,254 @@
+0.08 - you're ready for a little zero DT
+2.24 - interesting study because we've never
+3.72 - done this before picking wings for zero
+6.68 - DT strangles how do you pick a wing how
+9.84 - do I pick a a wing yeah I mean for me
+13.00 - it's been on the Zero days and and this
+14.88 - is what we always talk about sponsored
+16.48 - by the CBOE on Thursdays I've been going
+18.52 - with the $20 that's been 20 to 30 I I'll
+21.80 - spread it out a little bit $230
+25.16 - wide I go with my shorsh Delta around
+28.32 - 2025
+30.24 - I like to collect around fiveish dollars
+33.76 - and I go from there that's what I've
+35.20 - been doing this is a piece of research
+36.88 - that's designed to show you that if you
+39.48 - want the cheapest possible Wing what it
+43.24 - does as far as buying power savings is
+46.40 - let's go to the first slide I'll show
+47.76 - you all right let's do it we've never
+50.04 - done anything quite like this so trades
+52.76 - with undefined risks such as short
+54.08 - strangles have higher probabilities of
+56.20 - profit and upside than potential similar
+59.52 - defined risk strategy such as IR Condors
+62.40 - undefined risk zero DT positions are
+65.84 - buying power
+67.36 - prohibitive however because of
+69.08 - regulatory BPR
+71.48 - minimums um do not account for time
+74.52 - remaining so adding cheap far out of the
+78.20 - money long options can give similar
+79.88 - results to undefined risk trades while
+82.92 - controlling buying power so how do we
+85.76 - pick those far the money options so Tony
+89.64 - if I if I was to sell right now let's
+91.68 - just say a 30 Delta strangle zero DT in
+96.68 - the SPX what is my buying power
+101.20 - requirement 30 Delta just a strangle 30
+105.08 - Delta call 30 Delta put strangle SPX 0
+110.04 - DT uh let's take a quick look sou off
+113.08 - it's going to be huge you know that
+114.60 - right it's going to be huge it's going
+116.20 - to be yeah probably around 100,000 but
+118.84 - I'm not sure
+120.72 - uh I think it's a little bit less but
+123.32 - let's see Zero day 30
+126.60 - Delta uh
+132.72 - approximately 100 oh you're a little bit
+134.56 - more
+137.00 - 120,000 20% almost exactly of a $6,000
+141.84 - index the buying power requirement for a
+145.68 - on lot strangle right 30 Deltas how much
+149.56 - money premium you taking
+151.36 - it about uh I mean at this I mean
+153.96 - obviously it's at different times but
+155.32 - let's just call it $8
+157.76 - okay so in order to make Max $8$ eight
+161.88 - and a half dollars but eight and a half
+163.40 - $9 whatever let's just say Max to make
+165.84 - $800 hour today you got to put up 120
+168.64 - Grand a lot of money it's a lot of money
+172.36 - um but people trade these products a lot
+175.24 - yep yep
+177.48 - so obviously you can do a normal cond or
+180.32 - things like that but what if you wanted
+181.60 - to keep that synthetic strangle on but
+184.20 - reduce your buying power requirement to
+186.36 - from
+187.24 - 120 to under $10,000 let's say right and
+191.84 - have essentially the exact same position
+193.44 - on that could be interesting right yep
+197.08 - definitely that's what the study
+199.44 - is take the 120 which is cost
+202.44 - prohibitive for everybody and turn it
+205.00 - and turn it
+206.92 - into I don't know 8,000 10,000 something
+210.12 - like that let's take a look that's
+212.00 - correct that's correct because as we
+215.08 - wrote In Here regulatory BPR minimums do
+218.80 - not account for time
+220.72 - remaining so that's the beauty of this
+223.20 - now is there really $120,000 in Risk in
+225.80 - that one lot strangle and the answer is
+227.92 - no not at all because the market can't
+229.24 - move that much in a day but that's just
+230.96 - the way the right we would be we would
+232.68 - be lock limit and closed right so so
+236.12 - that so but if you buy a cheap option
+238.68 - you can reduce that let's go next
+242.44 - line so using nearly two years of data
+245.12 - in the SPX zero DTS we looked at 40
+248.68 - Delta 30 Delta which Tony just looked at
+251.28 - and 20 Delta triangles at the market
+254.52 - open now we got to look for wings so
+257.48 - we're going to go looking for closest to
+259.96 - at the money put with a cheap bid of 30
+263.80 - cents 20 cents or 10 cents so the bid
+267.68 - had to be 30 cents okay I
+270.72 - uh Tony because I'm not looking at that
+272.36 - page right now y if you were looking
+274.56 - right now
+276.24 - on the what is the what is the cheapest
+280.36 - Z 30 bid
+282.76 - yes uh Le let's just say on the put side
+286.00 - you would be about uh 6070 would be your
+290.52 - short and your long would be 6,000 so
+293.40 - say $70 on the put side oh okay you mean
+298.16 - you're saying an option with an option a
+300.00 - 30 Cent bid is your is the one you buy
+302.24 - right yeah you you're saying $700 right
+305.76 - I'm sorry
+306.68 - $700
+308.44 - 6,070 to 6,000 or or $700 because
+313.36 - everything is 10 times you use about
+315.20 - $6500 in buying power there you go
+317.96 - they're exactly right yep and on the
+320.76 - call side it would be whatever on the
+323.24 - call call side it would be like uh
+326.36 - approximately now guys you know this is
+328.20 - 6,90
+330.16 - to about um
+334.96 - 6115 uh so you'd be using obviously uh a
+340.04 - little less a little less buying power
+342.60 - on the on the upside and you get stop
+344.48 - stop stop stop what they're doing on the
+345.80 - call
+346.76 - side they're taking the same distance so
+349.40 - was 700 hour it was 700 points the
+351.28 - downside because that's the W the put
+353.28 - they're going to do 700 to the upside so
+355.88 - and we we'll show you what those prices
+357.12 - come out to it's very interesting they
+359.24 - were're going to repeat the with put
+360.84 - skew your with put skew your your put
+362.92 - spread is going to be so much wider
+364.28 - that's where all the buying power is
+365.36 - going to come from that's right your
+366.60 - call side's only going to be you know
+368.08 - $30 wise it GNA be half as much 300 you
+371.12 - mean 300 yeah so I'm sorry 300 right
+373.56 - everything is 10 times an SPS I
+375.20 - apologize okay We examined the the
+378.28 - average total cost of the Wings
+380.88 - resulting buying power as well as how
+382.56 - often they provideed actual protection
+385.08 - okay how often sometimes probably never
+387.68 - I don't even know let's go next
+391.48 - slide okay we'll start with 40 Delta
+393.64 - strangles this explain the whole thing
+395.12 - take two
+397.80 - seconds the 30 the cheapest put with the
+400.52 - 30 um at 30 cents was actually 37 cents
+405.00 - because you had to buy it somewhere the
+406.88 - mid price the 20 cent put was 25 cents
+410.08 - the 10 cent put was 20 cents makes total
+413.04 - sense to me on the call side the calls
+415.80 - were obviously more expensive um because
+419.56 - if you went the exact same distance they
+421.76 - were
+422.96 - .71
+424.88 - 43
+426.56 - um but none of that mely matters because
+429.92 - the average daily buying power reduction
+432.08 - to make this trade just like Tony said
+434.68 - before we said it was about $700 wide is
+437.40 - it turned out to be
+439.64 - $8,200 okay so all these
+442.56 - numbers are a
+445.08 - fraction of 120,000 for the naked
+448.84 - position
+450.92 - the amount of time that those protection
+454.52 - came into
+455.80 - play
+457.52 - 4% basically zero never never on the
+460.88 - call side much more often but
+464.16 - um uh 40% on the 30 Delta Wings on the
+467.72 - 30 cent wings and then a little bit
+469.76 - lower on the other
+471.00 - ones the the purpose and the main
+473.72 - takeaway here is just to show you that
+477.24 - in the end
+479.56 - you can put up 90 to 95% less Capital by
+484.16 - just buying the junkiest wing you can
+488.00 - find right that's what this is that's
+491.28 - exactly you're exactly right yeah and
+493.28 - you can take I mean I know they I know
+494.76 - for the study they want to you know keep
+497.00 - it symmetrical on both sides but you
+498.96 - could take a lot less upside risk
+501.24 - because the options are so much cheaper
+503.36 - priced like going that extra 25 sorry
+506.72 - $250 to $300 wide to save a nickel or 10
+510.92 - or 15 cents isn't really worth it in at
+513.16 - least in my opinion let's go next
+516.16 - slide it's the same setup you can see
+519.32 - here the same situation the fun thing is
+522.28 - on the 10 on the 10 C puts those never
+525.08 - protected you ever in the history of
+527.40 - watches but that makes sense too I guess
+530.72 - all these slides are going to be you
+532.00 - know virtually the same the the whole
+534.44 - purpose here was just to show you that
+536.96 - regardless of what strangle you sell
+540.52 - to collect all your money the wings are
+543.08 - going to be about the same let's go to
+545.28 - next slide Beth the 20 Deltas they're
+547.92 - all virtually the same and the
+551.00 - percentages are the same and the buying
+553.88 - power reductions pretty much the
+556.04 - same further you go away from that the
+558.36 - money the the cheaper you put a little
+560.32 - less money up but the purpose the point
+562.52 - here is it's still 90 to 95% less than
+566.00 - selling a naked than selling a naked
+569.12 - stri Le in the SPX it's much more of a
+571.28 - strategic play on buying power and
+575.00 - there's I can't come I can't think off
+577.68 - the top of my head of any reason why I
+579.84 - wouldn't do this now I've challenged you
+582.28 - on this when you've done strangles and I
+584.00 - know we're doing the show real quickly
+585.96 - and you'll just do a strangle for a
+587.48 - short period of time um in SPX near the
+590.36 - end of the day using a lot of buying
+592.32 - power and I know you're only keeping it
+593.84 - for the next you know 45 minutes or less
+596.84 - in the trade but you would probably hold
+599.88 - on even longer if you had that Wing
+602.88 - attached to it and you'd probably roll
+605.72 - up the untested side a little bit little
+607.44 - bit quicker too and maybe stay in the
+608.92 - trade for more juice you know elevate
+611.44 - your game a little bit
+617.32 - sadov let's go to the last slide giving
+620.04 - up some profits to purchase far the
+621.56 - money wings and control your buying
+623.00 - power is just a reality for those who
+625.20 - like to trade zero DT strangles if you
+628.20 - really want Iron Condors that function
+629.72 - like strangles start by finding a cheap
+632.60 - long put and then add a symmetric call
+635.68 - the more buying power VPR you're able to
+638.32 - commit the cheaper a put you can
+640.28 - use due to put skew using cheap long
+644.72 - calls resulted in more expensive long
+647.96 - puts there's nothing wrong with that uh
+651.20 - as a trade but you're really selling
+652.52 - iron Condors then so in reality you can
+655.44 - balance how much you're willing to spend
+656.72 - on wings with the resulting BPR
+660.44 - um effects differently every day but now
+663.04 - that we know what we're getting into
+665.04 - when we look to sell zero DT strangles

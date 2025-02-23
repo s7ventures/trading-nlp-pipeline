@@ -1,0 +1,176 @@
+0.04 - the vix behavior in Bull and bare
+2.96 - markets we're going to take a look and
+4.28 - see what the vix does it has this the
+6.28 - vix has this inverse relationship to
+8.32 - whatever happens in um Market the snps
+12.84 - and we're going to see and take a look
+14.44 - and see how that kind of plays out over
+16.32 - time so on average the vix has a very
+19.00 - strong negative correlation with the S&P
+20.72 - 500 but we also know that in Market
+22.96 - downturns the magnitude of the moves in
+24.92 - the market and the vix increase so what
+27.16 - is the difference in magnitudes of moves
+29.20 - in different Market environments and
+31.32 - what can Traders do with this info
+33.68 - because sometimes it works and sometimes
+35.92 - it don'tuh okay most of the time it does
+39.64 - but how much of the time doesn't it
+41.52 - actually work and how confusing is that
+43.72 - and all that kind of stuff we're going
+44.64 - to take a look at everything today so we
+46.24 - looked at the last five years because I
+47.88 - think for the vix and the snps five
+49.92 - years is a little more relevant and we
+51.64 - computed the average and go time the
+54.16 - less relevant it is yeah yeah yeah I
+55.60 - mean the last 5 years we've had plenty
+57.16 - of moves we've had a pandemic we've had
+58.88 - crazy you know record highs Felts like
+61.52 - every year we've had one selloff in 2022
+64.72 - so we computed the average and the
+66.60 - standard deviation of average vix moves
+68.80 - during spy up days and down days and we
+70.68 - did it separately and then we computed
+72.60 - the conditional probabilities of the vix
+74.20 - and the Spy movements you're going to
+75.44 - see some fun little stats here so the
+77.40 - average move magnitude in the vix is 45%
+81.28 - more when the Spy is down and it has a
+83.32 - 75% higher variance of moves so when the
+86.40 - Spy is up let's say today the Spy is up
+88.64 - a little bit the vix tends to move less
+91.36 - with a tighter range of moves I don't
+93.60 - think that would surprise anybody no
+95.44 - when Market's
+97.12 - up the vix moves less and it contracts
+100.56 - when it's down the vix um has a greater
+105.60 - magnitude of the move so we'll take a
+107.96 - look here so any vix move on any day um
+112.24 - and we looked at up days and then spy
+114.72 - down days which I think is pretty fair
+118.16 - um 3 point three and per on up dayss and
+121.68 - 5.1% on down days that's the mean vix
+124.60 - move and then the volatility of vix
+126.72 - moves is significantly higher on down
+129.16 - days than up days and on any day it's
+131.56 - plus or minus 88.5% what's really
+134.16 - interesting about this is it it just
+137.60 - explains why there's put skew in the
+140.52 - index products and it also explains why
+143.04 - we spend so much time talking about hey
+145.44 - when you have a beta weighted position
+146.72 - we like to keep a little bit of short
+148.60 - Delta because if protects against those
+152.44 - um the volatility in the market on those
+156.88 - on those down days that's all it is the
+159.16 - Market's more volatile than those down
+160.48 - dayss gives you a little bit more
+161.52 - protection that's that's that's it
+163.48 - that's all it does a little bit of short
+164.84 - when you're following the market right
+166.28 - sometimes a lot of NASDAQ stocks that
+167.64 - you trade the volatility actually go up
+169.76 - as the stock goes higher too so you know
+171.56 - you got to be a little careful make sure
+172.60 - you're in the product I know we're
+173.44 - talking about S&P right here yeah we're
+174.96 - talking about S&P right now using
+176.48 - conditional probabilities we can expand
+177.92 - on this concept and say that there's a
+180.08 - 21% chance that when the market is up
+183.20 - the vix is also up and a 27% chance that
+186.64 - when the market is down the vix is also
+189.08 - down this is what confuses people
+191.48 - because how can the market be up when
+193.60 - the vix is up and how can the vix be up
+195.40 - with the Market's up and how can the vix
+197.28 - be down when the Market's down so there
+199.28 - are those times this is what we call
+201.52 - keeping people
+203.72 - honest okay that this is what does it
+206.56 - keeps you honest like well today is
+209.32 - probably
+210.64 - today's today's a tough one because it's
+213.16 - Market's basically Market's mix you got
+216.40 - &p Mi vix is only down a couple pennies
+218.84 - and the Market's up a little but a
+220.40 - minute ago it was down so it's hard it's
+222.04 - kind of hard to say um but I just wanted
+225.56 - to point this out because sometimes like
+227.32 - we'll sit here and we'll go why is the
+228.72 - market down and the vix is down or why
+230.60 - is the market up and the vix is up well
+233.32 - 21 and 27% of the time that's going to
+236.24 - happen so let's just say 23 24 % of the
+240.28 - time you know just under one quarter of
+242.20 - the time that's going to happen so it's
+243.80 - not that weird is my point so the
+246.48 - probability that the vix goes down when
+248.12 - the market goes down is actually the
+250.64 - same as the probability that vix goes up
+253.28 - when the market goes up this is another
+255.12 - reason why we like to be short of little
+256.52 - Delta to hedge against the down moves
+257.88 - the market what I said before since the
+260.32 - chance of a double whammy vix up and
+262.24 - Market up it's 21% and the chance of
+264.88 - both going in our favor is 27% our hedge
+267.60 - will work the same amount if it doesn't
+269.32 - but it serves to reduce overall risk in
+270.96 - a portfolio it's a crazy way to look at
+273.56 - how to keep and track your overall
+275.56 - position because all you're trying to do
+277.56 - is take advantage of a very small
+280.12 - mechanical edge with the vix being down
+282.80 - chance of them both going in our favor
+284.60 - vix down marketown as opposed to vix up
+287.52 - market up and what to expect too like
+289.76 - you know if the market goes lower and
+292.16 - you have a position like this and you
+294.92 - make money having a little bit of long
+297.24 - Delta on it it's because volatility raed
+300.12 - or expanded to fit your position so you
+302.80 - know it's not always about the Delta
+304.32 - it's also about the volatility right but
+305.96 - what what what what these guys are
+307.48 - saying researchers here is that it's 21
+310.80 - vers
+311.60 - 27% so there's a little tiny bit of edge
+314.44 - to keeping maintaining a little bit of
+315.80 - short Delta that's all it is because 27%
+318.40 - of the time as opposed to 21% of the
+319.76 - time it works in your favor I'll take
+322.00 - whatever Edge I can get let's go to the
+323.84 - next slide so some of the takeaways on
+327.16 - average when the market goes up the vix
+328.68 - goes down but with less magnitude than
+331.00 - when the market moves down and the vix
+332.36 - moves up I there's a lot of offsetting
+335.32 - stuff here but since the probability of
+337.88 - Vick's going down when the Spy goes down
+339.72 - is larger than the probability of Vick's
+341.00 - going up when the Spy goes up our short
+342.92 - Delta hedge will work around the same
+344.24 - amount of time as it doesn't the the
+347.00 - difference is that we have to remember
+348.64 - is that the market goes up more than it
+349.88 - goes down so you you you have way more
+353.08 - three% of the time is that the number
+354.52 - well no it's higher than that now higher
+356.48 - it's higher than that it's every day now
+358.28 - I mean but I'm just going over to time
+360.20 - well it's higher than that for the last
+361.52 - couple years it's been closer to like 60
+363.88 - 40 MH or 58 42 whatever it is but so so
+368.56 - that's what offsets it because there's
+370.00 - always something symmetrical that comes
+371.40 - out but anyway that's why we maintain a
+373.16 - little bit of short Delta that was
+374.28 - always our thought process and know now
+376.48 - you know why we now you know why we kind
+378.56 - of wrote The Mechanics the way we we
+380.56 - built the mechanics the way we did them
+382.56 - would you skew at Eliz a little bit for
+384.36 - stocks that don't have have an inverse
+386.20 - relationship to the market

@@ -1,0 +1,164 @@
+0.08 - let's see what to consider before
+1.92 - putting on iron Condors let's let's go
+3.64 - to the next slide so yesterday we
+5.56 - explored the optimization of wing width
+7.76 - and buying power requirements using
+10.08 - neutral strategies like the strangle and
+11.52 - iron Condor following this study we
+14.04 - received inquiries on how to easily
+16.40 - demonstrate the advantages of widening
+18.08 - Wing widths compared to narrower wings
+21.92 - with present lower risk which present
+24.44 - lower risk for novice and and limited
+27.12 - account sized um Traders so in response
+31.00 - we compiled statistics to highlight
+33.00 - additional reasons behind all that
+35.92 - discussion that we had yesterday okay
+38.20 - it's important to mention that when
+39.40 - setting up an iron Condor we have
+41.20 - multiple choices select such as
+43.36 - selecting the strikes to sell the
+45.28 - contracts to use and the width of the
+48.16 - Wings let's go let's take a look let's
+51.24 - break it
+53.32 - down typical for us we go 45 days to
+56.40 - expiration we manage 21 days even though
+58.52 - it's an iron condor
+60.56 - we used 10 years of data and we looked
+63.96 - at varying widths three um uh three
+67.68 - strikes wide five strikes wide
+70.92 - 10 oh there's your bond bonds 28 look at
+74.12 - you 3510 and 13 strikes wide we compared
+78.24 - the win rate the SAR the buying power
+81.64 - the return on Capital and the cumulative
+83.40 - performance of the average p&l we
+86.96 - basically broke it all down mhm so what
+89.12 - to consider before for executing an iron
+91.00 - Condor um what Tony and I like to do is
+93.68 - we're kind of middle of the road iron
+95.24 - Condor players what that means is we
+98.08 - definitely don't do them too tight and
+99.60 - we definitely don't do them too crazy
+101.24 - wide so like we're kind of in the middle
+103.28 - somewhere so if I had to say what are we
+105.96 - we're probably the five to 10
+110.16 - Range Five would be pretty tight I think
+112.44 - we're more the $10 range but sure I
+114.88 - think a lot of the NASDAQ stocks that we
+116.48 - end up trading or higher price stocks um
+120.20 - and that's why you go to a $10 wide okay
+122.28 - let's go next slide okay so say we're
+124.76 - five or 10 yep and Y but we we kind of
+128.24 - don't do the I mean we're mostly
+129.92 - strangles we don't do the 13 Delta wide
+132.08 - we rarely do the three Delta Wide Wings
+135.28 - right um and the 20 Deltas for the short
+138.20 - strike is probably pretty good for us 20
+139.76 - 25 so the wider the wings the more
+142.12 - closely the performance mimics the same
+144.04 - Delta strangle the tighter the wings the
+146.28 - less the win rate the less premium
+147.64 - collected also the less buying power
+149.04 - used and this is all like something that
+152.40 - shouldn't surprise you but you can see
+153.92 - where we are here at those 10 Delta
+155.84 - Wings we're kind of right in that you
+159.08 - know 61 verse 71 and you can see our
+163.60 - numbers are about half of you know what
+166.20 - we would take in premium wise and the
+168.64 - buying power is I don't know 1/4 MH
+172.28 - about 25% we usually figure back of the
+174.96 - envelope we say between 20 and
+177.00 - 25% that's the back of the envelope if
+179.40 - you're only only taking in like like
+182.96 - like if you're doing three Deltas wise
+184.76 - you're doing using $300 forsus 6,000 in
+187.36 - a strangle so it's 20 to1 that's that's
+190.20 - only 5% that's that's way too narrow
+194.16 - sure if you're doing about 20 to
+197.04 - 25% which would be you know which is
+200.64 - something like around the 10 Delta um
+203.04 - that's okay like I to me that makes a
+206.44 - lot more
+207.60 - sense um and that's where we like to be
+209.60 - on most of our defined wrrs so we don't
+212.12 - want to be it's not like one 12th we
+214.52 - want to use maybe one quarter
+217.88 - 1th that's our back the envelope kind of
+221.04 - an idea that that we're kind of
+222.52 - collecting enough premium let's go to
+224.96 - next
+226.40 - slide I also don't like that 52% win
+229.20 - rate you know in the cheapies right
+230.76 - you'd rather be in the in the 60s right
+233.24 - the Cuma of pnl over time provides an
+237.04 - overview of how the varying Wing widths
+239.04 - perform over the same period using um
+242.96 - the iron Condor strategy and you can see
+246.16 - here there's two there's two of those
+249.24 - lines below zero and there's no real
+253.56 - reason using the snps and managing at 21
+255.92 - days over 10e period why you would ever
+258.84 - want to do something that ends up to be
+262.20 - has a negative return it's below the
+264.72 - zero line the 10 Delta 13 Delta have a
+267.84 - positive return that's your answer I
+269.52 - mean you don't have to go any further
+271.24 - than that that this is I mean some of
+273.28 - those have those are pretty consistently
+276.40 - below the zero line and the other ones
+278.16 - are pretty consistently above except if
+280.36 - you take you know the pandemic really
+281.96 - dragged down the averages but still The
+284.84 - Wider you go the better off you've been
+287.40 - let's go next slide and those are
+289.40 - cumulative pnls okay even though the
+291.92 - tight iron Condors exhibit a lower risk
+294.04 - profile um as shown by the sear and the
+296.80 - worst loss the worst case loss metrics
+299.96 - they may lead to negative Returns on
+302.20 - buying power and capital deployed over
+304.80 - time um
+308.04 - there's there's clearly okay now again
+311.72 - this is these are cumulative over time
+315.48 - so it's a little different than the way
+316.96 - you would really look at anything in a
+319.32 - more traditional you know you don't look
+320.96 - necessarily cumul over time but but
+322.72 - still um you can see the three and five
+325.28 - and the other ones were just small
+327.20 - positive and the strangle was the most
+328.56 - positive that's why like undefined risk
+330.68 - the best but we tend to stay in that 10
+333.08 - Delta maybe we even go further maybe go
+334.72 - a little bit higher but based on this
+336.60 - study um the worst losses
+339.88 - are feel like they're in line with
+342.48 - everything else and the C I feel like is
+344.16 - in line um I don't think those are none
+346.92 - of those numbers are crazy I think
+348.24 - they're just what you would expect but I
+351.12 - think the takeaway from the segment is
+352.80 - you want to stay away with from from
+355.28 - Delta widths and from the narrow width
+357.20 - iron Condors where the long-term C of
+359.88 - p&l is a negative
+361.64 - number I know it's attractive to not
+364.16 - have to put up much money I know it's
+365.96 - attractive to have the low C and the
+367.60 - small buying power doesn't work if you
+370.36 - hit one out great but so although tight
+373.20 - iron Condors require less buying power
+375.40 - they're low average p&l their negative
+377.20 - return on Capital and their win rates
+378.76 - just don't justify consistent use you
+381.40 - want to do it on a one-off basis go
+382.92 - ahead but consistently if we increase
+385.80 - the wings the trades more closely
+387.20 - replicate the performance of a strangle
+389.88 - while using much less buying power than
+392.36 - a strength so is it is it exactly no
+395.76 - it's not you pay for the right to Define
+398.16 - your risk you pay for the right to limit
+400.88 - your risk you pay for the right to use
+404.32 - less Capital it's expensive but

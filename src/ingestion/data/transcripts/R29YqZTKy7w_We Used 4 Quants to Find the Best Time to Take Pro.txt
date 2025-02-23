@@ -1,0 +1,202 @@
+0.08 - there's a couple of different ways to
+1.24 - look at profit targets right there is
+4.76 - you can say you want to make 50% of the
+7.04 - credit you receive right that's one way
+9.68 - yeah yeah you can say we're going to
+11.36 - manage a 21 DTE wherever it is that's
+13.84 - like one of the things we do right yep
+16.56 - th those are I wouldn't call either of
+19.00 - those two Dynamic those are kind of like
+20.60 - static right you're either managing at
+22.80 - 50% or you're managing at
+24.88 - 21dt but what if you just gave a little
+27.64 - flexibility like what if you made
+30.36 - um more money sooner like you put a
+34.80 - position on today and it actually
+37.12 - worked okay all right that would be
+40.96 - something so if you want to take profits
+42.36 - let's say 25% that would be dynamic
+44.84 - right yeah I got I got emails about this
+47.28 - last night people volatility contracted
+49.16 - they caught a good volatility run here
+50.64 - and they're saying hey do I wait to 21
+52.16 - days or do I close stuff this is very
+54.84 - timely
+57.92 - um let's
+60.56 - let's take a look at the first
+64.96 - slide so when it comes to option trading
+67.60 - management mechanics can make all the
+69.12 - difference this is one of the key
+71.20 - takeaways that Tony and I have learned
+73.12 - in the last couple of years that the
+75.32 - management mechanics are make a big big
+78.48 - difference at Tasty we generally favor
+80.80 - locking in profits looking at the 50th
+83.36 - um looking for 50% of the credit
+84.88 - received for short option position but
+87.44 - is this too
+88.92 - rigid that is a good question a common
+92.24 - scenario is a trade that makes a good
+94.44 - profit but shive the 50% early in its
+97.44 - lifespan should we capture 25% profit
+100.56 - after one week or should we hold out a
+102.00 - bit
+102.80 - longer let's explore the effects of
+105.80 - adjusting our profit targets looking for
+107.48 - more profit from trades that stay on
+109.60 - longer and be willing to take a quick
+111.00 - buck when things go really early that
+113.36 - would be kind of the definition of
+116.60 - dynamic let's go to the next slide
+122.00 - so 15 years worth of data spy Q's iwm 30
+126.48 - Delta strangles 45 days expiration
+128.52 - contrasted the results of several
+130.04 - management techniques closing positions
+132.36 - at 50% of Max
+135.36 - profit waiting one week to avoid closing
+138.88 - tiny winners immediately after opening
+140.48 - them and then closing positions if they
+142.40 - reach a larger percentage of Max profit
+145.76 - um of the maximum profit percentage of
+148.00 - the duration that had elapsed so so what
+152.16 - all that means is if you make money in a
+154.20 - shorter period of time what does all
+155.60 - that what does all that mean means it
+157.80 - means if you
+159.08 - make if you don't get to 50% but you
+161.68 - make like a pro-rated like you make
+163.84 - 25% instead of getting to 50% in 24 days
+168.12 - let's say you get to 25% in a week or 10
+171.08 - days you take your profits okay that's
+174.40 - Dynamic and then there's closing
+176.24 - positions at 21 days win or lose and
+179.04 - then there's also Le leaving all the
+180.36 - positions in through expiration okay so
+182.24 - there's four choices here 21 days
+185.32 - expiration dynamic or 50% all right you
+190.56 - good with that Okie doie yep yep okay no
+193.28 - I just want to make sure we're we're
+194.48 - good okay so let's go to the next
+200.20 - slide all right so this is the Spy now
+203.64 - interesting remember the the four
+205.76 - columns
+208.44 - 50% um 79% of the time Dynamic 82 21
+214.28 - days
+215.20 - 75 and expiration 68 we've already we're
+219.16 - going to rule out expiration because we
+220.64 - don't do that at all right sure we're
+223.84 - not hold to the end of we are kind of
+226.88 - the 21 days would be I would say that
+230.00 - we're between Dynamic and 21 days what
+232.72 - would you say agreed agreed dynamic in
+235.56 - 21 days okay and matter of fact matter
+238.36 - of fact in on my podcast I'm more
+240.64 - Dynamic than I am 21 days but sure okay
+243.60 - I'm I think I'm more 21 days but it
+246.72 - doesn't really matter we're we're in
+248.80 - kind of agreement when you look at these
+250.48 - numbers 50% kind of is pretty good the
+255.52 - 21 days has the lowest sear which is
+257.92 - where we are that's what we're trying to
+259.08 - do is reduce the risk but so that that
+261.88 - that's that's impressive but there none
+264.96 - of these are none of these are supposed
+267.52 - to be dramatically better than anything
+269.20 - else
+270.56 - they're all supposed to just have their
+272.20 - you know like to give you some insight
+274.76 - into what do you think is optimal yep so
+278.24 - for the Spy you know I'm pretty happy
+281.08 - with the 21 days that we do because the
+282.84 - low sear and the decent um win
+285.76 - percentage if you're Dynamic like the
+287.56 - bad is you know you're going to be fine
+289.52 - with the higher win percentage just less
+291.32 - profits because you're managing early
+292.84 - yep and if you're waiting for the 50%
+295.36 - you can't complain about that either yep
+298.32 - um and even expiration in this case
+300.36 - worked let's go to the next one Johan so
+303.92 - the next one's iwm now the first thing
+305.92 - you notice about I it's a smaller
+307.60 - product all the numbers are going to be
+308.56 - lower um the weird thing here is that
+312.12 - the 21dt here the wi percentage a little
+315.40 - lower but the profits are higher and the
+318.48 - C bar is lower this one 21 days in iwm
+322.16 - seems fine but if you did the 50% and
+324.20 - you did the dynamic those are also fine
+327.44 - MH like bat would do Dynamic here 85% in
+330.32 - $23 is is better than
+332.64 - 50% sure sure with a lower
+336.48 - seabar but I just like ringing the
+338.88 - register on the podcast trade just to
+340.52 - show people that you can do this you
+342.04 - know yeah I understand ringing the
+344.16 - register and then and then you make your
+345.84 - judgment from there you know maybe you
+347.12 - don't have as many positions that I have
+348.64 - on and you'd like to you know hang in
+350.28 - there a little bit longer but at least
+352.00 - the whole our whole thing is about doing
+354.64 - something actively and sometimes doing
+356.44 - something actively is doing nothing but
+358.16 - you're you're not just setting it and
+360.36 - forgetting it you're you're actively
+362.36 - watching your portfolio which is what I
+363.96 - want people to do I mean so many people
+366.76 - uh have the bestman advisors or they
+368.64 - just put things in funds they they don't
+370.20 - even know the symbol to the funds that
+372.12 - they're in or what they have on or if
+374.12 - they're even mirroring the market so I
+376.32 - like you to watch I I want you to be
+377.80 - active that's what I'm trying to
+380.08 - do um look for opportunity let's go to
+384.00 - the next slide which is the
+387.04 - cues and in the cues
+389.96 - it's weird because they've had such a
+391.28 - big up move you know that that the p&l
+393.92 - numbers are just not that good for
+395.40 - strangles but um here you know you'd be
+399.84 - again the 21 days stands out as the
+401.92 - lowest siar um but from a profitability
+405.04 - standpoint and a win percentage you know
+407.44 - the 50% or the dynamic is you know I
+411.28 - mean personally after looking at
+413.84 - these you got to go dynamic or 21dt the
+417.28 - 50% sounds good but it's hard to know
+419.72 - that is after all the
+421.92 - adjustments
+423.64 - beautiful um let's go to the next
+430.72 - slide um
+433.48 - so some of the takeaways the dynamic
+436.08 - management um averaged closing trades
+439.16 - with around 23 days to expiration for
+442.00 - both spy and iwm while failing to
+444.92 - outperform the 21dt management but for
+447.56 - more volatile things like the q's
+450.12 - uh being willing to to rapidly capture
+453.48 - modest profits resulted in closing
+455.04 - trades with an average of 31 DT and
+457.80 - improved your trade p&l Dynamic profits
+460.60 - were re were a reasonable alternative to
+463.24 - harden fast 50% goals for the active
+465.56 - Trader who does not depend on limit
+467.80 - orders but only early management win or
+471.12 - lose was a substantial Safeguard against
+474.52 - bad
+475.44 - losers you know um I think one of the
+478.40 - things that the research team pointed
+480.08 - out here um is
+484.40 - that you can see how close all of these
+488.04 - results really are and I would say that
+491.88 - there isn't a clear winner except
+494.08 - holding to expiration doesn't really
+495.52 - make a lot of sense for us and the
+498.08 - problem with
+499.40 - 50% is that it's hard to tell what 50%
+502.96 - is after you've made a bunch of
+504.24 - adjustments so managing the trades early
+507.24 - and dynamically or doing it at 21 days
+509.88 - makes the most sense to me

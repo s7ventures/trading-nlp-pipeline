@@ -1,0 +1,258 @@
+0.08 - S&P is turned green y 12 yeah yeah
+3.64 - Russell turn green it's up 10 cents
+6.44 - there you go implied volatility
+10.08 - overstatement with and profit targets
+12.84 - with strangles oh boy this is heavy kids
+16.60 - get your helmet on as premium sellers
+19.64 - one of the main ways we profits through
+20.96 - implied volatility overstatement meaning
+23.04 - that realized VA is lower than implied
+25.68 - Val we've done many studies in the past
+27.84 - discussing the benefits of IV
+29.20 - overstatement finding that IV was
+31.64 - overstated 75 to 80% of the time
+33.88 - depending on the time frame in this
+36.00 - study we're going to dive into the
+37.44 - effects of implied volatility on
+39.12 - strangles exploring quick profits how
+42.36 - quickly profits can be achieved and when
+45.28 - we receive the
+47.12 - most so it's going back to that 50 50%
+50.76 - or 21 days high vers low all the above
+54.08 - let's go next
+56.28 - slide 12 years of research the reason we
+60.04 - pick different time frames is just how
+63.36 - much stuff we can we can basically just
+67.08 - churn our way through in you know the
+69.48 - last 24 hours this stuff's all done like
+72.28 - pretty much the day before
+74.28 - mhm so we looked at the strangles of
+77.48 - various Deltas at 45 days managed at 21
+80.52 - DT or 50% depending on the slide we
+83.44 - bucketed the trades based on various
+84.96 - implied volatilities over under 18
+87.60 - where's the vix right now the vix is it
+90.60 - over 18 or under uh VI is trading at
+94.08 - 1731 down 60 forward SL VX so this was
+97.96 - we were right at the cut off this
+99.24 - morning yeah 18 yep or last night's
+101.32 - close yeah last night's close right
+102.96 - we're just under it right now then we
+105.40 - answered the following questions what is
+107.08 - the effect of implied volatility on
+108.56 - strangles how many days until we hit the
+110.72 - most profit what are the effects of
+112.68 - managing at 21 vers 50 21 days vers 50%
+116.52 - and how does implied volatility impact
+118.28 - our profit targets want a
+121.12 - guess there's a lot of questions in here
+124.12 - okay let me ask you one by one how does
+126.28 - implied volatility impact profit targets
+128.56 - I'll give you a hint by a percentage
+130.20 - basis higher higher is better yeah of
+132.36 - course I would have thought that I just
+133.48 - don't know what percentage how many days
+134.80 - until we hit the most profit 21 three
+137.52 - three weeks within three weeks three
+139.16 - weeks Tony says what are the effects of
+141.00 - managing a 21 DT versus 50% what are the
+144.16 - effects on the p&l I'm going to assume
+145.92 - yes I think it's actually going to be
+148.08 - better higher high at 21 days than
+152.48 - 50% okay and um I have no idea I could
+156.28 - be completely wrong on this I'm not
+157.68 - positive about anything and what is the
+159.52 - effect of implied volatility on
+160.68 - strangles well I'm going to tell you
+161.68 - right now that is going to be higher
+162.92 - credits sure sure entry is the only
+165.36 - thing you can control it's the only
+166.60 - thing that we know for sure yep y okay
+169.24 - let's see what we got so we start off
+171.04 - with the theoretical pop for selling
+173.24 - options is calculated by taking one
+175.12 - minus the Delta of the
+176.60 - option so if you have strangles it's
+179.44 - then one minus 2 times the Delta because
+181.96 - you you're selling two options right so
+184.60 - if you sell a 20 Delta strangle the
+187.48 - theoretical pop is 60% that's 1 minus 2
+191.88 - * 20 1 - 40 is 60 right yeah people get
+196.08 - a little confused thinking it's closer
+197.36 - to 80% when they do that CU they're
+198.84 - doing a 20 Delta option the theoretical
+200.72 - Pop might be 60 but the actual Pop might
+202.80 - be closer to 80 sure let's go next
+207.60 - Slide the actual win rate was much
+210.56 - higher than the theoretical pop due to
+212.12 - the initial credit because also when you
+214.40 - collect initial credit you have to
+215.92 - subtract the credit from the numbers
+217.20 - it's going to be a lot higher in high
+219.52 - implied volatility the win rate was
+220.80 - nearly identical to all occurrences but
+223.60 - the return on Capital was was or the
+226.44 - double right it's almost like
+227.92 - probability of touch being almost twice
+229.76 - as much as the Delta like you know you
+231.16 - look at a 20 Delta option you say what's
+232.76 - the you know this is so far out of the
+234.68 - money I got an 80% pop here you know
+236.52 - there nothing is ever going to happen
+237.96 - but you got basically a 40% chance of
+239.80 - touch so if you look at all occurrences
+241.96 - and you look at the 20 Delta options the
+244.24 - actual win rate was 76 the theoretical
+246.84 - is 60 so it's 16% higher which is big
+251.68 - but if you look at a high implied
+252.96 - volatility which is over 18 it was 78
+255.84 - and that's the world we live in um so
+259.16 - that 78 is is a big number well the wind
+262.36 - rate changes that's why they highlighted
+263.88 - there wind rate Chang even greater by
+266.64 - these the average return on capital is
+268.56 - is better too yes the win rate's good I
+270.76 - mean the I meant the average return on
+272.20 - capital is is much better too when it's
+273.84 - higher IV that's what I'm trying to say
+275.16 - in higher IV you're 30% above the
+277.84 - theoretical pop and your average return
+280.12 - on capital is 4.2% so look at that win
+282.64 - rate with high IV 76 to 78 I mean that's
+285.76 - I mean that's I know statistically
+287.76 - that's nice that's like splitting
+289.52 - pennies for me but doubling the average
+291.72 - return on Capital now you're talking
+293.04 - money now you're talking to me now
+294.44 - you're talking to me baby higher implied
+296.16 - volatility make more money let's go to
+297.56 - next slide so in high implied vol not
+300.20 - only is more credit collected but the
+302.56 - p&l tends to be higher as a percentage
+304.96 - of that credit so when the IV is high
+307.28 - there are less dramatic swings in p&l
+309.12 - from the trade to trade even with
+311.24 - further out of- the- money strangles so
+313.48 - we'll stay at that 20 Delta p&l has a
+316.72 - percent of the credit if it's in hi 23%
+320.76 - and p&l volatility drops to 71 and you
+323.88 - can see how dramatic that is against all
+325.88 - occurrences you collect more money and
+328.92 - you have smaller volatility swings
+331.84 - that's the cool thing yes sir and it
+333.96 - stays that way throughout the entire
+335.60 - process lower p&l volatility higher p&l
+340.00 - as percent of the credit okay so here we
+343.88 - look at the average number of days until
+345.76 - hitting the most profit you said 21 the
+349.08 - actual turned out to be 17 I was going
+351.80 - to say side 21 is what I said but yeah I
+354.00 - get it roughly 2 and A2 weeks after
+355.84 - trade entry approximately 28% of the
+358.68 - occurrences saw the highest profits come
+361.00 - between the first and second week after
+363.60 - trade entry I was really just
+365.24 - piggybacking old research that we've
+367.04 - done here we said that if trades are
+369.72 - going to work they typically work with
+371.56 - inside three weeks which is really
+373.28 - staying true uh here too which is great
+375.80 - so a lot of times when people want to
+378.04 - avoid earnings and they're looking to
+379.68 - put on an a trade with a stock that has
+382.40 - earnings if they send me an email they
+383.84 - go is this a decent trade I say you know
+385.68 - what earnings aren't for four or five
+387.24 - weeks if the trade's going to work it's
+388.56 - going to work within three weeks sure go
+390.56 - ahead put it on I don't think you're
+391.44 - going to get too affected as volatility
+393.24 - does increase for earnings about two
+394.72 - weeks before the earnings so yeah that
+397.20 - that that that that fudges it that meets
+399.20 - the the criteria I like it well this is
+401.96 - a really good statistic because
+404.08 - 68% of the days with the most profit
+407.36 - occurred before managing a 21 days M you
+411.20 - think I'm not listening over here I know
+412.52 - you call me silly a couple times and
+413.88 - stuff like that but you know we're
+415.44 - idiotic and stuff like that but I'm I
+417.32 - got two ears and I can't close them
+418.88 - although I'd like to sometimes like my
+420.84 - eyes I can close those and I do that
+422.40 - often while we're on the show I can't
+423.80 - let's go to the next slide Beth I don't
+424.96 - close my ears so I do pay attention 16
+427.60 - Delta strangles hitting the the day is
+431.08 - hitting the most profit 50% profit for
+433.68 - 20 days this is interesting too managing
+435.80 - at 50% profit led to faster profits than
+438.92 - managing at 21 days now I manage at 21
+441.00 - days you know I mean I manage all the
+443.84 - time but 21 days is kind of my
+445.52 - wheelhouse led to faster profits than
+447.68 - managing in 21 days by roughly three 3
+449.72 - days however in average the p&l was 20%
+452.60 - smaller when managed at 50% so basically
+455.80 - the 21dt versus the 50% is
+460.80 - pretty it's it's they're pretty much the
+463.32 - same thing you make more money if you
+465.96 - manage 21 days you get to manage faster
+468.60 - if you manage 50% according to the
+471.08 - research I think it's 6f what you know
+474.08 - six of one half dozen another it doesn't
+476.52 - even though I got it right I would say
+478.40 - you are correct it's six of one half
+480.44 - dozen of another you know what if you
+481.92 - make that 50% so quickly you're probably
+484.56 - going to look to take take it off and
+486.20 - not let it run to have a higher gain and
+489.16 - then a lot of times when you reach 50%
+490.48 - it might come back the other direction
+491.64 - too so I think for p&l volatility of
+495.24 - your of your of your portfolio just the
+497.88 - curve of how it behaves I think taking
+499.96 - the profits is prudent so this one is
+502.28 - the P the median pnl rose with
+504.84 - increasing implied volatility to the
+506.52 - volatility is mean reverting nature so
+508.80 - this one is really interesting because
+510.32 - this is the 50% profit Target so days to
+512.28 - reach 50% profit Target didn't decrease
+514.88 - with higher implied volatility because
+516.36 - of the increased initial credit only in
+519.08 - the 50 to 75 range which doesn't really
+521.56 - happen that often um so when you look at
+524.12 - this the ivr range for 16 Delta
+526.52 - strangles we're usually in that 25 to 50
+529.04 - that that second tier the 50 to 75 is
+532.36 - kind of rare um and the days here in
+534.64 - this trade are about
+536.12 - 17 and the median p l is about 76 and
+539.24 - the initial credit about 182 that makes
+542.48 - a lot of sense that's the way that's
+544.52 - kind of where we mostly live in that
+548.08 - range let's go to the last
+551.64 - slide
+553.36 - so pretty the pretty expected takeaways
+557.92 - in high implied volatility increasing
+560.96 - strangle Delta maintains win rates and
+563.52 - doubles the return on Capital with the
+565.52 - 20 to 30 Delta strangles providing the
+567.24 - best return on Capital and a reduction
+569.16 - in P
+570.24 - volatility another thing to look at is
+572.28 - the days in a trade rather than the days
+573.88 - to expiration for 16 Delta strangles
+576.60 - exiting at 17 days post entry maximizes
+580.20 - profits while early management can hurt
+582.80 - long time long-term PR Health but
+585.04 - managing a 50% profit speeds up the
+587.84 - profits compared to 21dt but results in
+590.56 - lower average p&l as increased
+592.28 - volatility doesn't necessarily Quicken
+594.80 - gains due to the initial credit
+596.92 - adjustments I find it way easier after
+600.36 - you make all the adjustments just to
+601.96 - manage 21 days

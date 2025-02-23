@@ -1,0 +1,125 @@
+0.04 - Market measures part three zero DT
+2.00 - timing 24 marked our first full year of
+4.20 - gathering the zero DT data tasty Market
+7.04 - measures are chance to share the results
+9.00 - with you in depth as we head into 2025
+11.44 - we're going to review some of our best
+13.24 - zert research of 24 and we're going to
+16.08 - explore the importance of timing when it
+18.44 - comes to zero DT trades so our study
+21.56 - using one year of data and zero DT SPX
+23.80 - options collected every 10 minutes for
+25.28 - 15 years worth of data um in the 45 day
+28.64 - options so in the zero it's whatever it
+31.08 - is 20 months and in the other data we're
+33.44 - going to show you is 15 years We
+35.28 - examined selling strangles with 20 Delta
+37.20 - legs both at the zero DT Market open and
+40.88 - 45 days expiration we contracted the
+42.80 - hourly performance as a percent of the
+45.04 - initial credit for the Zer DTS and the
+46.72 - weekly performance of the 45 dat
+48.48 - expiration trades next slide please lot
+52.96 - of stuff here this is old stuff that
+54.56 - we're just showing you this is weeks
+56.68 - verse hours okay the first one 4 5 days
+60.36 - to expiration strangles first two weeks
+63.32 - average p&l change 11% second two weeks
+66.24 - 24% thirdd week tough one um minus two
+70.52 - and then the final week plus 16 standard
+73.28 - deviation of change you could see the
+75.84 - the first week the key is the last line
+78.60 - the standard deviation of change 6% is
+81.20 - very manageable 12% very manageable 28
+84.84 - and 53 that's where it gets tough it's
+87.00 - not so much it's not worth the return at
+88.68 - that point let's go to the next slide
+92.00 - and this one we're going to show you
+93.12 - zero DTS so on the Zero DTS strangles
+95.76 - it's the same thing look at the last
+97.40 - line standard deviation of panl change
+100.84 - what's interesting here is that the
+102.76 - first two hours 19% manageable second
+105.96 - two hours 34% the third two hours 56%
+109.20 - and then the final hour
+111.40 - 153 yeah you're just swinging you're
+113.40 - just swinging it 153 now I'm not saying
+116.84 - minus five in your average p on first
+118.84 - two hours nothing great okay but um the
+122.16 - second 2 hours you know that's pretty
+123.64 - damn good so in that first 2-hour period
+126.40 - there's a chance to make some money it
+129.44 - it's not worth the risk holding to the
+131.08 - end of the day at 19 and 34% very
+134.88 - manageable 56 to 153 not so much both
+138.96 - the Zer GT and the 45 de St exporation
+141.56 - trades had more stable prices early in
+143.48 - their LIF spans as measured by the lower
+145.76 - standard deviation of returns that's
+147.08 - what I showed you for both managing
+148.64 - winners to capture early success were
+150.88 - the more beneficial Mechanics for early
+153.28 - in the zero DTS it just means the first
+155.12 - few hours instead of the first few weeks
+157.00 - for the 45 days for handling losers the
+160.24 - zero DTS gave more opportunities for
+162.56 - Traders to succeed using their own style
+165.24 - more risk Toler and Traders could choose
+166.80 - to stay in losers and hope for Recovery
+168.84 - before the close did this late in the
+171.48 - day success mean it was a good idea to
+173.04 - trade zero DTS even if you missed the
+174.92 - Market opening next slide let's have
+177.56 - some fun this is our kind of fun so
+181.00 - using 20 months worth of data in the SPX
+183.36 - Zer DTS now people that have a smaller
+185.96 - account that want to trade without
+187.88 - pattern day trading rules using the es
+189.52 - options same exact thing it's not cash
+192.64 - settled but it's the same underlying
+194.84 - product es
+197.32 - spy um SPX they're all the same
+201.56 - Mees XSP they're all the same but some
+205.04 - have pattern day trading rules some
+206.28 - Don't We examined selling Zer DT
+209.36 - strangle using the 20 and 30 Delta
+211.04 - strikes at Market open 10: a.m. noon and
+213.36 - 1:30 all the all the times are Chicago
+217.00 - Times
+219.20 - CT all the trades were managed if they
+221.36 - reached 25% losers that didn't reach 25%
+224.00 - were allowed to expire all trades were
+226.16 - assumed at Mid price let's go to next
+229.72 - slide okay so you can take a little off
+231.72 - if you want here's your 20 Delta
+233.84 - strangles that were um these were just
+238.48 - the on the Zero days
+240.68 - plac at Market open you made you 89% win
+245.36 - rate placed at 10: a.m. 88 so so it
+248.76 - didn't matter what time you placed for
+249.84 - the win rate what it mattered for was
+251.60 - how much money you made and the average
+253.40 - pnl is significantly higher if you put
+256.20 - your trades in um early in the day
+259.40 - period that's it first two hours 30
+262.08 - Deltas triangles exact same thing
+264.92 - everything happens in the first
+267.32 - everything happens p&l wise in the first
+270.44 - two hours or the majority of it so since
+272.68 - we started trading the Zer TTS in 23
+275.72 - they have been consistently profitable
+278.08 - for short premium traders who took
+279.40 - profits early choosing strikes by Delta
+281.64 - automatically adjust trades for the
+283.12 - current volatility levels in the time
+284.56 - remaining in the contract giving
+286.28 - consistent success probabilities and
+288.64 - helping retail Traders expand into new
+291.96 - Arenas with confidence while the zero TT
+294.84 - trades had more success stories for
+296.56 - those who held on through expiration
+298.80 - than the 4 5day trades placing new
+301.60 - trades late in the day was detrimental
+304.52 - just like placing new trades late in a
+306.40 - cycle can also be a little bit
+308.44 - detrimental

@@ -1,0 +1,223 @@
+0.16 - strangles and iron Condors finding the
+3.52 - right size balance as Market volatility
+5.92 - and the possibility of Market correction
+7.28 - increase Traders seek to minimize their
+10.08 - Risk by improving their odds of
+12.32 - success one way to achieve this is by
+14.64 - selling smaller Deltas such as 10 or 20
+17.16 - such as 10 or 15 Deltas instead of 20 or
+20.20 - 30 Delta options for example two
+22.60 - standard deviation strangles have a
+24.00 - success rate of 95% making them
+26.52 - attractive to traders who whose main
+28.00 - focus is success rate
+30.80 - kind of hard to read that bottom line
+32.88 - but let's go to next
+34.80 - slide on all they're saying is on the
+37.28 - platform the the there's a one standard
+40.08 - deviation dotted line and then a two
+42.08 - standard deviation line that is correct
+44.08 - that is correct I talk about it all the
+45.28 - time on my option trades today my
+47.72 - podcast regarding success rate both the
+50.48 - on SD and the 2 SD strategies exceed
+55.00 - expectations but the success rate for
+56.84 - the two standard deviation strangles is
+59.20 - even better closer to 100% well you know
+62.72 - on a percentage basis I don't even
+64.20 - actually know if that's that much better
+65.96 - but it's but from a from a probability
+69.32 - of profit standpoint that's what they're
+70.80 - referring to so this just straight stuff
+73.80 - we've done this a 100 times theoretical
+75.48 - verse Real theoretical and then
+78.52 - realized um let's go next
+81.28 - slide so as expected two standard
+85.24 - deviation strangles have extremely high
+87.00 - success rate however they generate a
+89.28 - lower average average p&l and a lower um
+92.96 - return on capital for each position so
+95.72 - just again we're just we're setting
+98.24 - we're setting the stage um we're
+100.68 - painting a little bit of a background
+102.20 - here you can see in spy the one two
+104.44 - standard deviation strangles the initial
+106.16 - premium the average p&l the win rates
+110.56 - and the daily return on Capital and you
+113.32 - can see I mean the return on capital is
+115.52 - pretty low win rates are pretty high the
+117.88 - average p&l is decent and the premium is
+120.08 - pretty cheap let's go next slide win
+122.28 - ratees
+123.44 - great so what would the long-term
+126.52 - portfolio performance be for both
+130.00 - strategies if we simulated an equally
+132.12 - sized account with 25% asset Val
+134.44 - allocated to each and man 21 days from a
+137.68 - portfolio perspective two standard
+139.40 - deviation triangles outperform I'm sorry
+142.04 - underperform one SD strangles by
+145.20 - 27% however the strategy excels at
+147.92 - volatility control so okay now this is
+152.68 - this is interesting because this is the
+154.28 - question that we get a lot about you
+157.08 - know what is an expectation what a
+160.20 - reasonable expectation of a return so
+164.44 - the reason that we put this up here is
+166.28 - because on spy strangles if you sell one
+168.84 - standard deviation spy strangles
+172.24 - um with a uh with a very high
+175.84 - probability of profit in this case I
+177.68 - think it was um
+180.52 - is it 82% can you go back one slide for
+182.32 - a second it got to 97 82 and 97 on a two
+185.96 - 82 and 97 okay so go go back to next
+188.44 - side Beth so with an 82% probability of
+192.40 - profit the one standard deviation spy
+194.76 - strangles annualize this with losses and
+196.96 - everything else in there comes out to
+198.72 - about 133% with a
+201.00 - 17% volatility the two standard
+203.80 - deviations triangle the annualized
+205.32 - return on capital is
+207.32 - 99.5% with an 11
+210.48 - um 11.5 volatility annualized volatility
+214.96 - now you know my
+217.44 - rules when we trade we want to make some
+220.28 - multiple of risk-free rates that's
+221.96 - correct two times risk-free rates or 9
+225.00 - and a half% is not good enough for me
+227.44 - for the risk that you take right for the
+228.80 - risk that you're taking but what about
+230.48 - if your risk that you were taking all
+231.60 - the time was 80 to 97% doesn't matter
+234.84 - same stuff numbers are the same so one
+236.68 - stand deviation strangle gives me a 13
+239.04 - because all the loss are built in here
+240.40 - too gives me a 133% return which is two
+243.32 - and a half times the risk-free rate
+246.16 - neither of those two numbers are good
+247.48 - enough so what do you do now remember
+251.12 - we're only using 25% of the portfolio so
+254.32 - if we use 50% of the portfolio oh these
+256.64 - numbers are going to be double them 26
+258.96 - and and 19 right right that works sure
+263.48 - so this is where the amount of money
+266.00 - that you allocate matters because that's
+268.40 - what's built into these numbers this is
+270.28 - only 25% of your total portfolio if you
+273.84 - get to 50 those numbers are F you know
+276.72 - five times risk-free rates and all of a
+278.72 - sudden you have
+280.28 - something so you have to figure out like
+283.12 - what's your risk tolerance yeah well
+284.64 - sometimes we show you the most
+286.00 - conservative case and sometimes the most
+288.00 - conservative case isn't the best case
+290.20 - the best case might be a more moderate
+292.20 - or aggressive
+293.68 - case based on where implied volatility
+296.04 - is especially like something like now
+298.72 - let's go to the next slide
+303.12 - so what about an iron
+304.48 - Condor iron Condors are highly popular
+307.68 - primarily for its ability to customize
+309.52 - the amount of risk through adjusting the
+311.16 - wingspans and you can see here we just
+313.32 - kind of grafted it all out and you can
+314.56 - see from 20 Deltas down to $1 wide let's
+317.76 - go to next slide
+320.32 - Beth
+322.36 - theoretically tight Wings have some
+324.92 - advantages they're cheap to trade they
+326.72 - have a small Max loss per unit and they
+328.36 - potentially can yield High return on
+331.04 - investment this is all
+333.28 - true but they have some problems um and
+337.44 - let's go let's go to the next
+340.12 - slide we might come back to this one in
+342.76 - reality small iron counters have a lower
+344.64 - probability of profit and narrower break
+346.88 - evens resulting in a lot more
+349.24 - losses yes you're going to lose a lot
+351.68 - more times yes so small iron Condors
+354.52 - have a much higher volatility in p&l
+356.84 - which amplifies the gap between the
+358.56 - expected um and the actual return when
+362.28 - you look at the um width of the Wings
+365.80 - right it's um uh it's it's a
+370.64 - little it's a tough way to eek out a
+372.88 - living let's put it that way it's a very
+375.36 - tough way to you get a living now we're
+377.36 - looking at one and two standard
+378.64 - deviations here you you know two
+380.48 - standard deviations you're going around
+381.84 - the fiveish Delta option right yeah but
+384.28 - these are these are just these are all
+385.92 - Iron condos I know these are iron condos
+387.32 - I I was I was just going back cuz I'm
+389.76 - emails from people like you know we were
+391.84 - really looking you know we look at more
+393.52 - the 30-ish Delta option than the one and
+396.32 - two standard deviations we do go to
+398.00 - around the 15ish Delta which on one side
+401.44 - might be standing but not on both sides
+403.32 - what's dangerous about this what this
+405.24 - slide shows that's kind of scary is that
+407.48 - the realized return on capital is
+410.64 - extremely low on very small iron condors
+413.76 - and you're many times below risk-free
+416.32 - rates but this is the quantry with
+417.92 - smaller accounts too you know what I
+419.36 - mean
+420.16 - understand that's we're trying to show
+421.24 - that that's trying to show there's a
+422.96 - reason for doing small iron Condors very
+424.68 - narrow ones which is you learn from it
+427.16 - it's tough to make a living also takes
+429.00 - much longer for these less risky
+431.64 - positions to reach their profit Target
+433.28 - like 50% in this case um and that is
+437.32 - correct so the number of days in the
+438.88 - trade I mean if you want to get to your
+440.92 - spot you got to widen the strikes that's
+444.08 - all this shows you want to get to your
+445.72 - spot you got to widen the strikes if not
+447.84 - on the really narrow ones it's super
+449.92 - hard almost impossible to get there
+452.04 - finally when it comes to the percentage
+454.52 - return the wi iron condos give us more
+456.72 - bang for the buck in the same amount of
+458.24 - time yes they're very close to the
+460.80 - strangle returns not exactly but much
+463.40 - closer to the strangle returns this is
+465.00 - even $10 wide go $20 wide you're close
+467.52 - to the strangle returns again what we're
+470.52 - showing here is that there's two major
+472.88 - takeaways from this takeaway number one
+475.08 - is that sometimes you've got to go over
+476.40 - that 25% number to like 50 or higher
+479.72 - especially in smaller accounts to get a
+481.64 - decent return and the second thing is if
+483.60 - you're going to do iron Condors you're
+485.60 - not other than for engagement purposes
+488.64 - and teaching you're not going to do much
+490.44 - with narrow iron Condors you got to go
+491.92 - wide smaller Delta strangles offer a
+494.36 - high success rate and volatility control
+496.20 - but underperform in p&l and return on
+497.92 - Capital narrowing iron Condors are
+500.20 - costeffective for beginners but have a
+502.68 - low success rate and a vol p&l with
+504.76 - limited profit potential iron Condors
+506.92 - are already capping your potential
+508.40 - profits and defining your risk R so
+510.36 - going too small with them is much worse
+512.04 - in the long term compared to going too
+514.20 - small with strangles and while smaller
+515.96 - strangle strategies provide certain
+518.84 - benefits they may not always yield the
+520.32 - best returns highlighting the importance
+521.88 - of balancing risk and reward and the
+523.96 - amount of capital that you use I cannot
+526.24 - stress that enough

@@ -1,0 +1,780 @@
+0.08 - I was literally driving Uber and people
+2.32 - were like oh how'd you get driving Uber
+3.64 - be like well I just got laid off and I'm
+5.12 - actually going to trade full-time have
+6.60 - youever heard of zero DT options that
+8.12 - roll the dice with everything you got
+9.48 - exactly how do you start figuring it out
+11.44 - test trade track and be curious over the
+14.44 - course of two years you're now up to 1.5
+16.48 - million that's when it really clicked
+18.72 - for me you are the ultimate one trick
+21.08 - pony right at 9:32 once the opening
+23.16 - price Discovery occurs I will basically
+25.52 - start trading credit sprs every 2
+27.32 - minutes into Mark n FS
+31.20 - [Music]
+35.72 - all right everybody welcome back it's
+37.64 - another Rising Star shoot I think you
+39.20 - guys are going to like this one
+40.28 - something a little different we are
+43.04 - going to explore two things that we
+44.64 - don't usually do on Rising Star shoots
+48.20 - number one is we're going to talk to
+49.56 - somebody that's gone from being a
+52.32 - retail Trader to kind of somebody that's
+55.60 - stepped it up to being a full-time gig
+58.32 - that's one thing and the second thing is
+61.40 - somebody that's also taken a lot of the
+63.52 - tasty trade mechanics and adapted them
+66.36 - to a zero DTE type of trading style and
+71.28 - uh somebody that trades 100 to 200 times
+73.48 - a day somebody that trades um very
+76.20 - aggressively my uh kind of a style I
+79.28 - like a lot um and so I'm excited to have
+82.32 - this conversation and learn more about
+83.52 - you as well get your helmet on as we say
+86.00 - because here we go so you're 30 yeah
+88.80 - when did you make your first trade
+90.52 - uh I made my first trade in 2017 2018 it
+94.88 - was basically I read some Warren Buffett
+97.48 - stuff my dad had been trading options
+99.56 - for a long three years time he
+100.56 - introduced me the concept of a covered
+102.68 - call so I started playing him on
+105.12 - Facebook a little bit and was interested
+107.40 - in the financial markets kind of Dre my
+108.80 - dad and learning about that as well so
+110.64 - 2017 2018 kind of a pretty um strong
+115.08 - Market low volatility strong Market um
+119.16 - definitely at that point probably
+120.76 - anything that you bought went up correct
+123.24 - and um and you sold some calls against
+125.60 - it so you're like oh this is easy easy
+128.00 - pey um so let's talk progression so
+131.72 - you're you're kind of just starting out
+133.88 - what were you doing for how were you
+135.24 - supporting yourself uh I was working in
+137.48 - construction as a superintendent I was
+139.08 - PR interviewing kind of like Seno
+140.84 - manufacturing and Drug manufacturing
+143.04 - plants of the day area alongside
+144.40 - Hospital construction okay so
+146.36 - construction that was your undergraduate
+148.24 - degree too for got it so um so you're
+151.92 - kind of doing what you had prepared to
+154.00 - do and did you get did you get bit by
+158.08 - the bug yeah or or was it like was it
+161.04 - slow or you just get bit I realized very
+164.12 - quickly that what I had signed up for in
+166.64 - college and what I thought was safe was
+168.72 - actually risky in turn by doing the same
+171.52 - thing that everyone else was doing and
+172.96 - kind of I was affected by the upward
+175.00 - drift and financial markets whether I
+176.56 - liked it or not so had a lot of time
+179.04 - commuting from work and started just
+180.80 - pick up on podcasts and such like that
+183.28 - which is where I rolled into you guys
+185.16 - you know it's it's funny sometimes
+186.96 - people they rolled us because it's it's
+189.60 - like it's something that you feel like
+191.36 - you have a little bit of control over
+193.72 - and I a lot of times there's some
+196.20 - disenchantment out of school where you
+198.04 - think oh man I just lost control of
+200.28 - everything like I don't control my own
+202.20 - destiny anymore and so they end up with
+205.32 - us because you're thinking well this
+207.28 - gives me some control back now
+209.80 - definitely and the way you kind of speak
+211.68 - to it is here are ways to extract Azure
+215.96 - why we think it's present and here's
+217.60 - data that best basically backs that and
+219.80 - that really resonated with me where it's
+222.00 - like here is a construction drawing I'm
+223.96 - looking after here's what makes it
+225.80 - structurally sa and when we follow this
+227.52 - we use to get our output are you kind of
+229.16 - like a a little bit of a math geek or um
+232.12 - an engineering geek a little bit Yeah I
+234.76 - think everything really comes down to
+237.16 - the details of it and I'm a big advocate
+240.08 - of the simpler it is but the more dep
+243.32 - you understand all the concepts around
+244.84 - it that's what true Mastery is and kind
+247.04 - of the way you guys explain those
+248.32 - Concepts I think is a good emulation of
+250.12 - that so Finance
+252.16 - just quantitative Finance just made
+254.72 - sense to you like it wasn't it wasn't
+256.76 - something that seemed very foreign it
+258.16 - seemed like oh I can figure this out
+260.76 - yeah it made sense basically from day
+262.80 - one and then what really made it click
+265.08 - was when I realized the quality of your
+266.80 - assumptions around that is really what
+269.04 - it gets into too and when I started
+271.44 - tracking everything and inputs and
+272.88 - outputs I kind of related it to test
+275.24 - trade track and be curious yeah and that
+278.12 - is really kind of the formula to seeing
+281.24 - what fits you and then optimizing your
+283.88 - strategy for conviction instead of
+285.88 - return so you can follow through of that
+287.68 - get what you bought so 2018 17 18 19
+292.76 - whatever when you're first starting out
+294.44 - you're obviously working you know you're
+297.48 - you goes into the pandemic
+300.32 - and you're still I'm assuming trading a
+302.36 - little bit on the side investing a
+303.64 - little bit on the side working your butt
+305.64 - off in what in in the construction you
+308.16 - know engineering side of the
+309.28 - construction job and then what happens
+311.88 - yeah so at that point I think it was
+313.52 - like most people where you're trying to
+315.24 - put in 10 15 hours a week in trading and
+316.96 - then you're working 60 hours a week yeah
+318.64 - and your house success you get in a
+320.64 - meeting you know try to have a life too
+323.04 - everything yeah see super buzer goes off
+324.96 - when you're in a meeting you're like
+325.96 - that's not okay and then uh I'd made it
+329.08 - through Co relatively okay because you
+331.56 - know I'd taken some positions off sure
+333.96 - uh but then i' had gotten laid off you
+336.08 - know I was in construction I was with
+337.36 - skyscrapers at that time it was no
+339.20 - longer needed and I basically decided
+341.52 - that day that I was like I can do this I
+344.00 - to leave it the difference is like I
+346.16 - have complete control over kind of what
+347.72 - my Destinies have been sure and I
+349.44 - started to again find another job but
+352.24 - really go all in now and kind of put my
+353.96 - job on this was a second priority and
+356.00 - trading as the first priority not advice
+357.96 - that necessarily lend every one but
+360.36 - that's when it really clicked for me
+362.92 - it's the kind of thing where if if
+364.72 - you're not going to roll the dice at
+366.60 - that point when would you like like
+370.00 - there's no risk to you at that really at
+372.08 - that point to to just say hey let me
+373.72 - give this a try because the downside is
+376.88 - all right I start over anyway yeah and
+378.88 - the upside is maybe maybe I figured this
+381.60 - out maybe I or maybe maybe my timing is
+384.92 - perfect and maybe I'm just entering the
+386.88 - space at a time when you know they need
+389.08 - 25 and 26 year olds that are strategic
+391.60 - that can understand a different kind of
+393.76 - a different Road through Finance yeah
+396.04 - and I like that you bring that up too
+397.32 - because one thing that I kind of related
+399.20 - to when I got into there's obviously
+401.16 - compound interest which just making
+402.52 - money but there's also the concept of
+404.24 - compound knowledge whereas if you start
+405.68 - something at before it's 24 25 and it
+407.64 - really gets rolling it's a hockey stick
+410.00 - return on your ability to learn at that
+412.04 - it is very hard to impress up on people
+415.08 - how important longevity is just you have
+418.68 - to play the game you know I mean like I
+420.68 - mean Buffett's probably the greatest
+422.04 - example because it may have taken him
+424.44 - you know 50 years to get to the point
+426.20 - where he could create some kind of um
+428.28 - exponential return but but it's all
+431.16 - about longevity and I think at 25 or 26
+434.32 - it's very hard to Envision you know it's
+437.88 - very hard to consider longevity because
+440.32 - you want instant
+441.92 - gratification so you so now you're you
+445.08 - know mid 20s and postco you've
+450.12 - I'm I'm going to fast forward some of
+451.28 - the story for you you've you've made a
+453.36 - little you made some money you have a
+455.16 - couple hundred thousand correct through
+457.52 - real estate or whatever else you've
+458.76 - saved up your whole life that's
+460.00 - everything you got right you roll the
+461.80 - dice with everything you got exactly
+463.32 - okay when you decide to go full-time as
+465.68 - a Trader late 22 or something yeah
+470.24 - okay and you were like you're like I'm
+472.68 - all in I'm going I'm I'm I'm going to
+475.24 - take this to zero I'm going to be zero
+477.08 - or whatever right yeah okay cuz I love
+479.32 - that
+480.52 - um so
+482.64 - so okay now what do you do like like how
+485.80 - do you how do you start figuring it out
+487.76 - how how'd you you know I mean obviously
+489.84 - had some idea but how' you how'd you
+491.48 - make it work how'd you figure it out
+493.16 - first thing is just like proximity Is
+495.32 - Power and modeling from other people
+496.80 - that were doing it so I consumed as much
+498.80 - information possible watched your guys'
+501.48 - show and was originally exposed kind of
+504.40 - look back at that point which is the
+505.72 - first back test right thing I'd seen and
+508.56 - as I got into this I was like this
+510.32 - result does equal that I can make money
+512.72 - when this happens and I saw that even
+514.48 - when I took draw Downs it matched the
+516.32 - back test so I really started getting
+519.32 - into the quantitative part and the
+521.36 - numbers part which is like you're
+523.48 - talking about how do I enable that
+525.16 - compounding with limiting the draw down
+527.04 - what I like to say is I'm locally
+529.24 - concave for income and globally convex
+531.84 - to basically limit draw Downs which the
+533.68 - liability to so what was your worst draw
+537.12 - down like you're basically been you you
+540.08 - basically have two full years under your
+543.52 - belt two full years of which your
+545.56 - returns are extraordinary we'll talk
+547.20 - about a little bit but have did you have
+549.48 - any really bad draw Downs in those
+551.08 - periods um I was running like a 90day
+554.40 - gold TLT S&P structure uh during the
+558.84 - Russian invasion of Ukraine and that had
+561.36 - kind of taken me about a 20% draw down
+563.68 - but apart from that was zeros my largest
+566.08 - draw down has been about 8% from that
+568.96 - time forward and it's been pretty good
+571.48 - quarter yeah yeah I mean 8% is is really
+574.12 - nothing given you know given some of the
+576.04 - returns and then 20% during that one
+578.68 - event just when you're starting out is
+580.40 - is also like pretty small yeah on a Rel
+583.64 - Bas so you really haven't had to feel
+585.84 - that you know the crazy pressure of yeah
+589.52 - yeah yeah what I like to say is that you
+591.84 - know we should look at ourselves as Risk
+593.72 - Managers first and then kind of capital
+596.36 - allocators second what has happened to
+599.12 - you since you well like you talked about
+602.40 - the Russian invasion of Ukraine and then
+604.88 - you know obviously trading a bunch of
+606.80 - different products at the time it sounds
+609.00 - like you've you've
+611.04 - more um transitioned into essentially
+614.44 - just trading in the snps correct the S&P
+618.36 - is very accurately priced fall the
+621.52 - friction cost to get in and out is
+623.24 - extremely low which I think a so to find
+625.60 - friction cost this would be priced
+628.00 - across if they asked to get in and out
+629.48 - of positions and then also with the SPX
+631.92 - being cash settled with no rism
+634.00 - assignment and then also the liquidity
+636.76 - of it in general with the width of that
+639.04 - bit ass spread and then the fee
+640.80 - structure and commissions on such a
+642.12 - large instrument are relatively low that
+644.16 - I think it's the best aenue if you're
+646.04 - playing a pure short ball perspective to
+648.76 - take and what do you think is the B what
+652.12 - what how would you um Define or quantify
+655.56 - the bid ass differential of the SPX uh I
+658.40 - would quantify as the price to cross it
+661.32 - to meet from a buyer to meet a seller
+663.52 - right so what do you think that is from
+664.96 - my data it's about 2% on the entry and
+668.40 - about 5% on the exit if we using a stop
+670.84 - it would also be about 2% 2% of the of
+675.16 - the premium or 2% of the not the price
+677.16 - of the index no the premium yeah okay
+679.80 - option got it so if you're doing
+684.04 - a if you're doing let's just say uh what
+688.00 - Delta you usually hang around with uh
+690.24 - I'm usually in between about the seven
+692.28 - and 20 test so okay playing crosis
+694.96 - basically right so so you're
+697.68 - probably in the neighborhood of I'm just
+701.20 - how far out oh you're always doing the
+703.00 - the zeros yeah okay we'll get into that
+704.92 - in a second so the zeros at that Delta
+706.80 - you're probably where are you somewhere
+708.68 - in like
+710.24 - the $6 range is it um it depends on the
+714.28 - volatility and it depends how long you
+716.28 - go to buy your wings uh I do go up to
+719.04 - about about
+719.92 - $4.50 but okay I do a lot around a
+722.88 - dollar to $3 seems to be a good sweet
+725.08 - spot as well on each side or total uh
+727.92 - each side I do lean a little more on the
+730.56 - blit side for credit selling and then
+732.00 - I'll hold longer dated calls so I kind
+734.40 - of look at the call side as a sharp
+736.56 - buffer kind of for combo so you skew it
+738.80 - a little bit yeah I mean we're always
+741.24 - kind of skewed in the SPX because of
+743.20 - wing price so if you collect like a
+744.96 - dollar on one side and a dollar on the
+746.28 - other yeah oh you're going to be you're
+748.24 - volatility risk is actually kind of
+749.64 - weaned a little bit yep and then and
+752.00 - then and you're talking about 2% on that
+754.24 - number yeah to get in to cross the cast
+756.68 - for the that's so that's just for for
+759.44 - under so people it's a half a tick
+761.20 - basically H it's a you know half a tick
+763.96 - two cents two and a half something like
+765.44 - that and then on the getting out you
+767.40 - think it's like double that correct and
+770.16 - that's an agant it could definitely in
+772.60 - times of high volatility be 10%
+774.40 - potentially but over enough occurrences
+776.32 - yes and that's that's closing correct
+778.80 - yeah are you are you ever letting things
+781.00 - expire or you mostly always closing uh
+783.32 - I'm almost always letting them expire
+785.12 - because that kind of view that us a way
+786.32 - to get 2% Alpha from not closing it
+789.16 - obviously if I'm threatened and I need
+790.52 - to manage my risk that comes foremost so
+793.76 - if that Delta is kind of getting close
+795.28 - to the money that position's definitely
+796.68 - coming off at a predetermined risk ratio
+798.88 - as I put the trade on right because the
+801.24 - the offset of um the other side of
+805.04 - saving the 2% or the 3% or 5% whatever
+808.40 - it is on letting it expire the other
+810.80 - side of that is this massive potential
+813.24 - Delta risk with two minutes to go
+815.24 - correct which I would like to avoid as
+817.48 - much as possible the way I think of
+819.60 - managing my risk is I want to limit the
+822.96 - degradation of adjusting those options
+825.52 - to capture the premium but I also want
+827.60 - to use risk management basically shaped
+829.48 - re form of the distribution that I like
+831.92 - and and you only use SPX right you're
+833.76 - not using spy on the SPs okay because
+836.12 - with spy you'd have you know post
+838.56 - assignment risk you know postmarket
+840.24 - movement stuff like that the SPX SS to
+842.24 - cash so at 3 301 or whatever the last
+845.60 - ticket is you're basically done correct
+847.44 - are you ever
+848.92 - using anything other than o SPX options
+854.24 - to hedge zero day SPX options like are
+857.36 - you using ES or the The Minis the micros
+861.44 - the es options the Spy anything else
+863.84 - just STX okay so you are you are the
+867.52 - ultimate one trick pony correct and also
+870.84 - when we talk about hedging to is I think
+872.36 - a lot of people do hedging kind of after
+874.32 - the fact like once they get threaten on
+875.88 - in positioner but I always if I'm
+878.60 - selling a credits beted I'm basically
+880.08 - buying a hedge for it exactly the same
+882.16 - time so I'm buying and selling the same
+883.60 - fall so it's basically even out to
+885.96 - offset my exposure systematically yeah
+887.96 - but let's understand when you say credit
+889.68 - spread you're really not trading a
+892.12 - credit spread you I think you're really
+894.36 - just trading you have a synthe what you
+897.28 - call a spread because you're buying some
+899.88 - cheap way out of the money option but
+901.76 - the reality is that is just a
+903.80 - synthetically naked option it's a
+905.28 - synthetically naked option yeah you
+906.76 - you're just doing that for Capital
+908.12 - reasons and you're doing that for risk
+910.36 - reasons but you know I mean you don't
+913.44 - really that money is just a give up
+915.40 - money correct okay yes so are you going
+918.28 - to like the cheapest option you can find
+920.92 - uh yeah within reason 99% of days if
+924.12 - you're going 200 bu or something you're
+925.84 - basically getting a nickel Wing but yeah
+927.56 - nickel Wing but are you the only reason
+929.32 - you get nickel wi is because it's a zero
+930.76 - day but are you doing are you going
+932.72 - longer duration so I am holding longer
+936.32 - duration options that I basically start
+938.00 - legging in in about a week out and then
+940.00 - I take those up to one day out and then
+942.36 - those will be all long options and by
+944.96 - doing that I can kind of capitalize on
+947.24 - maybe large overhead moves or if we get
+949.04 - an extreme Market Direction even though
+951.80 - those long options kind even out to zero
+953.68 - in the long term it benefits your
+955.52 - portfolio and can offset some risk it's
+957.40 - zeros so you just hold the and then just
+959.52 - work everything else against them yeah
+960.80 - I'm just holding those to expiration
+962.40 - yeah they offer you some offsetting of
+964.52 - margining and then they also offer you I
+967.04 - would to say diversity of risk as well
+970.08 - so yeah we're looking at our sources of
+972.32 - profit we have credit spreads obviously
+974.08 - credit spreads can be uncorrelated but
+976.12 - when you need the uncorrelation the only
+977.96 - thing that is actually going to be
+979.04 - uncorrelated is going to be wo now are
+980.76 - you always doing are you almost always
+985.28 - vertical uh on my on on these credit
+988.56 - spreads is it is it always vertical are
+990.16 - you ever horizontal do you ever go out
+991.72 - like are you doing you know uh one DT 2
+995.12 - DT 3 DT I will do some calendarized
+998.12 - structures I think those do offer a lot
+1000.36 - of Edge and kind of having more of a
+1002.68 - bega will help as well so I do offset
+1005.36 - with Cal Resturant so tomorrow
+1008.08 - morning um first thing happens Market
+1011.76 - opens yeah are you already in a position
+1014.52 - from the day before that you set up or
+1016.16 - are you putting the position on in the
+1017.76 - first half hour two minutes both so
+1020.20 - tomorrow morning I will have 7 Days six
+1022.40 - days SP four 32 1es all along and then
+1025.40 - I'll also have a one day that I put on
+1027.84 - at the afternoon before that'll come to
+1029.84 - zero and then right at 9:32 once the
+1032.28 - opening price dis February occurs I will
+1034.20 - basically start trading credits where
+1036.28 - it's every two minutes until Mark hand
+1039.56 - looks every two minutes until like 350
+1044.16 - basically
+1046.52 - so you're just going to continue to lay
+1049.16 - them out
+1050.64 - correct basically like as the market
+1053.64 - moves it will yeah you're not doing both
+1056.04 - sides you're just doing one side of the
+1057.92 - time um I'm managing each side
+1060.56 - individually but I'm putting on trads as
+1062.72 - condo so at the end of the day how many
+1064.52 - positions is that uh it comes out to
+1067.36 - between 15200 depending on the trend
+1069.80 - which all basically go with if it's tram
+1071.92 - in some certain direction and because
+1073.24 - they're all you can afford to do that
+1075.24 - because they are
+1076.76 - all technically spread off
+1079.48 - correct on averaging in the volatility
+1083.32 - over the course of the day so volatility
+1084.68 - could be extremely I get it what happens
+1087.88 - what happens on a day obviously on a nor
+1090.16 - on a regular day where there's you know
+1092.16 - some contraction whatever you know or we
+1094.68 - either in a l state or Contracting State
+1096.40 - you're fine what happens on a day when
+1099.60 - you know uh Market goes Market stays
+1101.96 - unchanged vix goes up big Market stays
+1104.16 - on chains vix go Mark goes down vix goes
+1106.72 - up big what happens uh it's pretty
+1109.88 - random I would say that very large moves
+1113.20 - toward the end of the day when to have
+1114.76 - more you have Boer at the same small
+1117.40 - Channel I'm exposed to but if we rip off
+1120.40 - at like 10: a.m. from some data
+1121.88 - announcement yeah you know twice the
+1123.76 - standard deviation of move and that we
+1125.68 - go in something you could be completely
+1127.16 - fine what percent of your trades come
+1129.76 - off at the end of the day uh shortfall
+1133.76 - 100% so any credit spread is in cash and
+1136.56 - then I'm I'm always long the Tails long
+1139.80 - G long VGA and long Delta every day 4pn
+1142.24 - and and 99% of my account in cash that's
+1145.88 - really interesting so you take the crap
+1147.76 - home with you and then you just start
+1150.20 - laying it out the next day so you don't
+1151.32 - have to deal with buying the wings again
+1152.76 - correct ah very interesting so I should
+1156.56 - I should give a little more context here
+1158.40 - so you started out when when you first
+1161.24 - decided to commit to this business
+1165.28 - essentially full-time trading you had a
+1167.60 - couple hundred thousand do correct and
+1170.52 - over the course of two years you're now
+1171.92 - up to 1.5 million correct okay so that I
+1176.76 - because I we have to show that this is
+1178.44 - what you know you haven't really have
+1180.88 - you added capital or is it m mostly all
+1183.04 - profits uh it's probably all profits I
+1185.16 - put in a little bit from a real estate
+1186.76 - investment that it really started
+1189.32 - compounding with a larger account value
+1191.00 - that got me to one5 are you surprised by
+1194.16 - your success or are you um because it's
+1198.80 - totally okay if you said no this is this
+1201.60 - is what I expected you know like I think
+1203.92 - that the way I was trading and if you
+1207.68 - are able to be good at it in the zero
+1209.68 - day tener the benefits of compounding
+1211.76 - and lack of correlation and basically
+1213.56 - like the length of kind of a bare Market
+1215.80 - in Zer when you say lack of correlation
+1217.40 - what are you what what are you referring
+1219.16 - to uh I mean if the market is tanking
+1223.08 - those are some of the best days to sell
+1224.60 - zeros because there's so much demand for
+1226.96 - volatility so you mean lack of relation
+1229.04 - though to like to to some other event
+1232.08 - because you don't because you're not
+1233.04 - holding something overnight correct okay
+1235.08 - which is PR what up the ball sure
+1237.92 - and the consistency of it with it being
+1240.60 - rced every day generally lends to a
+1243.60 - smoother panl verb over a court your
+1245.80 - time of course with the the other side
+1249.28 - to that is though that there is
+1251.56 - statistically less Edge significantly
+1254.28 - less significantly less Edge like yeah
+1256.48 - it's insane how much less Edge there is
+1258.24 - like I you you're playing you're playing
+1260.56 - you're trying to master essentially
+1263.00 - you're attempting to master a zero sum
+1265.68 - gain and because somebody has to win and
+1268.12 - mathematically there is a in AER some I
+1270.84 - totally understand yeah I get it but
+1273.16 - it's very difficult correct okay I just
+1275.92 - want to be clear that this is like so
+1277.44 - people listening are like oh my God why
+1279.16 - don't I just do that because it's not
+1280.80 - that easy and plenty of people have
+1282.56 - tried and failed and this is you know
+1284.92 - there's there's a lot of bodies out
+1286.80 - there um this is this is something where
+1289.64 - it's probably a very small percentage of
+1291.56 - people that have got to the point where
+1293.52 - they can you know put as much on the
+1296.88 - line every single day as you do you're
+1299.16 - using a significant percentage of your
+1301.12 - hand yes every single day correct okay
+1305.44 - yeah let's be clear this is not this is
+1307.56 - not for the faint of heart this is now
+1309.60 - you're you're young this is what you
+1311.84 - should be doing I mean it's kind of how
+1313.00 - I feel like I started this business the
+1314.96 - same way every single day was everything
+1316.56 - I had for like 15 years
+1319.24 - um so it's not it's totally not
+1321.56 - unreasonable or crazy it is from the
+1324.20 - sense of being like a
+1327.24 - parttime uh self-directed investor yeah
+1329.96 - but it's not any different than if you
+1331.80 - owned your own business correct right
+1334.00 - same thing you you're you're you're
+1335.60 - leveraging your own assets which in this
+1337.40 - case are cash and you're managing it all
+1339.56 - strategically have you have you did you
+1342.44 - have you ever like varied and done
+1345.20 - something like you're just like you know
+1347.92 - I'll never going to do like I I just I
+1349.84 - can't believe I just did that um not
+1353.64 - really I can get a little feedback from
+1356.56 - maybe I was size too large but after I
+1359.84 - really started to catch my stride with
+1362.92 - profit I sized back down to being like I
+1366.28 - don't want to draw down but I ever have
+1368.00 - to pay a volatility tax to get out of so
+1371.08 - psychologically that changed a lot and
+1373.32 - then my stressor with executing it each
+1376.00 - and every day just basically completely
+1378.60 - change that like even all of my trading
+1381.72 - my screens are all in Gray scale so I
+1383.40 - get no emotional response from red or
+1385.20 - green on the screen it's just purely I
+1387.48 - want to get what the back test is and I
+1389.04 - want to create my occurrences and I know
+1391.24 - that in turn you know trading is an art
+1393.92 - but math is a exact science now so it's
+1396.32 - do a bunch just pass out does your dad
+1398.28 - think you're crazy uh I think everyone
+1400.32 - thinks kind of I'm crazy and example I
+1402.32 - like to give is in you know 2022 I had
+1405.44 - gotten laid off and I was literally
+1406.84 - driving Uber and people are like oh
+1409.08 - how'd you get drive a be like well I
+1410.44 - just got laid off and I'm actually you
+1411.92 - know going have trait fulltime have you
+1413.88 - heard of zero DT options that talk to
+1415.84 - people in Silicon Valley in the car to
+1417.44 - do that and you know it's kind of that
+1420.64 - belief in yourself of breaking patterns
+1424.28 - of what you previously were doing and
+1426.36 - what you think you're capable of and
+1428.20 - when you're the person that believes the
+1429.56 - most in yourself it's you know the
+1432.00 - universe kind of Blends towards you of
+1433.52 - meeting people and learning new things
+1435.64 - and you get small insights from
+1437.00 - everything and that feedback back Loop
+1438.80 - just continues long you stick to
+1440.84 - it how scalable do you think what you're
+1445.60 - doing actually is because there has to
+1448.56 - be you know I mean the world of finan is
+1452.28 - massive you know talking hundred
+1454.68 - trillion dollar whatever so but but in
+1457.88 - your little
+1459.00 - world is it
+1460.92 - scalable uh from the research I've done
+1464.28 - if you're doing credit spread trades in
+1466.40 - zero DT basically depending on a stop
+1468.60 - yeah you could be probably about 5% of
+1470.52 - the open interest and still kind of get
+1471.88 - in at a bit ask of what most people are
+1474.68 - doing with I mean it's almost impossible
+1476.40 - to be 5% of the open interest just to be
+1478.60 - fair yeah so it's very scalable and then
+1482.32 - I also run a lot of structures that I
+1484.56 - may use a stop loss on but because I
+1486.84 - have those longer dated options if we
+1489.40 - were to Gap or something crazy were to
+1491.20 - happen it' actually be quite Okay and
+1493.28 - like an example well if you're taking
+1494.60 - the longside home with you overnight who
+1496.52 - cares if you have a gap you know I mean
+1498.44 - that's that's all bonus for you I mean
+1501.08 - even another concept is if you're
+1502.84 - trading one DT shorts with zero DTE
+1505.32 - wings during the day you're still taking
+1507.08 - them off with the close yeah you know
+1508.84 - what goes to One faster if you get a
+1511.08 - massive move on Gap the zero because if
+1514.52 - it goes in the money that one DT still
+1516.68 - has a little bit of time yeah on so such
+1518.68 - with that as well yeah yeah well you
+1520.44 - can't do it the other way because as
+1521.68 - their customer you know it's not g to
+1523.64 - work no no you have to you have to own
+1525.44 - the the longer duration so yeah so it
+1527.60 - doesn't matter um yeah otherwise you're
+1530.12 - talking about you know an index that's
+1531.64 - just too expensive to have the naked
+1533.56 - side to it and but you know you can
+1535.92 - understand why the chunky options in the
+1540.00 - S&P 500 never go down yeah it's worth it
+1543.36 - yeah exactly people don't really
+1544.96 - understand like why is this why is this
+1546.76 - put you know that's $1,000 out of the
+1549.08 - money trading for whatever it is and and
+1551.64 - you're like because there's plenty of
+1553.24 - people out there that that need to buy
+1555.12 - that for all the other stuff that they
+1556.20 - sell exactly do you think think that you
+1559.68 - can scale it beyond the s or is it just
+1564.68 - really you know an SPX S&P 500 product
+1568.24 - uh structure yeah I think it goes into
+1571.52 - every product that is cat selled so you
+1573.64 - could do it in Gold you could do in
+1575.28 - crude you could do in ZN you could do in
+1577.24 - well those are not I mean they're not
+1579.12 - really cash settled yeah they're they're
+1581.60 - they're that the problem in the
+1583.00 - commodity world is you that nothing is
+1585.48 - Cash settled unless it's unless it's the
+1588.36 - quarterly expiration you know like like
+1590.72 - their expirations all settle into
+1592.12 - Futures you know which is that is the
+1594.32 - advantage that that's been able to give
+1597.12 - all that business into the SPX is the
+1599.52 - fact that that really is the only cash I
+1601.68 - mean there's other you know like there's
+1603.24 - other big indexes like that but I don't
+1604.64 - think they have the liquidity that you
+1605.68 - need exactly and just the way the
+1607.80 - structure is with skew and the SPX and
+1610.08 - how big it is I just don't really think
+1612.60 - you'd want to go away from it no yet no
+1616.12 - no it's crazy and um you know 20 years
+1620.48 - ago you couldn't do this correct it
+1622.24 - didn't exist yeah yeah do you ever lift
+1626.28 - a
+1627.12 - leg um meaning do you do you ever um
+1632.36 - when you have multiple verticals out and
+1634.60 - you are you
+1636.84 - know the reason I'm assuming that you
+1639.60 - have the put and the call side on is
+1641.92 - because there's no additional Capital
+1644.20 - required to have the other side on so
+1646.40 - you want the additional credits but are
+1649.08 - you ever lifting individual legs at all
+1651.64 - or is it almost always what goes on as a
+1654.16 - spread comes off as a spread oh which is
+1656.28 - very tasy is but yeah so all inner trade
+1659.64 - as a condor but I'm only managing the
+1662.16 - short leg if I get threatened on one
+1664.44 - side so you're just yeah you're just
+1666.04 - rolling up and down the the the short
+1667.84 - leg itself keeping the long leg in place
+1669.92 - correct yeah you don't care how wide the
+1671.40 - spreads are
+1673.48 - nope that's a very fun conversation
+1676.40 - because you know what we don't have a
+1678.60 - lot of people um that talk about trading
+1682.84 - the way you do and that can articulate
+1685.60 - you know like the zero space I mean
+1689.40 - listen in a year if you're making 100 to
+1693.08 - 200 trades a day and you have 250 days
+1697.68 - and I'm assuming you work every day uh I
+1700.00 - take that days off but that's it you
+1701.88 - take what FC days off but that's you
+1703.92 - take fed days off yeah why uh it's it's
+1708.20 - just everything's held to that
+1709.44 - announcement and there's so much price
+1711.44 - Discovery I would kind of lend it to
+1713.96 - trying to trade between 930 and 931 it
+1717.32 - just hasn't really settled on what
+1718.76 - occurred is um and you know slippage
+1722.40 - tends to be a little higher on those I
+1724.84 - I've looked at it in general and there's
+1726.20 - not really there's a negative expected
+1728.36 - return on it so I would say some credit
+1730.00 - on that days so what's what I guess the
+1731.84 - point I was what I was going to get to
+1733.00 - is that so you make between 25 and
+1735.84 - 50,000 trades a year yeah
+1738.76 - yeah and and that's like let's say it's
+1740.92 - in between let's say it's 30 35,000 you
+1743.64 - you know that for most people that is
+1745.44 - like 10 lifetimes over so one of the
+1747.92 - reasons that you've gotten that you that
+1750.72 - you've been able to achieve what you've
+1752.00 - been able to achieve in such a short
+1753.00 - period of time is that you've
+1754.48 - essentially shortened 25 35 50 years of
+1758.16 - trading into into two years 18 to 24
+1760.96 - months there's a lot of feed back in
+1762.76 - that uh time period Wonder traits going
+1765.24 - on that frequently you start to
+1766.64 - recognize the pattern exactly
+1768.56 - exactly it's really that that whole um
+1771.44 - just how fast the learning curve
+1772.84 - accelerates the more that you do
+1774.04 - something and how fast your
+1775.64 - decisionmaking now is probably like
+1778.12 - ridiculous I'm guessing in everything
+1780.44 - yeah and the thing with that too is I
+1782.64 - come back to the conviction of it which
+1784.24 - is your decision- making and your
+1786.00 - confident based on your learnings and
+1788.36 - well now you own every single decision
+1790.64 - there's not there's nobody else involved
+1792.44 - these are just your these are your
+1793.52 - decisions it doesn't sometimes the
+1795.32 - market wins but it's still your decision
+1798.84 - what a fascinating discussion Mark I
+1801.36 - love this this was um gave us a chance
+1804.32 - to talk about something different and um
+1807.72 - that was really fun I think tasty nation
+1809.84 - is going to be uh is really going to
+1812.04 - enjoy this thanks so much for coming to
+1814.64 - Chicago and thanks so much for telling
+1816.68 - your story it's awesome keep it going
+1818.92 - all right thanks Tom

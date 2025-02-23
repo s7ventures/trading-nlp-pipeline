@@ -1,0 +1,257 @@
+0.12 - so last week we talked about how the
+1.76 - market might transition between
+3.12 - different regimes or states with their
+4.44 - own unique statistical properties that
+6.04 - tend to propagate for a sustained period
+8.12 - of time um and identifying these regimes
+10.64 - is a very important part of active
+12.00 - trading would you agree with that I
+13.48 - would doing the best that you can at
+14.88 - least I think understanding that there
+18.04 - are different regimes is interesting I
+20.40 - don't I don't think you can actually
+22.48 - understand them would you say that if
+24.76 - you if there are certain indicators that
+27.00 - suggest we might have transitioned
+28.44 - regimes then it's important to maybe
+31.12 - I would love somebody like you to be
+33.12 - actually able to tell me that with with
+35.76 - some form of certainty I mean all of it
+37.72 - is just you know it's hearsay it's it
+41.40 - hearsay that's a loaded that's kind of
+43.24 - loaded I don't know it's it's that is a
+47.80 - very traditional industry answer that
+50.84 - tasty would not accept oh that's a nice
+53.36 - way of saying that huh that makes it's
+54.88 - not an acceptable answer at Tasty to say
+56.76 - that we've entered into a new regime you
+59.36 - can say
+60.96 - that it looks like you can say for
+64.56 - example it looks like the market has
+66.56 - rolled over or you can say it looks like
+69.16 - we like when you get a like a vix pop
+71.76 - right you would adjust your portfolio
+74.12 - adjust maybe some of your positions
+75.96 - strategy here here's a yesterday is a
+77.52 - perfect example you could have said
+78.76 - after two down days you could have said
+80.80 - hey it looks like we're entering a new
+83.36 - regime and then today they're up then
+85.32 - you'd be like oh no we're not you know
+86.96 - my point is you really you actually
+88.48 - never know with markets sure that's
+90.52 - valid okay um what I want to talk about
+92.96 - today sort of introduce this concept of
+94.64 - regimes specifically when the market
+96.28 - transitions to a high volatil volatility
+98.76 - regimes I think it has very unique
+100.52 - characteristics that a lot of us might
+102.72 - recognize um as the market transitioning
+105.28 - into a higher volatility regime when I
+107.24 - think of like volatility regimes I think
+109.00 - they're kind of ranked by like
+110.52 - volatility you got like the low
+112.04 - volatility Market Market I'll accept
+114.40 - that counselor okay I'll that's that's
+116.44 - progress Tony did you hear that yeah
+118.44 - yeah yeah he's been very very um
+120.64 - agreeable today so far I'll accept that
+122.32 - only because I think it takes longer to
+123.96 - move out of a volatility regime than it
+126.04 - does like a stock that's all sure okay
+129.24 - when I'm talking about Market regimes
+130.76 - they're usually classified by volatility
+133.28 - so that's maybe maybe a little more
+135.72 - little more your bread and but butter um
+138.00 - so I wanted to talk about um sort of
+139.96 - recognizing them in some of those
+141.12 - telltale signs uh and let's go to the
+143.12 - next slide so like I said U Market
+145.28 - regimes are usually classified by unique
+147.08 - volatility price and macroeconomic
+148.64 - conditions and transitions between
+150.12 - regimes are typically initiated sort of
+151.80 - by broader shocks to the market and so
+154.16 - for example we might move into a bull
+156.32 - market for example after an interest
+157.64 - rate cut or some kind of announcement of
+160.20 - fiscal stimulus for example a bare
+162.36 - Market might come from interest rate
+163.68 - hikes or geopolitical crises or
+165.40 - something else um and then you have like
+167.00 - crashes right so like very high
+168.88 - volatility conditions that are caused by
+171.12 - very specific circumstances so you got
+172.72 - like the Great Depression Black Monday
+174.68 - 2008 housing crisis the co crash um so
+177.24 - again very specific circumstances that
+179.24 - cause something as volatile as a crash
+181.04 - but either way there are these sort of
+182.28 - like triggers almost that might move us
+184.40 - into a different sort of regime might
+186.64 - not but yeah okay so let's go we're
+189.04 - we're we're going along so far let's go
+190.68 - to the next slide and so while Market
+192.84 - regimes tend to exist for a sustained
+194.64 - period of time their duration and
+196.36 - stability tends to tends to vary um
+199.08 - because they're right driven by pretty
+200.52 - unique circumstances right we can agree
+202.28 - about with that yeah but generally
+205.44 - especially when we you know do
+206.56 - quantitative back tests we sort of
+208.44 - assume that there's somewhere between
+209.88 - two and four market regimes with the
+211.32 - exact number that you use it kind of
+212.72 - depends on exactly how you're trying to
+215.40 - test a strategy um and that's because so
+218.08 - for example if you assume there's only
+219.56 - two Market regimes you might lose some
+222.00 - information about the granularity about
+224.56 - these different regimes but that being
+226.56 - said you reduce the risk of overfitting
+228.60 - so like basically the risk of developing
+230.60 - a strategy that works really really well
+232.32 - for your historical data but doesn't
+234.24 - work well in a generalized way for the
+236.08 - future if you assume there's more Market
+237.96 - regimes you might have more granularity
+239.96 - but you run a higher risk of overfitting
+241.68 - for example like developing strategies
+243.68 - that might work really well for this
+245.00 - historical data set but don't
+246.28 - necessarily work well in general so the
+248.16 - exact number that you would use really
+249.40 - depends on what how you're trying to run
+250.92 - your run your back test your analysis
+254.48 - yeah I'm okay with that okay we're okay
+257.44 - so far yeah going better than that's not
+260.24 - bad yep hell yeah okay so let's go to
+263.04 - the next slide so common indicators of a
+265.64 - regime shift so like you've talked about
+267.72 - identifying regimes volatility regimes
+270.08 - in the market it's pretty difficult to
+271.60 - do um but there's some telltale signs
+273.76 - specifically when the market moves into
+275.16 - a high volatility regime such as a
+277.00 - selloff and for example when we like you
+281.12 - know try to identify this regime shift a
+283.00 - lot of the times they're characterized
+284.64 - by very large moves in the market to
+286.60 - nobody's surprise if we look at 3.7
+289.84 - daily like daily moves in um in the S&P
+292.48 - either to the upside or to the downside
+293.80 - we can see how they kind of cluster
+295.00 - together so this is again this
+296.40 - volatility clustering of these three
+297.84 - sigma moves which again we have these
+300.16 - big daily moves might be indicative that
+301.96 - we've moved into a high volatility
+303.64 - Market regime right one of these sort of
+306.92 - indicators yeah MH 100% 100% as well as
+311.32 - marked by let's go to the next slide
+313.00 - increased intraday volatility which when
+316.28 - we look at intraday volatility um we can
+318.36 - see that they Spike around the popping
+319.92 - of the Doom bubble 2008 uh we see a
+322.40 - little blip around 2016 2020 and then we
+324.76 - got the bare Market of 22 um which again
+327.24 - can be kind of used as an indicator that
+328.84 - we sort of trans positioned into one of
+330.60 - these high volatility regimes don't see
+332.48 - that every day okay let's go to the next
+334.48 - slide and then as well our favorite
+336.40 - indicator uh the vix um the vix is uh
+339.76 - very very very rarely above 30 it does
+342.00 - not happen an awful lot but when it does
+343.52 - happen it's typically when we've moved
+344.88 - again into one of these high volatility
+346.92 - uh Market States um we did see it even
+349.12 - earlier this year where we kind of
+350.48 - popped above 30 but that wasn't
+352.20 - necessarily sustained so it's not
+353.80 - necessarily like a fullprof indicator
+356.20 - but generally when we've seen the vix
+358.64 - above third above 30 between 30 and 40
+361.52 - happens about 7% of the time or above 40
+363.40 - about 3% of the time that tends to
+365.08 - happen when we're in these like Ultra
+366.84 - volatile Market environments that again
+368.60 - tend to propagate for a sustained period
+370.56 - of time although the duration of that
+372.48 - tends to vary because again they're
+373.80 - triggered by very unique circumstances
+376.40 - right absolutely 100% amazing let's go
+379.68 - to the next slide and then we got
+381.72 - another GIF guess what time it is it's
+383.32 - GIF
+384.76 - o'clock and then another pretty common
+387.32 - indicator when we've shifted into this
+388.96 - High volatility Market state is when you
+391.20 - kind of see correlations to the market
+393.32 - increase across broad sectors so here we
+395.92 - got spy xlk XLV xly xop a bunch of these
+399.12 - sector ETFs and what we look at these
+401.44 - 30-day correlations when we had the co
+404.16 - sell off in 2020 we can see that
+406.04 - everything even utilities got a lot more
+408.32 - correlated to the market which is why
+410.12 - underlying diversification is so
+411.96 - important even though these are rare
+413.36 - circumstances when everything moves in
+415.40 - correlation with the market and this is
+416.80 - price correlation too we have to worry
+418.44 - about volatility correlation as well
+420.52 - like you want to be as Diversified as
+422.36 - possible to sort of protect the
+424.12 - portfolio from this sort of event
+426.72 - happening yeah that's good pretty
+428.64 - picture so this is another another
+430.32 - indicator yep so let's go to the next
+432.32 - slide um so predicting transitions
+435.44 - between different regimes or the
+437.52 - characteristics of specific regimes it's
+439.88 - in real time it's a pretty interesting
+441.48 - area of research but I don't think can
+443.24 - be really used dependably by retail
+445.88 - Traders generally speaking they could be
+447.80 - used dependably by anybody I'm kind of
+449.80 - inclined to agree um yeah I'm kind of
+451.84 - inclined to agree but that being said uh
+454.16 - and this is where I might lose you guys
+455.24 - a little bit but uh let's go to the next
+457.12 - slide but there are actually pretty
+459.40 - reliable computational methods for
+461.36 - detecting when a regime shift has
+463.48 - already happened in real time and we've
+466.44 - talked about some of the intuitive
+468.00 - indicators like price correlation
+469.60 - increasing intraday volatility
+471.08 - increasing the vix increasing there's
+473.08 - certain indicators that we can use but
+474.40 - there's also computational methods that
+476.36 - would typically used be used for other
+477.80 - problems in engineering that we can use
+479.52 - used to detect regime shifts in real
+481.88 - time specifically when we classify
+484.00 - volatility or when we classify Market
+485.68 - regimes by volatility we don't I I'll go
+488.16 - through all the other words on that
+489.32 - slide but what do we think about that I
+491.12 - think
+492.92 - it's I mean I think you're genius I
+495.68 - think it's okay I I I still don't know
+498.08 - if it's if I I I still don't know
+500.92 - how I still don't know that you can
+504.36 - truly detect it but I think that you
+506.40 - think that there's I think you can
+508.28 - detect it but that doesn't necessarily
+510.24 - mean that you can trade it if that makes
+512.04 - sense like I might know that I'm in a
+513.52 - high in hindsight in hindsight you can
+516.32 - say it but I don't know that you can
+518.96 - detect it happening that's well maybe
+522.68 - that'll be next week's segment how about
+524.24 - that boom that's what I'm talking about
+526.40 - good job out of you oh yeah look love
+528.92 - getting back into

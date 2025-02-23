@@ -1,0 +1,143 @@
+0.04 - profit targets by Delta for zero GT part
+2.16 - of our zero GT discussion let's see what
+3.96 - we got is this going to be complicated
+5.56 - cuz I'm a little tired from yesterday
+6.76 - Russell down three it's really
+8.92 - complicated managing winners is the
+10.56 - Cornerstone of tasty methodology by
+12.40 - taking profits aggressively we ensure a
+15.52 - high percentage of updates when the
+17.40 - trades are going well using a higher
+20.88 - profit Target will bring home more of it
+23.52 - but Som days things turn against you
+26.40 - right mhm okay what we have what have
+30.20 - been the best performing profit targets
+33.04 - for short zero DT premium and has it
+36.84 - depended on the distance out of the
+38.36 - money you want to take a
+45.64 - guess I'm um I'm hoping it's in the
+49.64 - 20ish Delta range it's probably going to
+52.16 - be closer to the 35ish Delta range
+54.88 - that's my guess if that's you're hoping
+57.44 - it's in the 20ish Delta range
+60.68 - with my short strike I think they're
+62.20 - only doing strangles here right because
+63.60 - they're not buying the wings is that
+65.72 - correct they um they're not doing buy
+68.28 - there's no wings right yeah let's take a
+69.84 - look and see if Tony is correct using 21
+72.72 - months worth of data now we examine
+75.04 - selling strangles every day at the
+76.36 - market open and with a variety of Delta
+79.48 - ranging from 50 to 15 for each Delta we
+82.48 - considered the long-term performance of
+84.16 - the hypothetical traders who manage the
+85.76 - trades at different fixed percentages of
+87.32 - the initial credit so the question
+89.40 - becomes if you manage it 15% or 50% of
+92.76 - the initial credit where do you do
+94.68 - better it's a little confusing because
+96.88 - what happens here and you're going to
+98.00 - see this starting on the next slide is I
+100.24 - think it's going be a higher Delta than
+101.44 - I'm that I'm gonna like that's my that's
+103.92 - going to be my call what's going to
+106.36 - happen okay just hear me out of this is
+109.80 - the higher the Delta the strangle like a
+112.28 - straddle or a high Delta strangle yeah
+114.28 - the quicker you have to manage yeah or
+116.56 - you're dead Okay okay I think you're
+118.92 - going to get that opportunity
+120.40 - if you get wider then you can wait a
+122.00 - little bit longer but if you do it if
+124.12 - you don't do it quick in a stra that
+126.00 - makes sense okay least makes sense to me
+128.80 - this is the cumulative performance of
+132.20 - the 50
+134.80 - Delta um straddles MH okay Cuma of
+139.24 - performance 50 Delta straddles so what's
+142.52 - happening here is if you look at the Top
+144.76 - Line that's in blue it's hard to see but
+147.08 - if you look at the Top Line That's
+148.32 - profit Target of 15% 15% 15% blows away
+151.84 - everything else sure if you waited until
+154.64 - 35 or 50% profits you don't do that well
+159.08 - yeah you can see that's the that's that
+161.52 - um reddish line down at the bottom
+163.84 - that's followed by that purple line yeah
+165.88 - that's the 35 and 50% uh Target the 25%
+170.76 - is the yellow line um yep that seems to
+173.56 - do okay too I mean it's in sign profits
+178.44 - on the left hand side right 3 $1 or
+180.64 - whatever yeah yeah yeah yep you do
+184.12 - significantly better significantly yeah
+188.56 - when you um manage early on a big Delta
+191.60 - strangle or straddle in this case let's
+193.72 - go to the next slide Beth so the next
+195.92 - one is going to be 40 and what happens
+198.08 - at 40 is you can go up a little bit now
+199.72 - you can go to 25% and you kind of have
+202.44 - you know you're okay look at look at
+204.00 - that straddle you're a you're a loss uh
+207.16 - yep if you wait if you wait yeah this is
+209.96 - a 40 Delta we're only showing this
+212.28 - because this is such a cool way to
+216.20 - premium working for you yeah go to the
+218.64 - next slide Beth so this one is the 30
+221.48 - Delta and in the 30 Delta it's also 25%
+224.68 - so if you if you sell a straddle like
+226.64 - you sell both at the money options in
+228.16 - the zero days you got to manag in 15% if
+230.92 - you move a little bit further out of the
+232.04 - money like 40 and 30 Deltas we're
+234.00 - usually at 20 if you move 40 or 30 then
+236.92 - you can do it maybe wait till 25% 15 25%
+240.44 - go to the next slide because this is
+241.72 - where we are at we're at the 20% number
+244.36 - at the 20% number okay which is the one
+247.68 - we sell you can wait until you get 15%
+250.80 - you see that yeah I do okay yeah I do so
+253.48 - you I'm sorry you can wait till get 35%
+255.24 - 35% and so so this is the 35% number so
+259.28 - it's just it as you get price target of
+261.20 - 50% not so great sou enough if you as
+263.76 - you get further out of the money you can
+265.96 - you can go to a higher percentage mhm
+268.44 - okay and um battle not doing well at all
+271.20 - let's go to next slide Beth the next
+272.48 - one's going to be 15 and at 15 it's
+274.68 - still the same thing it's 35% mhm so
+277.88 - what the research team wanted to show
+279.24 - you was that if you sell something out
+281.92 - the money you got to manage really early
+283.88 - if you if you sell something further out
+285.36 - of the money you can give yourself a
+286.56 - little cush yes yes and you could hold
+289.00 - out for a little bit more I did a I did
+291.56 - I did a guest podcast the other day for
+293.20 - somebody that was doing zero DTS and he
+295.36 - asked a question just like this and we
+298.48 - hadn't finished this study yet
+300.28 - but because this is a brand new study
+301.68 - but it that's really interesting and um
+306.80 - anyway super interesting study that that
+310.16 - as you get further out of the money you
+311.48 - can go from 15 to 35% in expected
+314.44 - profits have the same kind of targets
+316.88 - and and by the way you can do 25% across
+318.60 - the board you're great yeah it seems
+320.60 - well the closer to the to the money the
+323.32 - zero TTS were traded the more important
+325.80 - it was to take profits quickly for
+327.28 - straddles 15% profit Target was the most
+329.72 - successful while the more typical was a
+332.00 - 25% range that's what I just said the
+334.72 - further out of the money at the 20 Delta
+336.96 - 15 Delta 35% profit did best but and 15
+341.36 - did even worse at 50 so just you know
+344.04 - that 25 to 35 Perfect The Profit Target
+347.44 - management does little for controlling
+348.96 - risk the bad losers that never went
+351.28 - green hit just as hard but pairing the
+354.20 - right strikes and management can set you
+356.64 - up for long-term success

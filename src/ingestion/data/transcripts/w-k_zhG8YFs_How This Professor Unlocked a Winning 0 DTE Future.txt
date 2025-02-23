@@ -1,0 +1,759 @@
+0.04 - for the last year you have not had a
+3.16 - losing month no Fe went on one product
+6.36 - where I would do the same thing on each
+8.92 - trade and not have to think about
+10.60 - strategy you've been trading naked short
+14.00 - yes that's it yes so you're saying the
+16.32 - majority of days you don't have to do
+17.76 - anything yeah that makes me happy a
+19.80 - little bit different approach I would
+21.32 - say a lot different approach there's a
+23.36 - lot
+25.47 - [Music]
+28.68 - of hello everybody we are back it's
+31.48 - another Rising Star session looking
+33.88 - forward to this one today Jim welcome
+36.68 - thank you Tom I'm glad to be here to
+38.76 - give everybody a little bit of
+40.40 - background um Jim's been training for 44
+43.48 - years so he's he's that's that's my you
+46.48 - know that's what I start not the first
+48.32 - rodeo yeah yeah yeah I know 44 years is
+50.84 - kind of my the beginning of my career
+53.04 - too and kind of 1981 is and uh um you
+59.00 - are a physics professor at uh Boston
+62.64 - University and as you were telling me
+64.36 - before you've been there 36 I've been
+67.40 - there since 1988 okay so 36 years I was
+70.76 - hired as a 10-year professor and I was
+72.56 - the youngest one in physics at the time
+75.40 - I love it and before that you were at
+77.36 - Harvard and blah blah blah and so so the
+80.20 - the tie in there and the only reason I
+81.48 - bring that up is the tie in there is
+83.00 - that we you know we're always promoting
+84.64 - tasty as this as this a little bit
+88.12 - different approach to finance more
+90.64 - probabilistic more quantitative more
+93.28 - statistical and I think kind of it I
+96.04 - would say a lot different approach don't
+98.80 - you know lot different approach lot
+100.04 - different approach and and you've been a
+101.28 - tasty Trader now probably over 10 years
+104.28 - yeah and we have a lot of similarities
+106.60 - in the sense that you know we both
+107.72 - traded during the 1987 crash we've both
+110.44 - learned a lot about markets and trading
+113.12 - um you know in uh over that period of
+116.44 - time I think we've changed a lot of our
+118.08 - methodologies and things like that
+120.64 - but what does
+123.68 - a first of all as a physics professor
+126.84 - and for doing for as long as you've been
+128.40 - doing you told me before some of it's
+130.52 - teaching but some of it's also some of
+132.80 - it's research yeah so uh we are a
+136.12 - research institution and uh you know I
+139.20 - live for that kind of stuff I work at
+141.16 - the St Large Hadron Collider we
+143.88 - colliding crons looking at the smallest
+145.76 - distance scales that have ever ever been
+147.60 - probed we discover the higs Bon right
+150.52 - that's the origin of mass in the
+152.72 - universe and uh I only know what I know
+155.08 - from big bang theories so you have to be
+157.48 - give a couple and so I just have to say
+159.20 - this because I'm so excited about it now
+160.60 - I'm working on the dark energy
+162.56 - spectroscopic instrument uh we're in the
+165.32 - process of measuring 50 million galaxies
+168.08 - to make a 3D map of the universe and
+170.84 - figure out its equation of State you
+172.64 - know why it expands the way it does
+176.00 - that's against the polar gravity very
+177.88 - exciting that that's very cool I I don't
+180.12 - think I fully understand it I think you
+182.56 - know I I I kind of wanted to go down the
+184.88 - quantum Computing path with you but then
+186.84 - again I don't feel like I don't feel
+188.52 - like I'm ready to have that conversation
+190.12 - yet um but uh super interesting so how
+194.64 - much time do you have to actually trade
+197.00 - so I I try to streamline you know this
+199.56 - as you know it can it could be a
+200.92 - full-time thing and I you know if I I'm
+204.00 - I'm in uh immersed in my research and
+206.64 - keing so I have to kind of pick and
+208.60 - choose um so this is part of the reason
+212.00 - I wanted to have some uh disciplined
+215.40 - approach where I would do the same thing
+218.04 - on each trade and not have to think
+219.88 - about strategy you know just why I just
+221.72 - want to make it routine that's why I
+224.40 - decided to concentrate on one product
+227.76 - and I want something that is around us
+230.60 - all the time and we think about and
+232.32 - that's energy and it's seems to be
+234.88 - always volatile which the option Trader
+237.68 - well let's go let's let's think about
+239.52 - let's go back a little bit in time and
+241.24 - think about kind of before we get into
+243.12 - your you know your current story um talk
+247.88 - to me about like what have you been
+250.16 - doing for the last four decades as a
+252.40 - Trader investor you know um how so I was
+257.20 - trying different things it reminded me
+258.72 - once of uh of a story I heard you tell
+262.16 - when you were on the floor and okay and
+264.12 - the story was I don't remember the
+265.56 - detail but you would do something
+268.40 - regularly with a friend of yours and you
+272.00 - it worked and worked and worked it
+273.60 - always worked until it didn't yeah and
+277.08 - so for me I ended up
+279.68 - selling
+282.40 - puts uh very low
+285.40 - deltas and it worked right until it
+288.08 - didn't right and I learn yall very
+291.52 - quickly that it's far more risky it's a
+294.00 - little bit cont counterintuitive it's
+295.88 - far more risky to have a greater number
+298.32 - of contracts at lower Delta than a small
+302.28 - number at high Delta size kills
+304.24 - basically size and it's always comes
+306.84 - down to the number of units and I think
+309.56 - that is a lesson that every Trader
+313.28 - alerts and see how is Big it's
+315.56 - $70,000 no contract yeah you're talking
+318.40 - about Futures we're right there yet okay
+320.04 - we're just okay but
+322.32 - um I think every Trader at some point
+325.20 - early on in their career learns that you
+327.84 - know how how how we we like see the
+331.16 - network how how how big small really is
+334.68 - right and it is getting through that
+337.96 - challenge making you through that hurdle
+340.04 - whether it's the crash of 1987 or 2000
+342.92 - or 2008 whatever it is you know learning
+345.72 - that um because most of the time puts or
+349.52 - Schmutz and and you know that's it so we
+353.40 - go you go through this process and
+355.08 - you're trading I mean you've pretty much
+357.28 - been trading derivatives going back for
+359.28 - almost four decades yes yeah and so I
+362.44 - mean the complexity of derivativ the
+364.48 - models behind it is I would assume that
+366.60 - that part's relatively simple yeah so I
+368.48 - mean think back of the old days it was
+370.72 - pretty pretty hard so I had to go and
+373.80 - buy the Wall Street Journal and there
+375.64 - were the tables of option yes in the
+377.40 - back and there weren't they couldn't
+379.04 - print everything you know but only the
+380.64 - big ones were there and uh by the time I
+383.72 - got that information it was old right so
+386.80 - it was uh it was hard yeah yeah and then
+390.40 - and then we start building pretty cool
+392.00 - technology in the early 2000s and then
+394.60 - obviously tasty comes along and all of a
+397.04 - sudden you know at your fingertips is
+400.72 - very cool technology really simple to
+402.64 - use and all the data and everything is
+404.40 - right in front of you right so now that
+406.20 - kind of opens up you know opens The
+408.32 - Floodgate so to speak right and you can
+410.20 - pretty much do anything you want to do
+411.80 - right um and in the end your most of
+416.44 - your success has been since you
+418.28 - gravitated towards
+420.08 - uh Futures and Futures options but
+423.08 - before that you were mostly equities you
+425.32 - think or no yeah mostly equities and
+427.68 - options on equities I would say is uh I
+430.88 - started out like everybody would you
+433.56 - know dabbling in stocks and I I chose
+437.08 - stocks that I felt I knew something
+439.32 - about like computer companies for simple
+441.32 - you know products that I use right sure
+443.68 - and uh high-tech things and that was uh
+447.04 - that was fun and then I I quickly
+449.20 - learned learn that you know there's
+450.72 - something called an option you know and
+452.76 - if you own that stock you know why not
+454.60 - sell a call you know and boost your
+458.08 - return a little bit right and uh you
+460.84 - know from there it just uh got deeper
+462.84 - and deeper into options and now I you
+465.16 - know that's all I really do you know
+467.24 - except for some things maybe in the
+468.92 - retirement account that are more
+470.12 - conservative right it's all options
+472.52 - primarily you're trading now is I mean
+475.64 - obviously you're indifferent to options
+477.20 - on equities or options on Futures but
+479.12 - you're primarily trading options on
+481.68 - Futures and you're also trading the
+484.40 - Futures contracts when you need to Flat
+487.00 - when when need to flatten out from an an
+489.92 - assignment or you know or a settlement
+493.00 - exactly okay and especially if if I come
+495.96 - to something that's in the money and I'm
+498.84 - rolling it at the last minute there
+500.88 - might be a spread sure of even a couple
+503.08 - pennies that I don't want to pay I'll
+505.00 - let it expire and at the second
+508.00 - expires I'll even that I'll zero that
+510.96 - position by buying or selling the
+512.28 - contract sure I'm just going to guess
+514.00 - but I'm thinking the challenge of being
+515.96 - successful and as trading was really
+519.68 - important to you because you've been
+521.80 - kind of pretty passionate about this for
+523.84 - a long time yeah is it the competition
+527.24 - is it the game what is it no it's it's
+529.72 - the competition and and and it's the
+531.76 - it's the it's
+534.56 - the you know the motivation the really
+537.48 - strong motivation to succeed so the last
+539.96 - two years you've kind of um honed in and
+544.52 - and move your strategy
+546.52 - to really focus on
+550.00 - trading strangles
+554.52 - incl which is crude oil corre crude oil
+557.40 - is probably one of the top three most
+561.80 - active Futures options contracts sles
+565.08 - and SL mq problem sles mq and uh yeah at
+570.08 - this point yeah sometimes you get some
+572.28 - pretty decent volume in um in 10year
+575.72 - notes in ZN and ZB and gold but but
+579.24 - among those depending on how hot um
+582.60 - crude oil is it could be number two it
+584.52 - could be number four it's in the it's in
+586.32 - the it's in it's in the team picture
+589.16 - okay and you've decided like what's the
+591.96 - reason and and and amongst those that
+594.40 - you mention crude oil is subject to so
+598.08 - many world events that and shake the
+600.12 - volatility and that's what we want as a
+602.48 - Trader we want to see volatility because
+604.48 - that creates opportunities yeah I've
+606.64 - probably said that that that's what I
+608.04 - learned from you I've frankly said that
+609.56 - 10,000 times all you have um
+612.84 - and and and kudal has been I mean let's
+616.28 - face it for the last couple of years
+618.36 - crude doall has been in a relatively
+620.44 - narrow range um I think you know after
+624.08 - the kind of the whole meltdown crash in
+627.36 - in 2020 when it went negative and all
+630.16 - that stuff I mean we've essentially or
+632.56 - was that 2021 I'm trying it was 2020 I
+634.68 - think it was it was a first year of code
+636.44 - I first year code yeah yeah um yeah ever
+639.44 - since then crude dool has pretty much
+640.88 - been in that range between let's call it
+642.92 - high 60s to low 90s and so it's been
+645.72 - relatively range Bound for you almost
+647.76 - three years now but first of all why
+650.80 - crude oil liquidity liquidity and
+654.56 - volatility yeah and it's you know every
+657.80 - time I drive right the gas station right
+659.52 - if I'm holding there's a gas station gas
+662.16 - pump prices seem to react very fast if I
+665.12 - drive by the gas pump and I see the
+667.00 - price per gallon has gone up and I'm
+669.32 - holding a long position I don't even
+670.96 - have to look at it I can just smile you
+673.32 - that makes me happy well but it's all
+676.40 - around us is what I'm trying to say and
+678.24 - energy is so much and it seems that no
+681.48 - matter how much oil there is we will
+684.12 - find a way to use it and there's you
+686.16 - know the demand will never dry up
+690.40 - so you're trading CL mostly options but
+693.88 - the interesting thing about what you're
+695.16 - doing is you are trading almost
+700.72 - exclusively Monday Wednesday and
+704.40 - Friday um shortterm options right so
+707.68 - part of the reason for this is if I zero
+709.48 - in on one
+711.44 - product I can't trade it once a month
+713.96 - right because there's just not enough
+715.04 - trades in year for so so I I I need to
+717.68 - do every trade now I get 150 trades 150
+721.80 - trades a year a year three times a week
+724.44 - okay yeah three times a week times 50
+726.48 - weeks yeah or well you have 150
+729.40 - expirations you get up a lot more trades
+730.84 - than that technically yeah yes yeah 150
+733.60 - expirations 150 expirations yeah
+735.60 - counting some that aren't there for
+737.04 - holidays and yeah Futures only the index
+740.48 - options have a daily expiration all the
+742.12 - other ones have I mean not all the other
+744.08 - ones but some have Monday Wednesday
+745.48 - Friday like crude all right and Futures
+748.84 - option
+750.16 - are a little bit different than let's
+752.96 - say like cash settled SPX options or
+755.56 - something like that because they settle
+757.68 - into the future they settle into the
+760.24 - future and they expire at 2:30 Easter
+764.76 - right the platform is not going to
+766.64 - reflect that until the next day probably
+769.08 - at 5:00 in the morning so you have to
+770.88 - know what has happened at 2:30 to know
+773.04 - your position right the 230 Eastern is
+774.88 - 130 Central and so it's a little bit
+778.00 - different than you're used to you know
+779.56 - like these are what we call these like
+781.72 - the knowhow Nuance knowhow right you
+785.16 - know with with with trading Futures that
+787.32 - are expiring that day right and then if
+789.32 - you look out in the in at at uh
+792.68 - subsequent months they will have some
+795.68 - different price right there could be
+797.16 - Fano or you know whatever yeah yeah I
+800.08 - mean the the most of the time crude
+803.56 - dools in contango but sometimes which
+806.04 - just means that prices go up into the
+808.76 - back Mark months but sometimes it's in
+810.24 - back ration which means prices go lower
+812.32 - but Monday Wednesday and Friday usually
+814.44 - it's pretty close to the same day I
+816.32 - think we're backwardation right now are
+818.24 - we here yeah yeah I don't really look at
+819.72 - Monday Wednesday Friday type stuff I
+821.84 - mean how's the volume on that in there
+824.80 - it's good you know sometimes uh when I
+827.52 - go to to set a positions say uh at
+831.04 - Sunday night at 6:00 when they open I'm
+833.16 - King e soon all the time yeah that's all
+835.00 - they open at 6:00 sometimes the spread
+838.12 - on the options is a little bit wide for
+840.12 - me then I'll just wait yeah either you
+842.28 - know do it before I go to bed or just
+843.80 - wait until the next morning yeah have
+846.36 - have you had any difficulty with
+849.16 - Phils I have I have not you know if if I
+853.60 - I'm when I go to do a roll if I'm in the
+855.80 - money and I have to roll yeah I'm
+857.40 - patient with it and if I don't get the
+859.72 - trade I'll let it expire in the money
+862.24 - and I'll correct that with a future
+865.04 - purchase Jim's trading a $50,000 account
+869.08 - we just going to approximate $50,000
+871.00 - count and for the last I think it's been
+875.72 - the last little over a year you have not
+879.32 - had a losing month no yeah it's it's
+882.24 - actually longer than that I can't right
+884.76 - AC close back but I only I only kept you
+886.48 - know a real detail of it the last year
+889.12 - the previous year was was a positive NP
+892.04 - and I okay over the over the 12 months
+895.32 - the reason he's on the rising star is
+897.72 - the rising star segment is because the
+899.64 - last 12 months and 12 months is is a
+903.84 - pretty good um there's there's a lot of
+906.60 - statistical significance to that I mean
+909.36 - 150 expirations on Monday Wednesday
+912.00 - Friday over 12- month period is is
+914.56 - something that's important to us and
+917.72 - because it's statistically significant
+919.56 - and and
+921.08 - essentially you've been
+923.48 - trading um naked short strangles yes
+928.04 - that's it yes
+929.56 - and the only adjustment that I would
+931.00 - make on that is you mentioned the
+934.56 - range 60 to 80 or 60 to 90 whatever um
+939.80 - when we get in the lower portion of that
+943.36 - I will skew the
+945.48 - strangle right so that they a little L
+948.12 - Deltas yeah so so not symmetric anymore
+951.28 - okay let's get into details now because
+952.80 - people are really interested in the
+954.32 - details so first detail what Delta do
+957.28 - you start with Okay so
+960.40 - I have set up my routine such that when
+965.56 - I take the trade yeah I want to pick a
+969.40 - strike plus and minus which is
+972.60 - $1 per day to expiration so okay so so
+976.40 - if it's if it's a half a day or three
+977.72 - qus of the day I have to kind
+979.60 - of you know interpolate that a little
+981.88 - bit yeah as you know the prices the
+983.60 - strikes are because you in quarter units
+986.40 - you know but but typically I you know if
+987.92 - I if I'm doing uh doing Sunday night for
+991.60 - the Monday expiration at 2:30 I'll take
+994.68 - the strikes plus and minus a dollar now
+997.76 - what that does for me is I don't have to
+1002.08 - pick the Delta the volatility is picking
+1005.40 - the Delta for me if the volatility is
+1007.80 - low that's a very small Delta but if the
+1010.56 - volatility is high that's a big Delta
+1013.36 - and that's just exactly what I want so
+1015.40 - if you're doing it on Monday afternoon
+1018.20 - for when or for Wednesday you'll go two
+1020.64 - wide if you doing it on Tuesday for
+1022.28 - Wednesday you'll go one wide exactly and
+1023.96 - if you're doing it on Wednesday for
+1025.36 - Wednesday you're probably like 34 right
+1028.92 - point right and if I didn't get around
+1030.32 - to do it until Wednesday morning for
+1032.56 - Wednesday I might do a half right cuz
+1034.60 - it's expiring what what what does one
+1039.08 - point out of the money usually bring you
+1041.24 - because I'm just not familiar with the
+1042.32 - zero so one one point out of the money
+1044.56 - know is typically typically going to
+1046.40 - bring uh $200
+1049.28 - per per one lot yeah that's both sides
+1052.08 - together yeah so that's $600 a week
+1054.28 - that's $30,000 a year that's a dollar on
+1057.12 - each side yes okay and if I it might be
+1060.68 - asymmetric it might it might be
+1062.08 - asymmetric I got in a quarter and.
+1063.56 - 75 cents got got it so you don't care
+1065.36 - about that you're just going to go your
+1066.68 - your Dollar on each side right and if
+1068.48 - it's and if you feel like it's really
+1069.60 - cheap really expensive but when I say
+1071.12 - dollar it's a coincidence that a dollar
+1073.68 - in strike price is approximately a
+1075.72 - dollar in premium okay that doesn't have
+1079.00 - to be you know there $2 that are on the
+1082.32 - table here one is a STK price and the
+1084.20 - other is a premium Collective right and
+1085.76 - those are two different bigs right
+1087.48 - coincidentally they're they're about the
+1088.96 - same and we're talking about the the the
+1091.56 - full options not not the micos these are
+1095.16 - the minis and these are the the regular
+1098.56 - standard you know most actively traded
+1100.68 - options and and you're doing them day of
+1105.04 - or day before the max you can be is
+1107.20 - technically two days yes right so we
+1111.60 - won't talk Delta because you're just
+1113.20 - talking the distance and you're talking
+1115.76 - the amount of money you take in and then
+1118.00 - so uh in
+1120.00 - general now you said well I take in
+1122.68 - about
+1123.44 - $2 and what have you been able to keep
+1126.40 - of that $2 so that $2 would be
+1130.84 - $30,000 right that's what you're doing
+1134.00 - is $2 so so let me tell the answer so $2
+1136.60 - Monday Wednesday Friday 600 600 weeks is
+1140.04 - $30,000 I don't take in 30 didn't work
+1143.16 - every trade no of course so but I took
+1145.04 - in about
+1146.56 - $188,000 on the year okay of that so so
+1150.24 - there's a that's about a 40% return a
+1152.80 - little less than four no it's more than
+1155.04 - 50 oh or turn on the 50 on the 50 on
+1157.88 - your net L exactly 40% yeah exactly 40%
+1161.04 - but that 50 was never at risk no okay
+1164.24 - but how much Capital are you
+1166.72 - using on a PR trade basis so as you know
+1170.12 - that's Dynamic you know it depends on
+1172.48 - okay so but it's
+1174.40 - roughly $5 to $7,000 per so this is a
+1178.04 - one lot that yeah one lot yeah so this
+1181.20 - year I'm I'm probably going to go I'm
+1184.36 - I'm I'm thinking about going up to uh
+1186.52 - two two conts yeah see what's
+1189.00 - interesting about that is your win
+1190.32 - percent is much higher than than would
+1192.68 - be normally for other type of Trades
+1194.64 - that we do tell me about your what's
+1197.32 - your worst loss in the last year a few
+1199.92 - hundred I would say yeah but not
+1201.80 - thousands ever yeah I saw the results
+1204.56 - they're really interesting um and what
+1208.32 - would you do if there was some kind of
+1211.04 - an outlier if there's some kind of an
+1213.28 - outlier I would keep rolling for credit
+1217.08 - and keep going right I think with
+1219.56 - somebody like hold when you say keep
+1222.92 - rolling okay the so let's say I you're
+1226.12 - going to Monday Wednesday let have my
+1227.68 - strigle yeah
+1229.28 - yeah oil shoots up kind of Trace me on
+1232.88 - the upside yeah I roll a little bit
+1235.40 - higher and out two days it does it again
+1238.52 - I roll again it does it again I roll it
+1240.40 - again it eventually I catch up with it
+1242.80 - you're going to roll from Monday to
+1243.92 - Wednesday then from Wednesday to Friday
+1245.24 - if it keeps going in yes okay but are
+1248.00 - you ever are you going to move when you
+1250.28 - roll let's say it's oil is going higher
+1252.72 - so you're rolling you're you're
+1254.44 - protecting you're worried about your
+1256.20 - call that's why you're rolling what are
+1257.52 - you doing with your put side you roll it
+1258.96 - up
+1259.76 - too yeah so I it yeah so I roll that up
+1263.96 - so the the roll is a net credit but that
+1268.12 - credit is from something that was in the
+1270.56 - money which by definition if I kept the
+1273.32 - same
+1274.20 - strike it would be worth more forther
+1276.88 - out in time yeah so usually I can go up
+1279.56 - and strike you can always roll it for a
+1281.20 - credit in the in sitation you do it
+1283.28 - you're always rolling for a credit but
+1284.56 - the credit I count is both sides because
+1287.40 - the put has expired worthless in this
+1289.32 - example and so now I can put on a new
+1291.52 - put and so the credit that's important
+1293.64 - to me is the new put plus the new call
+1297.84 - together has to be better than the old
+1299.44 - call that was in the money yeah as long
+1301.40 - as you stay really disciplined about
+1302.84 - moving that put so that you're
+1304.24 - controlling that otherwise you're just
+1305.60 - going to be make sure a future a lot
+1308.60 - right either up or down because the one
+1311.40 - problem with zeros is that your your
+1313.84 - Delta is going to go from you know
+1315.96 - basically 50 to zero in like two ticks
+1318.40 - yeah and so you're going to have to move
+1320.60 - yeah you know I mean it's a fair
+1322.40 - question to ask how could this go wrong
+1325.88 - right there a type of question we should
+1327.52 - ask all the time the way it could go
+1329.52 - wrong is if oil kept moving very deeply
+1333.72 - in One Direction any extended move any
+1336.96 - extended move any day of the week in oil
+1340.08 - like what goes wrong is when you get
+1342.76 - like the average daily expected move at
+1344.60 - all I I'm not I'm not sure what it is
+1347.04 - but it's it's less than a point isn't it
+1349.52 - far less far less yeah so what is it
+1352.56 - then what is it about 60 cents or 65
+1354.96 - cents or something like that so if you
+1356.16 - look at the crude oil chart of the of
+1359.84 - the last year yeah uh and look at the
+1362.64 - steepest Parts yeah the steepest part
+1365.28 - might go up $10 in 14 days yeah okay but
+1370.32 - the average is so that's 70 cents right
+1372.80 - so that's on a steep part of the curve
+1374.76 - the average is much less than 70 yeah
+1376.88 - but I've seen we've seen moves of you
+1378.84 - know2 and half $3 you know on a single
+1381.12 - day sure I think the biggest one last
+1383.44 - year was something like three and change
+1386.00 - on one day yeah that kind of looks dark
+1388.72 - for a little while you know but then it
+1390.12 - fixes itself yeah that's the risk in
+1392.72 - this in this particular trade yeah um
+1395.32 - but what you found over the course of
+1396.88 - last year even including the $3 move is
+1399.20 - that is that the majority of time it
+1402.16 - stays within um you know within a
+1405.60 - reasonable range so kind of is there is
+1410.16 - there a profit Target to close early or
+1412.60 - is it always just let it expire I just
+1415.56 - let it go because uh you know this uh to
+1420.00 - close it if it's only
+1422.96 - $200 right in that strangle to
+1426.72 - leave 20 cents or 50 cents on the table
+1429.60 - is a big percentage of that right so I
+1432.00 - don't want to do that but I would say
+1433.88 - that the majority of times that you put
+1436.68 - out a position one of the sides is going
+1438.16 - to be the the
+1439.40 - money is that true majority of the time
+1442.56 - is not in the money oh really okay
+1445.40 - that's because in those two days yeah I
+1448.28 - got a dollar of
+1450.16 - cushion per day and and oil doesn't move
+1454.32 - that fast okay so you're saying the
+1455.92 - majority of days you don't have to do
+1457.40 - anything yeah I would say roughly we
+1460.28 - could count them but roughly a half a
+1461.88 - dozen days there were moves that were
+1464.16 - bigger than that where I was in the
+1466.04 - money and had to dis something that's
+1468.40 - seems like it's so such a small
+1470.52 - percentage that's that's kind of crazy
+1473.08 - um I wonder if that's like historically
+1475.40 - the way it's been or if it's just that
+1476.64 - way for the last you know year or so but
+1478.76 - either way okay so I'm the first one
+1480.80 - that would be very cautious about you
+1483.16 - know saying that just because oil
+1485.52 - behaved that way last year and the year
+1488.00 - before and even The Last 5 Years yeah
+1490.60 - doesn't mean that's it's going to behave
+1491.96 - that way next year right we have to
+1494.28 - understand that risk so you have to be
+1496.16 - available at 1:30 every day I have to be
+1499.00 - available now right right so you've got
+1501.00 - your schedule so that at 1:30 when there
+1503.56 - is a uh when when the crude o market
+1506.96 - closes you you'll you have to flatten
+1510.16 - out that position yeah but most of the
+1511.92 - time I just have to look at it and say
+1513.28 - I'm within this I'm within the Str sure
+1515.48 - di them done but you have to flatten out
+1516.80 - the position if one size of the money
+1518.52 - yes and then when do you put the next
+1519.96 - trade on I'll put that next trade on
+1522.08 - usually I'm busy that afternoon and it
+1524.92 - closes at 5:00 is you know I keep
+1526.84 - talking Easter foure time okay and that
+1529.40 - it fight then that closes for an hour
+1531.00 - and then it opens again okay so usually
+1533.44 - it's will
+1534.40 - be and when we put the trade back on the
+1537.16 - same rules go into effect yeah and you
+1540.32 - are very discipled so you've done it the
+1542.44 - you made that trade the entire year and
+1545.24 - every time I put the trade on I get to
+1546.80 - reset it of course yeah and so I
+1549.80 - actually
+1550.84 - hope that oil moves
+1554.72 - to almost touch my strangle right yeah
+1559.08 - that's good now I can reenter it and
+1560.40 - you'll be comfortable that yeah okay
+1562.60 - yeah you know not be caught in that
+1566.80 - Trend anybody think you're crazy with
+1569.80 - this yeah probably I mean does anybody
+1572.48 - else watch you or know what you're doing
+1575.08 - some friends of mine you know like the
+1578.08 - the friend dear friend that got me
+1581.52 - interested in tasty trade I in turn got
+1583.76 - him interested in options he was a
+1585.92 - conservative guy that was dividend
+1588.72 - stocks yeah so I got them into options
+1590.72 - at least you starting off by you got
+1592.40 - your positions you collecting dividends
+1594.16 - at least sell some calls okay so we
+1596.64 - started out that way then he went into
+1598.40 - the usual things he got me into tasty
+1600.64 - trade yeah and he and you so you talk to
+1603.08 - him about what's going on yeah and so so
+1605.00 - the first thing he said was what what
+1606.20 - you said I I said if you wanted to
+1607.60 - follow I said okay if you want I'll tell
+1610.16 - you each trade I make and you can follow
+1612.04 - along and maybe one sure into the game
+1614.04 - and then he quickly said you mean you
+1615.32 - got to check the position every Monday
+1617.48 - Wednesday and Friday
+1618.88 - at 2:30 Eastern I said yes he said well
+1621.00 - I can't do that so yeah the way you're
+1624.16 - doing it yes that's correct do you ever
+1626.12 - adjust the untested
+1628.32 - side so like if your calls are being
+1630.52 - tested do you ever move up the the side
+1632.72 - so interesting that you said that
+1635.88 - so on Monday I was holding
+1639.72 - uh
+1642.56 - 75 and a
+1644.56 - half
+1647.16 - call excuse me
+1649.16 - put you're short to 7 that put yeah and
+1652.16 - and uh stock went below that yeah and so
+1655.32 - I had to roll yeah and I and it rolled
+1657.72 - into a pretty big Delta which my $1 rule
+1660.64 - good and as it happened I had to get up
+1663.56 - at 2:30 in the morning to make my flight
+1666.68 - here I to get the airport by 5:00 I
+1668.96 - Believe by house at 4: okay so I work
+1671.40 - backwards you know I didn't want to rush
+1672.84 - I would have my
+1673.96 - coffee and it turns out that oil had
+1676.64 - spiked
+1679.12 - and I got all everything back so okay
+1682.44 - I'm not going to take the risk while I'm
+1683.72 - riding the plane on you I'm just I'm
+1685.28 - going to close this now you know and
+1687.24 - reenter and so yes I do make adjustments
+1689.72 - like that but not typically that's
+1691.96 - interesting see I'm I can't I I feel I'm
+1697.00 - almost like forced I I'm compelled to
+1699.84 - make those adjustments because you want
+1701.20 - to have uh ad is balanced yeah yeah yeah
+1704.48 - cuz I want to deal with it I mean that's
+1705.88 - the strategy yeah what what other little
+1709.08 - tidbits nuances with this strategy can
+1712.32 - you tell us is there anything else you
+1714.20 - know I just I just think one you know I
+1716.00 - I I said I looked at this range you know
+1718.68 - that's how I came up with the dollar and
+1720.28 - I like the fact that it comp it uh
+1722.80 - compensates for volatility automatically
+1725.96 - so I don't have to think about delis it
+1727.84 - just that's already automatic yeah and I
+1730.28 - I think that you know when I look at the
+1732.60 - crude oil graph it reminds me of the
+1734.80 - statement that I think Charlie Munger
+1737.56 - said know who Charlie Monger is sure
+1739.60 - yeah okay I think we do him he said you
+1741.92 - know when when the markets hit a high
+1745.76 - things aren't as good as people think
+1748.20 - you know when the market hits a low
+1750.00 - things aren't as bad as people think
+1752.00 - either and so what I'm trying to say the
+1754.20 - other little Nuance is that oil curve
+1756.92 - will turn
+1758.76 - around it's not going to go to $1,000 a
+1761.76 - barrel it's not going to go to zero
+1764.08 - although we saw that exception on Cas
+1766.48 - don't never say never we've seen weird
+1768.48 - exceptions but yeah yeah yeah we've seen
+1771.20 - some weird exceptions but I I I mean
+1773.56 - look look at the crued oil your you it
+1775.36 - turns around the chart is yeah we have
+1778.72 - seen some weird exceptions but you don't
+1781.28 - yeah I what difference does the chart
+1782.68 - make to you what difference does it make
+1784.36 - what you know no I want to have some
+1786.64 - guideline that $1 a day is a big move I
+1790.04 - know but you just want to know that
+1791.24 - something is maybe oversold or over but
+1793.76 - you don't you're not your strategy
+1796.48 - doesn't has no technical
+1798.72 - there's nothing fundamental about it
+1799.96 - there's macro geopolitical about it
+1802.88 - nothing I thought once about devising
+1805.04 - the strategy I don't think at all about
+1807.36 - playing right there's a rule that I have
+1809.00 - and I just do it yeah because if you
+1810.80 - started to think about it you would be
+1812.96 - it would not work right CU then you
+1815.20 - would hold off on certain trades and you
+1816.84 - know you would make it yeah start second
+1818.96 - guessing yourself you know leveling down
+1820.76 - all all the mistakes that so you going
+1822.28 - to expand outside of oil I have to get
+1825.00 - something that I'm really comfortable
+1826.80 - with I I I think my takeaways are that
+1830.96 - you know that that you found something
+1834.68 - that you feel is is tradable because
+1840.04 - it's range bound it's tradable because
+1842.28 - it's liquid and you've simplified it to
+1846.48 - to make the fewest amount of adjustments
+1848.88 - that you can and so far by staying small
+1852.76 - enough it's worth yeah yeah and it's fun
+1856.04 - Jim thanks so much that was great thank
+1857.68 - you F of year thank you my
+1860.80 - pleasure we're looking for you for over
+1863.76 - a decade tasty live has shared the most
+1865.88 - inspiring stories of Traders teaching
+1868.08 - themselves a new skill using
+1870.00 - probabilities and experiencing new
+1871.56 - levels of success if you think your
+1874.16 - trading Journey should be shared with
+1875.92 - tasty Nation we'd love to hear from you
+1878.64 - we are always on the lookout for the
+1880.12 - next class of rising stars email us at
+1883.24 - risingstars
+1884.80 - tasty.com if you'd like a chance to
+1886.80 - share your trading Journey and Inspire
+1889.00 - others

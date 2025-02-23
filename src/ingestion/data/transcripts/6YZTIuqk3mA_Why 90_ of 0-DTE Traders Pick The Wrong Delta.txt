@@ -1,0 +1,213 @@
+0.36 - there it goes zero DTE throughout the
+3.96 - day very nice let's get into it zero DTE
+7.80 - options in the right underlying are fast
+9.96 - liquid and highly accessible to retail
+11.76 - Traders very fun to trade instant pain
+14.04 - or instant gains extreme speed of the
+16.28 - zero day Marketplace can easily leave
+18.16 - Traders feeling like they missed their
+19.48 - chance at a choice opportunity how have
+22.88 - zero day short premium trades placed
+25.00 - later in the day performed and are there
+27.28 - reasons to prefer certain strikes at
+29.64 - certain times what are you thinking
+31.44 - watch your size in there don't do like
+33.68 - like I did yes all right getting on to
+36.00 - the next slide let's look at the study
+37.44 - so we're using 20 months of data in SPX
+40.56 - we're doing the zero days of course
+42.20 - collected every 10 minutes examine
+44.60 - selling zero day strangles using 20 30
+46.96 - 40 and 50 Delta strangles and 50 is a
+50.60 - straddle strikes at the market open so
+53.20 - we're looking at 10 a.m. uh we're
+55.52 - looking at the market open 10:00 a.m.
+58.04 - noon or 1:30 all trades were managed if
+61.44 - they reached 25% of the max profit
+63.96 - losers and those that didn't reach 20 5%
+67.72 - were allowed to expire of course SPX
+70.40 - cash settled so this is no big deal
+72.28 - everything that settles to cash at the
+74.00 - end of the close all trades were assumed
+76.96 - to exercise at Mid price and the cost of
+79.16 - the buying power power controlling long
+81.72 - strikes was neg neg neglected subtract
+86.04 - 10 to 15% from daily peut subtract $10
+90.32 - to15 from daily p&l for more realistic
+93.76 - results okay so we're talking about you
+95.72 - know the spreads on the cloes because
+97.52 - sometimes you spreads widen out and this
+99.68 - this is also the problem with uh a lot a
+102.40 - lot of back tests in general is that you
+104.36 - have these widening out spreads on the
+107.04 - clothes and SPX ticks for a couple
+109.40 - minutes as well throughout the close so
+111.76 - saying1 to $15 is how you can discount
+114.88 - that yep yep yep all right so looking at
+117.36 - it here we're looking at at the open
+119.20 - straddles 40 Delta strangles 30 Delta
+121.40 - strangles 20 Delta strangles give you
+123.12 - the win percentage uh the win rate on
+125.64 - those average p&l and then the the SAR
+129.44 - which is our covariance of risk jump
+131.48 - into the next slide here so we're
+132.72 - looking at 10 and also these are
+134.08 - strangles I didn't have as many
+135.32 - strangles on because it uses way too
+136.96 - much buying power I was buying wings and
+139.28 - it was like $30 wide $20 wide $40 wide
+143.16 - so a little bit different there too so
+145.24 - looking at 10 a.m. this is what we got
+146.80 - for the win percentages for all those
+148.92 - above the average pnls you can see the
+150.72 - 40 Delta strangles are obviously going
+153.16 - to be be the highest p&l it also has um
+156.24 - you know your highest your highest sear
+159.00 - as well because you know you're right at
+160.68 - the money there too uh same with the
+163.20 - straddles there but pretty much the same
+165.44 - thing I mean you're seeing the 40 Delta
+167.16 - strangle actually increase profit
+169.44 - potential uh from versus the open which
+172.68 - is kind of interesting I guess you get
+174.64 - you know a little bit of the back and
+176.44 - forth price action maybe a change in
+178.20 - volatility sure um that kind of helps
+180.44 - you in that first hour or so sure sure
+183.20 - better prices too probably better bit
+185.32 - ass spreads sure I I'm GNA actually
+188.00 - challenge the team to take a look at
+190.40 - this maybe next time Tom is out again uh
+194.48 - which could be never but let's uh let's
+196.80 - maybe when he uh goes on one of his
+199.00 - trips to uh Parts on foliage weekend
+201.64 - foliage week or something like that
+202.84 - that's next maybe looking at
+205.88 - buying the 20ish Delta option we're
+210.08 - buying the 15ish Delta option or buying
+212.80 - the option that
+214.64 - get that gets to
+216.68 - $2 um on either side at the you know at
+220.84 - some period of of time and seeing how
+224.48 - how that performs I think we we need to
+227.04 - present both sides because zero day is
+229.96 - really all about Direction whether it be
+232.96 - no Direction yeah I think we're going to
+235.68 - revert back to the mean if you're
+237.48 - playing buying the dip or selling the
+239.08 - rip kind of thing um or we're going to
+241.36 - continue on it really is a lot about
+243.08 - Direction and I think basically what
+244.84 - this is saying right now at least over
+246.84 - the last 20 months um you haven't
+250.52 - had a lot of directional movement over
+254.32 - time um and the short premium strategies
+256.72 - have been working at the beginning of
+257.92 - the day but go ahead getting on to the
+259.84 - next one so looking at noon uh you could
+262.36 - see again the 40 Delta strangles kind of
+265.44 - staying at the highest average p&l of
+268.08 - course the highest risk as well and
+270.12 - you're going to have this this tradeoff
+272.68 - in any trade you do yeah you're always
+274.44 - going to have higher potential wins uh
+277.16 - with more premium you know with higher
+278.84 - premium positions specifically those
+280.96 - know higher Delta options but you're
+283.48 - going to typically have more risk as
+285.16 - well sure um same same thing here and
+289.20 - then the numbers play out across the
+291.56 - board too like the yeah they've all been
+293.52 - good they've all they've all worked out
+296.08 - you know from an average p&l St I think
+298.36 - this is the more interesting one the
+299.92 - last slide or the second to last slide
+301.88 - here looking at 130 which is you know
+305.08 - kind of the time I think where things
+307.48 - start to move a little bit you know you
+309.36 - throughout the day that that the first
+311.40 - hour and the last hour of the day are
+313.36 - the most liquid parts of the day and
+315.08 - there there's many market dynamics that
+317.08 - go into that from you know rebalancing
+319.24 - of funds and and liquidating of of
+322.44 - positions at the close that you don't
+323.88 - want to take overnight I mean those are
+326.20 - are market dynamics that lead to more
+328.16 - liquidity at those points which is is
+330.24 - interesting to see this you know being
+334.04 - both the least profitable from a from
+338.00 - you know your average p&l standpoint but
+340.20 - the at the money straddles now don't
+343.20 - they flip they flip they don't work and
+345.72 - that's I think that's because of just
+347.68 - the natural sort of uh for lack of
+351.04 - better words tail risk that you have in
+353.32 - the last like you know hour or so of
+355.44 - trading where you know things can move
+357.76 - real quickly and you're kind of seeing
+359.24 - it here here you know those bigger
+361.12 - meteor options the 40 Delta and the and
+364.20 - the straddles are seeing a much higher
+367.76 - risk and much lower you know average
+371.08 - yeah the sear is basically staying the
+372.40 - same across the board here on on the
+374.44 - whole thing and you're right in the 20
+376.48 - Delta strangle where I was living was
+378.32 - the wrong place to be yeah uh from from
+381.20 - my own and and you're right I mean it
+382.88 - goes back to that 30 40 Delta I think
+386.00 - I'm closer to the 30 Delta because I was
+387.60 - closer to the 20 Delta to begin with so
+389.80 - I think the 30 Delta is where is where I
+391.72 - go higher uh higher pop give up a little
+394.44 - bit of of the p&l profit but uh I
+397.20 - learned something today I knew the
+398.80 - straddles would be tough but goad and
+400.80 - that's actually a good point the sear
+402.44 - kind of stays consistent throughout
+404.04 - because we get that question all the
+405.20 - time like is it should I do this trade
+407.28 - at the open or wait 10 minutes or wait
+409.88 - one hour or wait you know until noon or
+412.32 - do it you know 10 minutes before the
+413.88 - close from a risk perspective they're
+417.16 - all kind of the same I mean you have
+419.12 - that t risk like that is certainly there
+421.72 - and you're going to eat that at some
+423.20 - point you know that's going to happen uh
+425.68 - but you know from a strategy perspective
+428.68 - you'll be able to pick your you know
+430.60 - your risk and reward based on what we
+433.00 - presented here yep good stuff good next
+436.20 - one please
+438.12 - takeaways overall the past 20 months
+441.24 - have been a good time for selling zero
+443.00 - day premium using consistent initial
+445.24 - Deltas I.E adjusting strikes for implied
+447.32 - volatility and remain and remaining time
+449.88 - into expiration gave very similar
+451.64 - results as long as there were still few
+453.88 - hours left in the trade not that this
+456.56 - meant bringing strikes closer to atoney
+458.96 - as the day goes on note that this meant
+461.44 - bringing strikes closer to at the money
+463.32 - as the day goes on this another
+464.68 - important part that we didn't even touch
+466.04 - on with the 40 Deltas they're much or
+468.92 - all the delt right at the money
+470.12 - basically you're right at the money so
+471.48 - your strike selection is much much
+473.04 - different MH by centering our mechanics
+475.44 - on initial deltas and using percentage
+477.52 - of profit targets we can adjust our
+479.04 - Trading seamlessly regardless of when we
+481.52 - place the trades and what the volatility
+483.32 - environment is um been a good trade over
+486.40 - the last 20 months I like it who knows
+488.84 - if we're going to continue but all we
+490.00 - can give you is the is the P lots of
+491.44 - people on Twitter trading them yes iron
+494.20 - Condor strangles straddles yep yep I see
+497.08 - them I I watch you Johnny my my guy
+499.84 - Johnny on there yep yep

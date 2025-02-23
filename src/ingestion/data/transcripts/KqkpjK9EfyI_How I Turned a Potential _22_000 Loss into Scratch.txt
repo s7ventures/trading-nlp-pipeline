@@ -1,0 +1,275 @@
+0.20 - super long-term trade but it's
+1.80 - definitely one that was very painful at
+3.80 - points and I think that was kind of what
+5.72 - we're trying to highlight here just
+7.08 - being mechanical rolling reducing
+10.00 - position size or uh reducing Delta
+13.40 - adding positive extrinsic value maybe
+15.92 - adjusting the strikes a little bit
+17.36 - leaning long into down moves short into
+19.52 - up moves all those things are are part
+21.64 - of this adjustment so um you know just a
+25.48 - just a a good one and it's a high
+27.28 - volatility underlying so that helps as
+29.28 - well
+30.96 - let's do it all right jumping into the
+33.44 - first page here we don't have to spend a
+34.88 - ton of time on here but uh if you have a
+37.56 - tasty trade account you can pull up all
+40.28 - these uh transactions on the tasty trade
+43.24 - follow page so um when we get to the
+48.12 - first slide here it'll show you all my
+51.40 - transactions from start to finish for
+53.28 - this trade and when you click on it
+54.72 - it'll open up gives you gives you my
+56.48 - little comments on everything but um you
+58.76 - could see all the transaction there on
+60.44 - the follow page cool little feature of
+62.04 - course we show it uh throughout the show
+65.20 - as well uh jumping into the next slide
+67.36 - side two so this is my order chains and
+70.80 - you can see I started with the 85 put
+72.76 - sold a call against it rolled out in
+74.84 - time adjusted the strike scalped out of
+77.08 - the calls you know just trading this
+80.12 - position um into what was a huge move in
+83.04 - the stock and we're going to take a look
+84.32 - at that too in in a couple sides but it
+86.88 - ended up being basically a scratch I
+88.48 - lost 42 bucks on it overall um a big old
+91.56 - nothing Burger in my book um after you
+94.72 - see the chart I think we'll justify or
+96.76 - we uh explain a lot of why I closed this
+100.36 - position when I did so jumping over to
+103.00 - the third slide just to look at the
+105.00 - chart of this position so I've I've
+108.48 - realized a lot of times like with these
+110.16 - segments people are like oh like you
+112.64 - know why didn't you
+114.32 - just do do nothing or whatever and so I
+119.00 - wanted to zoom out a little bit because
+120.84 - the actual adjustment chart it's still a
+123.64 - big move but I wanted to put some
+125.28 - context to it you know this is a stock
+127.80 - that traded from let's call it 145 to
+132.40 - 100 for the better part of a year so it
+135.12 - it's and that's a big range it's 40
+137.36 - Point range you know top to bottom it's
+140.28 - a big range and I was looking at a put
+142.88 - where I sold the put when the stock was
+144.64 - somewhere around you know 105 110 kind
+147.88 - of the lower end of where it traded in
+149.96 - this range I sold the 85 strike put so
+153.12 - it's probably 20 points out of the money
+155.00 - 20% down move no big deal for the
+157.52 - position right well you could see over
+159.96 - the next month and a half the stock went
+162.64 - from 110 down to $60 so 50% down move
+167.32 - and people always ask about you know
+168.84 - what do you do in these you know what
+170.80 - happens if the stock crashes well this
+172.56 - is a crash this is a this is a crash in
+174.92 - a single name stock so we're going to
+177.00 - walk through how we got back to a
+179.28 - manageable position basically a scratch
+181.44 - on this trade so keep that in mind this
+183.92 - is a crash type scenario in terms of the
+186.36 - management of this position so jumping
+190.00 - into the fourth slide here uh we're
+192.16 - going to take a look here at the Delta
+195.16 - of the adjustments versus the underlying
+197.76 - price so on the left side here you can
+200.24 - see the Delta of each adjustment so I
+202.52 - started with like 20 delt long every one
+205.04 - of my adjustments into the or my
+206.76 - adjustments to the downside are short
+208.32 - Delta adjustments so I'm flat out Delta
+210.80 - you can see the stock has gone from 10
+213.80 - 107 10 18ish down to 80 back up to 90 90
+218.72 - to to 75 75 to 60 and kind of Flatline
+223.00 - there the stock is currently
+225.68 - trading not much higher than where we
+228.08 - were 75 right now so it's had a you know
+231.60 - 50% range in terms of the stock price
+234.88 - going from 110 to 60 in the span of
+238.80 - three months crash type moves yeah you
+243.28 - know it's a single name stock so this is
+246.32 - possible you know you don't typically
+248.44 - see a 50% crash in in the market as a
+251.56 - whole but here's how we how we battle
+254.52 - through this yeah and this this lacked a
+257.60 - lot of two-sided action this is
+259.60 - basically a straight line down straight
+261.72 - line down yeah no bailout you get you
+264.64 - know within a month it was trading at 65
+269.12 - and it's moved nowhere since then so I
+271.64 - was 20 points 15 20 points in the money
+274.84 - within a matter of of weeks yeah which
+277.88 - is which is a you know big loss we're
+280.44 - talking about,
+282.28 - $2,000 you know in in potential loss on
+286.28 - that position had I done nothing and
+287.88 - just Clos a position yeah um jumping
+290.88 - over to the fifth slide
+292.68 - here so when we look at implied
+295.00 - volatility rank obviously you can see we
+296.92 - started High 75 IV rank got up into the
+299.92 - handle I think that was after an
+301.08 - earnings or something like that um but
+303.64 - it's a perpetually High volatility
+305.32 - underlying as you can see in the ivy
+307.00 - rank you can also if we jump to the six
+309.08 - slide here you could see uh the actual
+311.64 - implied
+312.88 - volatility of the underlying you know
+315.72 - we've had 8090 implied volatility we've
+319.68 - had all the way down to you know 50 60
+323.08 - so it's one that's had changes at
+325.36 - implied volatility even though you had a
+327.44 - down move here so it started with high
+329.16 - implied vol volatility stock gets cut in
+331.20 - half and volatility actually contracted
+333.20 - in this underlying so that was one thing
+335.20 - that didn't work out in our favor but um
+337.88 - it wasn't needed in terms of of this
+341.28 - position yeah and even right now with n
+343.56 - phase at a 58 IV rank so kind of on the
+347.36 - lower end of uh I should say the middle
+350.84 - of the range it still has 80% implied
+353.36 - volatility so yeah still plenty of
+355.64 - Premium relative to the stock price
+358.00 - which might have to sell another put
+359.88 - here there you go you might you might
+362.24 - get me to get back in this but yeah IV
+365.32 - rank is always good to look at and
+368.68 - understand so you have context around
+370.52 - the actual implied volatility of the
+372.40 - product which is on the right hand side
+373.76 - of the the options table but the actual
+377.44 - implied volatility is really what tells
+379.92 - you uh about the option premium relative
+382.84 - to the stock price so as long as we have
+384.72 - an actual implied volatility of 50 60 70
+387.96 - 80% I really don't what the IV rank is
+390.76 - because there's still going to be plenty
+392.32 - of Premium to sell relative to the
+393.96 - notional risk of the stock which
+395.92 - translates into a high return on Capital
+398.16 - potential and efficient use of capital
+400.56 - etc etc I would always rather sell
+403.40 - premium in a zero IV rank product that
+405.96 - has 60% implied volatility versus a 100
+409.60 - a 100 IV ranked product that has 15% IV
+413.04 - MH because 15% IV tells me nothing I
+415.56 - don't care what the IV rank is there's
+416.64 - nothing to sell well it tells you the
+418.40 - market expects us to go nowhere yeah
+420.68 - you're not getting paid to risk right it
+423.44 - going somewhere and taking that one step
+425.64 - further if you're in a higher IV product
+428.68 - you have a lot more flexibility when
+430.80 - you're rolling from one month to the
+432.32 - next you can manipulate that product a
+434.16 - lot more easily where a low IV product
+437.40 - like a 15 20% IV product like a TLT for
+440.04 - example you can't really move your
+442.36 - strike like you can't buy back Feb go to
+444.48 - March and move at 10 points it just does
+446.32 - you can't do it because there's no
+447.32 - premium to offset your premium in the
+449.76 - near-term cycle so just just more
+452.40 - context around trading actively in
+455.64 - higher IV products it's a lot easier to
+457.76 - manipulate your
+459.84 - risk well said Thank you getting over to
+463.60 - the last slide here then what
+466.04 - everybody's been waiting for the chart
+468.36 - of all the adjustments so you can see I
+470.96 - started out with just the naked put
+472.92 - stock dropped from you know 90 to 75
+476.72 - 80ish I sold the call against it a
+479.68 - little bit of chop there from the end or
+482.36 - the middle of October to the end of
+484.48 - October is or early November had a
+487.08 - little bit of chop there uh which
+489.40 - benefited me I took that position rolled
+491.64 - out in time I took that position which
+494.60 - we had a huge move the second huge move
+497.88 - from 80 or from 90ish down to you know
+502.20 - 60 70ish I close out the call I just
+505.36 - lean long so this is something you hear
+507.76 - us mention all the time at a certain
+509.04 - point you to make the decision to to be
+511.40 - long or short at a given point or you
+513.80 - you have to go inverted or do something
+516.28 - else you know that decision is up to you
+519.96 - for me I I said you know what the stock
+522.00 - has gone down 40 50% I'm going to lean
+524.24 - long here so I stayed with the put you
+527.20 - had a little bit of a rally back stock
+529.48 - goes from 60 65 is I saw the call
+532.28 - against it I go inverted on that
+534.12 - position that's kind of your white flag
+536.16 - all right I'm waiting for a little bit
+537.92 - of a directional move but I want this
+540.04 - stock to chop around I want to take
+541.80 - advantage of time decay all those things
+544.36 - work in your favor um from the middle of
+547.92 - November up to basically the early
+549.84 - December portion I take that inverted
+552.16 - strangle because we had a little a nice
+554.64 - move higher from 60 up to 75ish I take
+558.96 - that inverted strangle which is right in
+560.52 - the middle of my strikes buy the guts
+562.80 - sell the wings so I do that with a roll
+565.48 - out in time so essentially you take your
+567.88 - inverted position you Buy in that
+569.96 - intrinsic value and you roll to an out
+572.28 - of the- money strangle and you'll see my
+575.32 - profit potential and my break even you
+577.64 - know the amount of width between my
+579.96 - strike and break even doesn't change all
+582.20 - that much because I'm doing that for
+583.64 - basically a scratch I'm just taking
+585.88 - where my I'm moving where my risk is
+588.28 - when you're buying the guts selling the
+589.60 - wings you're moving where your risk is
+591.40 - and that's what I did on on on that
+593.56 - adjustment from there all we needed was
+596.24 - a little bit of sideways action remember
+597.88 - we started with the 85 stri short put
+600.12 - the Stock's trading at 75 right now and
+602.60 - it was as low as 60 or 50 something um
+607.56 - adjusting those strikes we're able to
+609.00 - lower our where our our risk is and
+611.36 - lower where our our um our strikes are
+614.56 - and when you get a month or two of chop
+617.48 - which is what we got from you know uh
+620.32 - end of November to basically the end of
+622.40 - December stock stayed wrapped around
+625.72 - 70ish you capture all that decay capture
+629.40 - all that extrinsic value and ultimately
+632.32 - are able to to get back to a scratch on
+634.80 - a position that's you know $1,500 loser
+637.68 - at one point yeah and this is all of
+641.24 - these charts are very similar when you
+643.48 - look at the anatomy of a trade uh
+646.36 - segments that we do the blue line is
+649.16 - where the stocks moving and really our
+651.56 - goal is to make sure that we can move
+653.68 - the green dotted lines which is our our
+655.56 - break evens closer to the stock price so
+658.40 - that like said eventually if you get
+660.44 - that sideways action all of a sudden all
+662.76 - of your premium that you've collected
+664.48 - thus far kind of comes in in that sense
+666.84 - so um you just need the stock to behave
+669.52 - at some point in time yeah and trading
+672.24 - small allows you to manipulate this the
+675.28 - strikes from month one month to the next
+677.96 - add a leg here remove a leg here like
+680.24 - you see here like at one point he just
+682.24 - had the short put then had multiple legs
+685.08 - and I was able to manipulate that short
+687.12 - putut down while still in the break
+690.00 - evens around the stock price range so

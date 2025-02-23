@@ -1,0 +1,163 @@
+0.20 - what's up everybody Welcome to the life
+2.60 - cycle of a trade the series where we
+5.08 - break down the thought process behind
+7.44 - trade entry trade adjustments and
+10.44 - closing order in this video we are going
+13.28 - to cover a poor man's covered
+16.21 - [Music]
+19.68 - call all right looking to get a couple
+21.84 - trades on this morning e- Min is up 16
+24.20 - the NASDAQ of 120 volatility at its lows
+28.00 - which lends us to a new type of trade
+30.52 - that we haven't done in this portfolio
+32.12 - I'm going to be looking at Target Target
+34.12 - trading at 130 it had earnings a couple
+36.64 - weeks back the stock move from 155 all
+39.32 - the way down to 120 it's bounced a
+40.96 - little tiny bit to 130 here but even if
+43.84 - you look on like a longer term chart
+46.00 - let's just look at like five years um
+48.32 - we'll go back to the monthlies as well I
+50.32 - mean we have reversed years of price
+52.68 - movement we're back to you know early
+55.08 - 2021 here mid to early 2021 prices I
+59.68 - think it's an interesting spot to get a
+61.24 - little bit of long Delta here and do
+63.16 - something that we haven't done in this
+64.60 - portfolio Poor Man's cover call so this
+67.16 - is a uh more Capital efficient way to be
+70.40 - long the stock short a call covered call
+73.28 - so um when you buy stock in a margin
+77.44 - account you get about 50 or uh two to
+80.76 - one leverage on your stock right so it
+83.04 - uses about 50% of the cash value of the
+86.88 - shares so if you were to buy 100 shares
+89.16 - AT3 $30 it would use the notional value
+92.80 - of that position would be 100 uh would
+95.28 - be $130 per share so 13 Grand on that
+99.28 - position in buying power you you only
+101.84 - use half of that so 6,500 bucks in
+105.24 - buying power around half that value
+108.00 - selling the call in this circumstance
+110.36 - and I just picked the January expiration
+112.28 - just to show you this example would
+114.40 - reduce the buying power a little bit but
+115.88 - you're still using you know $6,200 to be
+118.68 - long the stock short the call very
+120.64 - Capital intensive position even in a
+122.60 - margin account so for me in a smaller
+125.80 - sized account I have to figure out a way
+128.00 - to be more Capital efficient while still
+130.52 - maintaining that position or that sort
+132.60 - of Delta so what we do in a poor man's
+135.20 - cover call as we go a little bit further
+138.00 - out in time let's say like you know 50
+140.24 - to 90 days depending on your duration
+143.56 - here I'm going to look at February uh
+146.08 - which is a little bit further out in
+147.48 - time here and we'll want to be long a
+150.60 - call um that is in the money that'll be
+154.12 - at a Delta that's you know somewhere
+156.28 - between 80 and 95 right when you get to
+160.28 - a higher Delta the option is going to
+162.12 - get more expensive and you could see
+163.60 - this on the Chain here uh in terms of
+166.20 - the value of the the option the further
+169.20 - you go in the money the more of the
+171.16 - value is intrinsic value versus
+173.96 - extrinsic value when you think of
+175.44 - extrinsic value extrinsic value is equal
+178.60 - to the outof the- money put so if you
+180.28 - were to buy this 110 call for example
+183.72 - you would
+184.64 - be paying 51 cents or around 51 cents
+189.60 - over the intrinsic value of this option
+194.28 - and so that $51 is essentially the cost
+198.56 - of that long stock position or nearly
+201.72 - long stock position um so for me I want
+204.88 - to use about $11,000 would be like my
+208.40 - Max on this and that's just from my
+210.36 - position and my um Capital efficiency in
+214.16 - this account uh you can go further in
+216.20 - the money if you'd want to if you don't
+218.48 - mind using a little bit extra Capital so
+220.48 - for me I'm going to go and say around
+223.88 - this 120 strike so this going to be a
+225.64 - little bit lower Delta than i' I'd like
+227.68 - to be at but I'm trying to keep this at
+229.64 - about a th000 bucks in terms of the
+232.04 - short call we want to go in that that
+234.44 - normal you know 30 to 50-day time frame
+237.28 - for the short the long 50 to 80 so you
+240.24 - have that about 40-day window 30 to
+242.36 - 40-day window between the two options so
+245.32 - in January I would look at somewhere
+247.16 - around the the 135 strike I'm going to
+249.68 - sell that at $3 you'll see this uses
+251.84 - about aund $1,000 in buying power you
+255.48 - have a total of 36 Deltas which is a
+257.80 - little bit low the Delta on this option
+260.12 - is is 38 so if you were long stock short
+263.00 - this call you would be net 62 Deltas
+266.60 - versus me that I'm going to be at 36
+269.32 - deltas so a little bit uh lower uh Delta
+274.28 - exposure than the actual cover call
+276.24 - would be but I'm using 20% of the
+279.20 - capital that you would use to be long
+281.08 - the stock short the call in terms of my
+283.16 - break even you could see my extrinsic
+285.00 - value on this position is basically zero
+287.60 - which means that I'm my break even is
+290.56 - right at where the stock is trading so
+292.28 - about 130 on this position um when we
+295.44 - look at this on on the risk profile here
+297.52 - so we go to the curve mode we click this
+299.76 - analysis button you could see this sets
+301.92 - up very much like a normal cover call if
+304.48 - we look at the at expiration uh you have
+307.80 - you know basically that cover call type
+309.60 - risk profile above 135 there's no more
+313.24 - uh profits to make your break even to
+315.84 - the downside is going to be at 120
+317.84 - because you have that capped risk you
+319.64 - are synthetically long a put here
+321.60 - because you don't have the physical
+323.68 - shares so a very Capital efficient way
+325.92 - to belong the stock for uh you know
+329.24 - pretty decent amount of time so we're
+331.20 - going to put this on
+333.08 - 1062 see if we get filled on this
+338.60 - position no fill
+340.92 - there move this
+346.32 - 1065 all right so we're filled
+348.84 - 1065 uh that puts us a break even right
+351.24 - at the stock price our poor man's cover
+357.16 - call closing order here coming up in
+359.96 - Target it's been just one week the stock
+362.12 - trading at 130 and change it is now at
+364.80 - 136 so we've had a Sixpoint rally this
+367.60 - was a perfect move and it happened very
+369.40 - very quickly so it's time to go on this
+372.08 - position so when we close this position
+374.40 - out we would be looking at buying back
+376.88 - our January option which is our 135 call
+380.80 - and then we would be selling to close
+383.60 - the synthetic stock position the 120
+386.00 - call we had in February uh this is
+388.96 - currently Trad at 1290 is depending on
+392.12 - where we got filled be somewhere around
+393.88 - a
+394.80 - $225 profit depending on where we got
+396.88 - filled so let's try
+398.96 - 12295 not a whole lot to say for this
+401.56 - one I mean just given the move that
+403.12 - we've had in Target that's why we're at
+406.32 - this amount of profit I mean we had you
+409.04 - know a pretty sizable amount of long
+411.44 - Delta going into this let's go 1285 just
+414.32 - to get
+416.20 - filled there we go we got filled $220
+419.20 - profit
+420.04 - on this poor man's cover call
+421.80 - synthetically Long the stock short the
+423.88 - call

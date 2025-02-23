@@ -1,0 +1,206 @@
+0.14 - [Music]
+0.44 - what's up everybody Welcome to the life
+3.24 - cycle of a trade the series where we
+5.16 - break down the thought process behind
+7.04 - the trade entry trade management and the
+9.88 - closing order in this video we are going
+12.32 - to cover a short put
+16.21 - [Music]
+19.96 - spread all right so getting another
+22.04 - trade on the board here so one stock
+24.48 - that has been absolutely hammered over
+26.84 - the last couple sessions here is crowd
+29.28 - strike obvious had the big news on um uh
+33.88 - some of the issues with their software
+36.04 - update I don't think it was a hack but
+38.04 - it was big problem obviously and the
+40.60 - stock has uh sold off significantly I
+43.52 - think this is an opportunity to play
+45.16 - into some of the volatility of course
+47.36 - when you have this big move volatility
+50.00 - tends to expand and volatility is an is
+53.16 - an expression of the expected price
+55.68 - movement in the underline given that
+58.00 - we've had such a big move I think this
+60.16 - is a little inflated moving forward so
+62.68 - I'm going to look and sell a put spread
+65.04 - in September In Crowd strike so we
+68.24 - typically like to sell somewhere around
+69.72 - a 20ish Delta I'm going to look at this
+72.08 - 230 Mark uh it's right around the lows
+75.20 - here of arguably the whole year so if
+78.32 - you go back to the beginning of 2024 it
+81.20 - was trading somewhere in the 250 24ish
+83.76 - range I think that's probably our bottom
+86.00 - here um so look at the 230 strike again
+90.40 - I'm going to go about $10 wide here so I
+93.64 - like to put on about 7 to $800 in in
+96.60 - total risk when I'm using uh my
+99.04 - positions in this portfolio so I'm going
+101.12 - to look to sell this $10 wide spread you
+103.60 - can see it's got about a 70% probability
+105.76 - of success that's because we're selling
+107.80 - roughly a 20 Delta short option and it
+110.20 - trades at a little less than onethird
+112.36 - the width of strikes which is what we
+113.96 - target when we are selling uh a spread
+117.00 - here so we're going to Route this here
+119.52 - at 223 see if we get
+124.48 - filled no fill there even into the down
+127.48 - move which should help with our fills
+130.00 - here we'll move this down to
+132.12 - [Music]
+135.12 - 220 no fill there markets are a little
+138.32 - wide this is a volatile stock a high
+142.00 - price stock so it's not uncommon to have
+144.28 - to adjust some of these spreads here
+151.32 - there we go we got filled at 2115 as
+153.64 - we're adjusting the prices stock down
+156.08 - ticked a little bit which helped because
+158.04 - we are getting long Delta here
+163.08 - so so we are getting bailed out today
+166.24 - and the last couple weeks with this
+168.00 - price action In Crowd strike we've got
+169.96 - the EM mini S&P 500 futures up 50 points
+173.20 - uh they've had a vbottom bounce back
+175.64 - rally here uh we sold this puts
+178.20 - spreading crowd strike with which has
+180.72 - been all over the news for the uh
+183.40 - problems that they had with their update
+185.28 - and all sorts of bad stuff going on here
+188.60 - we tried to catch a falling knife uh and
+191.28 - unfortunately when we put this position
+193.28 - on the stock was trading at
+195.00 - 269 it got as low as 200 over the last
+199.88 - two weeks or so so we put this trade on
+202.44 - on the 24th here it seemed like it was
+205.24 - going to be a bottom spot here it's ried
+208.40 - all the way back to to that point we
+210.36 - went from from 264 all the way down to
+213.92 - 200 back to 262 here uh getting bailed
+217.24 - out the on this put spread that is now
+219.36 - right at them or a little bit out of the
+221.00 - money I should say um but is right at a
+223.68 - scratch or so from when we put this
+225.48 - position on now you still have very high
+228.40 - implied volatility and we're kind of
+230.64 - getting bailed out on this price action
+232.52 - so for me I'm looking to turn this
+235.72 - position into a more neutral position
+237.92 - I'm still going to stay in it volatility
+239.92 - still very very high we got an outof
+241.92 - the- money position so I'm comfortable
+243.60 - holding that risk but I think given the
+245.96 - price action it's time to put a little
+248.36 - bit of a hedge on in terms of of some
+251.04 - short Delta and some short premium to
+254.12 - take advantage of some of that
+255.32 - volatility so you can see we've got
+258.04 - about a 20ish short Delta put and a 16
+262.68 - Delta long put I'm gonna do somewhere
+265.36 - around the same thing on the upside so
+267.68 - that would put us at like the 310 320
+270.92 - call spread when we look at that on the
+273.24 - on the uh on the uh chart here that puts
+276.80 - us at risk somewhere above this big gap
+281.16 - right so I'm okay with taking risk there
+284.28 - I would expect to see a little bit of a
+286.16 - v contraction if that does happen too so
+290.16 - and a passage of time because that's not
+291.76 - going to happen this afternoon at least
+293.32 - I don't think it's going to um so I'm
+295.92 - going to look to sell this at about a140
+298.56 - this will put us at a at $3.50 or 60
+302.40 - credit here which is oneir the width of
+304.16 - the strikes it's exactly what we look
+305.64 - for on entry with an ion Condor but I'm
+307.92 - really just trying to take advantage of
+309.48 - this huge move that we've had In Crowd
+312.08 - strike so let's see if we can get filled
+314.16 - above the mid price here we'll mark
+315.92 - we'll we'll put it at 140 which is a
+318.16 - little bit above the mid price here and
+320.04 - and work our order from
+322.72 - there so no fill at
+325.72 - 140 we'll put this down to 138 I'm going
+328.52 - to try and get a penny above the the mid
+331.44 - there we go so we sold this at 138 so
+334.64 - we've now got uh a total credit of
+338.20 - 353 on this position it's currently
+340.76 - marked at
+341.92 - 337 uh 340 is so I'm up 1015 cents on
+346.20 - the trade net net uh nothing nothing
+348.72 - really huge but just trying to make an
+350.72 - adjustment to this position tur it into
+352.48 - more neutral Delta position and capture
+354.92 - some of that high implied volatility
+356.60 - that we're seeing
+361.00 - things are working out for our crowd
+362.68 - strike position so we've stayed kind of
+365.64 - range-bound in this range so we actually
+368.40 - haven't made or lost anything on this
+370.60 - call spread but it did provide us a
+373.04 - little bit of protection if the stock
+374.56 - did come down a little bit further so
+378.08 - the iron Condor as it stands now uh is
+381.24 - currently marked at about a $73 profit
+384.04 - now it's a little bit less than what I
+386.64 - would typically Target I typically look
+388.64 - to get about 100 Bo out of a $3 y or $3
+392.16 - credit position
+393.88 - $353 is my net credit on this whole
+396.36 - position but I did sell the original put
+399.00 - spread at $2 so you know 75 or so would
+403.20 - be about you know onethird of that about
+405.72 - 30% of the max profit from the original
+408.52 - position but the stock does have
+411.28 - earnings coming up so you can see
+413.08 - earnings are on the 28th which is the
+415.64 - middle of this week the stock uh
+418.60 - obviously very vol mod it has moved
+420.64 - significantly in both directions I think
+422.96 - rather than holding it through a binary
+425.24 - event like earnings I'd rather just take
+427.56 - the money and run so I'm going to take
+429.00 - the money and run and see if we can get
+430.68 - filled on a position here or a closing
+432.64 - order here for a couple bucks so when
+435.48 - we're closing out of the positions you
+437.24 - right click on the um on the ask price
+440.64 - for your short option so you're buying
+442.32 - to close you're selling to close on the
+445.44 - long option which is on the
+447.60 - bid same thing on the upside side we're
+449.96 - buying to close the short selling to
+452.64 - close the um long option here from our
+455.92 - order chains you can see we're making a
+457.92 - couple bucks on this uh on this little
+459.92 - bit of a move lower here on the call
+461.76 - spread uh but altogether it should be
+463.72 - around somewhere around a 70 Cent profit
+466.76 - um let's see if we can get filled at
+469.40 - exactly 7 cents which would be a 283
+472.24 - debit uh would would put us at a 73 or a
+476.04 - $70
+477.76 - profit no fill there
+480.48 - we'll go cancel and replace move this up
+483.48 - to
+488.36 - 285 and there's our fill so we got
+490.68 - filled at 285 on this iron Condor you
+494.04 - can see once you route the trades
+496.20 - together they were in two separate
+497.60 - chains the chains come together uh
+500.04 - that's on the tast trade platform it's a
+501.52 - great feature uh so it chains both those
+503.96 - orders together because we closed them
+505.92 - together um you can see it made $68 on
+509.32 - them I sold the original put spread at
+511.36 - 215 sold the call spread at 138 and
+514.40 - closed it out today $2.85 debit for a
+518.04 - $68 profit nice little trade avoiding
+520.88 - earnings was the key to this one comment
+524.24 - below on what strategy you'd like me to
+526.56 - cover next if you want to catch these
+528.52 - trades live tune in to Johnny trades
+530.96 - every Wednesday at 9:40 a.m. on tasty
+533.64 - live peace
