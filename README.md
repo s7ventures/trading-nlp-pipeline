@@ -1,1 +1,1 @@
-# Trading NLP Pipeline
+# trading-nlp-pipeline
