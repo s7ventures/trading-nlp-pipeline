@@ -5,6 +5,10 @@ fetch_and_transcribe_300.py
 Fetches up to 300 recent TastyLiveShow videos (via pagination),
 then attempts to download official transcripts using youtube_transcript_api.
 
+- Skips videos already processed
+- Skips "LIVE" videos
+- Saves video metadata for tracking
+
 WARNING: This script contains a hard-coded YouTube API key. 
          If your repo is public, your key could be compromised.
 
@@ -14,23 +18,40 @@ Requirements:
 """
 
 import os
+import json
 import requests
 from youtube_transcript_api import (
     YouTubeTranscriptApi, NoTranscriptFound, TranscriptsDisabled, CouldNotRetrieveTranscript
 )
 
 # ──────────────────────────────────────────────────────────────────────────
-#  HARD-CODED YOUTUBE API KEY (WARNING: RISKY IF REPO IS PUBLIC)
-#  Use environment variables if possible:
-#    export YOUTUBE_API_KEY="YOUR_KEY"
+#  CONFIGURATION
 # ──────────────────────────────────────────────────────────────────────────
-YOUTUBE_API_KEY = "AIzaSyD17mLlU_JYW-FxRIRdGgFrVyb0TuABSHY"
+YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")  # Use env variable for security
 
-# TastyLiveShow channel ID
 CHANNEL_ID = "UCLJiSMXJ9K-1AOTqIqdXJgQ"
 
-# Where transcripts will be saved
+# File & Directory Paths
 TRANSCRIPT_DIR = "data/transcripts"
+PROCESSED_VIDEOS_PATH = "data/processed_videos.json"
+
+# ──────────────────────────────────────────────────────────────────────────
+#  HELPER FUNCTIONS
+# ──────────────────────────────────────────────────────────────────────────
+
+def load_processed_videos():
+    """Load already processed videos from JSON file."""
+    if not os.path.exists(PROCESSED_VIDEOS_PATH):
+        return {}
+    with open(PROCESSED_VIDEOS_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def save_processed_video(video_id, title):
+    """Save processed video ID to JSON file to avoid reprocessing."""
+    processed_videos = load_processed_videos()
+    processed_videos[video_id] = title
+    with open(PROCESSED_VIDEOS_PATH, "w", encoding="utf-8") as f:
+        json.dump(processed_videos, f, indent=2)
 
 def fetch_videos_paginated(api_key, channel_id, total_to_fetch=300):
     """
@@ -47,10 +68,10 @@ def fetch_videos_paginated(api_key, channel_id, total_to_fetch=300):
     base_url = "https://www.googleapis.com/youtube/v3/search"
     page_token = None
     collected_videos = []
-    fetched_count = 0
     batch_size = 50  # Max results per YouTube API call
+    processed_videos = load_processed_videos()
 
-    while fetched_count < total_to_fetch:
+    while len(collected_videos) < total_to_fetch:
         params = {
             "key": api_key,
             "channelId": channel_id,
@@ -68,29 +89,38 @@ def fetch_videos_paginated(api_key, channel_id, total_to_fetch=300):
 
         items = data.get("items", [])
         for item in items:
-            # If we've already reached the limit, break
             if len(collected_videos) >= total_to_fetch:
                 break
 
             video_id = item["id"].get("videoId")
             snippet = item["snippet"]
+            title = snippet.get("title", "")
+
+            # Skip if the video contains "LIVE"
+            if "live" in title.lower():
+                print(f"[INFO] Skipping LIVE video: {title}")
+                continue
+
+            # Skip already processed videos
+            if video_id in processed_videos:
+                print(f"[INFO] Skipping already processed video: {title}")
+                continue
+
             collected_videos.append({
                 "video_id": video_id,
-                "title": snippet.get("title", ""),
+                "title": title,
                 "description": snippet.get("description", ""),
                 "publishedAt": snippet.get("publishedAt", ""),
             })
 
-        fetched_count = len(collected_videos)
         page_token = data.get("nextPageToken")
 
-        # If we run out of pages, break
+        # If no more pages, stop
         if not page_token:
             break
 
-    print(f"[INFO] Fetched {len(collected_videos)} videos total.")
+    print(f"[INFO] Fetched {len(collected_videos)} new videos.")
     return collected_videos
-
 
 def download_official_transcript(video_id):
     """
@@ -99,19 +129,13 @@ def download_official_transcript(video_id):
     """
     try:
         transcript_list = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])
-        lines = []
-        for entry in transcript_list:
-            start_time = entry.get('start')
-            text = entry.get('text', "")
-            lines.append(f"{start_time:.2f} - {text}")
-        return "\n".join(lines)
+        return "\n".join(f"{entry['start']:.2f} - {entry['text']}" for entry in transcript_list)
     except (NoTranscriptFound, TranscriptsDisabled, CouldNotRetrieveTranscript) as e:
         print(f"[WARN] Transcript not available for video ID {video_id}: {e}")
         return None
     except Exception as e:
         print(f"[ERROR] Unexpected error for video ID {video_id}: {e}")
         return None
-
 
 def safe_filename(title):
     """
@@ -121,47 +145,44 @@ def safe_filename(title):
     safe = "".join([c if c.isalnum() or c in " -_()" else "_" for c in title])
     return safe[:50].strip("_")
 
+# ──────────────────────────────────────────────────────────────────────────
+#  MAIN SCRIPT
+# ──────────────────────────────────────────────────────────────────────────
 
 def main():
-    # Check if key is present
     if not YOUTUBE_API_KEY:
-        raise ValueError("No YOUTUBE_API_KEY found.")
+        raise ValueError("No YOUTUBE_API_KEY found. Set it as an environment variable.")
 
-    # Ensure data/transcripts directory
     os.makedirs(TRANSCRIPT_DIR, exist_ok=True)
 
-    # Fetch up to 300 videos from TastyLiveShow
+    # Fetch new videos (only those not processed yet)
     video_list = fetch_videos_paginated(YOUTUBE_API_KEY, CHANNEL_ID, total_to_fetch=300)
 
     for idx, vid in enumerate(video_list, start=1):
         video_id = vid["video_id"]
         title = vid["title"]
-        published_at = vid["publishedAt"]
-        print(f"\n[{idx}/{len(video_list)}] Video ID: {video_id}, Title: {title}")
+
+        print(f"\n[{idx}/{len(video_list)}] Processing Video ID: {video_id}, Title: {title}")
 
         if not video_id:
             print("[WARN] No video_id found. Skipping.")
             continue
 
-        # Skip videos containing the word "LIVE" (case-insensitive)
-        if "live" in title.lower():
-            print("[INFO] Skipping because title contains 'LIVE'")
-            continue
-
-        # Attempt to retrieve official transcript
         transcript_text = download_official_transcript(video_id)
         if transcript_text:
-            # Save transcript locally
             out_name = f"{video_id}_{safe_filename(title)}.txt"
             out_path = os.path.join(TRANSCRIPT_DIR, out_name)
 
             with open(out_path, "w", encoding="utf-8") as f:
                 f.write(transcript_text)
             print(f"[INFO] Saved transcript to {out_path}")
+
+            # Mark video as processed
+            save_processed_video(video_id, title)
         else:
             print(f"[INFO] Skipping transcript save for {video_id}")
 
-    print(f"\n[INFO] Finished processing {len(video_list)} videos.")
+    print(f"\n[INFO] Finished processing {len(video_list)} new videos.")
 
 
 if __name__ == "__main__":
